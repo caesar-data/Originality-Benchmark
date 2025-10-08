@@ -1,0 +1,50 @@
+{
+  "id": "bb61b3cc-0fc5-4df8-9434-a772f1ead21f",
+  "status": "completed",
+  "content": "FALSE. The claim that the 2023 Arctic sea ice maximum reached a record-setting high of 25.5 million square kilometers is factually incorrect based on data from the National Snow and Ice Data Center (NSIDC).\n\n## Detailed Fact-Check\n\nAnalysis of satellite data from the NSIDC, the authoritative source for sea ice records, refutes the claim on two key points: the measured extent and its historical ranking[1].\n\n### Claimed Value vs. Official Data\n\nThe official measurement for the 2023 Arctic sea ice maximum extent, which occurred on March 6, was **14.62 million square kilometers** (5.64 million square miles)[2][3][4]. This is substantially lower than the claimed 25.5 million square kilometers.\n\n### Claimed Record Status vs. Official Ranking\n\nContrary to the claim of a \"record-setting high,\" the 2023 maximum extent was one of the lowest in the 45-year satellite record (1979-present)[2][5]. The NSIDC ranked the 2023 maximum as the **fifth lowest** on record[3]. A separate NSIDC analysis ranks it as the sixth lowest, but both confirm it is near a record low, not a high[6].\n\n### Historical Context: Lowest Maximum Arctic Sea Ice Extents\n\nThe 2023 maximum is part of a trend of low winter extents. The table below, provided by the NSIDC, shows the ten lowest maximum extents in the satellite era, highlighting that 2023 is among the smallest recorded winter ice caps[3].\n\n| Rank | Year | Extent (millions of km\u00b2) | Extent (millions of mi\u00b2) | Date |\n|:----:|:----:|:------------------------:|:------------------------:|:----------:|\n| 1 | 2017 | 14.41 | 5.56 | March 7 |\n| 2 | 2018 | 14.47 | 5.59 | March 17 |\n| 3 | 2016 | 14.51 | 5.60 | March 23 |\n| 3 | 2015 | 14.52 | 5.61 | February 25 |\n| **5** | **2023** | **14.62** | **5.64** | **March 6** |\n| 6 | 2011 | 14.67 | 5.66 | March 9 |\n| 6 | 2006 | 14.68 | 5.67 | March 12 |\n| 8 | 2007 | 14.77 | 5.70 | March 12 |\n| 8 | 2021 | 14.78 | 5.71 | March 12 |\n| 10 | 2019 | 14.82 | 5.72 | March 13 |\n*Source: National Snow and Ice Data Center[3]*",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "1c998c84-668c-424a-85a8-16fb4f8e916b",
+      "score": 0.25931698,
+      "title": "Sea Ice Index Daily and Monthly Image Viewer | National Snow and Ice Data Center",
+      "url": "https://nsidc.org/data/seaice_index",
+      "citation_index": 1
+    },
+    {
+      "id": "e47f0c49-eb87-4853-8e47-8c7c11e83dc0",
+      "score": 0.9401831,
+      "title": "Arctic sea ice reaches maximum extent for 2023 | CIRES",
+      "url": "https://cires.colorado.edu/news/arctic-sea-ice-reaches-maximum-extent-2023",
+      "citation_index": 2
+    },
+    {
+      "id": "9de96102-a653-4a7d-8543-42d1ee0c13a3",
+      "score": 0.91023487,
+      "title": "Arctic sea ice maximum at fifth lowest on satellite record | National Snow and Ice Data Center",
+      "url": "https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-maximum-fifth-lowest-satellite-record",
+      "citation_index": 3
+    },
+    {
+      "id": "4a0eee20-3ead-4034-aba5-525d930cd98e",
+      "score": 0.9401831,
+      "title": "Arctic sea ice reaches maximum extent for 2023 | National Snow and Ice Data Center",
+      "url": "https://nsidc.org/news-analyses/news-stories/arctic-sea-ice-reaches-maximum-extent-2023",
+      "citation_index": 4
+    },
+    {
+      "id": "91e1495a-820f-4b37-8b10-a6e5f14fbfff",
+      "score": 0.8282873,
+      "title": "Arctic: Sea-Ice Concentration/Extent \u2013 Zachary Labe",
+      "url": "https://zacklabe.com/arctic-sea-ice-extentconcentration/",
+      "citation_index": 5
+    },
+    {
+      "id": "332cdb7a-8a0f-440a-abb7-89ec1e967836",
+      "score": 0.78709817,
+      "title": "Arctic sea ice sets a record low maximum in 2025 | National Snow and Ice Data Center",
+      "url": "https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-sets-record-low-maximum-2025",
+      "citation_index": 6
+    }
+  ]
+}

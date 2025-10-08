@@ -1,0 +1,568 @@
+{
+  "id": "0acfdff2-0fe4-432d-aa7c-252d28ff7f06",
+  "status": "completed",
+  "content": "TRUE. The statement that humpback whales are capable of record-breaking, complex migration patterns is factually supported by extensive scientific evidence detailing both officially recognized long-distance travel records and sophisticated, multi-faceted navigational abilities.\n\n## Record-Breaking Migratory Capabilities\n\nHumpback whales (*Megaptera novaeangliae*) are renowned for undertaking some of the longest migrations of any mammal, with several individuals having held the official world record for the longest documented journey[1][2]. While the current record for an individual mammal's migration is held by a gray whale, humpbacks have repeatedly set and broken this record, demonstrating their capability for such feats[3][4].\n\n### Documented Record Journeys\n*   **Brazil to Madagascar (2010):** A female humpback whale was documented traveling a minimum distance of over 9,800 km (more than 6,000 miles) from a breeding area off the coast of Brazil to another near Madagascar[5][6][7]. This journey was reported at the time as the longest documented movement by a mammal, surpassing previous records by about 400 km (250 miles)[8][9]. The whale was first identified off Brazil in August 1999 and subsequently photographed near Madagascar in September 2001[6]. This trip was also unusual for its west-to-east trajectory across nearly 90 degrees of longitude, differing from the species' typical north-south migrations[10].\n*   **Saipan to Mexico (2018):** A male humpback whale named Frodo was documented swimming nearly 7,000 miles from Saipan to Sayulita, Mexico, a journey that surpassed the previous record set by the Brazil-to-Madagascar female[11].\n*   **General Migratory Distances:** The species regularly travels vast distances, with one-way journeys often exceeding 8,000 km (5,000 miles) between cold, high-latitude feeding grounds and warm, tropical breeding areas[12][13]. Guinness World Records recognizes the humpback whale as the species with the \"longest mammal migration,\" noting distances of up to 8,200 km each way[14].\n\n### Comparative Context with Gray Whales\nThe current record for the longest single migration by any mammal belongs to a gray whale named Varvara, who in 2015 was tracked on a round-trip journey of nearly 14,000 miles (22,511 km) from Russia to Mexico and back[3][15]. This achievement explicitly broke the previous record held by a humpback whale, underscoring that while humpbacks may not hold the current top title, their capacity for record-breaking travel is well-established[3][16].\n\n## Complexity of Migration Patterns\n\nThe migration patterns of humpback whales are extraordinarily complex, characterized by exceptional navigational precision, diverse routing, and sophisticated environmental adaptation.\n\n### Navigational Precision and Mechanisms\nScientific studies using satellite tracking have revealed that humpback whales navigate with remarkable accuracy over thousands of kilometers of open ocean[12][17].\n*   **Straight-Line Travel:** Whales maintain \"arrow-straight\" courses over long distances, with segments of continuous movement exceeding 200 km exhibiting directional precision often better than 1 degree[12][18]. They sustain these precise headings despite variable sea-surface currents, weather, and ocean floor topography, indicating they actively compensate for passive displacement[12][17].\n*   **Unresolved Navigational Cues:** The whales' extreme navigational precision cannot be explained by any single known mechanism, such as a simple sun compass or magnetic inclination compass[12][19]. Researchers theorize they use a complex combination of external cues, which may include the Earth's magnetic field, the position of the sun and stars, gravitational fields, and acoustic signals like whale songs[20][21][22]. This unsolved scientific mystery highlights the sophistication of their abilities[19].\n\n### Route Diversity and Cognitive Adaptation\nHumpback whale migrations are not monolithic; they exhibit significant variation and adaptability.\n*   **Novel Migratory Paths:** Satellite tracking has revealed previously unknown migratory patterns. For instance, the humpback population of New Caledonia displays routes with multiple directions and frequent pauses over seamounts, which may serve as navigational landmarks or resting areas[23][24]. Similarly, whales tagged off eastern Australia were found to use three distinct southerly migratory trajectories, including movements into the Tasman Sea toward New Zealand that were not previously documented[25].\n*   **Predictive Timing:** Recent studies suggest that humpback whales integrate information from their immediate environment (such as sea-surface temperature) with their memory of past oceanic conditions on distant feeding grounds[26]. This allows them to predict resource availability and adjust the timing of their migration to maximize their arrival with blooms of krill, demonstrating a high level of cognitive complexity[26].\n*   **Route Fidelity:** Despite changing oceanographic and geomagnetic conditions over decades, humpback whales show prolonged fidelity to specific migratory corridors, suggesting their navigational system relies on stable cues such as gravity[22].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "b70c43c6-2d27-43aa-a5db-e75202cc142e",
+      "score": 0.31380916,
+      "title": "Scientists track humpback whale migration with an assist from AI technology | PBS News Weekend",
+      "url": "https://www.pbs.org/newshour/show/scientists-track-humpback-whale-migration-with-an-assist-from-ai-technology",
+      "citation_index": 1
+    },
+    {
+      "id": "c81f7259-430d-4572-a5f4-4601397a0057",
+      "score": 0.3374442,
+      "title": "Humpback Whale Migration | the Biggest Migration in the Ocean",
+      "url": "https://www.youtube.com/watch?v=SLsmIvc-1k8",
+      "citation_index": 2
+    },
+    {
+      "id": "1225c51b-8f94-466d-91dc-48d1703adaee",
+      "score": 0.90227455,
+      "title": "Gray whale swims 14,000 miles and into the record books | CNN",
+      "url": "https://www.cnn.com/2015/04/15/us/whale-migration-record/index.html",
+      "citation_index": 3
+    },
+    {
+      "id": "f8f1f530-79e5-4851-85c4-7d0e66bef596",
+      "score": 0.8335554,
+      "title": "Migrating whale sets distance record",
+      "url": "https://phys.org/news/2015-04-migrating-whale-distance.html",
+      "citation_index": 4
+    },
+    {
+      "id": "0bc42add-40d2-42a5-aafa-1c6804d2373d",
+      "score": 0.9195344,
+      "title": "A quarter of a world away: female humpback whale moves ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20943678/",
+      "citation_index": 5
+    },
+    {
+      "id": "93ca30f4-e15e-4a53-b8c3-fdcdb5f6d06d",
+      "score": 0.9138076,
+      "title": "female humpback whale moves 10 000 km between ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3061163/",
+      "citation_index": 6
+    },
+    {
+      "id": "67bc6cfe-fc78-4be2-8871-0db4226a64b9",
+      "score": 0.90593183,
+      "title": "The Greatest Migration on Earth | Live Science",
+      "url": "https://www.livescience.com/10220-greatest-migration-earth.html",
+      "citation_index": 7
+    },
+    {
+      "id": "95356e01-1227-4f0f-b987-7cdc9c1cf0a4",
+      "score": 0.8622012,
+      "title": "Humpback whale beats long-distance record",
+      "url": "https://phys.org/news/humpback-whale-long-distance.html",
+      "citation_index": 8
+    },
+    {
+      "id": "82bb6784-8998-44e2-8f6f-faabb32e2fe8",
+      "score": 0.9104262,
+      "title": "Humpback whale sets travel record: researchers | Reuters",
+      "url": "https://www.reuters.com/article/us-whale-migration/humpback-whale-sets-travel-record-researchers-idUSTRE69C4XF20101013/",
+      "citation_index": 9
+    },
+    {
+      "id": "6e35efcd-e03a-4d18-9b6b-d8b2752e0d16",
+      "score": 0.91435975,
+      "title": "Humpback Whale Breaks Migration Record Reading Answer - IELTSvisa.com: Free IELTS Resources, Free Practice Tests, eBooks, Courses and Live learning, IELTS Test Blog",
+      "url": "https://www.ieltsvisa.com/academic-reading-passages/humpback-whale-breaks-migration-record-reading-answer/",
+      "citation_index": 10
+    },
+    {
+      "id": "cca7ece3-fe28-4f07-8690-fb2e62d64d60",
+      "score": 0.78512776,
+      "title": "A humpback whale swam halfway around the world. His name is Frodo. | National Geographic",
+      "url": "https://www.nationalgeographic.com/animals/article/humpback-whale-longest-migration-record",
+      "citation_index": 11
+    },
+    {
+      "id": "7916e03a-dd09-40bd-83ce-1201d6fe3c07",
+      "score": 0.87782305,
+      "title": "Straight as an arrow: humpback whales swim constant course tracks during long-distance migration - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3169072/",
+      "citation_index": 12
+    },
+    {
+      "id": "68642f8b-5ac6-4657-85ea-a6363db8b495",
+      "score": 0.5775198,
+      "title": "Humpback Whale | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/humpback-whale",
+      "citation_index": 13
+    },
+    {
+      "id": "27e7b8ef-1d57-49a7-b33f-1c491eb89a44",
+      "score": 0.85097736,
+      "title": "Longest mammal migration",
+      "url": "https://guinnessworldrecords.com/world-records/longest-mammal-migration",
+      "citation_index": 14
+    },
+    {
+      "id": "a9dc0e0e-014b-47ad-abdf-cf40814c8695",
+      "score": 0.8825193,
+      "title": "Which whale undertakes the longest migration? - Whale and Dolphin Conservation",
+      "url": "https://uk.whales.org/whales-dolphins/which-whale-undertakes-longest-migration/",
+      "citation_index": 15
+    },
+    {
+      "id": "7f27455a-774a-48b7-8d4a-9583bb28aba1",
+      "score": 0.8827621,
+      "title": "Nature on the Move: The World\u2019s 10 Most Extraordinary Animal Migrations - A-Z Animals",
+      "url": "https://a-z-animals.com/animals/lists/migratory-animals/",
+      "citation_index": 16
+    },
+    {
+      "id": "f796e310-891e-4744-ab85-576110fb3619",
+      "score": 0.8684817,
+      "title": "Precision of Humpback Whale Migrations Puzzles Scientists | UC Geography",
+      "url": "https://legacy.geog.ucsb.edu/precision-of-humpback-whale-migrations-puzzles-scientists/",
+      "citation_index": 17
+    },
+    {
+      "id": "84686350-8c01-41bb-8229-4aa83421f245",
+      "score": 0.8156003,
+      "title": "Whales Don\u2019t Ask for Directions: Here\u2019s How They Always Know the Way",
+      "url": "https://whalescientists.com/whale-navigation/",
+      "citation_index": 18
+    },
+    {
+      "id": "00af2a61-4775-4a75-87ac-d39073cafbd4",
+      "score": 0.7023877,
+      "title": "In the Wake of the Humpback: Tracking Whale Migration | Saving Earth | Encyclopedia Britannica",
+      "url": "https://explore.britannica.com/explore/savingearth/in-the-wake-of-the-humpback-tracking-whale-migration",
+      "citation_index": 19
+    },
+    {
+      "id": "d2cf9cc6-425f-413c-a3c9-f75190a6096c",
+      "score": 0.853046,
+      "title": "Do humpback whales use the stars to navigate? Scientists baffled by stunning accuracy of 10,000-mile migrations",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-1378791/Map-No-thanks-Humpback-whales-use-sun-moon-stars-navigate-ocean.html",
+      "citation_index": 20
+    },
+    {
+      "id": "e5683c1c-dbd6-4599-8282-6ced02c019a8",
+      "score": 0.85186684,
+      "title": "Humpback Whale Migration Patterns: Journey Across the Oceans",
+      "url": "https://danawharf.com/blog/understanding-humpback-whale-migration-routes/",
+      "citation_index": 21
+    },
+    {
+      "id": "976e3daa-5ccf-4322-b05c-538f69385170",
+      "score": 0.6388584,
+      "title": "Frontiers | Multi-Decadal Humpback Whale Migratory Route Fidelity Despite Oceanographic and Geomagnetic Change",
+      "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2020.00414/full",
+      "citation_index": 22
+    },
+    {
+      "id": "01d4085a-eca9-4a47-92c4-4d471a5ee20e",
+      "score": 0.60694176,
+      "title": "Satellite tracking reveals novel migratory patterns and the importance of seamounts for endangered South Pacific humpback whales | Royal Society Open Science",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.150489",
+      "citation_index": 23
+    },
+    {
+      "id": "eca7d846-755e-4e28-8a88-e47dbb8044b6",
+      "score": 0.54346967,
+      "title": "Satellite tracking reveals novel migratory patterns and the importance of seamounts for endangered South Pacific humpback whales.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26716006/",
+      "citation_index": 24
+    },
+    {
+      "id": "aede5a7a-e7bc-4630-af60-14b7170ce02f",
+      "score": 0.5957048,
+      "title": "Humpback whale migrations to Antarctic summer foraging grounds through the southwest Pacific Ocean | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-018-30748-4",
+      "citation_index": 25
+    },
+    {
+      "id": "7c25a84c-eb23-455d-9b74-595265e63cfd",
+      "score": 0.44622982,
+      "title": "Migratory behaviour of humpback whales in the southeastern Pacific under climate change | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-025-87489-4",
+      "citation_index": 26
+    },
+    {
+      "id": "6fce7211-eb2d-4ad5-a5e6-4946ba5b9c8a",
+      "score": 0.91175514,
+      "title": "Humpback whale sets travel record: researchers",
+      "url": "https://www.eleconomista.es/telecomunicaciones-tecnologia/noticias/2520994/10/10/Humpback-whale-sets-travel-record-researchers.html"
+    },
+    {
+      "id": "c76799e8-ca54-4ee3-a8bc-c29a825b3e8d",
+      "score": 0.9104262,
+      "title": "Humpback whale sets travel record: researchers",
+      "url": "https://www.reuters.com/article/lifestyle/humpback-whale-sets-travel-record-researchers-idUSTRE69C4XF/"
+    },
+    {
+      "id": "790c4297-b01b-4525-ac5e-021f22d575d6",
+      "score": 0.90289277,
+      "title": "A quarter of a world away: female humpback whale moves 10 000 km between breeding areas - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3061163/"
+    },
+    {
+      "id": "552f9201-6ae6-4479-ace7-995fd80611c1",
+      "score": 0.89567816,
+      "title": "The world\u2019s longest animal migrations | CNN",
+      "url": "https://www.cnn.com/2015/02/24/world/gallery/worlds-longest-animal-migrations/index.html"
+    },
+    {
+      "id": "5c3622ec-513d-4990-be08-77dabe1a0663",
+      "score": 0.89279664,
+      "title": "The world's longest animal migrations",
+      "url": "https://www.cnn.com/2015/02/24/world/gallery/worlds-longest-animal-migrations"
+    },
+    {
+      "id": "8a14b3b5-a8cc-472a-a9e4-077f2b162660",
+      "score": 0.8914433,
+      "title": "Humpback-Whales - HoHoHo 12th Grade Quiz",
+      "url": "https://wayground.com/admin/quiz/65995b36119d4b809a71e8fc/humpback-whales-hohoho"
+    },
+    {
+      "id": "219f2dfa-d898-449a-9e66-58956fbe7afd",
+      "score": 0.8790744,
+      "title": "Humpback whale AHWC no. 1363 photographed (a) on ...",
+      "url": "https://www.researchgate.net/figure/Humpback-whale-AHWC-no-1363-photographed-a-on-Abrolhos-Bank-Brazil-and-b-off_fig2_47414598"
+    },
+    {
+      "id": "ac2d9d7e-51f9-466d-9729-3497f4d9fa82",
+      "score": 0.8765607,
+      "title": "Humpback whale breaks record travel distance: 10.000 km from Brazil to Madagascar \u2014 MercoPress",
+      "url": "https://en.mercopress.com/2010/10/13/humpback-whale-breaks-record-travel-distance-10.000-km-from-brazil-to-madagascar"
+    },
+    {
+      "id": "b84ef75e-e37a-439e-a7b7-1a2fd0f44c58",
+      "score": 0.8752871,
+      "title": "Humpback whale breaks migration record - IELTS reading practice test",
+      "url": "https://mini-ielts.com/839/reading/humpback-whale-breaks-migration-record"
+    },
+    {
+      "id": "575c2ade-5e6d-4e14-aa8b-3d6ba03d74df",
+      "score": 0.86713725,
+      "title": "Ranked: Land Animals With Longest Migrations",
+      "url": "https://www.visualcapitalist.com/ranked-land-animals-with-longest-migrations/"
+    },
+    {
+      "id": "2368c6eb-00a5-4a4e-ab6c-e8e0a07cdfbb",
+      "score": 0.85567063,
+      "title": "11 Amazingly Long Animal Migrations",
+      "url": "https://www.mentalfloss.com/article/63213/11-amazingly-long-animal-migrations"
+    },
+    {
+      "id": "45ed1581-3d35-475f-b9f8-f79927688586",
+      "score": 0.8452414,
+      "title": "Which animal holds the record for the longest migration on Earth? - Quora",
+      "url": "https://www.quora.com/Which-animal-holds-the-record-for-the-longest-migration-on-Earth"
+    },
+    {
+      "id": "6d3cc7f8-6d99-4d9a-b9eb-4e0754497a47",
+      "score": 0.8335554,
+      "title": "Longest mammal migration | Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/longest-mammal-migration"
+    },
+    {
+      "id": "44a54ee0-01fe-4739-8118-9896a5115545",
+      "score": 0.8302782,
+      "title": "Marine Migration: Humpback Whale (3D) - Science On a Sphere",
+      "url": "https://sos.noaa.gov/catalog/datasets/marine-migration-humpback-whale-3d/"
+    },
+    {
+      "id": "2e59f5dc-0d22-4164-b1a6-75596cba5e12",
+      "score": 0.82694983,
+      "title": "The longest animal migrations in the world - Geographical",
+      "url": "https://geographical.co.uk/news/the-longest-animal-migrations-in-the-world"
+    },
+    {
+      "id": "00df569a-b787-42b4-8ae9-ecee643461e4",
+      "score": 0.8259413,
+      "title": "Migrations: Who travels the farthest? - Smore Science",
+      "url": "https://www.smorescience.com/animals-that-migrate/"
+    },
+    {
+      "id": "21191b32-0465-4a62-aaea-715b1968d521",
+      "score": 0.81204927,
+      "title": "Humpback whale migration as straight as an arrow",
+      "url": "https://phys.org/news/2011-04-humpback-whale-migration-straight-arrow.html"
+    },
+    {
+      "id": "c74f77a1-db92-482e-8f0b-ff0fc447cc73",
+      "score": 0.80844593,
+      "title": "Longest terrestrial migrations and movements around the world | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-019-51884-5"
+    },
+    {
+      "id": "0e9e854b-2f99-408b-a41e-8c0f164f1bcb",
+      "score": 0.80735475,
+      "title": "Humpback whale's unusual migration is believed to be a record-breaker - Los Angeles Times",
+      "url": "https://www.latimes.com/archives/blogs/la-unleashed/story/2010-10-13/humpback-whales-unusual-migration-is-believed-to-be-a-record-breaker"
+    },
+    {
+      "id": "7a3bf05c-cf46-4fb9-9f15-012d42bf4e19",
+      "score": 0.8036831,
+      "title": "Marine Scientists Monitor Longest Mammal Migration | ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2007/04/070410091423.htm"
+    },
+    {
+      "id": "7a8df2b6-b9cb-4ff4-adf9-a6f0e06ab3e8",
+      "score": 0.7876867,
+      "title": "Who Goes Farthest? The World's Longest Wild Animal ...",
+      "url": "https://cmns.umd.edu/news-events/news/who-goes-farthest-worlds-longest-wild-animal-terrestrial-migrations-and-movements"
+    },
+    {
+      "id": "cf4afa41-9ea7-478c-9f9a-9c744ab903b7",
+      "score": 0.78413767,
+      "title": "14 of the Greatest Animal Migrations",
+      "url": "https://www.treehugger.com/greatest-animal-migrations-4869293"
+    },
+    {
+      "id": "d4e465ae-497e-4a5c-aaa3-de7ac7e4b21e",
+      "score": 0.767638,
+      "title": "Confirmed! Caribou have the longest land migration in the world - Natural Resources Program - Region 11 (U.S. National Park Service)",
+      "url": "https://www.nps.gov/orgs/1349/boulongestmigrationnews.htm"
+    },
+    {
+      "id": "391032db-f7f3-442a-bf05-4c2e1cee8ed5",
+      "score": 0.7476348,
+      "title": "Nature's nomads: 10 of the longest animal migrations - Interesting Engineering",
+      "url": "https://interestingengineering.com/lists/nature-longest-animal-migrations-birds"
+    },
+    {
+      "id": "d24d4f07-d8ba-4755-8090-80871af311c9",
+      "score": 0.734139,
+      "title": "Ask a Wildlife Biologist: May is for Migration, Alaska Department of Fish and Game",
+      "url": "https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=4094"
+    },
+    {
+      "id": "e14af9e6-faa8-4010-bed5-dabeec117e57",
+      "score": 0.7306941,
+      "title": "Humpback whale - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Humpback_whale"
+    },
+    {
+      "id": "f3c8bd78-77c7-4c07-8918-012c0041960e",
+      "score": 0.7304634,
+      "title": "Hungry or horny? Whale makes record swim halfway across planet - Big Think",
+      "url": "https://bigthink.com/strange-maps/record-humpback-whale-migration/"
+    },
+    {
+      "id": "0dbc300c-b407-4e6b-b42e-d547a0378ea5",
+      "score": 0.7293082,
+      "title": "Who goes farthest of them all? The world\u2019s longest wild animal terrestrial migrations and movements (U.S. National Park Service)",
+      "url": "https://www.nps.gov/articles/worldmigration.htm"
+    },
+    {
+      "id": "72507f71-91bb-4a6e-9372-1ef87184e4cf",
+      "score": 0.7062922,
+      "title": "Longest terrestrial animal migration | Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/longest-terrestrial-animal-migration"
+    },
+    {
+      "id": "b279327d-565e-4a44-8cf6-d137ac9bbbfa",
+      "score": 0.6445166,
+      "title": "WHALE NAVIGATION - Facebook",
+      "url": "https://www.facebook.com/groups/davidattenboroughfanss/posts/4148832978721178/"
+    },
+    {
+      "id": "906fcf29-cc28-4c4c-91d7-225b19c2cc73",
+      "score": 0.6396691,
+      "title": "This whale made an epic trek across 3 oceans",
+      "url": "https://www.cbc.ca/radio/asithappens/humpback-record-journey-1.7408037"
+    },
+    {
+      "id": "fead416c-23b8-44d6-8156-53493de8b180",
+      "score": 0.6147415,
+      "title": "tracks during long-distance migration Straight as an arrow",
+      "url": "https://whaleresearch.org/wp-content/uploads/2020/08/Straight-as-an-arrow.pdf"
+    },
+    {
+      "id": "dbb79601-e366-47bf-9815-605908a49dc0",
+      "score": 0.60133666,
+      "title": "An efficient bio-inspired algorithm based on humpback whale migration for constrained engineering optimization - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2590123025003019"
+    },
+    {
+      "id": "a6b2f4ab-04df-4f60-ba70-018bdaf49b6c",
+      "score": 0.59796065,
+      "title": "Migratory behaviour of humpback whales in the southeastern Pacific under climate change - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11787338/"
+    },
+    {
+      "id": "221465ba-f658-4c9c-8106-36f80ae8b7e9",
+      "score": 0.57322514,
+      "title": "Who Goes Farthest? The World\u2019s Longest Wild Animal Terrestrial Migrations And Movements | Department of Biology | University of Maryland",
+      "url": "https://biology.umd.edu/news/who-goes-farthest-worlds-longest-wild-animal-terrestrial-migrations-and-movements"
+    },
+    {
+      "id": "1ad35950-4949-4ef2-9b20-e5e242172e4d",
+      "score": 0.53648347,
+      "title": "Do Ocean Currents Impact the Navigation of Migrating ...",
+      "url": "https://ir.library.oregonstate.edu/downloads/2514nv218?locale=en"
+    },
+    {
+      "id": "ce17ec38-0f70-4a39-bf16-f1c2bfce78bb",
+      "score": 0.52583206,
+      "title": "Interbreeding area movement of an adult humpback whale ...",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.241361"
+    },
+    {
+      "id": "0e1bd908-5539-46ef-8639-b732cb069511",
+      "score": 0.52568597,
+      "title": "",
+      "url": "https://www.wolframalpha.com/input/?i=longest+recorded+migration+distance+of+a+mammal"
+    },
+    {
+      "id": "90e4ba62-29e1-4a69-a9f2-fcf7bbff8174",
+      "score": 0.4766533,
+      "title": "A path reconstruction method integrating dead-reckoning and ...",
+      "url": "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-015-0061-6"
+    },
+    {
+      "id": "4db43be9-1da3-4041-b307-0af9103ca9b0",
+      "score": 0.35756806,
+      "title": "Humpback Whale Makes Record-Breaking 8,000-Mile Migration Across Three Oceans, but the Reason Is Still a Mystery",
+      "url": "https://www.smithsonianmag.com/smart-news/humpback-whale-makes-record-breaking-8000-mile-migration-across-three-oceans-but-the-reason-is-still-a-mystery-180985652/"
+    },
+    {
+      "id": "c0eaa400-cd87-494f-9802-5ac3733e5542",
+      "score": 0.32794857,
+      "title": "How Far Do Humpback Whales Migrate? | Animal Facts for Kids",
+      "url": "https://www.youtube.com/watch?v=cfd7CkOBlWM"
+    },
+    {
+      "id": "ebb294d7-c95a-4cf6-9b15-ba954f31cd82",
+      "score": 0.31951454,
+      "title": "Australia's east coast humpback whales: Satellite tag-derived movements on breeding grounds, feeding grounds and along the northern and southern migration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38116475/"
+    },
+    {
+      "id": "92bc1c92-68a0-46ce-897e-0c0356e6ce6e",
+      "score": 0.31945089,
+      "title": "How to watch humpback whales migration",
+      "url": "https://www.youtube.com/watch?v=R3l60sdcxWA"
+    },
+    {
+      "id": "d4a8d383-c15d-4d5e-bcc8-93b29379d577",
+      "score": 0.31919616,
+      "title": "Use of a behavioural response method to assess the risk of collision between migrating humpback whales and vessels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38237249/"
+    },
+    {
+      "id": "c7e73481-eab1-4d91-bd66-325749fb64aa",
+      "score": 0.3188461,
+      "title": "Tracking humpback whales | Smithsonian Tropical Research Institute",
+      "url": "https://stri.si.edu/story/tracking-humpback-whales"
+    },
+    {
+      "id": "dc238426-5416-4bc9-8f5e-3c5f6a12e472",
+      "score": 0.29349607,
+      "title": "Whale tail photos and AI unlock humpbacks\u2019 migration",
+      "url": "https://www.youtube.com/watch?v=fRmjUJxLsKU"
+    },
+    {
+      "id": "7833361b-33d3-4c17-95e8-6565539e6638",
+      "score": 0.29231286,
+      "title": "Humpback whales navigating an ocean of change",
+      "url": "https://sanctuaries.noaa.gov/news/sep18/humpback-whales-navigating-an-ocean-of-change.html"
+    },
+    {
+      "id": "49d751db-1cfd-4559-a099-37f49d845a8d",
+      "score": 0.2917526,
+      "title": "Humpback whale makes epic migration, astonishing scientists | BBC News",
+      "url": "https://www.youtube.com/watch?v=utyUpnV_n7Y"
+    },
+    {
+      "id": "23f3726b-cdd8-4d5b-a827-66875f0122bd",
+      "score": 0.27627343,
+      "title": "Australia\u2019s east coast humpback whales: Satellite tag-derived movements on breeding grounds, feeding grounds and along the northern and southern migration",
+      "url": "https://bdj.pensoft.net/article/114729/"
+    },
+    {
+      "id": "467fdd6d-795b-43ce-8d21-f41481700811",
+      "score": 0.26974982,
+      "title": "Modeling changes in baleen whale seasonal abundance, timing of migration, and environmental variables to explain the sudden rise in entanglements in California.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33857163/"
+    },
+    {
+      "id": "2ab78089-681d-4cfd-9ddc-0ae79e60d1bb",
+      "score": 0.264923,
+      "title": "Humpback Whale Migration | Shark vs Whale",
+      "url": "https://www.youtube.com/watch?v=zGbUxKdGAGE"
+    },
+    {
+      "id": "2f76af98-c91b-49f7-91ab-871c2d560d78",
+      "score": 0.2634565,
+      "title": "Whale Migration: Patterns, Currents, and Communication - Biology Insights",
+      "url": "https://biologyinsights.com/whale-migration-patterns-currents-and-communication/"
+    },
+    {
+      "id": "5a1d50f9-71fc-46e1-bb48-4484b621fe45",
+      "score": 0.24700119,
+      "title": "Evidence for dietary time series in layers of cetacean skin using stable carbon and nitrogen isotope ratios.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29777550/"
+    },
+    {
+      "id": "7a874d6a-61be-4ec3-a4a4-c3308c841d10",
+      "score": 0.24551934,
+      "title": "The Great Migration of the Humpback Whale",
+      "url": "https://www.youtube.com/watch?v=BVQh-EGRcOk"
+    },
+    {
+      "id": "11a5c86d-dcdf-4383-b4c6-9e3b798feb2c",
+      "score": 0.21770357,
+      "title": "Androstenedione and testosterone but not progesterone are potential biomarkers of pregnancy in Humpback Whales (Megaptera novaeangliae) approaching parturition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32075989/"
+    },
+    {
+      "id": "0eab6e02-8d72-45a5-916f-467c57fcb9da",
+      "score": 0.21616082,
+      "title": "Variation in outer blubber lipid concentration does not reflect morphological body condition in humpback whales.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32165431/"
+    },
+    {
+      "id": "ab9b5508-8f02-4bdd-a861-1894a506ff99",
+      "score": 0.20211264,
+      "title": "Humpback whale breaks migration record | Nature",
+      "url": "https://www.nature.com/articles/news.2010.532"
+    },
+    {
+      "id": "930a4ade-adae-4b5b-98c9-07aa5eeccf4e",
+      "score": 0.18929654,
+      "title": "Aerial photogrammetry and tag-derived tissue density reveal patterns of lipid-store body condition of humpback whales on their feeding grounds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33499785/"
+    },
+    {
+      "id": "5318c598-0fa6-4119-83f5-13957790c2ee",
+      "score": 0.17587785,
+      "title": "Subarctic singers: Humpback whale (Megaptera novaeangliae) song structure and progression from an Icelandic feeding ground during winter.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30673737/"
+    },
+    {
+      "id": "434cd305-addc-4d02-a205-e77fdede286b",
+      "score": 0.17575051,
+      "title": "A novel RT-qPCR health assay reveals differential expression of stress and immunoregulatory genes between the seasonal migrations of humpback whales (Megaptera novaeangliae).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38018561/"
+    },
+    {
+      "id": "08775140-e4bf-4058-9f2e-efd670468b7a",
+      "score": 0.14820766,
+      "title": "A directional statistical investigation of whales' migration ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1617138125001888"
+    },
+    {
+      "id": "29218b26-5201-40a7-9d35-5be5e03e97f1",
+      "score": 0.12709928,
+      "title": "Distribution of genetic diversity reveals colonization patterns and philopatry of the loggerhead sea turtles across geographic scales",
+      "url": "https://www.nature.com/articles/s41598-020-74141-6?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+srep%2Frss%2Fcurrent+%28Scientific+Reports%29"
+    },
+    {
+      "id": "ed877ce8-b4af-4409-930a-3b1d8d2a92e6",
+      "score": 0.08413856,
+      "title": "Identifying humpback whales online",
+      "url": "https://www.youtube.com/watch?v=twnh6X0DzNo"
+    }
+  ]
+}

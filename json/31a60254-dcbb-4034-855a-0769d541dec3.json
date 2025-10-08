@@ -1,0 +1,760 @@
+{
+  "id": "31a60254-dcbb-4034-855a-0769d541dec3",
+  "status": "completed",
+  "content": "TRUE.\n\nThe statement that tarantulas lack sharp color vision is an accurate summary of current scientific understanding. Their visual acuity is definitively low, meaning their vision is not sharp. While they were historically considered colorblind, recent genetic discoveries reveal that they possess a diverse range of light-sensitive proteins (opsins) necessary for color perception, challenging the old consensus. However, their visual system's acuity remains poor, and there is a lack of behavioral or conclusive electrophysiological evidence to confirm they can functionally discriminate between colors.\n\n## Visual Acuity in Tarantulas\n\nVisual acuity is the spatial resolving capacity of a visual system, or the ability to perceive fine detail[1][2]. Evidence consistently indicates that tarantulas (family Theraphosidae) have low visual acuity and do not possess sharp vision.\n\n*   **General Assessment:** Most research characterizes tarantula vision as poor, noting they are unable to see much more than light, darkness, and motion[3][4]. They primarily perceive their surroundings through touch, using sensitive hairs called setae to detect vibrations, chemical signatures, and wind direction[3].\n*   **Quantitative Estimates:** While a peer-reviewed, quantitative measurement for a Theraphosidae species is not available in the provided documents, one source estimates that a tarantula's primary eyes have a visual acuity equivalent to 20/6000 vision, which is 100 times worse than the 20/60 vision that would require corrective glasses in a human[5][6]. Their secondary eyes are specialized for detecting movement and shifts in light rather than detail[5].\n*   **Comparative Acuity:** For context, the visual acuity of a wolf spider (*Lycosa spp.*), which is not a true tarantula, is measured at 0.2 cycles per degree (cyc/deg)[7]. This is significantly lower than visually-oriented predators like jumping spiders (12 cyc/deg) and vastly lower than humans (approximately 73 cyc/deg)[7]. The resolution of the anterior lateral eyes of the wolf spider *Lycosa tarantula* is reported as a poor 3.4 degrees[8].\n*   **Ecological Variation:** Vision may vary based on lifestyle. Arboreal (tree-dwelling) tarantulas generally have better vision and relatively larger eyes than terrestrial species, suggesting selection for improved, albeit still weak, vision in environments where it is more critical[3][9][10].\n\n## The Capacity for Color Vision\n\nColor vision is the ability to distinguish between different wavelengths of light, which requires at least two types of photoreceptor cells containing different visual pigments, or opsins[11][12][13]. The scientific consensus on tarantula color vision has shifted significantly due to modern genetic analysis.\n\n### Historical Consensus: Monochromatic Vision\n\nFor many years, tarantulas were considered colorblind or, at best, capable of only weak color spectrum discrimination[14][15]. This view was based on several lines of evidence:\n*   **Low Opsin Diversity:** Earlier studies argued that tarantulas were colorblind on the basis of finding low opsin diversity in the genus *Aphonopelma*[14][15]. One study concluded their vision was monochromatic, based on a single photopigment type[4][16].\n*   **Electrophysiological Data:** A key 1989 study by Dahl and Granda on the tarantula *Aphonopelma chalcodes* provided physiological evidence for monochromatic vision[17]. Their electrophysiological recordings found that photoreceptor cells in all eyes had a similar spectral sensitivity, with a peak response around 500 nanometers (nm) and a range of 350-640 nm[17][18]. The study noted these tarantulas \"lack the neurological response complexities seen in colour discriminating eyes,\" supporting the hypothesis of a single photoreceptor system[15][14].\n*   **Behavioral Observations:** Tarantula courtship and mating behaviors appear to rely heavily on vibratory and chemical cues rather than conspicuous visual signals, which was used to argue against the evolution of color for sexual selection[4].\n\n### Emerging Evidence: The Genetic Toolkit for Color Vision\n\nRecent transcriptomic studies have directly contradicted the prior consensus by revealing that tarantulas possess the genetic foundation for color vision[19][14].\n*   **Diverse Opsin Genes:** Contrary to previous findings, a broad analysis of 25 tarantula genera found that they express a \"considerable diversity of opsin genes\"[14][20]. Most tarantulas were found to have nearly the entire complement of opsins present in spiders known for their color vision, such as the day-active peacock spiders[19].\n*   **Specific Opsin Types:** This research identified homologues for short-wavelength sensitive (SWS) opsins, which can detect UV and blue light, and medium-wavelength sensitive (MWS) opsins for detecting green light[14][21]. All studied subfamilies possessed the full suite of typical arthropod opsins[14].\n*   **Revised Hypotheses:** This molecular evidence suggests that tarantulas may be able to perceive their own vibrant blue and green colors[22][23]. The presence of these opsins means that a lack of color discrimination can no longer be assumed based on low opsin diversity[15]. This has led to new hypotheses that their blue coloration may be used for mate choice and green coloration for camouflage[24][25].\n\n### Lack of Functional Confirmation\n\nDespite the strong genetic evidence for the potential of color vision, there is currently no direct behavioral or psychophysical data to confirm that tarantulas use this capability to discriminate between colors[14][21]. Researchers in the field explicitly call for future behavioral experiments, such as mate-choice studies, to determine if the genetic potential for color vision translates into functional color perception and discrimination[26][15].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "3e52b9fd-ec37-4777-a10c-67a1e2b9eef8",
+      "score": 0.45536873,
+      "title": "Visual Acuity - Webvision - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK11509/",
+      "citation_index": 1
+    },
+    {
+      "id": "7f8d6b90-ffee-4c66-b600-e92512924902",
+      "score": 0.49904844,
+      "title": "Visual acuity - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Visual_acuity",
+      "citation_index": 2
+    },
+    {
+      "id": "590eedb8-8b5e-4b61-9b98-963c5945784c",
+      "score": 0.28486982,
+      "title": "Tarantula - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tarantula",
+      "citation_index": 3
+    },
+    {
+      "id": "28d4c03b-d15b-456b-9f4e-81176b912115",
+      "score": 0.6152965,
+      "title": "Blue reflectance in tarantulas is evolutionarily conserved despite nanostructural diversity - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4681340/",
+      "citation_index": 4
+    },
+    {
+      "id": "82a76a1b-06f9-43c7-912f-397b3ca45809",
+      "score": 0.5440511,
+      "title": "How Tarantulas See the World",
+      "url": "https://www.youtube.com/watch?v=KcIgiKV7DtY",
+      "citation_index": 5
+    },
+    {
+      "id": "e089a577-1722-4e1a-884b-626ee3ed281d",
+      "score": 0.04340236,
+      "title": "How Tarantulas See the World",
+      "url": "https://www.youtube.com/watch?v=Fc79XcnSJUo",
+      "citation_index": 6
+    },
+    {
+      "id": "1d05fb95-560c-4642-97e8-7b2dbaef9485",
+      "score": 0.40373197,
+      "title": "List of Animal Spatial Acuities \u2013 Empirical Imaging",
+      "url": "http://www.empiricalimaging.com/knowledge-base/list-of-animal-spatial-acuities/",
+      "citation_index": 7
+    },
+    {
+      "id": "94a80d34-98d4-475e-ad17-d510def29fe1",
+      "score": 0.19557908,
+      "title": "Anterior lateral eyes of Lycosa tarantula (Araneae: Lycosidae) are used during orientation to detect changes in the visual structure of the substratum | Journal of Experimental Biology | The Company of Biologists",
+      "url": "https://journals.biologists.com/jeb/article/214/14/2375/921/Anterior-lateral-eyes-of-Lycosa-tarantula-Araneae",
+      "citation_index": 8
+    },
+    {
+      "id": "776b9a0b-d6c7-4b96-9b99-521c13afd793",
+      "score": 0.39208132,
+      "title": "Research | Sebastian Echeverri",
+      "url": "https://www.spiderdaynightlive.com/research/",
+      "citation_index": 9
+    },
+    {
+      "id": "c5c7fbb3-c28b-4647-926a-4013d82b6f1c",
+      "score": 0.35046637,
+      "title": "Why are tarantulas essentially blind despite having so ...",
+      "url": "https://www.quora.com/Why-are-tarantulas-essentially-blind-despite-having-so-many-eyes",
+      "citation_index": 10
+    },
+    {
+      "id": "f5729db3-8662-4027-a0dc-944661c0bc39",
+      "score": 0.5243709,
+      "title": "Photoreceptor cell - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Photoreceptor_cell",
+      "citation_index": 11
+    },
+    {
+      "id": "77175905-3ddb-4475-b65f-2ac4636c2aa4",
+      "score": 0.4611872,
+      "title": "Neuroscience for Kids - Color Vision",
+      "url": "https://faculty.washington.edu/chudler/eyecol.html",
+      "citation_index": 12
+    },
+    {
+      "id": "bce37f71-a952-4a52-b4fa-3e2110e0ad5a",
+      "score": 0.1539179,
+      "title": "Cones and Color Vision - Neuroscience - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK11059/",
+      "citation_index": 13
+    },
+    {
+      "id": "11a9abb2-cee8-4308-9c24-9fa478b4ec47",
+      "score": 0.852752,
+      "title": "The evolution of coloration and opsins in tarantulas - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7542807/",
+      "citation_index": 14
+    },
+    {
+      "id": "05b13261-a96d-4b5b-871b-90e2f91a8066",
+      "score": 0.85509074,
+      "title": "The evolution of coloration and opsins in tarantulas | Proceedings of the Royal Society B: Biological Sciences",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1688",
+      "citation_index": 15
+    },
+    {
+      "id": "b1d07b13-8e23-4ddc-a93e-b2e5cd5b3fab",
+      "score": 0.62523276,
+      "title": "Blue reflectance in tarantulas is evolutionarily conserved despite nanostructural diversity | Science Advances",
+      "url": "https://www.science.org/doi/10.1126/sciadv.1500709",
+      "citation_index": 16
+    },
+    {
+      "id": "e0eacd73-192a-4890-ac94-5e0aeaf28808",
+      "score": 0.5948579,
+      "title": "Aphonopelma chalcodes - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aphonopelma_chalcodes",
+      "citation_index": 17
+    },
+    {
+      "id": "64bd898e-cf19-426a-8b51-af4bc70de83b",
+      "score": 0.42892754,
+      "title": "Desert Blonde Tarantula (Aphonopelma chalcodes) \u00b7 Bill Hubick",
+      "url": "https://thebiofiles.com/info/8521",
+      "citation_index": 18
+    },
+    {
+      "id": "7ac33eed-bd07-48aa-8bfe-7f2f1d518570",
+      "score": 0.8989177,
+      "title": "The Mystery of Tarantulas' Brilliant Colour Schemes May Finally Be Solved : ScienceAlert",
+      "url": "https://www.sciencealert.com/surprise-tarantulas-can-see-in-colour",
+      "citation_index": 19
+    },
+    {
+      "id": "847e60c2-9097-4a51-9ecb-f0f69b07ee17",
+      "score": 0.80844593,
+      "title": "The evolution of coloration and opsins in tarantulas - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32962546/",
+      "citation_index": 20
+    },
+    {
+      "id": "e429cead-c26d-4ceb-9dd7-a0f9252aa6f5",
+      "score": 0.77731717,
+      "title": "SB003-Saoirse Foley: The Evolution of Coloration and Opsins in Tarantulas",
+      "url": "https://www.youtube.com/watch?v=lUgkfispxPs",
+      "citation_index": 21
+    },
+    {
+      "id": "741338a8-02f5-4f4b-a4ad-7a87efb13ee8",
+      "score": 0.80625874,
+      "title": "Scientists discover why tarantulas come in vivid blues and ...",
+      "url": "https://www.cmu.edu/bio/news/2020/0929_tarantula-color-discovery.html",
+      "citation_index": 22
+    },
+    {
+      "id": "3611d4d5-4dd9-4776-bb89-b4b429f16b77",
+      "score": 0.7777226,
+      "title": "Scientists discover why tarantulas come in vivid blues and greens | ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2020/09/200924101925.htm",
+      "citation_index": 23
+    },
+    {
+      "id": "d1e50933-1f80-4574-a7e0-4b37cd0dc4a6",
+      "score": 0.7286136,
+      "title": "Vivid Color of Tarantulas Are Associated With Perceiving One Another & Survival",
+      "url": "https://www.sciencetimes.com/articles/27488/20200928/scientists-discovered-tarantulas-see-color.htm",
+      "citation_index": 24
+    },
+    {
+      "id": "609a385f-1ea0-49e2-a0f1-2d4d45a2691f",
+      "score": 0.73459625,
+      "title": "Spider Mystery: Researchers Find Why Some Tarantulas Have Bright Colors | IBTimes",
+      "url": "https://www.ibtimes.com/spider-mystery-researchers-find-why-some-tarantulas-have-bright-colors-3051601",
+      "citation_index": 25
+    },
+    {
+      "id": "94f52e0a-3a09-4176-80ce-e36d9ead854a",
+      "score": 0.8055255,
+      "title": "Scientists discover why tarantulas come in vivid blues and greens - Mellon College of Science - Carnegie Mellon University",
+      "url": "https://www.cmu.edu/mcs/news-events/2020/0929_tarantula-color-discovery.html",
+      "citation_index": 26
+    },
+    {
+      "id": "5c0b5afb-2829-4fad-b257-586b611b041f",
+      "score": 0.8452414,
+      "title": "The Evolution Of Colouration And Opsins In Tarantulas | bioRxiv",
+      "url": "https://www.biorxiv.org/content/10.1101/2020.04.25.061366v1.full"
+    },
+    {
+      "id": "7d8a6609-eb48-4bf7-9fbb-0fef39dc20d3",
+      "score": 0.75616,
+      "title": "Scientists discover why tarantulas come in vivid blues and greens | EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/541632"
+    },
+    {
+      "id": "aadddd8e-3249-48f3-a18c-713e61cdff05",
+      "score": 0.7463059,
+      "title": "Molecular Evolution of Spider Vision: New Opportunities, ...",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/693977"
+    },
+    {
+      "id": "ae446c5d-3c69-4c78-8e7d-dbcb18b34406",
+      "score": 0.72042775,
+      "title": "Spiders: Can tarantulas see in colour and why are some of them blue? - BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/54331315"
+    },
+    {
+      "id": "79d39586-3671-4c17-a6e9-68894c7d2053",
+      "score": 0.71305263,
+      "title": "(PDF) The Evolution Of Colouration And Opsins In Tarantulas",
+      "url": "https://www.researchgate.net/publication/340932929_The_Evolution_Of_Colouration_And_Opsins_In_Tarantulas"
+    },
+    {
+      "id": "fbd56b84-3a20-4ab8-adc0-ce0cbb5f5d35",
+      "score": 0.7014069,
+      "title": "In a Surprise, Tarantulas Seem to Have Color Vision | Plants And Animals",
+      "url": "https://www.labroots.com/trending/plants-and-animals/18796/surprise-tarantulas-color-vision"
+    },
+    {
+      "id": "a199f4a3-e0ed-4a3d-a207-27b5c2eb4288",
+      "score": 0.7014069,
+      "title": "In a Surprise, Tarantulas Seem to Have Color Vision",
+      "url": "https://www.labroots.com/trending/plants-and-animals/18796/surprise-tarantulas-color-vision?srsltid=AfmBOoriR1DNXpkhQT6r6cXNExgXXSUQN1aQU0zYvF-M-KcenV149NfG"
+    },
+    {
+      "id": "4196573f-28be-4e7a-b97b-fa173dd5d88c",
+      "score": 0.6366926,
+      "title": "Molecular Evolution of Spider Vision: New Opportunities, Familiar Players | The Biological Bulletin: Vol 233, No 1",
+      "url": "https://www.journals.uchicago.edu/doi/full/10.1086/693977"
+    },
+    {
+      "id": "5d88f62a-141c-4232-ab9f-d1d1a6e1e552",
+      "score": 0.63288915,
+      "title": "Response of Different Insect Groups to Various Wavelengths of Light under Field Conditions - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8151050/"
+    },
+    {
+      "id": "c7baa1ac-5c73-44fd-b772-344163e22790",
+      "score": 0.61668247,
+      "title": "Theraphosidae - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/theraphosidae"
+    },
+    {
+      "id": "e0cad4f5-9454-4731-8cf6-0716baa76041",
+      "score": 0.6044228,
+      "title": "The discrimination of polarized light by the tarantula | Journal of Comparative Physiology A",
+      "url": "https://link.springer.com/article/10.1007/BF00343655"
+    },
+    {
+      "id": "1d156c3c-3110-401b-9ab5-13d9d9a0be99",
+      "score": 0.5874941,
+      "title": "Electrophysiological Responses to Light of Neurons in the Eye and Statocyst of Lymnaea stagnalis | Journal of Neurophysiology | American Physiological Society",
+      "url": "https://journals.physiology.org/doi/full/10.1152/jn.00692.2004"
+    },
+    {
+      "id": "366cc12b-16e2-4cfb-be6e-f14a5bb9ed13",
+      "score": 0.57006866,
+      "title": "The Orientation-Dependent Visual Spatial Cut-Off ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20802111/"
+    },
+    {
+      "id": "3e93c612-9e50-4350-89c0-0ba8b459f258",
+      "score": 0.53648347,
+      "title": "Color discrimination in the red range with only one long-wavelength sensitive opsin - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16651559/?dopt=Abstract"
+    },
+    {
+      "id": "2d0d9c87-e60a-49bc-b666-cb80c6122e53",
+      "score": 0.52071625,
+      "title": "Aphonopelma chalcodes - Wikipedia",
+      "url": "https://wikipedia-org.zproxy.org/wiki/Aphonopelma_chalcodes"
+    },
+    {
+      "id": "02801ef3-7433-4966-8878-8297d827fc75",
+      "score": 0.49685127,
+      "title": "Determination of Photoreceptor Cell Spectral Sensitivity in an Insect Model from In Vivo Intracellular Recordings - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4828190/"
+    },
+    {
+      "id": "45bb146a-f3a0-43df-a880-926fa5d519bb",
+      "score": 0.47738418,
+      "title": "High diversity of arthropod colour vision: from genes to ecology",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0273"
+    },
+    {
+      "id": "f35f9732-dc8b-4048-b10f-a8d07c0f6d87",
+      "score": 0.47548413,
+      "title": "Spider vision - UC Homepages",
+      "url": "https://homepages.uc.edu/~morehonn/wp-content/uploads/2021/02/Morehouse-NI-2020-Curr-Biol.pdf"
+    },
+    {
+      "id": "3c5423bf-0e8e-49e6-b21e-8c6425b4706c",
+      "score": 0.45973158,
+      "title": "The visual system of the Australian wolf spider Lycosa ...",
+      "url": "https://www.americanarachnology.org/journal-joa/joa-all-articles/article/download/arac-38-03-398.pdf/?no_cache=1"
+    },
+    {
+      "id": "836c84fc-e13d-4486-82c1-aadf32ec404d",
+      "score": 0.45507812,
+      "title": "Photoreception - Light, Vision, Photopigments | Britannica",
+      "url": "https://www.britannica.com/science/photoreception/Structure-and-function-of-photoreceptors"
+    },
+    {
+      "id": "ede67f77-4b74-429d-aa5f-13e9486d8e62",
+      "score": 0.44941738,
+      "title": "What Jumping Spiders Teach Us About Color",
+      "url": "https://www.youtube.com/watch?v=nfAqTSjMBJk"
+    },
+    {
+      "id": "c3949beb-e121-44d5-bb71-d8093efadf54",
+      "score": 0.44869256,
+      "title": "Frontiers | Drosophila photoreceptor systems converge in arousal neurons and confer light responsive robustness",
+      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1160353/full"
+    },
+    {
+      "id": "fb443003-3348-4d43-a514-5dca406395d6",
+      "score": 0.43828082,
+      "title": "Vision: The Retina \u2013 Foundations of Neuroscience",
+      "url": "https://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/"
+    },
+    {
+      "id": "16588d66-e487-48e3-a4ff-bbd1b45abd0f",
+      "score": 0.4179133,
+      "title": "Visual odometry in the wolf spider Lycosa tarantula (Araneae: Lycosidae) - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24477612/"
+    },
+    {
+      "id": "5f81fb54-cf82-4c04-b71d-c1f24143d7e8",
+      "score": 0.40952834,
+      "title": "Adaptations for vision in dim light: Impulse responses and ...",
+      "url": "https://www.researchgate.net/publication/5929657_Adaptations_for_vision_in_dim_light_Impulse_responses_and_bumps_in_nocturnal_spider_photoreceptor_cells_Cupiennius_salei_Keys"
+    },
+    {
+      "id": "d190dbee-02e5-4dc1-a8f3-f8a2ffde5073",
+      "score": 0.38880423,
+      "title": "Color lures in orb-weaving spiders: a meta-analysis",
+      "url": "https://2024.sci-hub.ru/8005/c05e382a58adbdbe352548a7557ed926/10.1093@beheco@arz210.pdf"
+    },
+    {
+      "id": "3c104d91-eebb-4061-9243-eb58284e2ad1",
+      "score": 0.38560653,
+      "title": "Cone cell - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cone_cell"
+    },
+    {
+      "id": "0c8cad2b-00eb-4cc0-9c09-ea6d058acbdd",
+      "score": 0.38359568,
+      "title": "Polarized light detection in spiders - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11511663/"
+    },
+    {
+      "id": "d892329f-178e-4622-8f58-d3fca4a20e51",
+      "score": 0.37394494,
+      "title": "Serial visual reversal learning in harbor seals (Phoca ...",
+      "url": "https://link.springer.com/article/10.1007/s10071-022-01653-1"
+    },
+    {
+      "id": "af7a0479-b0c7-428f-926d-19ca8217a000",
+      "score": 0.3656158,
+      "title": "Electrical interactions between photoreceptors in the ...",
+      "url": "https://journals.biologists.com/jeb/article/221/21/jeb189340/33890/Electrical-interactions-between-photoreceptors-in"
+    },
+    {
+      "id": "7dd80d32-4b93-47e0-ae5f-4bfc93dd4639",
+      "score": 0.3640543,
+      "title": "Neural activity associated with monitoring the oscillating threat value of a tarantula - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21059963/"
+    },
+    {
+      "id": "a5c40f1f-60d7-4da6-99eb-c2f2b47405ec",
+      "score": 0.35682812,
+      "title": "Tarantula wolf spiders use their lateral eyes to calculate ...",
+      "url": "https://phys.org/news/2017-04-tarantulas-lateral-eyes-distance.html"
+    },
+    {
+      "id": "22d06a05-d240-4809-a848-b14c2d69692f",
+      "score": 0.35561875,
+      "title": "Photoreceptors - All About Vision",
+      "url": "https://www.allaboutvision.com/eye-care/eye-anatomy/eye-structure/photoreceptors/"
+    },
+    {
+      "id": "3f827f57-500a-40e1-9e25-81a746d8d650",
+      "score": 0.3542772,
+      "title": "Tarantulas Use Their Lateral Eyes to Calculate Distance",
+      "url": "https://www.rdworldonline.com/tarantulas-use-their-lateral-eyes-to-calculate-distance/"
+    },
+    {
+      "id": "da5f14d0-b036-49a1-8b65-afb03b3747a7",
+      "score": 0.35093334,
+      "title": "Opsin expression patterns coincide with photoreceptor development during pupal development in the honey bee, Apis mellifera | BMC Developmental Biology | Full Text",
+      "url": "https://bmcdevbiol.biomedcentral.com/articles/10.1186/s12861-018-0162-8"
+    },
+    {
+      "id": "00eba57e-1fc1-45f1-88f7-4413ade29a3c",
+      "score": 0.34448805,
+      "title": "Visual acuity in a species of coral reef fish: Rhinecanthus aculeatus - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24401772/"
+    },
+    {
+      "id": "65617f73-a4fe-4270-bb69-00cc95b375bc",
+      "score": 0.3358086,
+      "title": "Directional and color preference in adult zebrafish: Implications in behavioral and learning assays in neurotoxicology studies | Request PDF",
+      "url": "https://www.researchgate.net/publication/277024890_Directional_and_color_preference_in_adult_zebrafish_Implications_in_behavioral_and_learning_assays_in_neurotoxicology_studies"
+    },
+    {
+      "id": "20c8da81-46f4-4529-85ae-8ca08c6dbeda",
+      "score": 0.33261433,
+      "title": "(PDF) Visual Acuity in Insects",
+      "url": "https://www.researchgate.net/publication/8665924_Visual_Acuity_in_Insects"
+    },
+    {
+      "id": "c9933f62-ddf9-4a8a-a408-1c27c0c453ee",
+      "score": 0.3291442,
+      "title": "Vision: Anatomy and Physiology, Animation",
+      "url": "https://www.youtube.com/watch?v=_xKbjYBnHhc"
+    },
+    {
+      "id": "13a141f9-93d1-4dfd-9e70-eb0041e1c72c",
+      "score": 0.32296407,
+      "title": "Spider vision - XIMENA NELSON",
+      "url": "https://www.ximenanelson.com/spider-vision.html"
+    },
+    {
+      "id": "e6a742e5-5401-4e6f-bebd-5b56fee5745e",
+      "score": 0.29732248,
+      "title": "Role of the different eyes in the visual odometry in the wolf spider Lycosa tarantula (Araneae, Lycosidae) - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28100804/"
+    },
+    {
+      "id": "f6a7850b-aef1-4e3a-8b5c-33da6b7524e7",
+      "score": 0.29313174,
+      "title": "Photoreceptors",
+      "url": "https://spie.org/publications/spie-publication-resources/optipedia-free-optics-information/fg04_p04_photoreceptors"
+    },
+    {
+      "id": "465b7f4f-9ec3-4219-a917-8e90a31fcf46",
+      "score": 0.29301032,
+      "title": "Theraphosidae | Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/theraphosidae"
+    },
+    {
+      "id": "f754da49-e974-4ea1-971e-d93e7f84708e",
+      "score": 0.2915105,
+      "title": "Spectral sensitivity of a colour changing spider",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022191011000394"
+    },
+    {
+      "id": "8aa6d75c-d235-4746-ba5d-04e19bdd574a",
+      "score": 0.29120806,
+      "title": "Tarantula welfare may be improved with greater environmental complexity: A preliminary behavioral study with Brazilian black tarantulas (Grammastola pulchra) | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314501"
+    },
+    {
+      "id": "832ce9d7-b983-4e69-a72b-6c89afecef6d",
+      "score": 0.28449693,
+      "title": "Photoreceptors - Webvision - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK11522/"
+    },
+    {
+      "id": "055bf0ab-89b6-4f09-8447-ddc4a00370ae",
+      "score": 0.2839531,
+      "title": "Photoreceptors - American Academy of Ophthalmology",
+      "url": "https://www.aao.org/eye-health/anatomy/photoreceptors"
+    },
+    {
+      "id": "329eb5f0-4535-4f8c-bc69-35ccc3704bce",
+      "score": 0.28231043,
+      "title": "List of Theraphosidae species - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Theraphosidae_species"
+    },
+    {
+      "id": "aa054e24-afb2-495c-9980-42b8f99aa747",
+      "score": 0.2809102,
+      "title": "Polarized light detection in spiders",
+      "url": "https://journals.biologists.com/jeb/article/204/14/2481/32969/Polarized-light-detection-in-spiders"
+    },
+    {
+      "id": "8a1865a6-6a5a-4c0c-9b4e-c1058171efcc",
+      "score": 0.27365977,
+      "title": "Tarantula's Can LEARN!? Tarantula Memory & Behavior",
+      "url": "https://www.youtube.com/watch?v=5uEvzG7O5-A"
+    },
+    {
+      "id": "688b52ea-51fa-451c-8259-650f384656d6",
+      "score": 0.27292156,
+      "title": "Ontogeny of visual acuity in two species of deermice (Peromyscus) - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S000334727380096X"
+    },
+    {
+      "id": "9ade7616-b372-4020-81f1-461df3da4390",
+      "score": 0.26895544,
+      "title": "The path to colour discrimination is S-shaped: behaviour ...",
+      "url": "https://www.researchgate.net/publication/319453729_The_path_to_colour_discrimination_is_S-shaped_behaviour_determines_the_interpretation_of_colour_models"
+    },
+    {
+      "id": "e8bd33f1-be5f-41f9-a880-6f79576b5e89",
+      "score": 0.2613125,
+      "title": "The optical imaging of tarantula hair corneal injury",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28736046/"
+    },
+    {
+      "id": "4affef58-6df9-4c98-b940-3036fd580c7e",
+      "score": 0.25813705,
+      "title": "Spectral sensitivities of photoreceptor in the ocelli of ...",
+      "url": "https://www.americanarachnology.org/journal-joa/joa-all-articles/article/download/JoA_v17_p195.pdf/?no_cache=1"
+    },
+    {
+      "id": "95abcc2d-6a59-447a-a278-44d624c217cc",
+      "score": 0.25714245,
+      "title": "2-Minute Neuroscience: Phototransduction",
+      "url": "https://www.youtube.com/watch?v=dhd2fja0LZ4"
+    },
+    {
+      "id": "49b8f993-298a-4648-b792-806b8e14fa77",
+      "score": 0.24324717,
+      "title": "Spider vision: Current Biology",
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(20)31067-8"
+    },
+    {
+      "id": "ac03231d-09d9-4156-99c1-624d18046b2d",
+      "score": 0.24300456,
+      "title": "Colour use by tiny predators: jumping spiders show colour biases during foraging - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0003347214000591"
+    },
+    {
+      "id": "4957d68a-2b74-40bf-af3c-a32dff11e0cf",
+      "score": 0.23863931,
+      "title": "Cones - American Academy of Ophthalmology",
+      "url": "https://www.aao.org/eye-health/anatomy/cones"
+    },
+    {
+      "id": "ba5c256b-2c2d-4294-bdf1-d21a8541cb57",
+      "score": 0.23736413,
+      "title": "Complex allometric relationships and ecological factors ...",
+      "url": "https://www.academia.edu/125096235/Complex_allometric_relationships_and_ecological_factors_shape_the_development_and_evolution_of_eye_size_in_the_modular_visual_system_of_spiders"
+    },
+    {
+      "id": "ae40290e-8ee3-4a73-ab27-f805b1327913",
+      "score": 0.23066878,
+      "title": "How Do We See Light? | Ask A Biologist",
+      "url": "https://askabiologist.asu.edu/rods-and-cones"
+    },
+    {
+      "id": "7e805959-6d63-4bc4-97d3-5a3fabe38516",
+      "score": 0.22836332,
+      "title": "\"Cross-modal effects on learning: a seismic stimulus improves ...",
+      "url": "https://digitalcommons.unl.edu/bioscihebets/12/"
+    },
+    {
+      "id": "47bef9db-81e1-4164-9a05-0c1808fdb4ac",
+      "score": 0.22609979,
+      "title": "Spectral sensitivity of photoreceptors in insect compound eyes: Comparison of species and methods | Journal of Comparative Physiology A",
+      "url": "https://link.springer.com/article/10.1007/BF01338560"
+    },
+    {
+      "id": "df127f26-d18b-461c-8e25-b53a530b82ce",
+      "score": 0.22525506,
+      "title": "The evolutionary history and spectral tuning of vertebrate ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0012160622002111"
+    },
+    {
+      "id": "df264ee7-d7d8-4421-a7d5-de92183f0807",
+      "score": 0.22431062,
+      "title": "Tarantula Fact Sheet",
+      "url": "https://www.desertmuseum.org/kids/oz/long-fact-sheets/tarantula.php"
+    },
+    {
+      "id": "f7b04e06-106d-45f0-a0e3-5ac909ad6d74",
+      "score": 0.22349605,
+      "title": "ERG waves explained | Retinal electrophysiology |",
+      "url": "https://www.youtube.com/watch?v=DvMFe6WTlg8"
+    },
+    {
+      "id": "552bd2bc-6393-4157-af4e-367373651990",
+      "score": 0.21094543,
+      "title": "Foundations of Vision \u00bb Chapter 3: The Photoreceptor Mosaic",
+      "url": "https://foundationsofvision.stanford.edu/chapter-3-the-photoreceptor-mosaic/"
+    },
+    {
+      "id": "95f49daa-a069-42f8-98d4-307341371e77",
+      "score": 0.2084692,
+      "title": "Visual acuity of Empoasca onukii (Hemiptera, Cicadellidae) - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10145553/"
+    },
+    {
+      "id": "4ad37155-1794-480a-bd92-97aec54467fc",
+      "score": 0.20673421,
+      "title": "Function of being colorful in web spiders: attracting prey or ...",
+      "url": "https://academic.oup.com/beheco/article/17/4/606/215816"
+    },
+    {
+      "id": "01ef93c3-739b-4a3a-8563-416c15bcacea",
+      "score": 0.20443754,
+      "title": "Shedding light on the embryogenesis and eye development of the troglophile cave spider Tegenaria pagana C. L. Koch, 1840 (Araneae: Agelenidae) | EvoDevo | Full Text",
+      "url": "https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-025-00238-6"
+    },
+    {
+      "id": "d990b2ca-3c6d-45d2-9a78-b12fffb4252a",
+      "score": 0.20429464,
+      "title": "Spider vision - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spider_vision"
+    },
+    {
+      "id": "e36a202f-8918-4127-8f67-d135c49c6292",
+      "score": 0.17968917,
+      "title": "Theraphosidae (baboon spiders)",
+      "url": "https://www.biodiversityexplorer.info/arachnids/spiders/theraphosidae/index.htm"
+    },
+    {
+      "id": "7fed5ef8-b948-440e-b547-b64c634663d3",
+      "score": 0.17330252,
+      "title": "Behavioral and Physiological Response of Musca domestica to Colored Visual Targets | Journal of Medical Entomology | Oxford Academic",
+      "url": "https://academic.oup.com/jme/article/49/1/94/862190"
+    },
+    {
+      "id": "e190f93b-006f-4a23-8b81-3503ae5765c8",
+      "score": 0.17104766,
+      "title": "Spectral Sensitivity of Single Photoreceptor Cells in the Eyes of ...",
+      "url": "https://bioone.org/journalArticle/Download?urlId=10.2108%2Fzsj.13.199"
+    },
+    {
+      "id": "59cf0d08-b57a-4b5e-8673-841f43646250",
+      "score": 0.1645839,
+      "title": "Biological, cultural, and developmental influences on color preferences (Chapter 22) - Handbook of Color Psychology",
+      "url": "https://www.cambridge.org/core/books/abs/handbook-of-color-psychology/biological-cultural-and-developmental-influences-on-color-preferences/30FDCD0E170A8EBE2788950F78DA23CB"
+    },
+    {
+      "id": "7a2fa33c-3652-4dc6-87c2-abf0afea2f47",
+      "score": 0.15247369,
+      "title": "Visual acuity and spatial contrast sensitivity in tree squirrels - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0376635782900080"
+    },
+    {
+      "id": "bc7c046e-97a4-4919-80df-33cf95215ed8",
+      "score": 0.14673436,
+      "title": "r/tarantulas on Reddit: What is tarantula eyesight like",
+      "url": "https://www.reddit.com/r/tarantulas/comments/jy016w/what_is_tarantula_eyesight_like/"
+    },
+    {
+      "id": "aa5a31b2-21db-42d4-8bb3-86b102d67a84",
+      "score": 0.14585622,
+      "title": "See the world through a jumping spider\u2019s eyes \u2014 and other senses",
+      "url": "https://www.snexplores.org/article/jumping-spider-vision-eyes-color-senses-hearing-mating-courtship"
+    },
+    {
+      "id": "3a9207e6-4420-4569-b81f-bd158e588ef0",
+      "score": 0.14571027,
+      "title": "Innate colour preference, individual learning and memory retention in the ant Camponotus blandus - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28931719/"
+    },
+    {
+      "id": "628d1282-ad3f-4bed-8547-c90cbbc01f3c",
+      "score": 0.14505509,
+      "title": "Spectral-Sensitivity-of-Single-Photoreceptor-Cells-in-the- ...",
+      "url": "https://www.researchgate.net/profile/Peter-Walla/publication/232669999_Spectral_Sensitivity_of_Single_Photoreceptor_Cells_in_the_Eyes_of_the_Ctenid_Spider_Cupiennius_salei_Keys/links/0912f510e112cd3516000000/Spectral-Sensitivity-of-Single-Photoreceptor-Cells-in-the-Eyes-of-the-Ctenid-Spider-Cupiennius-salei-Keys.pdf?origin=scientificContributions"
+    },
+    {
+      "id": "efb33c7e-8b3f-4f7a-9f42-b42ba388ac59",
+      "score": 0.14404073,
+      "title": "Secondary not subordinate: Opsin localization suggests ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0042698924000117"
+    },
+    {
+      "id": "07984073-dae0-4ae9-b31d-d629560cddc7",
+      "score": 0.14124614,
+      "title": "Spectral discrimination in color blind animals via chromatic ...",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1524578113"
+    },
+    {
+      "id": "907d18bd-c07d-4401-9299-18f2e1d8d082",
+      "score": 0.13018611,
+      "title": "Phototransduction - Neuroscience - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK10806/"
+    },
+    {
+      "id": "b275134d-c82b-466d-b720-23fc286e484f",
+      "score": 0.12503357,
+      "title": "Flexible color learning in an invertebrate predator: Habronattus ...",
+      "url": "https://academic.oup.com/beheco/article/27/2/520/2196652"
+    },
+    {
+      "id": "9ba9e07a-10a0-47c8-8488-7387a237e328",
+      "score": 0.12458555,
+      "title": "Photoreceptor/Retinal Pigment Epithelium Interactions in Health and Disease by Dean Bok, PhD | UCI",
+      "url": "https://www.youtube.com/watch?v=qms-GbBjdxU"
+    },
+    {
+      "id": "c389f77c-492e-4254-9da0-80703cea0862",
+      "score": 0.12394791,
+      "title": "Compound Eye - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/immunology-and-microbiology/compound-eye"
+    },
+    {
+      "id": "dcf22516-ae0d-4ed6-8c7c-532ea43fedef",
+      "score": 0.10737215,
+      "title": "Spatial resolution and sensitivity of the eyes of the stingless bee, Tetragonula iridipennis - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34738166/"
+    },
+    {
+      "id": "d45721ea-3d72-4555-aa1e-5b8101783771",
+      "score": 0.10274522,
+      "title": "Visual odometry in the wolf spider Lycosa tarantula (Araneae",
+      "url": "https://www.researchgate.net/publication/259985422_Visual_odometry_in_the_wolf_spider_Lycosa_tarantula_Araneae_Lycosidae"
+    },
+    {
+      "id": "3eab46ef-e864-4e89-a4bb-5c20cb3dd839",
+      "score": 0.08350859,
+      "title": "Reversal learning and complex maze learning in the spider ...",
+      "url": "https://britishspiders.org.uk/system/files/library/120401.pdf"
+    },
+    {
+      "id": "28063641-619f-4799-aa24-6ae9aff88ee3",
+      "score": 0.08173223,
+      "title": "a new species of north american tarantula , aphonopelma ...",
+      "url": "https://www.americanarachnology.org/journal-joa/joa-all-volumes/detail/article/download/JoA_v20_p189.pdf/?no_cache=1"
+    },
+    {
+      "id": "86bdba5a-62ad-4d03-af7e-37b620b65d34",
+      "score": 0.08059611,
+      "title": "(PDF) Distributed Vision in Spiders",
+      "url": "https://www.researchgate.net/publication/369615614_Distributed_Vision_in_Spiders"
+    },
+    {
+      "id": "07204dc7-ff46-4190-a892-bedb277f4560",
+      "score": 0.06165541,
+      "title": "How spiders see the world - The Australian Museum",
+      "url": "https://australian.museum/learn/animals/spiders/how-spiders-see-the-world/"
+    },
+    {
+      "id": "b09e6b5b-49f1-420e-aaba-3fd6396c9c1f",
+      "score": 0.06104804,
+      "title": "(PDF) Jumping Spiders Associate Food With Color Cues In ...",
+      "url": "https://www.researchgate.net/publication/232681977_Jumping_Spiders_Associate_Food_With_Color_Cues_In_A_T-Maze"
+    },
+    {
+      "id": "02df2164-13c3-4d9e-a194-ec515ce7070b",
+      "score": 0.060313307,
+      "title": "Effects of prey colour on bird predation: an experiment in Mediterranean woodlands - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0003347220303092"
+    },
+    {
+      "id": "51f1dd04-d80e-4a5d-a4e6-eef5a697ff4a",
+      "score": 0.045188066,
+      "title": "Evolution of eye morphology and rhodopsin expression in the Drosophila melanogaster species subgroup - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22662147/"
+    },
+    {
+      "id": "d2e0f2da-6870-49a0-afba-de2ca8bfb805",
+      "score": 0.03349144,
+      "title": "Dopamine Level Affects Social Interaction and Color Preference Possibly Through Intestinal Microbiota in Zebrafish | Zebrafish",
+      "url": "https://www.liebertpub.com/doi/10.1089/zeb.2021.0077"
+    }
+  ]
+}

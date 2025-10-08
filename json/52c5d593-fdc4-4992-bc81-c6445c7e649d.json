@@ -1,0 +1,945 @@
+{
+  "id": "52c5d593-fdc4-4992-bc81-c6445c7e649d",
+  "status": "completed",
+  "content": "FALSE. Based on available scientific and clinical evidence, oral caffeine is not considered an effective nasal decongestant. While caffeine's known vasoconstrictive properties provide a plausible physiological mechanism for decongestion, direct clinical studies in humans are lacking, and the one objective study that measured nasal airflow after oral caffeine intake found no statistically significant effect. Furthermore, caffeine is not approved by regulatory bodies as a standalone decongestant, and its inclusion in multi-symptom cold and flu medications is for other documented therapeutic purposes.\n\n## Physiological Mechanism Analysis\n\n### Theoretical Decongestant Action\nThe primary mechanism of action for decongestant drugs is the constriction of blood vessels (vasoconstriction) within the nasal mucosa[1][2]. This process, typically mediated by activating alpha-adrenergic receptors, reduces blood flow, which in turn shrinks swollen nasal tissues and alleviates congestion[3][2].\n\nCaffeine is a well-documented vasoconstrictor[4][5][6]. It functions primarily as an adenosine receptor antagonist, blocking adenosine's vasodilating effects and causing blood vessels to narrow[7][8][9]. This action is the basis for its efficacy in treating certain types of headaches, such as migraines, which are associated with vasodilation[4][10].\n\nBased on this mechanism, some sources suggest caffeine could temporarily reduce swelling in the blood vessels of the nasal passages, potentially relieving congestion[7][5][11]. This hypothesis is supported by a study in an allergic rhinitis mouse model, which found that caffeine attenuated nasal symptoms, reduced the thickness of the nasal mucosa, and alleviated goblet cell hyperplasia[12].\n\n### Confounding Factor: Mucus Viscosity\nA potential counteracting effect of caffeine is its mild diuretic property, which increases urine production and can contribute to fluid loss[13][11]. Dehydration can cause mucus in the nasal passages to become thicker and more difficult to clear, potentially worsening congestion[13][14]. This could negate any benefit from vasoconstriction[15].\n\nHowever, research indicates that a profound tolerance to caffeine's diuretic effect develops in regular users[16]. In individuals who habitually consume caffeinated beverages, moderate intake does not lead to dehydration or fluid loss in excess of the volume ingested[16]. Studies comparing moderate coffee consumption to water have found no significant difference in hydration status[17][18]. The diuretic effect is most pronounced with large, acute doses (at least 250-300 mg) in individuals who have been abstinent from caffeine[16].\n\nFurthermore, one study on human gastric cells found that caffeine did not stimulate mucus secretion and, in fact, inhibited mucus release induced by other agonists[19]. While not specific to the respiratory tract, this suggests caffeine does not directly increase mucus production[20].\n\n## Clinical and Pharmaceutical Evidence\n\n### Lack of Direct Clinical Evidence\nDespite a plausible mechanism, there is a significant lack of direct clinical evidence from placebo-controlled trials to support the use of oral caffeine as a nasal decongestant.\n\nOne study specifically investigated the effect of oral caffeine on olfactory function and used acoustic rhinometry to objectively measure the minimum cross-sectional area (MCA) of the nasal cavity[21]. The results showed that while there was a slight increase in the nasal cavity area after caffeine intake, the difference was not statistically significant compared to before intake or to decaffeinated coffee[21]. This is the most direct objective evidence available and it fails to demonstrate a significant decongestant effect.\n\nFurther indicating a lack of established efficacy, many clinical trials for nasal congestion treatments list regular consumption of caffeine-containing beverages as an exclusion criterion, treating it as a confounding variable to be controlled for rather than a therapeutic agent[22][23][24].\n\n### Regulatory Status and Role in Combination Medications\nCaffeine is not listed as an approved active ingredient for oral nasal decongestion by the U.S. Food and Drug Administration (FDA)[25]. Although it is a common ingredient in over-the-counter multi-symptom cold, flu, and allergy medications, its documented therapeutic roles in these formulations are not for decongestion[26][27]. Instead, caffeine is included to:\n*   **Counteract Drowsiness:** It mitigates the sedative effects of antihistamines, such as chlorpheniramine, that are often included in these products[28].\n*   **Improve Alertness:** It helps to alleviate the malaise, fatigue, and decreased psychomotor performance associated with having a common cold[29][30].\n*   **Enhance Analgesia:** Caffeine is a well-established analgesic adjuvant, meaning it increases the pain-relieving efficacy of medications like paracetamol (acetaminophen) and ibuprofen[31][32]. It has been shown to increase the potency of some analgesics by as much as 40%[33].\n\n### Cafaminol: A Caffeine-Derivative Precedent\nA caffeine derivative named Cafaminol (also known as methylcoffanolamine) was introduced in Germany in 1974 as a vasoconstrictor for use as a nasal decongestant[34][35]. Its mechanism is cited as vasoconstriction of nasal mucosal blood vessels, acting as a selective alpha-1 adrenergic receptor agonist, which is similar to standard decongestants[36][35]. However, Cafaminol is a distinct chemical compound, not caffeine itself, and its use is now considered uncommon or discontinued[37]. Its existence demonstrates that a caffeine-related structure can be used for decongestion, but does not provide evidence for the efficacy of oral caffeine.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "045510ff-7a23-48be-a756-0aece77ee601",
+      "score": 0.67706895,
+      "title": "Vasoconstriction",
+      "url": "https://ozgurkilickesmez.com/en/vasoconstriction/",
+      "citation_index": 1
+    },
+    {
+      "id": "2fa3d193-f26d-4527-b3dc-87725d7d430c",
+      "score": 0.22507618,
+      "title": "The pharmacology of alpha-adrenergic decongestants - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7507588/",
+      "citation_index": 2
+    },
+    {
+      "id": "df8973a5-e51a-4c52-a091-f17a4c8cf3f4",
+      "score": 0.26629275,
+      "title": "List of Decongestants + Uses, Types & Side Effects - Drugs.com",
+      "url": "https://www.drugs.com/drug-class/decongestants.html",
+      "citation_index": 3
+    },
+    {
+      "id": "662da7c1-e66d-4204-b274-94102ec24f75",
+      "score": 0.83932644,
+      "title": "Does Caffeine Help Headaches?",
+      "url": "https://health.clevelandclinic.org/does-caffeine-help-headaches",
+      "citation_index": 4
+    },
+    {
+      "id": "6e45fcf9-7108-4c63-a97b-31854242fe7d",
+      "score": 0.8325776,
+      "title": "Can Coffee Cause Nasal Congestion? - Ear Nose Throat Expert",
+      "url": "https://www.youtube.com/watch?v=rhGVMDpjtYA",
+      "citation_index": 5
+    },
+    {
+      "id": "c6c180b6-6aec-4016-aac9-743a8dd1d6f2",
+      "score": 0.42605945,
+      "title": "Vasoconstriction",
+      "url": "https://en.wikipedia.org/wiki/Vasoconstriction",
+      "citation_index": 6
+    },
+    {
+      "id": "77e455ec-0463-4526-8b5b-09e22afd8db5",
+      "score": 0.8536326,
+      "title": "What effects does coffee have on sinuses? - Quora",
+      "url": "https://www.quora.com/What-effects-does-coffee-have-on-sinuses",
+      "citation_index": 7
+    },
+    {
+      "id": "b2045c9d-48f2-4871-9721-ad31635ddb57",
+      "score": 0.39152282,
+      "title": "The effect of daily caffeine use on cerebral blood flow: How much caffeine can we tolerate? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2748160/",
+      "citation_index": 8
+    },
+    {
+      "id": "d529e34c-b492-440b-bcd6-8040d4afba20",
+      "score": 0.33777177,
+      "title": "Caffeine\u2032s Vascular Mechanisms of Action - Echeverri - 2010 - International Journal of Vascular Medicine - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1155/2010/834060",
+      "citation_index": 9
+    },
+    {
+      "id": "49303aed-a768-4b6e-8cf9-d273724f288e",
+      "score": 0.3291442,
+      "title": "Caffeine's effect on headaches - Mayo Clinic Health System",
+      "url": "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/does-caffeine-treat-or-trigger-headaches",
+      "citation_index": 10
+    },
+    {
+      "id": "7034464a-595c-4f7a-a79d-8493d1aeb92f",
+      "score": 0.78944516,
+      "title": "Is Coffee Good For Sinusitis? - Ear Nose Throat Expert",
+      "url": "https://www.youtube.com/watch?v=WlBkn2_7gBc",
+      "citation_index": 11
+    },
+    {
+      "id": "00ad7d34-c024-441f-8b64-b436fd81732a",
+      "score": 0.7777226,
+      "title": "Anti-allergic Effects of Caffeine in an Allergic Rhinitis Mouse Model",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002571992",
+      "citation_index": 12
+    },
+    {
+      "id": "68a63691-db20-46cb-b2e8-5243253c6dda",
+      "score": 0.7756902,
+      "title": "Caffeine and Sinus Issues: Friend or Foe?",
+      "url": "https://sleepandsinuscenters.com/blog/caffeine-and-sinus-issues-friend-or-foe",
+      "citation_index": 13
+    },
+    {
+      "id": "1b79f070-634f-40cd-a462-2ac89c1c0843",
+      "score": 0.53021276,
+      "title": "The Role of Hydration in Sinus Health",
+      "url": "https://www.sinusdoctor.com/the-role-of-hydration-in-sinus-health/",
+      "citation_index": 14
+    },
+    {
+      "id": "b5c15d99-e70b-4f99-85de-8d765d9f728f",
+      "score": 0.7610953,
+      "title": "Can Caffeine Worsen Nasal Congestion? - Ear Nose Throat Expert",
+      "url": "https://www.youtube.com/watch?v=YD4kqIu0Cc4",
+      "citation_index": 15
+    },
+    {
+      "id": "13cb4f75-0d88-4efe-b416-d0a82e87c588",
+      "score": 0.24247949,
+      "title": "Caffeine ingestion and fluid balance: a review - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19774754/",
+      "citation_index": 16
+    },
+    {
+      "id": "20ed0191-6ba5-4d34-a224-35a2b186c184",
+      "score": 0.32646516,
+      "title": "Debunking Dehydration & Coffee",
+      "url": "https://www.youtube.com/watch?v=zsg1qxowUn8",
+      "citation_index": 17
+    },
+    {
+      "id": "f6a0d5d7-5765-422b-aa39-cbd21e6a268a",
+      "score": 0.23800114,
+      "title": "Coffee as hydrating as water, study finds",
+      "url": "https://www.youtube.com/watch?v=5KB88GISa0E",
+      "citation_index": 18
+    },
+    {
+      "id": "516f53bd-c7dc-4cb8-823e-a144c96aa33a",
+      "score": 0.65252984,
+      "title": "Effect of caffeine on mucus secretion and agonist-dependent Ca2+ mobilization in human gastric mucus secreting cells - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9150277/",
+      "citation_index": 19
+    },
+    {
+      "id": "70f7c5a4-5d2a-4bcd-999e-a678e378e185",
+      "score": 0.8098936,
+      "title": "Does Coffee Affect Mucus Production? - Ear Nose Throat Expert",
+      "url": "https://www.youtube.com/watch?v=9EYIokYeE8w",
+      "citation_index": 20
+    },
+    {
+      "id": "28739436-3c1b-484e-bcfd-8b7982ead5a6",
+      "score": 0.58664185,
+      "title": "Does Improved Attention Induced by Caffeine Intake Affect Olfactory Function? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7010495/",
+      "citation_index": 21
+    },
+    {
+      "id": "be65f8b7-09d0-4b0c-8885-fda4f70c7ce2",
+      "score": 0.27698427,
+      "title": "Sleep Quality and Congestion with Breathe Right Nasal ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822978/",
+      "citation_index": 22
+    },
+    {
+      "id": "8950be4e-c08d-4123-9e1e-f92da5ed6392",
+      "score": 0.31481943,
+      "title": "A Pivotal Study to Assess the Effectiveness of Nasal Dilator ...",
+      "url": "https://clinicaltrials.gov/study/NCT03549130",
+      "citation_index": 23
+    },
+    {
+      "id": "4800c5fb-5b07-437c-a79b-6a4844ef3cef",
+      "score": 0.40627348,
+      "title": "Sleep Quality and Congestion with Breathe Right Nasal ...",
+      "url": "https://link.springer.com/article/10.1007/s12325-019-01005-5",
+      "citation_index": 24
+    },
+    {
+      "id": "9831d7de-c308-4342-838f-a9d15d9b9a94",
+      "score": 0.6257817,
+      "title": "eCFR :: 21 CFR 341.20 -- Nasal decongestant active ingredients.",
+      "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-341/subpart-B/section-341.20",
+      "citation_index": 25
+    },
+    {
+      "id": "9479e181-b775-459a-a060-bca7478a48a4",
+      "score": 0.53415143,
+      "title": "Caffeine: Uses, Interactions, Mechanism of Action",
+      "url": "https://go.drugbank.com/drugs/DB00201",
+      "citation_index": 26
+    },
+    {
+      "id": "513b7b4d-263c-41b1-9f24-302bf2965687",
+      "score": 0.2041994,
+      "title": "Oral antihistamine\u2010decongestant\u2010analgesic combinations ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8780136/",
+      "citation_index": 27
+    },
+    {
+      "id": "9d12ee9f-e4a1-4eb3-aca3-d56e57ab95f5",
+      "score": 0.7587435,
+      "title": "A Phase IV, Open-Labelled, Multi-Centric Study",
+      "url": "https://www.researchgate.net/publication/334478973_Efficacy_and_Safety_of_a_Fixed_Dose_Combination_of_Paracetamol_Chlorpheniramine_Maleate_Phenylephrine_and_Caffeine_in_Treatment_of_Common_Cold_A_Phase_IV_Open-Labelled_Multi-Centric_Study",
+      "citation_index": 28
+    },
+    {
+      "id": "ce1d1e7c-dc26-4ec4-87c2-a92269bda5fc",
+      "score": 0.3410561,
+      "title": "Caffeine and the common cold - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9443519/",
+      "citation_index": 29
+    },
+    {
+      "id": "02abdf88-49bc-4225-9009-a549c2ab3a78",
+      "score": 0.40260404,
+      "title": "(PDF) Caffeine and the common cold",
+      "url": "https://www.researchgate.net/publication/13786132_Caffeine_and_the_common_cold",
+      "citation_index": 30
+    },
+    {
+      "id": "c5a56345-e5cf-489b-9c59-ca6e8876c71e",
+      "score": 0.1636996,
+      "title": "Synergistic Effects of Caffeine in Combination with ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10224171/",
+      "citation_index": 31
+    },
+    {
+      "id": "38de1d29-f9b0-40c6-9af5-e43b5f9149a0",
+      "score": 0.15777196,
+      "title": "Caffeine as an analgesic adjuvant for acute pain in adults - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6485702/",
+      "citation_index": 32
+    },
+    {
+      "id": "19fc0e16-8b48-45fa-a916-dc8dab775899",
+      "score": 0.19999497,
+      "title": "Caffeine - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Caffeine",
+      "citation_index": 33
+    },
+    {
+      "id": "70fd3f7e-ba07-4519-af2b-9d8bdf8495f5",
+      "score": 0.5746579,
+      "title": "Cafaminol - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cafaminol",
+      "citation_index": 34
+    },
+    {
+      "id": "32809b0c-3991-42e3-a3da-0994c639b016",
+      "score": 0.8377398,
+      "title": "Cafaminol | 30924-31-3",
+      "url": "https://www.benchchem.com/zh/product/b1668202",
+      "citation_index": 35
+    },
+    {
+      "id": "bda0c24b-c44d-42f6-a838-2a8a99ab6c67",
+      "score": 0.80698997,
+      "title": "Cafaminol | 30924-31-3",
+      "url": "https://www.benchchem.com/de/product/b1668202",
+      "citation_index": 36
+    },
+    {
+      "id": "aac927f5-5cfe-414c-9b63-534e3357a15d",
+      "score": 0.32344472,
+      "title": "Decongestant - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Decongestant",
+      "citation_index": 37
+    },
+    {
+      "id": "60d25bb6-e0f7-4ca2-90a9-2e2e9d084138",
+      "score": 0.8252664,
+      "title": "Does Caffeine Affect Mucus Production In The Throat? - Ear Nose Throat Expert",
+      "url": "https://www.youtube.com/watch?v=ALaGJz84R8A"
+    },
+    {
+      "id": "a99ed2da-f1f1-4b5e-8627-ff9ff2ae62f6",
+      "score": 0.81595254,
+      "title": "Can caffeine exacerbate symptoms of sinus congestion?",
+      "url": "https://www.droracle.ai/articles/110954/can-caffeine-exacerbate-the-symptoms-of-sinus-congestion-"
+    },
+    {
+      "id": "0d3ad943-fa56-47d8-9b9d-853ce8e2ed13",
+      "score": 0.8080827,
+      "title": "Oral Phenylephrine HCl for Nasal Congestion in Seasonal Allergic Rhinitis: A Randomized, Open-label, Placebo-controlled Study - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26143019/"
+    },
+    {
+      "id": "3ee3898e-9557-4c1a-91cd-4032403deb15",
+      "score": 0.7813477,
+      "title": "In Brief: Oral Phenylephrine for Nasal Congestion | The Medical Letter Inc.",
+      "url": "https://secure.medicalletter.org/TML-article-1484d"
+    },
+    {
+      "id": "1556dcf3-a72e-4525-b24d-6f1fa8fa5b87",
+      "score": 0.7756902,
+      "title": "Caffeine and Sinus Issues: Friend or Foe?",
+      "url": "https://www.sleepandsinuscenters.com/blog/caffeine-and-sinus-issues-friend-or-foe"
+    },
+    {
+      "id": "fabb05c3-837f-40eb-8c92-7e373bec4ad7",
+      "score": 0.7596005,
+      "title": "Effect of Catechins on Upper Respiratory Tract Infections in ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9102021/"
+    },
+    {
+      "id": "8e028662-321a-44d1-a4fa-b9c0e046a1a0",
+      "score": 0.6821721,
+      "title": "Nasal Caffeine Thermo-Sensitive In Situ Gel for Enhanced Cognition after Sleep-Deprivation - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35579146/"
+    },
+    {
+      "id": "d1243d79-8d69-477a-bf47-e7f427f879fc",
+      "score": 0.6816637,
+      "title": "Caffeine: A Multifunctional Efficacious Molecule with ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11593559/"
+    },
+    {
+      "id": "1e157928-c281-4b9d-9a14-e133605ccc7e",
+      "score": 0.67192334,
+      "title": "Is Coffee Bad For Cough And Cold?",
+      "url": "https://www.megawecare.com/good-health-by-yourself/cough-and-cold/is-coffee-bad-for-cough-and-cold"
+    },
+    {
+      "id": "8d364b8a-9703-43b9-86a8-dda1395d965f",
+      "score": 0.6628188,
+      "title": "Over-the-Counter Oral Phenylephrine: A Placebo for Nasal ...",
+      "url": "https://www.jaci-inpractice.org/article/S2213-2198(15)00318-9/abstract"
+    },
+    {
+      "id": "e7182cd3-ebd0-4454-b253-3c19e9d8eda2",
+      "score": 0.65861565,
+      "title": "Propylhexedrine",
+      "url": "https://en-academic.com/dic.nsf/enwiki/551291"
+    },
+    {
+      "id": "2e75744f-daea-4844-8a71-45295441c5e7",
+      "score": 0.6538572,
+      "title": "Partitioning of inhaled ventilation between the nasal and oral ...",
+      "url": "https://journals.physiology.org/doi/10.1152/japplphysiol.00658.2002"
+    },
+    {
+      "id": "aa0bacb4-418c-45ee-be63-0d5577cf8492",
+      "score": 0.6439794,
+      "title": "[Mature Content] r/Nootropics on Reddit: Intranasal caffeine; self blinded trial",
+      "url": "https://www.reddit.com/r/Nootropics/comments/10ayoa4/intranasal_caffeine_self_blinded_trial/"
+    },
+    {
+      "id": "5c480a85-4c11-4cac-99d2-677c6398388b",
+      "score": 0.6320719,
+      "title": "Mayo Clinic Q and A: Decongestants can sometimes cause more harm than good - Mayo Clinic News Network",
+      "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-decongestants-can-sometimes-cause-more-harm-than-good/"
+    },
+    {
+      "id": "c5179d04-414b-4c47-a9d4-bbd962ec88ee",
+      "score": 0.6175132,
+      "title": "Effect of caffeine on mucus secretion and agonist-dependent Ca2+ mobilization in human gastric mucus secreting cells - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167488996001772"
+    },
+    {
+      "id": "7051223e-435b-403d-b916-7be829293e66",
+      "score": 0.6041426,
+      "title": "Effective ways to get rid of phlegm and mucus",
+      "url": "https://www.medicalnewstoday.com/articles/321134"
+    },
+    {
+      "id": "9e82996c-c932-464d-8df1-4f7118db60d6",
+      "score": 0.60133666,
+      "title": "Caffeine and clemastine for treating respiratory disorders",
+      "url": "https://patents.google.com/patent/EP0886520A1/en"
+    },
+    {
+      "id": "9268ad9d-2bb9-4a38-87a8-23bdb0137dee",
+      "score": 0.5973971,
+      "title": "Caffeine: A Multifunctional Efficacious Molecule with ...",
+      "url": "https://www.mdpi.com/1422-0067/25/22/12003"
+    },
+    {
+      "id": "353366ba-7b2d-48a2-9c7c-65ae38b55a56",
+      "score": 0.59061456,
+      "title": "Effect of the new nasal dilator DAN-Air\u00ae on nasal breathing ...",
+      "url": "https://www.researchgate.net/publication/287907337_Effect_of_the_new_nasal_dilator_DAN-AirR_on_nasal_breathing_and_performance_in_elite_rowers"
+    },
+    {
+      "id": "1939f7cc-ceb6-4130-9c4e-1c2a0023f9c5",
+      "score": 0.5726516,
+      "title": "Can Too Much Caffeine Cause Nosebleeds?",
+      "url": "https://www.youtube.com/watch?v=IYt_sBAVbr8"
+    },
+    {
+      "id": "b66970d2-1c5e-4654-93e4-54edb47cdb91",
+      "score": 0.56920683,
+      "title": "Update on the efficiency and safety of orally administered ...",
+      "url": "https://www.researchgate.net/publication/378083141_Update_on_the_efficiency_and_safety_of_orally_administered_nasal_decongestants"
+    },
+    {
+      "id": "c6de43b7-b416-48d1-82df-b79d8926d027",
+      "score": 0.5634506,
+      "title": "Administration of Caffeine in Alternate Forms - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5790855/"
+    },
+    {
+      "id": "15c9ff38-0c55-45d7-bea2-0efe47b50bf7",
+      "score": 0.55912215,
+      "title": "FDA Suggests Removing Oral Phenylephrine as OTC Monograph Nasal Decongestant Ingredient | HCPLive",
+      "url": "https://www.hcplive.com/view/fda-suggests-removing-oral-phenylephrine-otc-monograph-nasal-decongestant-ingredient"
+    },
+    {
+      "id": "df5746f3-6a94-40cd-bb89-a217de89fb95",
+      "score": 0.5518883,
+      "title": "How Coffee Affects People with a Chronic Lung Condition | SmartVest",
+      "url": "https://smartvest.com/blog/bronchiectasis-and-coffee/"
+    },
+    {
+      "id": "f4856730-b18c-412e-a68c-195f20ece0a2",
+      "score": 0.529337,
+      "title": "Correlations between Peak Nasal Inspiratory Flow ...",
+      "url": "https://www.mdpi.com/2075-4426/12/9/1513"
+    },
+    {
+      "id": "fb411a78-cf06-4f6d-b690-3a3dedd6a368",
+      "score": 0.52612424,
+      "title": "WO1988004929A1 - Nasal delivery of caffeine",
+      "url": "https://patents.google.com/patent/WO1988004929A1/en"
+    },
+    {
+      "id": "8a0de8f1-2eba-42d7-ae54-23fc3da0fe99",
+      "score": 0.52334785,
+      "title": "Can caffeine cause sinus infections? - Quora",
+      "url": "https://www.quora.com/Can-caffeine-cause-sinus-infections"
+    },
+    {
+      "id": "5438d5c6-feca-446f-9136-fd9c6553c102",
+      "score": 0.52086246,
+      "title": "Caffeine ingestion and fluid balance: A review",
+      "url": "https://www.researchgate.net/publication/26832001_Caffeine_ingestion_and_fluid_balance_A_review"
+    },
+    {
+      "id": "1d4cb8fb-cfb8-4e4a-8192-73f514e093a9",
+      "score": 0.5172057,
+      "title": "Beneficial effects and possible mechanism of intake coffee...",
+      "url": "https://journals.lww.com/md-journal/fulltext/2025/02140/beneficial_effects_and_possible_mechanism_of.7.aspx"
+    },
+    {
+      "id": "6f660b41-2cba-483c-9480-f592a185bb86",
+      "score": 0.5167668,
+      "title": "Does Caffeine ACTUALLY Dehydrate You?",
+      "url": "https://www.youtube.com/watch?v=IHRa-9QI2r8"
+    },
+    {
+      "id": "5dc00b59-c0ad-41ad-bcd1-1f2ead6ba1bd",
+      "score": 0.5097406,
+      "title": "Will a Decongestant Relieve Your Cold and Flu Symptoms?",
+      "url": "https://www.verywellhealth.com/what-are-decongestants-770588"
+    },
+    {
+      "id": "419694db-bb62-4a1a-b0d0-f54e010c6675",
+      "score": 0.49436116,
+      "title": "Physiology: Rhinomanometry | SpringerLink",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-642-37250-6_25"
+    },
+    {
+      "id": "8b5df6d0-a7d3-4b5a-933e-65ccce69b17b",
+      "score": 0.49406826,
+      "title": "Breathe Right Tan (small/medium) nasal strips in Congestion, Nasal - Clinical Trials Registry - ICH GCP",
+      "url": "https://ichgcp.net/clinical-trials-registry/NCT03549130"
+    },
+    {
+      "id": "be0a0b53-b1c8-4592-bac6-2fb68c48e3c3",
+      "score": 0.48850358,
+      "title": "Effect of Caffeinated Soft Drinks on Salivary Flow - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3777298/"
+    },
+    {
+      "id": "49e8f7a4-38b9-479a-927a-2c3a35bfc594",
+      "score": 0.48177138,
+      "title": "Spravato (esketamine)",
+      "url": "https://www.medicalnewstoday.com/articles/326038.php"
+    },
+    {
+      "id": "0f5812a5-af17-4918-9785-260722a1bbf3",
+      "score": 0.4436251,
+      "title": "Levomethamphetamine",
+      "url": "https://wikipedia.nucleos.com/viewer/wikipedia_en_all_maxi_2024-01/A/Levo-methamphetamine"
+    },
+    {
+      "id": "0b6ee8dd-b261-4a7a-913d-ed4739e8ecd4",
+      "score": 0.44261298,
+      "title": "A placebo-controlled study of the nasal decongestant effect of phenylephrine and pseudoephedrine in the Vienna Challenge Chamber - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19230461/"
+    },
+    {
+      "id": "eccd1049-d609-4f22-9bc6-2a1370cbdca5",
+      "score": 0.44145688,
+      "title": "Caffeine and blood flow",
+      "url": "https://auctoresonline.org/article/caffeine-and-blood-flow"
+    },
+    {
+      "id": "12b720f4-d7a0-4155-991d-d3ecb323ba01",
+      "score": 0.43093804,
+      "title": "Pharmacokinetics of Oral Decongestants - Kanfer - 1993 - Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy - Wiley Online Library",
+      "url": "https://accpjournals.onlinelibrary.wiley.com/doi/abs/10.1002/j.1875-9114.1993.tb02780.x"
+    },
+    {
+      "id": "8c334148-731a-4124-afe3-db6a16ba15ed",
+      "score": 0.42792314,
+      "title": "Coffee and caffeine respiratory health benefits: A review",
+      "url": "https://www.researchgate.net/publication/379298541_Coffee_and_caffeine_respiratory_health_benefits_A_review"
+    },
+    {
+      "id": "e907933c-f86a-4ce0-bce0-5d92dddefb15",
+      "score": 0.42477044,
+      "title": "This is the Result of Taking Flu Medicine with Caffeine",
+      "url": "https://ai-care.id/diseases/this-is-the-result-of-taking-flu-medicine-with-caffeine-en"
+    },
+    {
+      "id": "ff95e9a9-d267-4d73-80fe-cabf7eb87f78",
+      "score": 0.42448413,
+      "title": "Evaluation of the efficacy of a combined formulation (Grippostad-C) in the therapy of symptoms of common cold: a randomized, double-blind, multicenter trial - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12665160/"
+    },
+    {
+      "id": "f4b66114-f55f-4b7b-9647-6144e0fd628a",
+      "score": 0.42405477,
+      "title": "Effects of Caffeine on Hydration Status: Evidence Analysis Review - Journal of the Academy of Nutrition and Dietetics",
+      "url": "https://www.jandonline.org/article/S2212-2672(16)30684-0/abstract"
+    },
+    {
+      "id": "bf9e701a-c7b2-436b-a8f6-28a55890d695",
+      "score": 0.42319635,
+      "title": "Over-the-Counter Oral Phenylephrine: A Placebo for Nasal Congestion - The Journal of Allergy and Clinical Immunology: In Practice",
+      "url": "https://www.jaci-inpractice.org/article/S2213-2198(15)00318-9/fulltext"
+    },
+    {
+      "id": "6684517c-da12-4c9c-827d-bd6c63820644",
+      "score": 0.4137856,
+      "title": "Caffeine decreases exhaled nitric oxide",
+      "url": "https://www.researchgate.net/publication/277538049_Caffeine_decreases_exhaled_nitric_oxide"
+    },
+    {
+      "id": "bbe806ae-1295-44fc-972c-cd04eaf5cdec",
+      "score": 0.40471974,
+      "title": "Efficacy and safety of oral phenylephrine: systematic review and meta-analysis - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17264159/"
+    },
+    {
+      "id": "f23fa9c0-4d60-4df0-b10c-63bdda4123ec",
+      "score": 0.40443742,
+      "title": "Rethinking your morning coffee - Harvard Health",
+      "url": "https://www.health.harvard.edu/staying-healthy/rethinking-your-morning-coffee"
+    },
+    {
+      "id": "68566773-d592-4775-a35e-956a81682caf",
+      "score": 0.39627898,
+      "title": "Administration of Caffeine in Alternate Forms | Sports Medicine",
+      "url": "https://link.springer.com/article/10.1007/s40279-017-0848-2"
+    },
+    {
+      "id": "276c0b4c-162b-4b67-9dba-ae7860f6b28b",
+      "score": 0.3925004,
+      "title": "Foods That Reduce Mucus in the Lungs | SmartVest",
+      "url": "https://smartvest.com/blog/foods-that-reduce-mucus-in-lungs/"
+    },
+    {
+      "id": "28ff5fef-09e5-4945-8029-86cb1d6fb90f",
+      "score": 0.38609254,
+      "title": "A placebo-controlled study of the nasal",
+      "url": "https://bookcafe.yuntsg.com/ueditor/jsp/upload/file/20220214/1644803882423039469.pdf"
+    },
+    {
+      "id": "2cad6e95-0635-4554-959a-fe622d6c5067",
+      "score": 0.38262632,
+      "title": "Will Coffee Dehydrate You? #shorts #coffee #coffeelover",
+      "url": "https://www.youtube.com/watch?v=zEpOG9S6ltg"
+    },
+    {
+      "id": "31a7c5e5-4891-4483-8e47-b85b6adf4fb5",
+      "score": 0.37367067,
+      "title": "Assessment of rhinological parameters for evaluating the effects of airborne irritants to the nasal epithelium - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11981667/?dopt=Abstract"
+    },
+    {
+      "id": "19a2faeb-4eaf-4feb-ba32-baad2480809e",
+      "score": 0.36683974,
+      "title": "Comparison of decongestive capacity of xylometazoline and pseudoephedrine with rhinomanometry and MRI - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16218514/"
+    },
+    {
+      "id": "69c4e063-c76a-46b8-a567-a782cbcc6e8b",
+      "score": 0.3514674,
+      "title": "Caffeine and Hydration - Summary of the Science",
+      "url": "https://www.youtube.com/watch?v=19OrAydr5xM"
+    },
+    {
+      "id": "5a98e812-f6dc-46a0-91ec-954d8849a5dc",
+      "score": 0.34521618,
+      "title": "The effect of nasal mucosal vasoconstriction on nasal airflow sensation - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7540520/"
+    },
+    {
+      "id": "32fc4b6d-c1a5-4d28-b78e-8be91ab06332",
+      "score": 0.34125364,
+      "title": "Phenylephrine, a Common Decongestant, Is Ineffective, Say FDA Advisors. It\u2019s Not Alone",
+      "url": "https://medicine.yale.edu/news-article/phenylephrine-a-common-decongestant-is-ineffective-say-fda-advisors-its-not-alone/"
+    },
+    {
+      "id": "5bb094fe-c648-47be-9cda-74b1e3876791",
+      "score": 0.33941197,
+      "title": "Do Glucose and Caffeine Nasal Sprays Influence Exercise or Cognitive Performance? - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28182503/"
+    },
+    {
+      "id": "7509ecab-e6be-4212-9291-1dd904ddad46",
+      "score": 0.33430737,
+      "title": "Pseudoephedrine (Sudafed, Zephrex-D, and others): Uses, Side Effects, ...",
+      "url": "https://www.webmd.com/drugs/2/drug-95022/adult-nasal-decongestant-oral/details"
+    },
+    {
+      "id": "56468754-4e08-404e-a16b-5cf9a617900e",
+      "score": 0.3155466,
+      "title": "Randomized, placebo-controlled, phase 1 safety study of ...",
+      "url": "https://www.annallergy.org/article/S1081-1206(25)00040-7/fulltext"
+    },
+    {
+      "id": "1f5a07b6-fd92-4963-b592-60d5e10fb4fc",
+      "score": 0.3070052,
+      "title": "Decongestants for a Stuffy Nose",
+      "url": "https://www.webmd.com/allergies/decongestants"
+    },
+    {
+      "id": "6a6a303e-d31a-4a50-b534-e5afc94627ca",
+      "score": 0.3042075,
+      "title": "Study Comparing Coristina\u00ae D to Resfenol\u00ae in the ...",
+      "url": "https://www.clinicaltrials.gov/study/NCT02735070"
+    },
+    {
+      "id": "fed832c8-c418-4728-8e69-eb4c72a4af3f",
+      "score": 0.2988703,
+      "title": "Caffeine and the common cold - Andrew Smith, Marie Thomas, Kate Perry, Helen Whitney, 1997",
+      "url": "https://journals.sagepub.com/doi/10.1177/026988119701100406"
+    },
+    {
+      "id": "4e6dc4d7-f59a-45e5-b569-51d8ba1a79f1",
+      "score": 0.29504755,
+      "title": "Caffeine and the common cold",
+      "url": "https://www.semanticscholar.org/paper/Caffeine-and-the-common-cold-Smith-Thomas/a50b9a1b9dbaebe2ba20118a1798590c9c62e077"
+    },
+    {
+      "id": "672c00fa-4171-4558-9750-754b043ab477",
+      "score": 0.28280038,
+      "title": "Pharmacology of Nasal Medications: An Update - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2218146/"
+    },
+    {
+      "id": "f012fe56-e5dc-46a3-85aa-411937c958f1",
+      "score": 0.27949944,
+      "title": "Caffeine's Vascular Mechanisms of Action - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3003984/"
+    },
+    {
+      "id": "253d49d5-b988-47b5-a8f3-623970e30028",
+      "score": 0.27912349,
+      "title": "Preparation and Evaluation of Caffeine Orodispersible Films: The Influence of Hydrotropic Substances and Film-Forming Agent Concentration on Film Properties - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10181256/"
+    },
+    {
+      "id": "3b0861cc-878f-4503-a9fb-44c6b349d9e5",
+      "score": 0.27410403,
+      "title": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT00276016"
+    },
+    {
+      "id": "1b912131-4a91-4d75-9021-5444fa0ed7ad",
+      "score": 0.27132937,
+      "title": "Decongestant - Wikipedia | PDF | Pharmacology | Drugs",
+      "url": "https://ru.scribd.com/document/444339263/Decongestant-Wikipedia"
+    },
+    {
+      "id": "2f2df8e6-c941-4cef-8df9-069d550f473f",
+      "score": 0.27027628,
+      "title": "Discrepant nasal and bronchial nitric oxide kinetics during ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0954611105001356"
+    },
+    {
+      "id": "4ea088fc-09e5-4828-b0ea-b4522cb10ad7",
+      "score": 0.26972094,
+      "title": "Does coffee count as part of my fluid intake? #health",
+      "url": "https://www.youtube.com/watch?v=gxoIvUwEftU"
+    },
+    {
+      "id": "a4e360b2-b690-4135-8af0-302c58ebd18a",
+      "score": 0.26946902,
+      "title": "FDA Proposes Ending Use of Oral Phenylephrine as OTC ...",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after"
+    },
+    {
+      "id": "fd6b519f-baf7-4509-a51d-5e3582a65639",
+      "score": 0.26420692,
+      "title": "Is Coffee Hydrating or Dehydrating? \u2615\ud83d\udca7",
+      "url": "https://www.youtube.com/watch?v=NT38M0qiaYo"
+    },
+    {
+      "id": "2015a38c-d274-498b-a900-41a538575f15",
+      "score": 0.25676486,
+      "title": "Effect of adrenergic agonist oral decongestants on blood pressure",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007895.pub3/references"
+    },
+    {
+      "id": "c592be33-5945-4a0f-a553-53dbb51e040e",
+      "score": 0.25017518,
+      "title": "Nasal decongestants for the common cold - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17253470/"
+    },
+    {
+      "id": "34d8d472-cfe4-4096-9992-15711d56f79b",
+      "score": 0.24998283,
+      "title": "Caffeine microparticles for nasal administration obtained by spray drying - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12176274/"
+    },
+    {
+      "id": "6855d5d6-c4c0-4702-92d8-7f35a6a244dd",
+      "score": 0.24488223,
+      "title": "Validated RP-HPLC method for simultaneous determination and quantification of chlorpheniramine maleate, paracetamol and caffeine in tablet formulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27330891/"
+    },
+    {
+      "id": "3fad0560-b41d-4658-9796-7148a0134865",
+      "score": 0.2443409,
+      "title": "Rise and fall of decongestants in treating nasal congestion ...",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/14656566.2024.2411009"
+    },
+    {
+      "id": "59566425-98c3-40d5-af26-968f45a7094b",
+      "score": 0.23800114,
+      "title": "(PDF) The role of caffeine in otorhinolaryngology: guilty as charged?",
+      "url": "https://www.researchgate.net/publication/255735650_The_role_of_caffeine_in_otorhinolaryngology_guilty_as_charged"
+    },
+    {
+      "id": "99a5069f-78fe-4dcb-9c70-52695b9a91d0",
+      "score": 0.23514394,
+      "title": "Effect of any form of steroids in comparison with that of other medications on the duration of olfactory dysfunction in patients with COVID-19: A systematic review of randomized trials and quasi-experimental studies",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288285"
+    },
+    {
+      "id": "2dd16057-2796-4332-aa2f-4cce7ae8eb21",
+      "score": 0.22533177,
+      "title": "Effect of Red Light Rhinophototherapy on Nasal Patency in Patients with Allergic Rhinitis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6311790/"
+    },
+    {
+      "id": "9b765b06-be1a-4c3b-8991-13828a8c9efc",
+      "score": 0.22482078,
+      "title": "MEASUREMENT OF NASAL AIRWAY",
+      "url": "https://www.youtube.com/watch?v=GBzOtewnHoA"
+    },
+    {
+      "id": "f3c32bee-71bb-43e1-9f2c-a9c2a40f0d98",
+      "score": 0.21847796,
+      "title": "The conjunctival allergen provocation test and the nasal ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131974/"
+    },
+    {
+      "id": "ca86c5a2-9ee9-447f-a831-0c0dc36411da",
+      "score": 0.21842791,
+      "title": "A Common Nasal Decongestant Doesn\u2019t Actually Work. What Should You Use Instead? | The Brink | Boston University",
+      "url": "https://www.bu.edu/articles/2023/phenylephrine-cold-medicine-decongestant-ineffective/"
+    },
+    {
+      "id": "caad6b97-3660-4ed9-a805-be8957c7bd73",
+      "score": 0.20755218,
+      "title": "SUDAFED\u00ae Sinus Congestion 12 Hour Caplets | SUDAFED\u00ae",
+      "url": "https://www.sudafed.com/products/sudafed-sinus-congestion-12-hour"
+    },
+    {
+      "id": "4702f1d5-fb13-486e-be68-447c8e8dc0a2",
+      "score": 0.20443754,
+      "title": "Rebound congestion and rhinitis medicamentosa: nasal decongestants in clinical practice. Critical review of the literature by a medical panel - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23375990/"
+    },
+    {
+      "id": "5f7aa833-0525-4efb-8bda-e856a0013685",
+      "score": 0.2030118,
+      "title": "Effect of caffeine on respiratory muscle strength and lung ...",
+      "url": "https://link.springer.com/article/10.1007/s00431-009-0961-9"
+    },
+    {
+      "id": "e9f41005-6c58-4576-a98b-5527caf35be8",
+      "score": 0.20277487,
+      "title": "Update on the efficiency and safety of orally administered ...",
+      "url": "https://rjid.com.ro/articles/2023.4/RJID_2023_4_Art-01.pdf"
+    },
+    {
+      "id": "81e1dbf8-f7c8-4fe8-9c09-585519873325",
+      "score": 0.20168777,
+      "title": "Caffeine: MedlinePlus",
+      "url": "https://medlineplus.gov/caffeine.html"
+    },
+    {
+      "id": "603a593e-1e49-4754-a883-2d5f7597f7a7",
+      "score": 0.20088705,
+      "title": "The myth about caffeine and dehydration",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/caffeinated-drinks/faq-20057965"
+    },
+    {
+      "id": "81b4a72f-7ccd-4ae5-809b-6fef0a4aed89",
+      "score": 0.19962023,
+      "title": "A national survey on current clinical practice pattern of Korean Medicine doctors for treating obesity",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266034"
+    },
+    {
+      "id": "5688e076-aa23-4000-9d59-b05848d819c0",
+      "score": 0.18723702,
+      "title": "Decongestant - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/decongestant"
+    },
+    {
+      "id": "0a70e44a-65da-4aa3-936c-7c61ba61729c",
+      "score": 0.18692514,
+      "title": "Smelling Coffee Beans Opens Sinuses!  Dr. Mandell",
+      "url": "https://www.youtube.com/watch?v=v6F3bsPTsH4"
+    },
+    {
+      "id": "c3c27025-0a4d-43e7-aefd-c4d2dc71207e",
+      "score": 0.18229482,
+      "title": "Partitioning of inhaled ventilation between the nasal and oral routes ...",
+      "url": "https://journals.physiology.org/doi/pdf/10.1152/japplphysiol.00658.2002"
+    },
+    {
+      "id": "cd644e84-9a5f-43d6-b87d-d2c4a133b404",
+      "score": 0.17775409,
+      "title": "The effect of caffeinated coffee on airway response to methacholine and exhaled nitric oxide - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S095461111100206X"
+    },
+    {
+      "id": "df687188-2e64-4a24-bc89-bf4cb2981420",
+      "score": 0.1753265,
+      "title": "Effects of coffee intake on airway hypersensitivity and ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10375320/"
+    },
+    {
+      "id": "000322c0-edaa-4690-b568-bc100b87d684",
+      "score": 0.17359652,
+      "title": "Caffeine Was Associated With Shorter Continuous Positive Airway Pressure Treatment for Infants up to Eight Weeks Old Hospitalised for Bronchiolitis - Casabianca - Acta Paediatrica - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/apa.70279"
+    },
+    {
+      "id": "7cd1d527-f9e1-40d7-8221-1f3254ec1ecc",
+      "score": 0.16281913,
+      "title": "Oral antihistamine\u2010decongestant\u2010analgesic combinations ...",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004976.pub4/full"
+    },
+    {
+      "id": "3ccea1c3-eaba-4a8c-b298-878c8f26e307",
+      "score": 0.1624999,
+      "title": "alpha2-adrenoceptor agonists as nasal decongestants - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16809058/"
+    },
+    {
+      "id": "f710a1a9-c635-4682-86ed-7f87f454270c",
+      "score": 0.15614378,
+      "title": "Meta-analysis of the efficacy of a single dose of phenylephrine 10 mg compared with placebo in adults with acute nasal congestion due to the common cold - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0149291807001506"
+    },
+    {
+      "id": "345e819c-ca7b-4406-838a-dafdd11dff74",
+      "score": 0.15583521,
+      "title": "Caffeine to prevent respiratory failure and improve outcome in infant pertussis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5878332/"
+    },
+    {
+      "id": "d83bace6-ea0d-4d1d-9116-2786c593f53e",
+      "score": 0.12586927,
+      "title": "Nasal decongestion with imidazoline derivatives: acoustic rhinometry measurements - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10206078/"
+    },
+    {
+      "id": "d22e6ab4-527a-4d4a-89e5-017ecf394a47",
+      "score": 0.087540604,
+      "title": "[Acute ischemia of an arm as an unusual manifestation of ergotism].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7956778/"
+    },
+    {
+      "id": "bc1b375e-aef5-4e2f-bf8b-dfd136edfd4e",
+      "score": 0.084954865,
+      "title": "Active anterior rhinomanometry: A study on nasal airway resistance, paradoxical reactions to decongestion, and repeatability in healthy subjects - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10601575/"
+    },
+    {
+      "id": "ed83203e-aa86-42a1-a52d-34dfd09c61f1",
+      "score": 0.081556484,
+      "title": "21 CFR Part 341 -- Cold, Cough, Allergy, Bronchodilator, ...",
+      "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-341"
+    },
+    {
+      "id": "733a1434-4083-4ee0-a3cb-2b77f9939c4f",
+      "score": 0.065419644,
+      "title": "Caffeine Effects on the Cardiovascular System",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK202224/"
+    },
+    {
+      "id": "90729b4b-7a06-4c88-8ccd-08f0a1acbc61",
+      "score": 0.060246922,
+      "title": "Use of cough and cold preparations during breastfeeding.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10776186/"
+    },
+    {
+      "id": "c333f0f4-1f41-4f7c-808b-e01350aa6e8c",
+      "score": 0.058544792,
+      "title": "Comparative evaluation of nasal blood flow and airflow in the ...",
+      "url": "https://www.annallergy.org/article/S1081-1206(11)00933-1/pdf"
+    },
+    {
+      "id": "cdb164b4-0ab1-4ab3-a0cd-aa5d3967ace4",
+      "score": 0.056262378,
+      "title": "Can caffeine from instant coffee be absorbed through the mucus membranes similar to tobacco? - Quora",
+      "url": "https://www.quora.com/Can-caffeine-from-instant-coffee-be-absorbed-through-the-mucus-membranes-similar-to-tobacco"
+    },
+    {
+      "id": "21910c51-e9be-4f6d-a419-96b4cc65fd34",
+      "score": 0.041543942,
+      "title": "Acoustic rhinometry - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9298604/"
+    },
+    {
+      "id": "ac17052f-f55b-433a-844d-cc7c024e1f1d",
+      "score": 0.03749929,
+      "title": "OTC Decongestants: What Works and What Doesn\u2019t | Henry Ford Health - Detroit, MI",
+      "url": "https://www.henryford.com/blog/2023/12/otc-decongestants"
+    },
+    {
+      "id": "d7a3387f-8586-4ec6-b4d9-470c8177e8e0",
+      "score": 0.027735045,
+      "title": "CVS Ad & Coupons: 6/14-6/20",
+      "url": "https://www.southernsavers.com/cvs-ad-coupons-614-620/"
+    },
+    {
+      "id": "32ceebbd-3681-45be-a117-306b7b7a0f2f",
+      "score": 0.026377967,
+      "title": "CDC VAERS and Covid-19 \u2018Vaccines\u2019: Records of Adverse Events containing the word 'paralyzed' or 'paralysis' as of April 16, 2021.",
+      "url": "https://freerepublic.com/focus/f-chat/3955021/posts"
+    },
+    {
+      "id": "57eda957-7294-4226-bd2c-92cf1f726b30",
+      "score": 0.012318289,
+      "title": "CAFFEINE AND EXERCISE PERFORMANCE: AN UPDATE",
+      "url": "https://www.gssiweb.org/docs/default-source/sse-docs/spriet_sse_203_a03_final.pdf?sfvrsn=2"
+    }
+  ]
+}

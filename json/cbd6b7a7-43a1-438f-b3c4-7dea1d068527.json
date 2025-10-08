@@ -1,0 +1,537 @@
+{
+  "id": "cbd6b7a7-43a1-438f-b3c4-7dea1d068527",
+  "status": "completed",
+  "content": "FALSE. The provided statement is factually incorrect on all three of its central claims. Research indicates that Elon Musk, not Mark Zuckerberg, acquired Twitter in 2022. Furthermore, there is no evidence to support the claim that the Diaspora social network grew donations by 300%, and data shows its active user count in 2022 was significantly lower than 900,000.\n\n## Analysis of Claims\n\n### Claim 1: The Acquisition of Twitter\nThe assertion that Mark Zuckerberg acquired Twitter is incorrect. Multiple sources confirm that entrepreneur Elon Musk acquired Twitter, Inc. in 2022[1][2][3]. The transaction was valued at approximately $44 billion and was initiated on April 14, 2022, and officially completed on October 27, 2022[4][5][6].\n\nThe deal was structured for an entity wholly owned by Elon Musk to acquire the company at a price of $54.20 per share in cash[7][8]. Upon completion, Twitter became a privately held company[7]. Following the takeover, Musk became the new owner and CEO, took the company private, fired several top executives, and later merged it into X Corp[9][10][11]. The social media platform was subsequently rebranded to X[12].\n\n### Claim 2: Diaspora's Donation Growth\nThe claim that the Diaspora social network grew donations by 300% in 2022 is unsubstantiated by the provided research. There is no financial data available for the Diaspora* project or its legal entity, the Free Software Support Network (FSSN), that would allow for a year-over-year comparison of donations for 2021 and 2022[13].\n\nFurthermore, commentary from the Diaspora* community suggests that fundraising is not a primary concern for the project. Core developers have indicated they are not interested in working on the project full-time and that existing funds are sufficient to support the network's infrastructure, making active fundraising a low priority[14].\n\n### Claim 3: Diaspora's Active User Count\nThe statement that Diaspora reached 900,000 *active* users in 2022 is false. The provided data consistently differentiates between *registered* accounts and *active* users, with the latter being a much smaller figure.\n\n*   **Registered Users**: Estimates for total registered users on the Diaspora network have been in the range of 800,000 to over 1 million[15][16]. A community forum post from September 2020 mentioned approximately 840,000 registered accounts, while noting that statistics are provided voluntarily by server administrators and are therefore incomplete[17].\n*   **Active Users**: Data tracking active users presents a significantly different picture. Statistics from Fediverse.Party, updated in late 2024, estimated the number of active Diaspora users at approximately 21,369[18]. Data from a single, large Diaspora server (\"pod\") showed only 505 monthly active users out of over 106,000 total registered users on that pod[19]. There is no evidence in the research to support an active user base of 900,000.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "983b305e-4f96-4d00-b201-556f020b60bf",
+      "score": 0.91901255,
+      "title": "X | Company, History, Twitter, Elon Musk, & Uses | Britannica Money",
+      "url": "https://www.britannica.com/money/Twitter",
+      "citation_index": 1
+    },
+    {
+      "id": "5fd35fbc-b8a7-47a2-aa7d-4f8098ee6aaa",
+      "score": 0.9121316,
+      "title": "Elon Musk Bought Twitter to Push Right-Wing Political Agenda, Book Claims - Newsweek",
+      "url": "https://www.newsweek.com/elon-musk-bought-twitter-to-push-right-wing-political-agenda-book-claims-10800245",
+      "citation_index": 2
+    },
+    {
+      "id": "86365c8e-1452-4c9f-a075-82bba0e8ba95",
+      "score": 0.885404,
+      "title": "Here's everything that's happened to Twitter since Elon Musk bought it and renamed it X",
+      "url": "https://www.businessinsider.com/elon-musk-twitter",
+      "citation_index": 3
+    },
+    {
+      "id": "a593fa7b-5237-4eb0-8a6f-128b9e624175",
+      "score": 0.8763069,
+      "title": "Acquisition of Twitter by Elon Musk - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
+      "citation_index": 4
+    },
+    {
+      "id": "232ba5a1-4fe1-435f-917e-54731acc5889",
+      "score": 0.8690161,
+      "title": "When Elon Musk Took Over Twitter: A Timeline of the Tech Acquisition",
+      "url": "https://www.mountbonnell.info/elons-austin/elon-musk-assumes-control-of-twitter-platform",
+      "citation_index": 5
+    },
+    {
+      "id": "ae851942-dc19-4a29-8c49-8f569390c969",
+      "score": 0.8315952,
+      "title": "Elon Musk Completes $44 Billion Deal to Own Twitter",
+      "url": "https://www.nytimes.com/2022/10/27/technology/elon-musk-twitter-deal-complete.html",
+      "citation_index": 6
+    },
+    {
+      "id": "c0048d5f-84de-4e2f-adaf-0cc7f030b891",
+      "score": 0.9041187,
+      "title": "Elon Musk to Acquire Twitter",
+      "url": "https://www.prnewswire.com/news-releases/elon-musk-to-acquire-twitter-301532245.html",
+      "citation_index": 7
+    },
+    {
+      "id": "7c4ba0ca-f37c-40d1-82f6-40e049b34660",
+      "score": 0.8875269,
+      "title": "Twitter Stockholders Approve Acquisition by Elon Musk",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418091/000119312522244289/d403306dex991.htm",
+      "citation_index": 8
+    },
+    {
+      "id": "8a90d1a0-a1aa-40f6-95dd-b6ccea7fc08a",
+      "score": 0.86080295,
+      "title": "Twitter under Elon Musk - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Twitter_under_Elon_Musk",
+      "citation_index": 9
+    },
+    {
+      "id": "ea6b60b4-2780-406d-a5fc-a9bca3a02efd",
+      "score": 0.5439058,
+      "title": "It happened: Elon Musk officially owns Twitter | TechCrunch",
+      "url": "https://techcrunch.com/2022/10/27/elon-musk-bought-twitter/",
+      "citation_index": 10
+    },
+    {
+      "id": "e466c76d-9f23-4636-b76a-bf699fb65022",
+      "score": 0.62852204,
+      "title": "A timeline of Elon Musk's tumultuous Twitter acquisition",
+      "url": "https://abcnews.go.com/Business/timeline-elon-musks-tumultuous-twitter-acquisition-attempt/story?id=86611191",
+      "citation_index": 11
+    },
+    {
+      "id": "261db6c5-21bb-4fce-baa9-f39d3c725011",
+      "score": 0.8215175,
+      "title": "Twitter - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Twitter",
+      "citation_index": 12
+    },
+    {
+      "id": "99edf9ce-81ba-419a-83a7-60aa35f49032",
+      "score": 0.53079647,
+      "title": "Diaspora (social network) - Wikiwand",
+      "url": "https://www.wikiwand.com/en/Diaspora_(social_network)",
+      "citation_index": 13
+    },
+    {
+      "id": "2d6c5faf-cb16-4b20-9cea-19f39f222fb6",
+      "score": 0.14124614,
+      "title": "Strategy (Non-commercial fund, fundraising etc.)",
+      "url": "https://discourse.diasporafoundation.org/t/strategy-non-commercial-fund-fundraising-etc/4702",
+      "citation_index": 14
+    },
+    {
+      "id": "754da100-09c9-45f9-a9e1-e0e00293a465",
+      "score": 0.6829338,
+      "title": "Facebook alternatives 2022 - an overview",
+      "url": "https://www.ionos.com/digitalguide/online-marketing/social-media/the-best-facebook-alternatives/",
+      "citation_index": 15
+    },
+    {
+      "id": "231c29c1-43f5-44e0-ab2a-cb562956d630",
+      "score": 0.45696765,
+      "title": "4 best decentralized social networks to use in 2022",
+      "url": "https://windowsreport.com/decentralized-social-networks/",
+      "citation_index": 16
+    },
+    {
+      "id": "6fe6ab50-faf8-4fda-8d5a-9bb2cb453007",
+      "score": 0.418341,
+      "title": "Number of users - Communication and Outreach",
+      "url": "https://discourse.diasporafoundation.org/t/number-of-users/3366",
+      "citation_index": 17
+    },
+    {
+      "id": "8434a406-8943-4bd9-a659-3a5179ae0c63",
+      "score": 0.31526196,
+      "title": "diaspora - Fediverse.Party - explore federated networks",
+      "url": "https://fediverse.party/en/diaspora/",
+      "citation_index": 18
+    },
+    {
+      "id": "9e111a62-31c4-400c-b77d-ac7684c97032",
+      "score": 0.7997713,
+      "title": "Statistics - diaspora*",
+      "url": "https://diasp.org/statistics",
+      "citation_index": 19
+    },
+    {
+      "id": "5b9e6d6b-a2ea-4d57-9156-b7cbc0d30807",
+      "score": 0.91936076,
+      "title": "Financial Modeling Prep - FinancialModelingPrep",
+      "url": "https://site.financialmodelingprep.com/"
+    },
+    {
+      "id": "8b44863d-3696-499b-89e0-c76aa868fae7",
+      "score": 0.9020676,
+      "title": "Elon Musk bought Twitter 5 months ago for $44 billion and now it is $20 bn company, here is what happened - India Today",
+      "url": "https://www.indiatoday.in/technology/features/story/elon-musk-bought-twitter-5-months-ago-for-44-billion-and-now-it-is-20-bn-company-here-is-what-happened-2352126-2023-03-27"
+    },
+    {
+      "id": "ef199317-f849-47e1-9289-d97f20c73a8d",
+      "score": 0.8682137,
+      "title": "Musk names veteran banker Anthony Armstrong as xAI finance chief, FT says",
+      "url": "https://finance.yahoo.com/news/musk-names-former-morgan-stanley-033941171.html"
+    },
+    {
+      "id": "9ca827fe-ee60-4bfe-8875-a901c1dc224b",
+      "score": 0.8539252,
+      "title": "Musk begins his Twitter ownership with firings, declares the 'bird is freed' | Reuters",
+      "url": "https://www.reuters.com/markets/deals/elon-musk-completes-44-bln-acquisition-twitter-2022-10-28/"
+    },
+    {
+      "id": "211eddcf-601b-4e9f-b338-4b851e8d087c",
+      "score": 0.84707206,
+      "title": "Musk names veteran banker Anthony Armstrong as xAI finance chief, FT says",
+      "url": "https://www.channelnewsasia.com/business/musk-names-veteran-banker-anthony-armstrong-xai-finance-chief-ft-says-5387591"
+    },
+    {
+      "id": "279a4460-47ba-483b-ad3c-717b5145cdf5",
+      "score": 0.84277284,
+      "title": "Twitter is now owned by Elon Musk \u2014 here's a brief history from the app's founding in 2006 to the present",
+      "url": "https://www.cnbc.com/2022/10/29/a-brief-history-of-twitter-from-its-founding-in-2006-to-musk-takeover.html"
+    },
+    {
+      "id": "9f4daceb-88ed-4f0c-bd65-31cdc97229db",
+      "score": 0.8335554,
+      "title": "Twitter Files - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Twitter_Files"
+    },
+    {
+      "id": "96699cf6-c671-46e4-8d9e-866c4979077f",
+      "score": 0.82728493,
+      "title": "Elon Musk Names Former Morgan Stanley Banker Anthony Armstrong As xAI CFO Amid $200 Billion Valuation Push: Report",
+      "url": "https://www.benzinga.com/markets/tech/25/10/48063236/elon-musk-names-former-morgan-stanley-banker-anthony-armstrong-as-xai-cfo-amid-200-billion-valuation-push-report"
+    },
+    {
+      "id": "d1cb8903-8b32-48e8-b889-8326fe34ad3b",
+      "score": 0.80070794,
+      "title": "Why Elon Musk Finally Bought Twitter \u2013 Fordham Journal of Corporate and Financial Law",
+      "url": "https://news.law.fordham.edu/jcfl/2022/11/25/why-elon-musk-finally-bought-twitter/"
+    },
+    {
+      "id": "b19c608a-e5c0-4f59-8bc6-f81288807c21",
+      "score": 0.78532547,
+      "title": "Disney\u2019s Kimmel suspension shows Trump\u2019s increasing grip over media",
+      "url": "https://www.reuters.com/business/media-telecom/disneys-kimmel-suspension-shows-trumps-increasing-grip-over-media-2025-09-20/"
+    },
+    {
+      "id": "d0b26fd2-b779-49ac-8b52-c698c98a9575",
+      "score": 0.78413767,
+      "title": "These Are the Investors Who Helped Elon Musk Acquire Twitter in 2022 | Observer",
+      "url": "https://observer.com/2024/08/investors-backing-elon-musk-44b-twitter-acquisition/"
+    },
+    {
+      "id": "3fdbec05-b6d3-4ac1-a129-6a3a7bbce050",
+      "score": 0.77364457,
+      "title": "Diaspora Global Foundation Inc - GuideStar Profile",
+      "url": "https://www.guidestar.org/profile/85-4186570"
+    },
+    {
+      "id": "8caa8965-19ac-49b0-ae80-caa51c569829",
+      "score": 0.76385427,
+      "title": "Has Elon Musk really been awarded a $1 trillion pay deal?",
+      "url": "https://www.aljazeera.com/news/2025/9/17/has-elon-musk-really-been-awarded-a-1-trillion-pay-deal"
+    },
+    {
+      "id": "25e47ce2-3410-410f-8cae-f82ccb3412a3",
+      "score": 0.72348577,
+      "title": "Diaspora Global Foundation Inc - Nonprofit Explorer - ProPublica",
+      "url": "https://projects.propublica.org/nonprofits/organizations/854186570"
+    },
+    {
+      "id": "a1794691-a14b-47c8-a9d0-98fe07cc0ddc",
+      "score": 0.7163977,
+      "title": "Twitter confirms completion of Elon Musk\u2019s $44 billion acquisition deal | CNN Business",
+      "url": "https://www.cnn.com/2022/10/28/tech/elon-musk-twitter-deal-close"
+    },
+    {
+      "id": "12af0399-0641-4bce-9deb-4d50311a1730",
+      "score": 0.6241337,
+      "title": "Syriac Diaspora Foundation Inc - Nonprofit Explorer - ProPublica",
+      "url": "https://projects.propublica.org/nonprofits/organizations/853245651"
+    },
+    {
+      "id": "9173920b-71e7-44fe-90de-e2217303307d",
+      "score": 0.6180666,
+      "title": "Fediverse Observer | Diaspora",
+      "url": "https://diaspora.fediverse.observer/stats"
+    },
+    {
+      "id": "b192c96d-5126-48c2-ab12-d41fbba7368d",
+      "score": 0.5749443,
+      "title": "the federation - a statistics hub",
+      "url": "https://the-federation.info/"
+    },
+    {
+      "id": "9451ff52-ffb9-4793-91ba-be7e0a14a868",
+      "score": 0.5530473,
+      "title": "Elon Musk now owns Twitter. Here's what he could change",
+      "url": "https://www.cnn.com/2022/10/28/tech/elon-musk-twitter-changes"
+    },
+    {
+      "id": "dae5bb56-f5b8-4530-80ca-8fdba201797b",
+      "score": 0.5112048,
+      "title": "International Diaspora Foundation | Charity Navigator Profile",
+      "url": "https://www.charitynavigator.org/ein/202609920"
+    },
+    {
+      "id": "b46f1eea-41de-4cb3-b48e-e48e9681f6ef",
+      "score": 0.50388235,
+      "title": "The Diaspora Foundation Inc | Escondidio, CA | 990 Report",
+      "url": "https://www.instrumentl.com/990-report/the-diaspora-foundation-inc"
+    },
+    {
+      "id": "1a2d4567-eb3e-485d-af3e-60b773f8c30e",
+      "score": 0.5019781,
+      "title": "The growth of Diaspora - A decentralized online social network in the wild | Request PDF",
+      "url": "https://www.researchgate.net/publication/254031130_The_growth_of_Diaspora_-_A_decentralized_online_social_network_in_the_wild"
+    },
+    {
+      "id": "33889ea2-576a-484f-80bb-04dd87c3ffde",
+      "score": 0.5005133,
+      "title": "Diaspora (social network) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diaspora_(social_network)"
+    },
+    {
+      "id": "2ecd85ad-0538-4318-9d02-12d6ff0509a1",
+      "score": 0.48352703,
+      "title": "Diaspora Foundation - Full Filing - Nonprofit Explorer",
+      "url": "https://projects.propublica.org/nonprofits/organizations/760231458/202522249349302662/full"
+    },
+    {
+      "id": "26029dda-d5fb-4680-a9e9-0400e93bb1d8",
+      "score": 0.44015694,
+      "title": "How and Why Do Diaspora Give? A Conceptual Model to ...",
+      "url": "https://journals.sagepub.com/doi/10.1177/08997640241275098"
+    },
+    {
+      "id": "66f011b9-5e7d-41ac-ae21-5152435c9b69",
+      "score": 0.43122545,
+      "title": "The growth of Diaspora - A decentralized online social network in the wild | IEEE Conference Publication | IEEE Xplore",
+      "url": "https://ieeexplore.ieee.org/document/6193476/"
+    },
+    {
+      "id": "a9004d00-ceaf-4a34-bdf3-4ea0bc96023c",
+      "score": 0.42634606,
+      "title": "diaspora social network - Diasp.ORG",
+      "url": "https://diasp.org/posts/23839333"
+    },
+    {
+      "id": "7460490c-aa2a-4d1e-b25d-03573f1ebc1c",
+      "score": 0.41009519,
+      "title": "What is the endgame for the Diaspora social network? - Quora",
+      "url": "https://www.quora.com/What-is-the-endgame-for-the-Diaspora-social-network"
+    },
+    {
+      "id": "6c402650-ada2-43c8-8e93-de3b86d59c64",
+      "score": 0.40077335,
+      "title": "Social Network Usage & Growth Statistics (2025)",
+      "url": "https://backlinko.com/social-media-users"
+    },
+    {
+      "id": "8e81a6e8-a6c2-4e29-bc02-3b577ce7c8e9",
+      "score": 0.38546777,
+      "title": "Annual Report 2022",
+      "url": "https://www.gatesfoundation.org/about/financials/annual-reports/annual-report-2022"
+    },
+    {
+      "id": "2786f4dc-8299-423e-802a-d8bb0d883b19",
+      "score": 0.3572989,
+      "title": "Wikimedia Foundation reports/Financial/Audits/2021-2022 - frequently asked questions - Meta",
+      "url": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_reports/Financial/Audits/2021-2022_-_frequently_asked_questions"
+    },
+    {
+      "id": "589097b9-a3dd-440d-aeae-67cbae07b321",
+      "score": 0.3548806,
+      "title": "List of social platforms with at least 100 million active users - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_social_platforms_with_at_least_100_million_active_users"
+    },
+    {
+      "id": "ed163187-5cc5-4b69-83b2-e341129cd7ee",
+      "score": 0.3438268,
+      "title": "Twitter Investors | X's Backers | TweetDelete",
+      "url": "https://tweetdelete.net/resources/twitter-investors/"
+    },
+    {
+      "id": "da6d37af-f888-4a6d-bd73-f8ed8f0602f9",
+      "score": 0.3374442,
+      "title": "International Diaspora Foundation | Garden Grove, CA",
+      "url": "https://www.intellispect.co/organizations/202609920-international-diaspora-foundation"
+    },
+    {
+      "id": "27e35dee-5f91-4046-a889-f096eb9bd8ee",
+      "score": 0.32811,
+      "title": "Annual Reports | Bill & Melinda Gates Foundation",
+      "url": "https://www.gatesfoundation.org/about/financials/annual-reports"
+    },
+    {
+      "id": "66fc941d-6e89-43b9-ad68-3ce473c5abf2",
+      "score": 0.32002437,
+      "title": "Top 100 Social Media and Social Networking Sites",
+      "url": "https://1solutions.biz/top-100-social-media-and-social-networking-sites/"
+    },
+    {
+      "id": "6117ff40-ee05-4389-affe-a808728100d3",
+      "score": 0.30250487,
+      "title": "Social media - statistics & facts | Statista",
+      "url": "https://www.statista.com/topics/1164/social-networks/"
+    },
+    {
+      "id": "44196436-5d3e-4a23-b649-316914135208",
+      "score": 0.30031496,
+      "title": "Nonprofit social media usage by platform U.S. 2022 | Statista",
+      "url": "https://www.statista.com/statistics/1371096/social-media-usage-nonprofit-organizations-platform-us/"
+    },
+    {
+      "id": "b575370c-dc36-4d6d-9908-cc5560942f30",
+      "score": 0.28418398,
+      "title": "Diaspora Philanthropy: A Study of Diaspora-Funded ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10240102/"
+    },
+    {
+      "id": "f430a9ef-2a23-4186-9765-b66b23844d01",
+      "score": 0.27887303,
+      "title": "Social Media: Keeping Global Diaspora Communities Connected - Debating Communities and Networks XIII",
+      "url": "https://networkconference.netstudies.org/2022/csm/1168/social-media-keeping-global-diaspora-communities-connected/"
+    },
+    {
+      "id": "a9a74e91-5f27-45e5-b2b5-59c498a194f9",
+      "score": 0.24121715,
+      "title": "Topo Athletic Gets Upgraded Headquarters as Growth Continues",
+      "url": "https://finance.yahoo.com/news/topo-athletic-gets-upgraded-headquarters-153350268.html"
+    },
+    {
+      "id": "d4bb83d7-3271-4dd9-9089-d2417756c291",
+      "score": 0.23656955,
+      "title": "Free Software Supporter -- Issue 172, August 2022",
+      "url": "https://www.fsf.org/free-software-supporter/2022/august"
+    },
+    {
+      "id": "3af83640-73cc-4553-b614-365f06c703a2",
+      "score": 0.21983159,
+      "title": "Donate before July 18 and help us reach our spring goal.",
+      "url": "https://www.fsf.org/appeal/2022-spring"
+    },
+    {
+      "id": "b891234d-89c3-4d7a-9b86-22c7f3e9c06e",
+      "score": 0.21428047,
+      "title": "Social media: regional distribution worldwide 2022",
+      "url": "https://www.statista.com/statistics/295619/regional-distribution-of-social-media-users-worldwide/?srsltid=AfmBOopzH6WdmbUhQC22wgeP0Pjs_HlUo2az0mjsyDv8coYK_WN-fJ7p"
+    },
+    {
+      "id": "331031f7-8b1d-4691-8f80-bc0767107fd4",
+      "score": 0.20635012,
+      "title": "Diaspora Foundation - Nonprofit Explorer - ProPublica",
+      "url": "https://projects.propublica.org/nonprofits/organizations/760231458"
+    },
+    {
+      "id": "d8c5b922-7fb3-459d-b6e7-322bfda80220",
+      "score": 0.18907185,
+      "title": "Free Software Foundation | Boston, MA",
+      "url": "https://www.causeiq.com/organizations/free-software-foundation,042888848/"
+    },
+    {
+      "id": "2b3db5ec-4ca2-4b15-a842-c9bcf9160620",
+      "score": 0.16170406,
+      "title": "African Diaspora Network - Nonprofit Explorer - ProPublica",
+      "url": "https://projects.propublica.org/nonprofits/organizations/460632056"
+    },
+    {
+      "id": "cd5db39c-66d8-43b8-91c6-c9d308cfdc52",
+      "score": 0.16067418,
+      "title": "Home - African Diaspora Network",
+      "url": "https://africandiasporanetwork.org/"
+    },
+    {
+      "id": "4a672371-cdc9-4469-814f-341043fb7ea8",
+      "score": 0.15224668,
+      "title": "Social media - statistics & facts",
+      "url": "https://www.statista.com/topics/1164/social-networks/?srsltid=AfmBOoqLC3_SSByMpwvP-HPdw3ZdVAW7URzZlOt71DF72hy2qlYiSyKb"
+    },
+    {
+      "id": "70c04143-8991-4328-8746-7946310e0d54",
+      "score": 0.13613708,
+      "title": "Reports and finances | MSF",
+      "url": "https://www.msf.org/reports-and-finances"
+    },
+    {
+      "id": "b7001075-79c2-40aa-b90c-b2a70fbdc883",
+      "score": 0.13145196,
+      "title": "Free Software Foundation awarded perfect score from ...",
+      "url": "https://www.fsf.org/news/free-software-foundation-awarded-perfect-score-from-charity-navigator-plus-eighth-consecutive-four-star-rating"
+    },
+    {
+      "id": "f5331590-60e9-4bd7-b2a1-76cf7f03cbac",
+      "score": 0.113295,
+      "title": "FSF Financial Information \u2014 Free Software Foundation",
+      "url": "https://www.fsf.org/about/financial"
+    },
+    {
+      "id": "5d343ec6-4a08-48f7-b9e7-ea41602f1ff9",
+      "score": 0.11188995,
+      "title": "Top 5 Companies Owned by X. Corp. (Formally Twitter, Inc.)",
+      "url": "https://www.investopedia.com/articles/insights/082216/top-8-companies-owned-twitter-twtr.asp"
+    },
+    {
+      "id": "62b64b8b-9555-403d-a16a-02e375f6746d",
+      "score": 0.111541085,
+      "title": "Free-software foundations face fundraising problems [LWN.net]",
+      "url": "https://lwn.net/Articles/993665/"
+    },
+    {
+      "id": "035ece94-101d-42bd-9548-a6873316514a",
+      "score": 0.10703566,
+      "title": "Mechanisms for Diaspora Finance",
+      "url": "https://migrantmoney.uncdf.org/resources/research/mechanims-for-diaspora-finance/"
+    },
+    {
+      "id": "3e655e3e-605f-4f32-bf29-38d766c8683d",
+      "score": 0.10247544,
+      "title": "African Diaspora Innovation Fund (AfDIF) - African Diaspora Network",
+      "url": "https://africandiasporanetwork.org/african-diaspora-innovation-fund-afdif/"
+    },
+    {
+      "id": "4f64d108-1220-4efb-858e-0e25736264f0",
+      "score": 0.10049857,
+      "title": "Free Software Foundation Inc - Nonprofit Explorer - ProPublica",
+      "url": "https://projects.propublica.org/nonprofits/organizations/42888848"
+    },
+    {
+      "id": "d40ff558-c688-4d91-ac1d-fa5a7e225ab5",
+      "score": 0.0909696,
+      "title": "Associate Member Donations \u2014 Free Software Foundation \u2014 Working together for free software",
+      "url": "https://www.fsf.org/associate/dues.html"
+    },
+    {
+      "id": "9c7a5645-0685-4bb0-b91d-bcb5dcf6b7c4",
+      "score": 0.08688758,
+      "title": "International Diaspora Foundation - GuideStar Profile",
+      "url": "https://www.guidestar.org/profile/20-2609920"
+    },
+    {
+      "id": "3de6280d-e13c-423e-9551-078a480f4ad4",
+      "score": 0.077357344,
+      "title": "Pass Story Of Diaspora Forward - Nonprofit Explorer - ProPublica",
+      "url": "https://projects.propublica.org/nonprofits/organizations/813112355"
+    },
+    {
+      "id": "e8fd630d-d53a-4435-8525-f92b9cb6a5fd",
+      "score": 0.07061741,
+      "title": "Diaspora Foundation - GuideStar Profile",
+      "url": "https://www.guidestar.org/profile/76-0231458"
+    },
+    {
+      "id": "89c505e6-9ccc-4acd-9ea6-01014f460158",
+      "score": 0.05663688,
+      "title": "Diaspora features and reviews of 2022",
+      "url": "https://thinkbiganalytics.com/diaspora"
+    },
+    {
+      "id": "1ed02d0d-b885-4600-9176-8f80d42b9e84",
+      "score": 0.044735186,
+      "title": "Publication: Diaspora Investing : The Business and ...",
+      "url": "https://openknowledge.worldbank.org/entities/publication/f48edd35-e7fa-5add-a3ac-8438f32b9721"
+    },
+    {
+      "id": "a95eb0b6-7425-43e4-b120-833c4fb273a7",
+      "score": 0.034297254,
+      "title": "Free Software Foundation Inc - Full Filing - Nonprofit Explorer",
+      "url": "https://projects.propublica.org/nonprofits/organizations/42888848/202411039349300316/full"
+    },
+    {
+      "id": "00a4a261-28f9-4447-9c6d-5266337a21f7",
+      "score": 0.024914194,
+      "title": "Escaping the Mainstream? Pitfalls and Opportunities of ...",
+      "url": "https://mediaengagement.org/research/encrypted-messaging-apps-and-diasporas/"
+    },
+    {
+      "id": "124f6c11-f991-4936-a31f-0887ea69f0a8",
+      "score": 0.018196153,
+      "title": "Network for Good | Bonterra",
+      "url": "https://www.bonterratech.com/product/network-for-good"
+    }
+  ]
+}

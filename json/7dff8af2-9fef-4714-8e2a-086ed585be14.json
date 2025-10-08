@@ -1,0 +1,196 @@
+{
+  "id": "7dff8af2-9fef-4714-8e2a-086ed585be14",
+  "status": "completed",
+  "content": "**FALSE**.\n\nThe claim that a new and rare yellow scorpion named *Hottentotta trilineatus* was discovered in Brazil is factually incorrect on three of its four key assertions. The species is not new, not considered rare, and is native to Africa, not Brazil. The only accurate part of the statement is that the scorpion can be yellow in color.\n\n## Analysis of the Claim\n\n### Chronology of Discovery\nThe species *Hottentotta trilineatus* is not a new discovery[1][2]. It was first scientifically described by the naturalist Peters more than a century and a half ago, in 1861[1][2][3][4]. Its original scientific name was *Centrurus trilineatus*[1][2]. The species underwent several taxonomic reclassifications over the decades before being placed in the genus *Hottentotta* by Francke in 1985[1].\n\n### Geographic Origin and Distribution\nThe scorpion was not discovered in Brazil, and it is not native to South America[2][5].\n*   **Type Locality**: The original specimen used to describe the species in 1861 was collected in Tete, Mozambique[2][1].\n*   **Native Range**: *Hottentotta trilineatus* is native to eastern and southern Africa[6]. Its distribution includes countries such as Botswana, Democratic Republic of Congo, Djibouti, Ethiopia, Kenya, Mozambique, Somalia, South Africa, Tanzania, Uganda, Zambia, and Zimbabwe[5][2]. In South Africa, it is found in the eastern Mpumalanga and Limpopo provinces[7][8]. The genus *Hottentotta* itself is primarily distributed across Africa and parts of the Middle East and Asia[9].\n\n### Conservation Status and Rarity\nThere is no evidence to suggest the species is rare. Its conservation status has not been evaluated by the IUCN Red List, placing it in the \"Not Evaluated\" (NE) category[10]. However, field reports indicate it is not exceptionally scarce:\n*   It is described as \"relatively common\" in areas like South Africa's Kruger National Park and north of the Soutpansberg mountains[11][7].\n*   *Hottentotta trilineatus* is a popular species for keeping and breeding in captivity, which suggests it is reasonably available[3].\n\n## Species Characteristics\n\n### Physical Description\nThe claim that it is a \"yellow scorpion\" is broadly accurate. Its coloration is consistently described as yellow to reddish-brown or light orange[11][5][6].\n*   **Common Name**: Its common English name is the Eastern Nomad Scorpion[7][12]. It is sometimes marketed in the pet trade as the Tanzanian Three Striped Scorpion[13].\n*   **Size**: It is a medium-sized scorpion, with a total length ranging from 35 to 65 mm (approximately 1.4 to 2.6 inches)[6][11].\n*   **Markings**: The species often has three faint black stripes running down its back and an X-shaped pattern on its head[11]. The segments of its midsection and carapace frequently have orange spots and longitudinal black stripes[5][6].\n*   **Venom**: Its sting is described as painful but is not considered medically significant[14].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "deca07fb-57e4-4a86-9624-756b83f8c6c7",
+      "score": 0.71425,
+      "title": "Hottentotta trilineatus \u2014 Wikip\u00e9dia",
+      "url": "https://fr.wikipedia.org/wiki/Hottentotta_trilineatus",
+      "citation_index": 1
+    },
+    {
+      "id": "113bc926-d6db-4898-98c7-e3f3a9fbdcee",
+      "score": 0.8752871,
+      "title": "(PDF) Scorpions of Ethiopia (Arachnida - ResearchGate",
+      "url": "https://www.researchgate.net/publication/278828230_Scorpions_of_Ethiopia_Arachnida_Scorpiones_Part_III_Genus_Hottentotta_Birula_1908_Buthidae_with_description_of_three_new_species",
+      "citation_index": 2
+    },
+    {
+      "id": "20697d8c-d7d8-4878-85bf-40d25f4b32ed",
+      "score": 0.49714416,
+      "title": "Hottentotta - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hottentotta",
+      "citation_index": 3
+    },
+    {
+      "id": "8bbe92a2-ae07-4bcb-9bc4-31974878b89e",
+      "score": 0.47986987,
+      "title": "Hottentotta trilineatus | Vogelspinnenforum",
+      "url": "https://www.vogelspinnenforum.nl/index.php?threads/hottentotta-trilineatus.1518/",
+      "citation_index": 4
+    },
+    {
+      "id": "e4ea2e88-584e-4d11-9c47-520da771e94b",
+      "score": 0.7116118,
+      "title": "WCH Clinical Toxinology Resources",
+      "url": "http://www.toxinology.com/fusebox.cfm?fuseaction=main.scorpions.display&id=SC0295",
+      "citation_index": 5
+    },
+    {
+      "id": "42dc92ea-7f81-406e-8ed8-cf94182fd103",
+      "score": 0.69870013,
+      "title": "Hottentotta trilineatus scorpions at Yaeda South in Tanzania - Bushguide 101",
+      "url": "https://bushguide101.com/hottentotta-trilineatus-scorpions-at-yaeda-south-in-tanzania/",
+      "citation_index": 6
+    },
+    {
+      "id": "2bcc1c63-25dc-46cd-80e5-ba2cd8f21bef",
+      "score": 0.6307082,
+      "title": "Eastern Nomad - African Snakebite Institute",
+      "url": "https://www.africansnakebiteinstitute.com/scorpion/eastern-nomad-scorpion/",
+      "citation_index": 7
+    },
+    {
+      "id": "a4f17cce-460d-4149-8e5b-d92dfa821b44",
+      "score": 0.044237062,
+      "title": "Eastern Nomad - Scorpions",
+      "url": "https://www.africansnakebiteinstitute.com/scorpion/eastern-nomad-scorpion/?srsltid=AfmBOoqePkVB2vcKHM6bDasiEZG8I627H_Az9UvaX5Hzqs2IFer6FmEJ",
+      "citation_index": 8
+    },
+    {
+      "id": "88f505e1-30b9-4257-b669-223094fcf3d4",
+      "score": 0.53021276,
+      "title": "Nomad Scorpions (Genus Hottentotta) \u00b7 iNaturalist",
+      "url": "https://www.inaturalist.org/taxa/134113-Hottentotta",
+      "citation_index": 9
+    },
+    {
+      "id": "9e355d89-1d1b-4c4b-aca4-cf9d4d939687",
+      "score": 0.17092308,
+      "title": "The IUCN Red List of Threatened Species and Sharks - IUCN SSC Shark Specialist Group",
+      "url": "https://www.iucnssg.org/iucnredlist.html",
+      "citation_index": 10
+    },
+    {
+      "id": "c3014641-2968-4a2b-816e-ab607f7fd2c9",
+      "score": 0.6937432,
+      "title": "Eastern Nomad - Scorpions",
+      "url": "https://www.africansnakebiteinstitute.com/scorpion/eastern-nomad-scorpion/?srsltid=AfmBOorQ2pQA17EMzGnCei89ulCHV2YjnfIuL7Q01fHpnnp_JsT7U17i",
+      "citation_index": 11
+    },
+    {
+      "id": "3b3a593a-e0ba-450e-823e-c1a0ff882363",
+      "score": 0.6350646,
+      "title": "File:Hottentotta trilineatus 125753834.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Hottentotta_trilineatus_125753834.jpg",
+      "citation_index": 12
+    },
+    {
+      "id": "ef706d0d-db44-495d-8e0c-fa6fbef06188",
+      "score": 0.26312268,
+      "title": "Three Striped Scorpion for Sale",
+      "url": "https://www.backwaterreptiles.com/scorpions/three-striped-scorpion-for-sale.html",
+      "citation_index": 13
+    },
+    {
+      "id": "dafbf165-2b3a-47a1-b3cf-73dc51ccb5d3",
+      "score": 0.5717911,
+      "title": "Eastern Nomad (Hottentotta trilineatus) from Masisi, ...",
+      "url": "https://www.instagram.com/p/CStLPCjMa1F/",
+      "citation_index": 14
+    },
+    {
+      "id": "83778337-b5a3-48fa-81b9-9bd7533b3cd9",
+      "score": 0.70750624,
+      "title": "Hottentotta",
+      "url": "https://www.mindat.org/taxon-4656159.html"
+    },
+    {
+      "id": "de3b6a25-adfb-4293-8be6-3eaeece642ca",
+      "score": 0.6353361,
+      "title": "File:Hottentotta trilineatus 125753884.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Hottentotta_trilineatus_125753884.jpg"
+    },
+    {
+      "id": "63b006a0-e39a-4b9d-adf4-2741433c14d5",
+      "score": 0.588062,
+      "title": "The Scorpion Files Newsblog: The genus Hottentotta may have become established in Spain",
+      "url": "http://scorpion-files.blogspot.com/2022/01/the-genus-hottentotta-may-have-become.html"
+    },
+    {
+      "id": "42a9d2ac-d177-4179-baee-70496614df6a",
+      "score": 0.5683445,
+      "title": "Hottentotta Hottentotta \u2013 Detailed Guide: Care, Diet, and Breeding | Shrimp and Snail Breeder",
+      "url": "https://aquariumbreeder.com/hottentotta-hottentotta-detailed-guide-care-diet-and-breeding/"
+    },
+    {
+      "id": "3f83926a-41ec-45fd-aaaa-82dccd66cf96",
+      "score": 0.5553635,
+      "title": "Eastern Nomad Scorpion (Hottentotta trilineatus)",
+      "url": "https://inaturalist.ca/taxa/480313-Hottentotta-trilineatus"
+    },
+    {
+      "id": "07e67ecf-fc84-40d3-a5e9-ef24939959f4",
+      "score": 0.55362654,
+      "title": "Eastern Nomad Scorpion (Hottentotta trilineatus) \u00b7 iNaturalist",
+      "url": "https://www.inaturalist.org/taxa/480313-Hottentotta-trilineatus"
+    },
+    {
+      "id": "3bf5b943-d5a3-44f7-8096-3621f90ad0c3",
+      "score": 0.54608524,
+      "title": "The Scorpion Files - Buthidae",
+      "url": "https://www.ntnu.no/ub/scorpion-files/buthidae.php"
+    },
+    {
+      "id": "5519d3a9-359d-4b09-b5d4-aa382e271bec",
+      "score": 0.49128565,
+      "title": "November 2013",
+      "url": "http://scorpion-files.blogspot.com/2013/11/"
+    },
+    {
+      "id": "63dd59a8-7f18-4d27-9d17-57cdfdd70a43",
+      "score": 0.43438992,
+      "title": "Threat display of an Eastern Nomad Scorpion Hottentotta trilineatus.... | Download Scientific Diagram",
+      "url": "https://www.researchgate.net/figure/Threat-display-of-an-Eastern-Nomad-Scorpion-Hottentotta-trilineatus-Photo-R-Stander_fig5_363581842"
+    },
+    {
+      "id": "d1e5bbec-eb00-4cb0-adfc-b17d4ddb3575",
+      "score": 0.41534993,
+      "title": "Juvenile Eastern Nomad Scorpion (Hottentotta trilineatus) - Joel Sartore",
+      "url": "https://www.joelsartore.com/ins017-00176/"
+    },
+    {
+      "id": "ff5f6ca2-e141-42ec-9b6e-d5767ff2aec0",
+      "score": 0.36168364,
+      "title": "Tanzania, Mto wa Mbu (near to Lake Manyara) Which ...",
+      "url": "https://www.facebook.com/groups/548219361946567/posts/6011090865659362/"
+    },
+    {
+      "id": "a44b4744-04c3-465a-9f2a-4c162a8a70c4",
+      "score": 0.26399693,
+      "title": "r/Scorpions on Reddit: Setup check for H. Trilineatus",
+      "url": "https://www.reddit.com/r/Scorpions/comments/1kayhik/setup_check_for_h_trilineatus/"
+    },
+    {
+      "id": "9bae694d-7488-4e37-ac94-551b01809f92",
+      "score": 0.24717832,
+      "title": "Endangered species - IUCN, Conservation, Extinction | Britannica",
+      "url": "https://www.britannica.com/science/endangered-species/IUCN-Red-List-of-Threatened-Species"
+    },
+    {
+      "id": "430b7c2e-5d1c-40e3-85f6-1a925380bbb4",
+      "score": 0.21973112,
+      "title": "IUCN Red List of Threatened Species",
+      "url": "https://iucn.org/resources/conservation-tool/iucn-red-list-threatened-species"
+    },
+    {
+      "id": "7f71591d-3f2b-47d7-b500-682df11f639b",
+      "score": 0.17427003,
+      "title": "The IUCN Red List of Threatened Species",
+      "url": "https://www.iucnredlist.org/"
+    }
+  ]
+}

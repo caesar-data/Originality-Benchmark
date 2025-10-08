@@ -1,0 +1,729 @@
+{
+  "id": "0c9d5909-6389-4a99-a717-08df08134129",
+  "status": "completed",
+  "content": "FALSE. Based on a comprehensive analysis of scientific and institutional data, the claim that more than 900 varieties of corn are grown in the Andes Mountains is not supported by available evidence. The most credible academic and institutional classifications catalog maize diversity in the region at a significantly lower number.\n\nThe Andean region is a globally recognized center of maize diversity, likely hosting the greatest number of distinct maize races in the world[1][2]. However, rigorous scientific counts do not approach the 900-variety threshold. The discrepancy arises from the specific definitions of terms used to classify crop diversity and the lack of a consolidated, pan-Andean census of local farmer-recognized varieties.\n\n## Classifying Maize Diversity: Race, Landrace, and Accession\n\nTo accurately assess the claim, it is crucial to understand the scientific hierarchy used to classify maize diversity. These terms are not interchangeable, and their misuse can lead to significant overestimation.\n\n*   **Race**: This is a broad, high-level classification grouping maize populations with shared morphological and genetic characteristics[3]. It is the most common unit used in formal scientific literature for country-level and regional diversity assessments.\n*   **Landrace (or Variety)**: This is a more specific category within a race. A landrace is a traditional, locally adapted variety developed by farmers over time through selection in a specific natural and cultural environment[5][6]. The term \"variety\" in the context of traditional agriculture is best understood as being synonymous with \"landrace\"[7][8]. One race can encompass multiple distinct landraces[6].\n*   **Accession**: This refers to a specific, cataloged sample of a plant population (like a landrace) stored in a genebank for conservation and research[6][3]. A single landrace may be represented by hundreds of accessions collected from different fields or at different times. Therefore, accession counts are always much higher than the number of distinct varieties.\n\n## Aggregate Count of Andean Maize Races\n\nThe most reliable, evidence-based figures for maize diversity are based on the classification of \"races.\" A landmark series of studies in the mid-20th century, summarized by Goodman and Brown (1988), identified **132 maize races** across the South American Andes[9][10].\n\nA bottom-up tally using more recent, country-specific data from national and international research institutions provides a higher but still comparable figure.\n\n| Country | Number of Maize Races | Notes | Source(s) |\n| :--- | :--- | :--- | :--- |\n| **Peru** | 52 | Represents an updated classification by the Peruvian Ministry of Environment. 32 of these are highland races. | [11][1][12] |\n| **Bolivia** | 40 | 31 are cultivated in the highlands. | [11][12] |\n| **Argentina** | 28 | Estimated number of Andean races native to the Northwestern Argentina (NWA) region. | [13][14] |\n| **Ecuador** | 24 | Number of races specific to the Andean region. | [15][16] |\n| **Colombia** | 23 | Total number of recognized native races. | [17][11] |\n| **Chile** | 23 | Total number of described races for the country. | [11] |\n| **Venezuela** | 19 | Total number of described races for the country. | [11] |\n| **Total** | **209** | **Sum of modern estimates for recognized races in Andean nations.** | |\n\nThis aggregate count of **209 races** represents the most robust estimate based on formal scientific classification. This figure is well below the claimed 900 varieties.\n\n## Estimating Landraces and the Role of Genebank Accessions\n\nWhile the number of officially recognized races is around 209, the number of distinct landraces or local varieties is certainly higher. However, no consolidated count exists for the entire Andean region.\n\n*   **Landrace-to-Race Ratio**: Evidence from Colombia suggests the number of farmer-recognized varieties exceeds the formal race count. While Colombia has 23 recognized races, a diagnostic survey found that farmers in the Andean region could identify between 43 and 52 local varieties[17]. This implies a ratio of roughly 2 landraces for every 1 race. Extrapolating this ratio to the 209 races identified across the Andes would yield an estimate of approximately 418 landraces\u2014still less than half the \"more than 900\" claim.\n*   **Genebank Accessions**: The claim of 900 varieties may stem from a misinterpretation of genebank holdings. For instance, the maize genebank in Peru preserves around 3,931 accessions, and Argentina's national bank holds over 2,500[1][18]. The International Maize and Wheat Improvement Center (CIMMYT), a key CGIAR center, holds nearly 28,000 maize accessions from around the world[19][20]. These high numbers reflect multiple samples of the same varieties, not the number of distinct varieties themselves.\n\nIn conclusion, the most comprehensive scientific inventories document approximately 132 to 209 distinct maize *races* in the Andes. While the true number of local *varieties* (landraces) is higher, there is no academic or institutional evidence to support a figure exceeding 900.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "7523ab34-88a2-46a5-bb20-66e3f5f6b0ba",
+      "score": 0.25240752,
+      "title": "Diversity of the Peruvian Andean maize (Zea mays L.) race ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9549777/",
+      "citation_index": 1
+    },
+    {
+      "id": "d4f5be67-17e0-403e-91e8-3b08222ef0e0",
+      "score": 0.79958355,
+      "title": "Frontiers | Diversity of the Peruvian Andean maize (Zea mays L.) race Cabanita: Polyphenols, carotenoids, in vitro antioxidant capacity, and physical characteristics",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.983208/full",
+      "citation_index": 2
+    },
+    {
+      "id": "ae88577b-d23a-4268-be43-5227f8e5ee93",
+      "score": 0.55420566,
+      "title": "Genetic diversity and selection signatures in maize ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8178342/",
+      "citation_index": 3
+    },
+    {
+      "id": "2bc88587-d46a-40c5-8b45-c2b4ff91ba20",
+      "score": 0.49582586,
+      "title": "Landrace - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Landrace",
+      "citation_index": 5
+    },
+    {
+      "id": "ff4261ab-ffd2-4917-adc1-bd37bb330c5e",
+      "score": 0.6152965,
+      "title": "Finding a Needle in a Haystack: Distinguishing Mexican Maize Landraces Using a Small Number of SNPs - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5394175/",
+      "citation_index": 6
+    },
+    {
+      "id": "ecce3541-843e-4630-8ecd-93f72ffe40e6",
+      "score": 0.65412235,
+      "title": "Genetic diversity and population structure of native maize populations in Latin America and the Caribbean - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389613/",
+      "citation_index": 7
+    },
+    {
+      "id": "05834a75-e9cf-4d7e-a738-6c5a93eb5c57",
+      "score": 0.29214627,
+      "title": "Crop Landraces and Indigenous Varieties: A Valuable Source of Genes for Plant Breeding - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10975389/",
+      "citation_index": 8
+    },
+    {
+      "id": "bc800caa-c695-42c4-a434-c4851c0de282",
+      "score": 0.6599319,
+      "title": "Frontiers | Genotyping by sequencing reveals the genetic diversity and population structure of Peruvian highland maize races",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1526670/full",
+      "citation_index": 9
+    },
+    {
+      "id": "e11e39d6-a645-432b-9efe-c4da61308742",
+      "score": 0.8047902,
+      "title": "Genotyping by sequencing reveals the genetic diversity and population structure of Peruvian highland maize races - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11893605/",
+      "citation_index": 10
+    },
+    {
+      "id": "22da0321-25f8-48b5-9203-ea4830018fe3",
+      "score": 0.629889,
+      "title": "Conservation and Use of Latin American Maize Diversity: Pillar of Nutrition Security and Cultural Heritage of Humanity",
+      "url": "https://www.mdpi.com/2073-4395/11/1/172",
+      "citation_index": 11
+    },
+    {
+      "id": "edb3fb34-33b8-459b-9e71-91d40739f28e",
+      "score": 0.7644879,
+      "title": "Maize Breeding in the Highlands of Ecuador, Peru, and Bolivia: A Review",
+      "url": "https://www.mdpi.com/2073-4395/11/2/212",
+      "citation_index": 12
+    },
+    {
+      "id": "62eb2420-4eca-4758-91ef-a7698880a8d7",
+      "score": 0.7001783,
+      "title": "Morphological and genetic diversity of maize landraces along an altitudinal gradient in the Southern Andes - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9770441/",
+      "citation_index": 13
+    },
+    {
+      "id": "6ec44c70-538f-4bbd-b1fc-73e96b252033",
+      "score": 0.35514894,
+      "title": "Across the Americas, the Fight To Defend Native Corn - Life & Thyme",
+      "url": "https://lifeandthyme.com/food/across-the-americas-the-fight-to-defend-native-corn/",
+      "citation_index": 14
+    },
+    {
+      "id": "4d51fc03-a01a-49a8-a374-ed43d30d0f55",
+      "score": 0.8138313,
+      "title": "Morphological and eco-geographic diversity analysis of ...",
+      "url": "https://www.researchgate.net/publication/352192195_Morphological_and_eco-geographic_diversity_analysis_of_maize_germplasm_in_the_high_altitude_Andes_region_of_Ecuador",
+      "citation_index": 15
+    },
+    {
+      "id": "a61b0dca-b480-4725-8c90-23f5909419d0",
+      "score": 0.8014549,
+      "title": "Morphological and ecogeographical diversity analysis of ...",
+      "url": "https://www.cambridge.org/core/journals/plant-genetic-resources/article/morphological-and-ecogeographical-diversity-analysis-of-maize-germplasm-in-the-high-altitude-andes-region-of-ecuador/7AA32017249E6D0D56F8EFE6F7B8546F",
+      "citation_index": 16
+    },
+    {
+      "id": "b9976561-e9e5-4174-963e-da2d9dc8bf24",
+      "score": 0.6211049,
+      "title": "Preservation of agrobiodiversity in Colombia: CGIAR\u2019s Nature-Positive Solutions Initiative trains smallholder farmers in the conservation of Colombian native maize seeds - CGIAR",
+      "url": "https://www.cgiar.org/news-events/news/preservation-of-agrobiodiversity-in-colombia-cgiars-nature-positive-solutions-initiative-trains-smallholder-farmers-in-the-conservation-of-colombian-native-maize-seeds/",
+      "citation_index": 17
+    },
+    {
+      "id": "1a5a5d9d-1d0b-4887-994e-9e8d863f9d9a",
+      "score": 0.6701125,
+      "title": "Morphological and genetic diversity of maize landraces ...",
+      "url": "https://www.biorxiv.org/content/10.1101/2022.07.01.498464.full",
+      "citation_index": 18
+    },
+    {
+      "id": "2dc8622f-9d6e-44c7-a07d-304f07b2d0f8",
+      "score": 0.64986813,
+      "title": "Genebanks | CGIAR Genebanks",
+      "url": "https://genebanks.cgiar.org/genebanks/",
+      "citation_index": 19
+    },
+    {
+      "id": "b27df686-6156-4e31-b96b-f0d5ec890370",
+      "score": 0.27831364,
+      "title": "International Maize and Wheat Improvement Center - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/International_Maize_and_Wheat_Improvement_Center",
+      "citation_index": 20
+    },
+    {
+      "id": "1b2f29ed-7ed7-4dd7-96d0-d90043d0d671",
+      "score": 0.8302782,
+      "title": "Appropriate characters for racial classification in maize",
+      "url": "https://link.springer.com/article/10.1007/BF02862205"
+    },
+    {
+      "id": "3bf839c4-b133-41c1-95cb-856b05b71487",
+      "score": 0.8184036,
+      "title": "Races of Corn - Goodman - 1988 - Agronomy Monographs - Wiley Online Library",
+      "url": "https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/agronmonogr18.3ed.c2"
+    },
+    {
+      "id": "281ed09f-d0a4-4717-b03e-69917af2be6a",
+      "score": 0.8014549,
+      "title": "Morphological and ecogeographical diversity analysis of ...",
+      "url": "http://ui.adsabs.harvard.edu/abs/2021PGRCU..19..183T/abstract"
+    },
+    {
+      "id": "8df18450-f589-474a-8e96-4d5b94057d66",
+      "score": 0.77913743,
+      "title": "Collections of corn in the Andean Region.",
+      "url": "https://mnl.maizegdb.org/28/46Grant.pdf"
+    },
+    {
+      "id": "5fafa356-9d2d-44a0-b8e8-248cd5404cf4",
+      "score": 0.769098,
+      "title": "Assessing the Benefits of Andean Crop Diversity on Farmers ...",
+      "url": "https://cgspace.cgiar.org/bitstreams/2a0f795e-c1b7-4d34-a911-a7f21d86a354/download"
+    },
+    {
+      "id": "904ea7a4-e9e0-4439-97c5-c944bdcf7498",
+      "score": 0.7552947,
+      "title": "Maize migration: key crop expands to higher altitudes ...",
+      "url": "https://www.researchgate.net/publication/275347607_Maize_migration_key_crop_expands_to_higher_altitudes_under_climate_change_in_the_Andes"
+    },
+    {
+      "id": "265463f7-b47f-49ba-ba7f-004ed2b84fe4",
+      "score": 0.7355091,
+      "title": "Genetic diversity and population structure of maize ...",
+      "url": "https://www.cambridge.org/core/journals/plant-genetic-resources/article/genetic-diversity-and-population-structure-of-maize-landraces-from-huancavelica-and-cajamarca-provinces-of-peru-using-snp-markers/4388461363F881285C6823BAC68862B6"
+    },
+    {
+      "id": "6447cbfe-8be0-42b6-81ca-efeb10528c1f",
+      "score": 0.7300017,
+      "title": "Maize Breeding in the Highlands of Ecuador, Peru, and ...",
+      "url": "https://www.researchgate.net/publication/348747417_Maize_Breeding_in_the_Highlands_of_Ecuador_Peru_and_Bolivia_A_Review"
+    },
+    {
+      "id": "bd7ea747-2b94-43eb-ab78-3df2689b8335",
+      "score": 0.6867278,
+      "title": "(PDF) Preceramic maize from Paredones and Huaca Prieta, Peru",
+      "url": "https://www.researchgate.net/publication/221808162_Preceramic_maize_from_Paredones_and_Huaca_Prieta_Peru"
+    },
+    {
+      "id": "68899b8a-985a-4e53-84b2-623b46947b4c",
+      "score": 0.67885995,
+      "title": "Genome\u2010Wide Diversity in Lowland and Highland Maize Landraces From Southern South America: Population Genetics Insights to Assist Conservation - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11609054/"
+    },
+    {
+      "id": "68106234-595c-42e5-9617-95cc1818aa68",
+      "score": 0.6755297,
+      "title": "Latin American Maize Germplasm Conservation",
+      "url": "https://repository.cimmyt.org/bitstreams/ca891cb7-169d-41ed-83e1-ebd76a206b1c/download"
+    },
+    {
+      "id": "be430208-3042-4cec-9c30-a5b9f8875a13",
+      "score": 0.6698534,
+      "title": "Archaeological findings show the extent of primitive characteristics of maize in South America | Science Advances",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adn1466"
+    },
+    {
+      "id": "98300dce-c194-487a-b275-18916f0f47f3",
+      "score": 0.6641271,
+      "title": "Mapping the Diversity of Maize Races in Mexico | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114657"
+    },
+    {
+      "id": "76b94b0a-74da-4953-8a6b-f5fc21ff0b4f",
+      "score": 0.65279555,
+      "title": "Domestication and lowland adaptation of coastal preceramic maize from Paredones, Peru | eLife",
+      "url": "https://elifesciences.org/articles/83149"
+    },
+    {
+      "id": "1c989175-d33d-4ef2-8fd4-cc7120aecafc",
+      "score": 0.6391287,
+      "title": "Distribution of maize races in the American continent. ...",
+      "url": "https://www.researchgate.net/figure/Distribution-of-maize-races-in-the-American-continent-The-areas-in-green-correspond-to_fig3_303568902"
+    },
+    {
+      "id": "892cfbe3-95a9-4c0c-a94d-13eb7e05abf5",
+      "score": 0.62852204,
+      "title": "Distinguishing Mexican Maize Landraces Using a Small ...",
+      "url": "https://www.frontiersin.org/articles/10.3389/fgene.2017.00045/full"
+    },
+    {
+      "id": "453c075d-6f6e-46d0-91c8-89986ea56e88",
+      "score": 0.6246834,
+      "title": "1. The races of maize of Colombia.",
+      "url": "https://mnl.maizegdb.org/29/55Roberts.pdf"
+    },
+    {
+      "id": "4f37c6b0-1a0c-4888-b481-b9efef176d73",
+      "score": 0.6152965,
+      "title": "Genetic diversity and population structure of native maize ...",
+      "url": "https://www.researchgate.net/publication/316077237_Genetic_diversity_and_population_structure_of_native_maize_populations_in_Latin_America_and_the_Caribbean"
+    },
+    {
+      "id": "2e563c1c-705a-4a03-a189-02bcb76dcac3",
+      "score": 0.6083387,
+      "title": "Domestication and lowland adaptation of coastal preceramic maize from Paredones, Peru | bioRxiv",
+      "url": "https://www.biorxiv.org/content/10.1101/2022.02.23.481166v1"
+    },
+    {
+      "id": "05cda5fe-756e-4948-9ace-8a15fbfbb298",
+      "score": 0.59796065,
+      "title": "Classification of Peruvian highland maize races with plant ...",
+      "url": "https://www.researchgate.net/publication/227104583_Classification_of_Peruvian_highland_maize_races_with_plant_traits"
+    },
+    {
+      "id": "a3f5e2ba-d019-4f6a-92ef-9c96e9e5500f",
+      "score": 0.59089786,
+      "title": "Preceramic maize from Paredones and Huaca Prieta, Peru",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3277113/"
+    },
+    {
+      "id": "5fe80d5b-7564-4dff-8551-12ef75743f0d",
+      "score": 0.58862966,
+      "title": "Frontiers | Finding a Needle in a Haystack: Distinguishing Mexican Maize Landraces Using a Small Number of SNPs",
+      "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2017.00045/full"
+    },
+    {
+      "id": "afe1de1e-53f4-431c-a966-de9965fd9530",
+      "score": 0.58465123,
+      "title": "Races of Maize in Colombia | The National Academies Press",
+      "url": "https://nap.nationalacademies.org/catalog/21227/races-of-maize-in-colombia"
+    },
+    {
+      "id": "73d7d999-ddba-437d-8438-810f45dfb712",
+      "score": 0.5709301,
+      "title": "Corn Story - Pueblo County Extension",
+      "url": "https://pueblo.extension.colostate.edu/corn-story/"
+    },
+    {
+      "id": "42b20d97-a755-4feb-8cf0-b8b89805ca98",
+      "score": 0.5654673,
+      "title": "Frontiersin",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1526670/xml/nlm"
+    },
+    {
+      "id": "069f915a-adb5-4b68-92cf-d367395868d8",
+      "score": 0.559411,
+      "title": "Morphological Variation in Normal Maize Landrace ...",
+      "url": "https://www.plantbreedbio.org/journal/view.html?uid=774&&vmd=Full"
+    },
+    {
+      "id": "0a50febb-8faf-4edc-9269-2556a0e3e6bb",
+      "score": 0.55565286,
+      "title": "Morphological and genetic diversity of maize landraces ...",
+      "url": "https://www.researchgate.net/publication/361725458_Morphological_and_genetic_diversity_of_maize_landraces_along_an_altitudinal_gradient_in_the_Southern_Andes"
+    },
+    {
+      "id": "5ad12f0e-fb81-41d1-a7d7-188ade0b4a6c",
+      "score": 0.54840803,
+      "title": "Races of Maize in Peru: Their Origins, Evolution and ...",
+      "url": "https://nap.nationalacademies.org/catalog/21228/races-of-maize-in-peru-their-origins-evolution-and-classification"
+    },
+    {
+      "id": "92267366-e6dd-4267-871d-7c71372b3c21",
+      "score": 0.5455042,
+      "title": "Microsatellite typing of ancient maize: insights into the history of agriculture in southern South America - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1766387/"
+    },
+    {
+      "id": "a0ba7c02-e2e7-497e-9fd8-813f1d6d6c74",
+      "score": 0.53196377,
+      "title": "Phenotypic and molecular diversity of maize landraces",
+      "url": "https://www.researchgate.net/publication/289048783_Phenotypic_and_molecular_diversity_of_maize_landraces_Characterization_and_utilization"
+    },
+    {
+      "id": "bb55c21b-4810-4247-adea-842521139850",
+      "score": 0.53181785,
+      "title": "Review Peruvian Andean maize: General characteristics, ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0963996919308208"
+    },
+    {
+      "id": "5335a994-ce68-4e5b-9377-1ac91e3aa334",
+      "score": 0.5297749,
+      "title": "Catalog Record: Races of maize in Peru, their origins",
+      "url": "https://catalog.hathitrust.org/Record/001505583"
+    },
+    {
+      "id": "679cfe7d-0995-4b02-89da-b4f2c5e09314",
+      "score": 0.52758485,
+      "title": "Preceramic maize from Paredones and Huaca Prieta, Peru | PNAS",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1120270109"
+    },
+    {
+      "id": "73b565e2-2612-4079-a850-2752b86d77cf",
+      "score": 0.52524763,
+      "title": "Population structure and genetic diversity of New World maize ...",
+      "url": "https://bsapubs.onlinelibrary.wiley.com/doi/pdfdirect/10.3732/ajb.0800097"
+    },
+    {
+      "id": "1323248d-6e8e-46bc-b1df-b76651031b46",
+      "score": 0.50007385,
+      "title": "Featured Food: Choclo and the Maize of the Andes | Wholesome Harvest",
+      "url": "https://wholesomeharvest.wordpress.com/2014/12/29/featured-food-choclo-and-the-maize-of-the-andes/"
+    },
+    {
+      "id": "6351570f-8260-49d6-baf0-ea3f8fb484fe",
+      "score": 0.49875546,
+      "title": "How Many Varieties of Potatoes and Corns Does Peru Have?",
+      "url": "https://www.intriqjourney.com/how-many-varieties-of-potatoes-and-corns-does-peru-have/"
+    },
+    {
+      "id": "3ab65ea0-07b1-4310-a328-ef7cc0e8c0cb",
+      "score": 0.49450764,
+      "title": "Genome\u2010Wide Diversity in Lowland and Highland Maize Landraces From Southern South America: Population Genetics Insights to Assist Conservation - Dominguez - 2024 - Evolutionary Applications - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/eva.70047"
+    },
+    {
+      "id": "9a49cbc0-2bdb-4895-a0ab-fbcefabe9222",
+      "score": 0.4892356,
+      "title": "Dryad | Data -- SNP data set of Peruvian highland maize races",
+      "url": "https://datadryad.org/dataset/doi:10.5061/dryad.rn8pk0pkv"
+    },
+    {
+      "id": "7cdf9d10-6396-4188-9d78-38761b0a9069",
+      "score": 0.4874788,
+      "title": "maize_history",
+      "url": "https://rilab.ucdavis.edu/maize_history.html"
+    },
+    {
+      "id": "4e2f29ca-a0a7-4632-b6ab-58d2d0a991df",
+      "score": 0.48718598,
+      "title": "Landrace - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/landrace"
+    },
+    {
+      "id": "8b96b03c-a031-4d5c-9302-74b8624c923b",
+      "score": 0.4833807,
+      "title": "Peruvian Corn: A Complete Guide to Its Types, Uses & ...",
+      "url": "https://blog.amigofoods.com/index.php/peruvian-foods/peruvian-corn-101-different-types-dishes/"
+    },
+    {
+      "id": "c17a7333-1357-4770-a6b6-8d4a9b153af2",
+      "score": 0.477969,
+      "title": "10 Best Corns in South America",
+      "url": "https://www.tasteatlas.com/best-rated-corns-in-south-america"
+    },
+    {
+      "id": "c4678b3c-217c-4069-bdfb-ca3be53a7f34",
+      "score": 0.46089602,
+      "title": "What are the differences between germplasm, accession, genotype, and population and also between heirloom and landrace? | ResearchGate",
+      "url": "https://www.researchgate.net/post/What-are-the-differences-between-germplasm-accession-genotype-and-population-and-also-between-heirloom-and-landrace"
+    },
+    {
+      "id": "32863982-178c-4584-bdcf-195e85ab35a2",
+      "score": 0.44594026,
+      "title": "ANDEAN AGRICULTURE | Inca Agriculture | Machu picchu Cusco Tours",
+      "url": "https://www.machupicchucuscotours.com/blog/andean-agriculture.php"
+    },
+    {
+      "id": "e361bb68-1272-4710-bd7e-5f84ed5715ef",
+      "score": 0.43813655,
+      "title": "Origin of crops | CIAT Blog",
+      "url": "https://blog.ciat.cgiar.org/origin-of-crops/"
+    },
+    {
+      "id": "7d077461-6f77-401e-98c8-cb6f11553c6e",
+      "score": 0.43194416,
+      "title": "Ecuador maize varieties - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ecuador_maize_varieties"
+    },
+    {
+      "id": "091398e0-124b-4973-a9bd-559ec11378fb",
+      "score": 0.43093804,
+      "title": "Genomic Analysis of Selected Maize Landraces from Sahel and Coastal West Africa Reveals Their Variability and Potential for Genetic Enhancement - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7565678/"
+    },
+    {
+      "id": "25ab0d41-b76a-40fe-a5e7-3231f6493006",
+      "score": 0.42362547,
+      "title": "maize landrace varieties: Topics by Science.gov",
+      "url": "https://www.science.gov/topicpages/m/maize+landrace+varieties"
+    },
+    {
+      "id": "3bfc4889-e395-419e-b10e-8b4f6faba328",
+      "score": 0.4122231,
+      "title": "Delicious Corn-Based Recipes from Indigenous Cultures",
+      "url": "https://www.nativefoods.info/delicious-corn-based-recipes-from-indigenous-cultures/"
+    },
+    {
+      "id": "7de75f47-a5f8-4185-87f3-d9837f285071",
+      "score": 0.41122967,
+      "title": "Races of Maize in Chile | The National Academies Press",
+      "url": "https://nap.nationalacademies.org/catalog/21226/races-of-maize-in-chile"
+    },
+    {
+      "id": "349496c8-2961-4224-bdf1-f53f47ab28e8",
+      "score": 0.40359092,
+      "title": "Genetic diversity and population structure of native maize ...",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173488"
+    },
+    {
+      "id": "6006d35b-b823-42cb-b147-c7f5291aef20",
+      "score": 0.4024631,
+      "title": "Population structure and genetic diversity of new world ...",
+      "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers21-03/010081643.pdf"
+    },
+    {
+      "id": "511f726f-3d05-46d5-a40e-2146e732556a",
+      "score": 0.39978877,
+      "title": "American Landrace - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/american-landrace"
+    },
+    {
+      "id": "26800050-46ac-4cc7-881c-8f3dbd727936",
+      "score": 0.38824743,
+      "title": "Morphological and genetic diversity of maize landraces along ...",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271424"
+    },
+    {
+      "id": "ad87550b-7439-4618-b11a-1fbe98413453",
+      "score": 0.37223184,
+      "title": "Andean agriculture - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andean_agriculture"
+    },
+    {
+      "id": "5135e1f2-497b-4bcc-bf32-5247b53b708b",
+      "score": 0.37093207,
+      "title": "Indigenous Corn: History, Varieties & Benefits - Native Tribe Info",
+      "url": "https://nativetribe.info/indigenous-corn-history-varieties-benefits/"
+    },
+    {
+      "id": "b3487621-1464-43e2-bc87-b5ce7f41dd24",
+      "score": 0.35481355,
+      "title": "Major M. Goodman",
+      "url": "https://cals.ncsu.edu/crop-and-soil-sciences/wp-content/uploads/sites/48/2017/03/Goodman_CV10_04.pdf"
+    },
+    {
+      "id": "e0d24282-a623-4d34-a6b9-2f197c62d108",
+      "score": 0.3512671,
+      "title": "Andean maize in Argentina: physiological effects related with altitude, genetic variation, management practices and possible avenues to improve yield",
+      "url": "https://www.maxapress.com/article/doi/10.48130/TIA-2023-0014"
+    },
+    {
+      "id": "0c5313d2-be69-4c9d-bcdf-a7819e8a7af3",
+      "score": 0.34820226,
+      "title": "CGIAR Research Program on Maize (MAIZE) \u2013 CIMMYT Annual Report 2019",
+      "url": "https://annualreport2019.cimmyt.org/cgiar-research-program-on-maize/"
+    },
+    {
+      "id": "4875e9de-2453-4f6d-87a7-0e18a27cfc0c",
+      "score": 0.34720555,
+      "title": "Zea (plant) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zea_(plant)"
+    },
+    {
+      "id": "5fe79e11-e0d2-492d-a755-f0caf9759359",
+      "score": 0.3344378,
+      "title": "Andean peoples | Pre-Columbian Cultures, Indigenous Tribes & History | Britannica",
+      "url": "https://www.britannica.com/topic/Andean-peoples"
+    },
+    {
+      "id": "830a942f-21fa-4486-ab21-8edbee9a8c8d",
+      "score": 0.33241925,
+      "title": "How maize got to Peru | eLife Science Digests | eLife",
+      "url": "https://elifesciences.org/digests/83149/how-maize-got-to-peru"
+    },
+    {
+      "id": "4ed86fcc-9dd1-49cf-a781-8aab17c1265a",
+      "score": 0.32791626,
+      "title": "Peruvian Corn Information and Facts",
+      "url": "https://specialtyproduce.com/produce/Peruvian_Corn_17006.php"
+    },
+    {
+      "id": "392f0e02-854b-493e-aa1a-97c7b64adf9f",
+      "score": 0.31078902,
+      "title": "Genetic variation and structure of maize populations from ...",
+      "url": "https://bmcgenomdata.biomedcentral.com/articles/10.1186/s12863-018-0655-2"
+    },
+    {
+      "id": "b691489d-83b2-489e-a401-462cd9694b65",
+      "score": 0.31063214,
+      "title": "Wild Progenitor and Landraces Led Genetic Gain in the Modern-Day Maize (<em>Zea mays</em> L.) | IntechOpen",
+      "url": "https://www.intechopen.com/chapters/75832"
+    },
+    {
+      "id": "20dce3a1-a0b3-4350-93ae-19c330018bd6",
+      "score": 0.30386654,
+      "title": "CGIAR - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/CGIAR"
+    },
+    {
+      "id": "c6879e26-fc21-46e6-9232-846edbede07d",
+      "score": 0.3004381,
+      "title": "Genetic diversity in maize landraces from indigenous settlements of Northeastern Argentina - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18322805/"
+    },
+    {
+      "id": "8efcc654-a9f0-41cf-970e-b80bafd33502",
+      "score": 0.300038,
+      "title": "On agrobiodiversity, the Andes can teach the world much about crop conservation (commentary)",
+      "url": "https://news.mongabay.com/2022/01/on-agrobiodiversity-the-andes-can-teach-the-world-much-about-crop-conservation-commentary/"
+    },
+    {
+      "id": "32346a83-5bd6-4335-ade3-fa5dd923b042",
+      "score": 0.2943625,
+      "title": "Frontiers | Toward an Evolved Concept of Landrace",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2017.00145/full"
+    },
+    {
+      "id": "880448e7-36d3-4c07-8361-c6f38963689d",
+      "score": 0.2883441,
+      "title": "Toward an Evolved Concept of Landrace - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296298/"
+    },
+    {
+      "id": "9b71643b-aaad-4a8d-ba27-04f6d8a448dc",
+      "score": 0.28694835,
+      "title": "Maize | Crops | Resources | CGIAR Genebanks",
+      "url": "https://genebanks.cgiar.org/resources/crops/maize/"
+    },
+    {
+      "id": "c104ea7b-4df5-4582-9b09-8915f0cb2054",
+      "score": 0.28122836,
+      "title": "\u201cForeign\u201d crops - from maize to mangoes - dominate national ...",
+      "url": "https://blog.ciat.cgiar.org/foreign-crops-from-maize-to-mangoes-dominate-national-food-consumption-and-farming-practices-worldwide/"
+    },
+    {
+      "id": "a75bda05-d7f8-4ea9-8519-153301786746",
+      "score": 0.25661814,
+      "title": "The Best Varieties of Heirloom Corn - AGCO FarmLife",
+      "url": "https://myfarmlife.com/home-garden/the-best-varieties-of-heirloom-corn/"
+    },
+    {
+      "id": "64c3e31b-3661-4681-ac67-157c55b4542c",
+      "score": 0.25332078,
+      "title": "Genetic diversity and selection signatures in maize ...",
+      "url": "https://www.nature.com/articles/s41437-021-00423-y"
+    },
+    {
+      "id": "c910f9a1-fb95-4314-9d3d-050c8e304658",
+      "score": 0.24853007,
+      "title": "17 Types of Corn From A To Z (With Photos!) | Live Eat Learn",
+      "url": "https://www.liveeatlearn.com/types-of-corn/"
+    },
+    {
+      "id": "4f87240b-3ba7-4315-8c41-4ab3c0c66c9b",
+      "score": 0.24828392,
+      "title": "From Wild Species to Landraces and Cultivars \u2013 Crop Wild Relatives and their Use in Plant Breeding",
+      "url": "https://colostate.pressbooks.pub/cropwildrelatives/chapter/from-wild-species-to-landraces-and-cultivars/"
+    },
+    {
+      "id": "bbd9d872-3382-4d5c-abb2-c9bffca50d39",
+      "score": 0.235724,
+      "title": "Corn and Native Americans | Research Starters",
+      "url": "https://www.ebsco.com/research-starters/agriculture-and-agribusiness/corn-and-native-americans"
+    },
+    {
+      "id": "1602ee08-c459-4f27-922b-176677f8da56",
+      "score": 0.22638187,
+      "title": "Peruvian Corn - Everything You Ever Wanted to Know - Eat Peru",
+      "url": "https://www.eatperu.com/peruvian-corn/"
+    },
+    {
+      "id": "1cb16981-9a3c-4673-b11a-5da2c5dcc183",
+      "score": 0.2233944,
+      "title": "Peruvian corn - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peruvian_corn"
+    },
+    {
+      "id": "a2dc82a7-fc7b-46c3-81fa-7169a0de6843",
+      "score": 0.21650848,
+      "title": "Number of races of maize described in Latin America per country or region. | Download Scientific Diagram",
+      "url": "https://www.researchgate.net/figure/Number-of-races-of-maize-described-in-Latin-America-per-country-or-region_tbl1_348576117"
+    },
+    {
+      "id": "d5df6128-a2d2-44b7-bd2a-d7f2e509053f",
+      "score": 0.21539238,
+      "title": "You Say Corn, I Say Sara - by Nico Vera - La Yapa",
+      "url": "https://piscotrail.substack.com/p/you-say-corn-i-say-sara"
+    },
+    {
+      "id": "af48f549-c70e-4b50-b0ce-0582c622fc11",
+      "score": 0.20740767,
+      "title": "CIMMYT",
+      "url": "https://www.cimmyt.org"
+    },
+    {
+      "id": "4ac9d39a-c0d8-4e8e-aaaa-bee85909ff87",
+      "score": 0.200605,
+      "title": "Races of Maize in Venezuela | The National Academies Press",
+      "url": "https://nap.nationalacademies.org/catalog/21221/races-of-maize-in-venezuela"
+    },
+    {
+      "id": "5ad8752f-7ae7-4051-a857-f972fa399638",
+      "score": 0.19664136,
+      "title": "A Complete Guide to Peruvian Corns - K'anchay Peru Travel",
+      "url": "https://kanchayperutravel.com/peruvian-corns/"
+    },
+    {
+      "id": "19b84d98-beb3-4fae-98f4-da8babb0e666",
+      "score": 0.19260046,
+      "title": "Genotyping by sequencing reveals the genetic diversity ...",
+      "url": "https://www.cgiar.org/research/publication/genotyping-by-sequencing-reveals-the-genetic-diversity-and-population-structure-of-peruvian-highland-maize-races/"
+    },
+    {
+      "id": "22c199cb-37f0-4d12-826f-5de946404d14",
+      "score": 0.17698465,
+      "title": "Genomic, climatic, and cultural diversity of maize landraces ...",
+      "url": "https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10513"
+    },
+    {
+      "id": "686808d5-9832-473d-a015-cb05f0e7f5e4",
+      "score": 0.17292508,
+      "title": "Maize consumption in pre-Hispanic south-central Andes: chemical and microscopic evidence from organic residues in archaeological pottery from western Tinogasta (Catamarca, Argentina) - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S030544031400483X"
+    },
+    {
+      "id": "15e36c1b-9bba-4625-91d1-90e911f6a03d",
+      "score": 0.16122806,
+      "title": "Evaluation of yeasts from Ecuadorian chicha by their performance as starters for alcoholic fermentations in the food industry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31794930/"
+    },
+    {
+      "id": "4c8de125-328e-4920-bb9d-bf8a951d28f1",
+      "score": 0.13842711,
+      "title": "Colombia CIMMYT and Deep roots and innovations strengthen maize farming systems",
+      "url": "https://repository.cimmyt.org/server/api/core/bitstreams/abd6737c-4687-4e1e-8921-2151efa1aa6e/content"
+    },
+    {
+      "id": "02069e55-632e-46a6-a290-654943046104",
+      "score": 0.12670976,
+      "title": "Maize \u2013 CGIAR Research Program on MAIZE",
+      "url": "https://maize.org/"
+    },
+    {
+      "id": "85da177c-6ff3-4232-8cca-490d9a957c07",
+      "score": 0.124457784,
+      "title": "Patterns of Selection and Tissue-Specific Expression among Maize Domestication and Crop Improvement Loci - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1914116/"
+    },
+    {
+      "id": "daa21c31-11ac-4ca7-ad70-8f8737de527f",
+      "score": 0.12331308,
+      "title": "Maize - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "id": "4e81732c-eaf6-49ef-b9dd-bddccb35aadf",
+      "score": 0.12280721,
+      "title": "10 Indigenous Corn Cultivars \u2013 Mother Earth News",
+      "url": "https://www.motherearthnews.com/organic-gardening/indigenous-corn-cultivars-zm0z21jjzbut/"
+    },
+    {
+      "id": "20556dc1-11aa-4cec-9f4d-9e53b569ab09",
+      "score": 0.122429006,
+      "title": "Back to where they came from | News | CGIAR Genebanks",
+      "url": "https://genebanks.cgiar.org/news-activities/news/rematriation/"
+    },
+    {
+      "id": "94df069e-f6eb-4c3a-8822-57e91c8c1f36",
+      "score": 0.11888568,
+      "title": "DNA from primitive maize landraces and archaeological remains: implications for the domestication of maize and its expansion into South America - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0305440302002698"
+    },
+    {
+      "id": "5dcfd0e4-31ea-4418-8cf7-a4a71e3cac56",
+      "score": 0.085228555,
+      "title": "Genetic diversity and population structure of native maize populations in Latin America and the Caribbean - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5389613/"
+    },
+    {
+      "id": "57940c62-bac3-4726-9f28-e3d81b2c2ae4",
+      "score": 0.06864369,
+      "title": "Landraces of Maize in Central Mexico: An Altitudinal Transect on JSTOR",
+      "url": "https://www.jstor.org/stable/4256638"
+    },
+    {
+      "id": "84270e79-a250-4339-ab23-f704c413f43f",
+      "score": 0.03330229,
+      "title": "1 Maize Suketoshi Taba1 and S. Twumasi-Afriyie2",
+      "url": "https://genebanks.cgiar.org/wp-content/uploads/2017/01/Maize_ENG.pdf"
+    }
+  ]
+}

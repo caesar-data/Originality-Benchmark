@@ -1,0 +1,355 @@
+{
+  "id": "9c657413-284e-4e82-98bb-d97375bef44c",
+  "status": "completed",
+  "content": "TRUE. Working dogs, commonly known as Diabetic Alert Dogs (DADs), are actively and systematically trained to detect glycemic changes associated with diabetes, and human saliva is a primary medium used for this scent-based training[1][2][3].\n\n## Substantiation of Factual Basis\n\nThe training of dogs to detect hypoglycemic (low blood sugar) and hyperglycemic (high blood sugar) events is a well-documented practice undertaken by various organizations and individual trainers[4][5]. The core of this training relies on scent work, for which saliva is a commonly used and recommended sample type[6][7].\n\n### The Practice of Training with Saliva Samples\n\nTraining protocols consistently describe the collection and use of saliva as a foundational step.\n\n*   **Sample Collection**: Trainers instruct diabetic individuals to collect saliva samples using sterile cotton pads, gauze, or dental rolls during a hypoglycemic event (typically when blood glucose is below 70 mg/dL) or a hyperglycemic event[9][10]. To ensure a pure scent sample, collection should occur when the person has not eaten, drank (other than water), or used mouthwash within the previous 30 minutes[2][11].\n*   **Storage and Use**: The collected samples are sealed in airtight bags, labeled with the date and corresponding glucose level, and then frozen to preserve the scent for repeated training sessions[3][6]. These samples can be stored for up to six months[10].\n*   **Scent Imprinting**: The training process begins with \"scent imprinting\" or \"scent familiarization,\" where the dog is introduced to the saliva sample and rewarded with high-value treats or praise for showing interest, such as sniffing it[3][12]. This positive reinforcement method teaches the dog to associate the specific scent of a glycemic event with a positive reward[13].\n*   **Alert Training**: Once the dog reliably recognizes the scent, it is taught a specific, physical alert behavior, such as a nose nudge or pawing action[3][14]. The training process chains these actions together, so the scent itself becomes the cue for the dog to perform the alert[3]. The full training of a DAD can take from six months to two years[15].\n\n### The Scientific Mechanism\n\nThe ability of dogs to detect glycemic events is attributed to their acute sense of smell, which can identify changes in Volatile Organic Compounds (VOCs) emitted by the human body[16][17].\n\n*   **VOC Biomarkers**: The human body emits over 1,840 known VOCs through breath, sweat, skin, and saliva[18][19]. During hypoglycemic episodes, the concentration of specific VOCs changes, creating a distinct scent profile that dogs can be trained to recognize[20].\n*   **Key Compounds**: Research has identified several VOCs associated with glycemic changes. Isoprene levels have been observed to rise \"strikingly\" in exhaled breath during hypoglycemia[21][22]. Other compounds like acetone, acetaldehyde, and various hydrocarbons are also considered potential biomarkers[23]. While much research focuses on breath, these VOCs are also present in other bodily fluids like saliva[19][21].\n\n## Critical Context: Efficacy and Reliability\n\nWhile the training of dogs using saliva is a factual practice, scientific assessments of their reliability show variable and sometimes poor results.\n\n### Documented Performance in Scientific Studies\n\nPeer-reviewed studies on the performance of DADs report heterogeneous outcomes, with wide-ranging accuracy.\n*   **Variable Accuracy**: Published literature shows that the diagnostic efficiency of DADs is inconsistent, with reported sensitivity ranging from 29% to 88% and specificity from 49% to 96%[24][25].\n*   **Low Sensitivity and High False Positives**: Several prominent studies have highlighted performance issues. A frequently cited study by Los et al. found DADs had a sensitivity of only 36% for detecting hypoglycemia, with a high rate of false-positive alerts and a positive predictive value of just 12%[26][22]. Another study using skin swabs from unfamiliar subjects found the dogs' performance was no better than chance, with sensitivity and specificity values around 50%[27][28].\n*   **Lack of Saliva-Specific Studies**: Although saliva is a standard training tool, there is a notable absence of peer-reviewed studies that have specifically tested and validated the accuracy of dogs detecting hypoglycemia from saliva samples[23]. Most formal accuracy studies have used breath or skin/perspiration samples[24][13].\n\n### Comparison to Technological Monitoring\n\nStudies comparing DADs to medical devices like Continuous Glucose Monitors (CGMs) have generally found the technology to be superior in terms of speed and reliability[29][26]. One study reported that when both a dog and a CGM alerted to a hypoglycemic event, the CGM was first in 73% of cases, often by a clinically significant margin of 22 minutes on average[22]. However, owners often report high satisfaction, noting that dogs can provide alerts during times of symptomatic unawareness[30].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "99cd11e5-8426-4a16-a159-244b10a4b2a3",
+      "score": 0.7982658,
+      "title": "Seven Things You Need to Know About Diabetic Service Dog Training",
+      "url": "https://www.servicedogtrainingschool.org/blog/diabetic-service-dog-training",
+      "citation_index": 1
+    },
+    {
+      "id": "139eaf4d-86ad-4bb2-a5f5-72c7cd48583b",
+      "score": 0.82048416,
+      "title": "Diabetes alert dog - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diabetes_alert_dog",
+      "citation_index": 2
+    },
+    {
+      "id": "0efe4537-045a-431d-b4f7-5210d70b27d7",
+      "score": 0.9071234,
+      "title": "Diabetic Alert Dogs - Whole Dog Journal",
+      "url": "https://www.whole-dog-journal.com/training/diabetic-alert-dogs/",
+      "citation_index": 3
+    },
+    {
+      "id": "a630b2d6-b138-4036-8d38-56f649777d23",
+      "score": 0.6102915,
+      "title": "Diabetic Alert Dog Training | Medical Mutts",
+      "url": "https://www.medicalmutts.org/our-service-dogs/diabetic-alert-dogs",
+      "citation_index": 4
+    },
+    {
+      "id": "54f40df7-5029-4720-b943-c791fbdc5fbb",
+      "score": 0.80735475,
+      "title": "The magic of diabetic alert dogs - Assistance Dogs International",
+      "url": "https://assistancedogsinternational.org/news/2022/11/14/member-news/the-magic-of-diabetic-alert-dogs/",
+      "citation_index": 5
+    },
+    {
+      "id": "78fb3f74-e58f-4a39-a7ee-6ed7b0ba9884",
+      "score": 0.8412138,
+      "title": "The Key to Successful Diabetic Sensing Dogs",
+      "url": "https://www.servicedogtrainingschool.org/blog/diabetic-sensing-dog-smell-training?srsltid=AfmBOoo8iMxNWW_6Z6xHTDZhT3J3ipHhp5Ox3bgM8uoVsXj9JLR4WEgl",
+      "citation_index": 6
+    },
+    {
+      "id": "4e5daf7f-fbe2-45a5-996f-f0f337468bc1",
+      "score": 0.7946564,
+      "title": "How to Train Your Dog to Detect Low Blood Sugar | Wag!",
+      "url": "https://wagwalking.com/training/detect-low-blood-sugar",
+      "citation_index": 7
+    },
+    {
+      "id": "e66c362e-c3bc-4623-9a62-6f063dfd64f1",
+      "score": 0.8358192,
+      "title": "How to Train Your Dog To Detect a Diabetic's Low Blood Sugar - CUDDLY Blog",
+      "url": "https://blog.cuddly.com/pet-relationships/how-to-train-your-dog-to-detect-a-diabetics-low-blood-sugar/",
+      "citation_index": 9
+    },
+    {
+      "id": "9b946834-eb5f-4a4b-90a0-d98c7bcfdc3b",
+      "score": 0.8235701,
+      "title": "Diabetic Alert Dog Training: How to collect saliva samples for training.",
+      "url": "https://www.youtube.com/watch?v=hQG32vsjsAA",
+      "citation_index": 10
+    },
+    {
+      "id": "dc8c407d-1441-4ae4-92c1-743d4bca0a4e",
+      "score": 0.15361294,
+      "title": "Scenting Collection Instructions | All 4 Paws Training, LLC",
+      "url": "https://all4pawstraining.com/scenting-collection/",
+      "citation_index": 11
+    },
+    {
+      "id": "09494781-dd5f-411f-8ffe-bd14c47af784",
+      "score": 0.7004242,
+      "title": "DIABETIC ALERT DOG - SCENT TRAINING STEP 1 \u2010 MD DOGS INC",
+      "url": "https://www.youtube.com/watch?v=-eg2y1z7oOg",
+      "citation_index": 12
+    },
+    {
+      "id": "09527641-d1b3-490e-b7c0-fe5ef9b39587",
+      "score": 0.63615024,
+      "title": "Dogs Can Be Successfully Trained to Alert to Hypoglycemia Samples from Patients with Type 1 Diabetes - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4674474/",
+      "citation_index": 13
+    },
+    {
+      "id": "494aadc5-27ba-47d7-a808-82d8430446c9",
+      "score": 0.7711725,
+      "title": "Diabetic Alert Dog Training",
+      "url": "https://topdogtexas.com/diabetic-alert-dog-training/",
+      "citation_index": 14
+    },
+    {
+      "id": "b3a6c135-a7e3-4b6d-9fbd-6cd8d29dbd05",
+      "score": 0.7811474,
+      "title": "How Diabetic Alert Dogs Protect Their People - A-Z Animals",
+      "url": "https://a-z-animals.com/articles/how-diabetic-alert-dogs-protect-their-people/",
+      "citation_index": 15
+    },
+    {
+      "id": "ff4fa4ca-0786-48a1-a231-13115795fe80",
+      "score": 0.6453216,
+      "title": "Steps toward clinical validation of exhaled volatile organic compound biomarkers for hypoglycemia in persons with type 1 diabetes | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-025-00284-z",
+      "citation_index": 16
+    },
+    {
+      "id": "f35a67d5-3731-4dd6-ad7a-5c526a149bb8",
+      "score": 0.64047897,
+      "title": "Steps toward clinical validation of exhaled volatile organic ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12104459/",
+      "citation_index": 17
+    },
+    {
+      "id": "39064bfb-24c9-45dc-a694-cccf40fb8285",
+      "score": 0.76554126,
+      "title": "Detection of hypoglycaemia in type 1 diabetes through breath volatile organic compound profiling using gas chromatography\u2013ion mobility spectrometry - Nicolier - 2024 - Diabetes, Obesity and Metabolism - Wiley Online Library",
+      "url": "https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.15944",
+      "citation_index": 18
+    },
+    {
+      "id": "e5329e52-fc9e-4c74-ac19-07b6f276de45",
+      "score": 0.3924305,
+      "title": "Breath volatile organic compounds (VOCs) as biomarkers ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10339195/",
+      "citation_index": 19
+    },
+    {
+      "id": "39a41368-4fa1-47d8-a0b1-4d5c9a64367f",
+      "score": 0.78194773,
+      "title": "968-P: Volatile Organic Compounds in Breath Predict Hypoglycemia Well Before Plasma Glucose Levels Fall | Diabetes | American Diabetes Association",
+      "url": "https://diabetesjournals.org/diabetes/article/68/Supplement_1/968-P/58337/",
+      "citation_index": 20
+    },
+    {
+      "id": "6d8a7289-b0c9-48d4-a406-eed17bb420b3",
+      "score": 0.568057,
+      "title": "Smelling the Disease: Diagnostic Potential of Breath Analysis | Molecular Diagnosis & Therapy",
+      "url": "https://link.springer.com/article/10.1007/s40291-023-00640-7",
+      "citation_index": 21
+    },
+    {
+      "id": "6c35cf55-596e-4240-bda0-23ab8ba3ddea",
+      "score": 0.6580885,
+      "title": "Can Trained Dogs Alert Diabetics To Low Blood Sugar? : Shots - Health News : NPR",
+      "url": "https://www.npr.org/sections/health-shots/2016/07/29/487772706/can-dogs-help-sniff-out-low-blood-sugar-in-diabetes",
+      "citation_index": 22
+    },
+    {
+      "id": "f580e41f-f655-4f80-8d72-c0ac7ae8d2f4",
+      "score": 0.80014634,
+      "title": "Diabetes alert dogs: a narrative critical overview",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/cclm-2018-0842/html?lang=en&srsltid=AfmBOoqsF8PyIs-vuaYIF06v1wfl9dTuAnms3kg04db6RrDC6lkjClov",
+      "citation_index": 23
+    },
+    {
+      "id": "7cb25c1e-9b3b-48e1-8384-1a15332d1708",
+      "score": 0.74652773,
+      "title": "Diabetes alert dogs: a narrative critical overview",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/cclm-2018-0842/html?lang=en",
+      "citation_index": 24
+    },
+    {
+      "id": "35b06988-8cf3-424b-af8e-12fa236896ff",
+      "score": 0.49377534,
+      "title": "Canine olfactory detection and its relevance to medical detection",
+      "url": "https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06523-8",
+      "citation_index": 25
+    },
+    {
+      "id": "5a02e744-9ab5-4b79-a49c-00297736fc7e",
+      "score": 0.7750779,
+      "title": "Reliability of Trained Dogs to Alert to Hypoglycemia in ...",
+      "url": "https://www.researchgate.net/publication/307437814_Reliability_of_Trained_Dogs_to_Alert_to_Hypoglycemia_in_Patients_With_Type_1_Diabetes",
+      "citation_index": 26
+    },
+    {
+      "id": "e8168fa9-4bfa-4928-a1c7-e68739707d60",
+      "score": 0.54346967,
+      "title": "Can Trained Dogs Detect a Hypoglycemic Scent in Patients With Type 1 Diabetes? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3687325/",
+      "citation_index": 27
+    },
+    {
+      "id": "32b55bc4-f27e-49e7-b414-9f99f5732073",
+      "score": 0.54956865,
+      "title": "Can Trained Dogs Detect a Hypoglycemic Scent in Patients With Type 1 Diabetes? | Diabetes Care | American Diabetes Association",
+      "url": "https://diabetesjournals.org/care/article/36/7/e98/33305/Can-Trained-Dogs-Detect-a-Hypoglycemic-Scent-in",
+      "citation_index": 28
+    },
+    {
+      "id": "f5a907ec-17ae-43df-9fe6-d5a10fc8a307",
+      "score": 0.68191797,
+      "title": "What Are Diabetic Service Dogs? Benefits, Challenges, and Controversy",
+      "url": "https://www.webmd.com/diabetes/what-are-diabetic-service-dogs",
+      "citation_index": 29
+    },
+    {
+      "id": "bef245cf-53b2-4eac-8c16-2f99fadb8fc1",
+      "score": 0.6337056,
+      "title": "Reliability of Trained Dogs to Alert to Hypoglycemia in Patients With Type 1 Diabetes - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5505410/",
+      "citation_index": 30
+    },
+    {
+      "id": "b0bbab17-8f16-442e-9eb0-58fac0b1faab",
+      "score": 0.8967681,
+      "title": "How to Train a Diabetic Alert Dog: A Step-by-Step Guide for Effective Training",
+      "url": "https://beagooddog.com/how-to-train-a-diabetic-alert-dog/"
+    },
+    {
+      "id": "580bede2-7130-4216-bc5b-ace4f732866a",
+      "score": 0.88799405,
+      "title": "How to Train Your Dog to Detect Low Blood Sugar (For Diabetic Owners)",
+      "url": "https://www.goodnaturedbrand.com/blogs/health-wellness/how-to-train-your-dog-to-detect-low-blood-sugar-for-diabetic-owners"
+    },
+    {
+      "id": "3f4f682b-d64b-4c00-af9d-6cdba38506b4",
+      "score": 0.7946564,
+      "title": "Diabetic Alert Dog Training - Hidden Scent Sample",
+      "url": "https://www.youtube.com/watch?v=zEijYNmXurM"
+    },
+    {
+      "id": "33c4e17d-8bdd-4362-b32c-56794356fe72",
+      "score": 0.7803451,
+      "title": "Diabetes-Alert Dogs: The Newest Tool to Monitor Glucose ...",
+      "url": "https://www.dvm360.com/view/diabetesalert-dogs-the-newest-tool-to-monitor-glucose-levels"
+    },
+    {
+      "id": "acab6d29-3630-4763-bd32-75d0e88f6252",
+      "score": 0.72559077,
+      "title": "training your own diabetic alert dog.",
+      "url": "https://www.youtube.com/watch?v=eCqV3B0lsE0"
+    },
+    {
+      "id": "fca56eb3-7c67-48ec-a7c2-e6689ae2ecc3",
+      "score": 0.70847535,
+      "title": "An Owner-Independent Investigation of Diabetes Alert Dog ...",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2019.00091/full"
+    },
+    {
+      "id": "cc8ec03b-d610-46e5-9a0b-51d80fce9755",
+      "score": 0.68874115,
+      "title": "Hypo alert dogs are specially trained to recognise when their owner has low blood glucose levels, hypoglycemia.",
+      "url": "https://www.diabetes.co.uk/hypo-alert-dogs.html"
+    },
+    {
+      "id": "3f70be23-7c6c-4a4a-a8fd-b19d0f059a16",
+      "score": 0.66699636,
+      "title": "Frontiers | Volatile Organic Compounds From Breath Differ Between Patients With Major Depression and Healthy Controls",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.819607/full"
+    },
+    {
+      "id": "07a0afec-41aa-4a68-8871-3169d0a9951a",
+      "score": 0.6461259,
+      "title": "Type 1\u2019s Best Friend: Understanding Diabetic Alert Dogs",
+      "url": "https://www.type1strong.org/blog-post/type-1s-best-friend-understanding-diabetic-alert-dogs"
+    },
+    {
+      "id": "ee752168-82f8-4e62-a59d-7bb4717c0562",
+      "score": 0.6018984,
+      "title": "Diabetic Alert Dogs: A Preliminary Survey of Current Users - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3609496/"
+    },
+    {
+      "id": "23b26d3f-5583-4702-966b-ea14b475ed21",
+      "score": 0.5954225,
+      "title": "Diabetic Alert Dogs - Alert & Scent Training | Little Angels Service Dogs",
+      "url": "https://littleangelsservicedogs.org/disabilities-served/diabetic-alert-dogs/"
+    },
+    {
+      "id": "c933cacb-e473-4af6-8924-22c819dc756d",
+      "score": 0.55420566,
+      "title": "How Canines Can Assist Our Patients with Diabetes: Diabetes Alert Dogs: What Are Their Capabilities? - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39546361/"
+    },
+    {
+      "id": "08b4991f-d3f0-48ed-92a4-3afec9e26489",
+      "score": 0.53400564,
+      "title": "Investigation into the Value of Trained Glycaemia Alert Dogs to Clients with Type I Diabetes | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069921"
+    },
+    {
+      "id": "43324ecc-c752-4382-b702-dcd157893770",
+      "score": 0.518815,
+      "title": "Analysis of Volatile Organic Compounds in Human Saliva by a Static Sorptive Extraction Method and Gas Chromatography-Mass Spectrometry | Journal of Chemical Ecology",
+      "url": "https://link.springer.com/article/10.1007/s10886-010-9846-7"
+    },
+    {
+      "id": "fb9d3f67-6b9b-4e9e-82df-92ae183ad834",
+      "score": 0.4135014,
+      "title": "How effective are trained dogs at alerting their owners to changes in blood glycaemic levels?: Variations in performance of glycaemia alert dogs - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6333402/"
+    },
+    {
+      "id": "fb78842e-13ed-4948-8fc1-9af05a8fe42f",
+      "score": 0.38532895,
+      "title": "Perceptions about professionally and non-professionally trained hypoglycemia detection dogs - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4520763/"
+    },
+    {
+      "id": "ea12fbcb-9c08-460b-93bf-12b6f84b5e59",
+      "score": 0.34554735,
+      "title": "Diabetic Alert Dogs - Canine Partners for Life",
+      "url": "https://k94life.org/diabetes-alert/"
+    },
+    {
+      "id": "ecc7277c-3ad6-4b3d-9e1e-25d1b237bed1",
+      "score": 0.31336772,
+      "title": "The use of assistance dogs in the detection ...",
+      "url": "https://ijn.zotarellifilhoscientificworks.com/index.php/ijn/article/download/318/300/402"
+    },
+    {
+      "id": "1355c463-5e2c-43f7-83a3-ae45329c764d",
+      "score": 0.29316208,
+      "title": "Volatile organic compounds exposure in relation to glucose homeostasis and type 2 diabetes in older adults from the NHANES | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-024-81255-8"
+    },
+    {
+      "id": "bb8eb0ae-12c7-4b94-aa10-80946ed2c41c",
+      "score": 0.2919191,
+      "title": "Metabolome of canine and human saliva: a non-targeted metabolomics study | Metabolomics",
+      "url": "https://link.springer.com/article/10.1007/s11306-020-01711-0"
+    },
+    {
+      "id": "cb8aea6a-fe15-48bd-b264-aa304c54de5f",
+      "score": 0.28225848,
+      "title": "Analyses of organic acids and inorganic anions and their relationship in human saliva before and after glucose intake - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24246267/"
+    },
+    {
+      "id": "d07f8fe4-e094-4d6d-ab1f-fc7786e04c3f",
+      "score": 0.26014078,
+      "title": "r/diabetes_t1 on Reddit: Anyone successfully train their own Diabetic Alert Dog?",
+      "url": "https://www.reddit.com/r/diabetes_t1/comments/164z3kg/anyone_successfully_train_their_own_diabetic/"
+    },
+    {
+      "id": "f62230f0-9b73-423c-94b0-63648d66da01",
+      "score": 0.19237275,
+      "title": "Volatile Organic Compounds From Breath Differ Between Patients With Major Depression and Healthy Controls - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9314777/"
+    },
+    {
+      "id": "543f6d77-2315-4fb2-a653-f3d73a9b2d14",
+      "score": 0.11347172,
+      "title": "Analyzing breath samples of hypoglycemic events in type 1 ...",
+      "url": "https://iopscience.iop.org/article/10.1088/1752-7163/aa6ac6/ampdf"
+    }
+  ]
+}

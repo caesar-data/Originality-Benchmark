@@ -1,0 +1,965 @@
+{
+  "id": "68abc92f-7ff6-4048-bdab-152606130ea0",
+  "status": "completed",
+  "content": "**TRUE**: The statement that at least 1 in 5 adults has a low iron level is factual, supported by global estimates and national data from major regions including the United States and Europe.\n\nA \"low iron level\" corresponds clinically to iron deficiency (ID), a condition where the body's iron stores are insufficient to meet its needs[1][2]. This state can exist with or without anemia[3]. Iron deficiency anemia (IDA) is the more severe stage that occurs when iron levels are low enough to impair the production of hemoglobin and red blood cells[4][5]. The assertion addresses the broader condition of iron deficiency.\n\n## Global Prevalence of Iron Deficiency\n\nMultiple global health estimates indicate that the prevalence of iron deficiency meets or exceeds the 20% threshold (\"1 in 5\").\n*   One estimate, citing the World Health Organization (WHO), states that 1.6 billion people, or one-fifth (20%) of the world's population, are iron deficient[6].\n*   Other sources report that over 2 billion people worldwide are affected by iron deficiency[3][7], a figure that would place the prevalence closer to 25% of the global population[8].\n*   The Global Burden of Disease Study for 2021 found the global prevalence of *dietary* iron deficiency was 16.7%[9]. This figure does not include other causes of iron deficiency, such as chronic blood loss or absorption issues, suggesting the all-cause prevalence is higher[10].\n*   Iron deficiency is considered the most common nutritional deficiency in the world[11][12].\n\n## Prevalence in the United States\n\nRecent, nationally representative data from the U.S. National Health and Nutrition Examination Survey (NHANES) for 2017-2020 confirms a high prevalence of iron deficiency among adults, well above the 20% threshold.\n\nThe analysis categorizes iron deficiency into two distinct, mutually exclusive types:\n*   **Absolute Iron Deficiency**: Defined by depleted iron stores (serum ferritin <30 ng/mL)[13]. This affects an estimated **14%** of U.S. adults[14][13].\n*   **Functional Iron Deficiency**: Characterized by sufficient iron stores that are not available for use (serum ferritin \u226530 ng/mL with transferrin saturation <20%)[13]. This affects an estimated **15%** of U.S. adults[14][13].\n\nBecause the definitions are based on mutually exclusive ferritin levels, the total prevalence of adults with some form of iron deficiency is the sum of these two groups, totaling **29%**[14][13]. This figure, equivalent to more than 1 in 4 adults, substantially exceeds the \"1 in 5\" benchmark.\n\nPrevalence is particularly high in certain demographics. For women aged 18 to <50 years, the prevalence of absolute iron deficiency alone is 34%[14].\n\n## Prevalence in Europe\n\nData from Europe also supports the claim, with studies showing prevalence rates often exceeding 20%, particularly in specific populations.\n*   A review of studies in Europe found the prevalence of iron deficiency in adults (aged 16\u201350 years) ranges from 4% to 33%[15][16].\n*   A recent large-scale observational trial (DO-HEALTH) involving relatively healthy European older adults (mean age 74.9) found an overall iron deficiency prevalence of **26.8%**[17]. The rate varied by country, with the highest prevalence found in Portugal at 34.5%[17].\n*   Among women of reproductive age in Europe, the prevalence of iron deficiency is estimated to be between 10% and 32%[18]. An older Icelandic study found that 1 in 4 (25%) urban premenopausal women had evidence of iron deficiency[19].\n\n## High Prevalence in Women of Reproductive Age\n\nWhile the query concerns the general adult population, data from the high-risk demographic of non-pregnant women of reproductive age (WRA) further underscores the widespread nature of iron deficiency.\n*   **Global**: The WHO estimates that 30% of women aged 15-49 years worldwide are anemic, with iron deficiency being the primary cause[20].\n*   **Canada**: A large study in Ontario found that of the WRA screened, 38.3% had non-anemic iron deficiency and an additional 13.1% had iron deficiency anemia[21][22].\n*   **India**: One study of non-pregnant WRA in Punjab reported an iron deficiency prevalence of 67%[23].\n*   **United States**: A study of Hispanic/Latino WRA found an overall iron deficiency prevalence of 34.4%[24][25]. NHANES data for U.S. females aged 12-21 years showed an iron deficiency prevalence of nearly 40%[26][27].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "2a379902-25dc-4a8a-a547-87b22336dbef",
+      "score": 0.8539252,
+      "title": "Iron Deficiency vs. Iron Deficiency Anemia: What\u2019s the difference?",
+      "url": "https://www.ferosomcanada.com/blogs/news/iron-deficiency-vs-iron-deficiency-anemia-what-s-the-difference",
+      "citation_index": 1
+    },
+    {
+      "id": "2d4378a0-67d7-407a-a01b-43e87105a271",
+      "score": 0.798077,
+      "title": "Iron deficiency",
+      "url": "https://en.wikipedia.org/wiki/Iron_deficiency",
+      "citation_index": 2
+    },
+    {
+      "id": "38dc01d6-7cb7-4537-9f88-89ff7c9b2ced",
+      "score": 0.8335554,
+      "title": "Iron deficiency: new insights into diagnosis and treatment",
+      "url": "https://ashpublications.org/hematology/article/2015/1/8/20735/Iron-deficiency-new-insights-into-diagnosis-and",
+      "citation_index": 3
+    },
+    {
+      "id": "d60353ab-1455-41cf-acc8-ceec5f9740a4",
+      "score": 0.81489426,
+      "title": "A guide to diagnosis of iron deficiency and iron deficiency anemia in digestive diseases - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2754511/",
+      "citation_index": 4
+    },
+    {
+      "id": "a9d14c93-7d4a-4402-83cd-7d13a2f9ae64",
+      "score": 0.7606688,
+      "title": "Iron Deficiency Anemia: Practice Essentials, Background, ...",
+      "url": "https://emedicine.medscape.com/article/202333-overview",
+      "citation_index": 5
+    },
+    {
+      "id": "2d55473f-afa9-42d6-a396-6ea4f6dd1d76",
+      "score": 0.7014069,
+      "title": "Prevalence and incidence of iron deficiency in European community-dwelling older adults: an observational analysis of the DO-HEALTH trial | Aging Clinical and Experimental Research",
+      "url": "https://link.springer.com/article/10.1007/s40520-022-02093-0",
+      "citation_index": 6
+    },
+    {
+      "id": "a708f6e9-e0ec-4250-b69e-e1e4b870b9c7",
+      "score": 0.6773251,
+      "title": "Absolute iron deficiency affects approximately 2 billion ...",
+      "url": "https://www.facebook.com/jamajournal/posts/absolute-iron-deficiency-affects-approximately-2-billion-people-worldwide-this-n/1059042239603396/",
+      "citation_index": 7
+    },
+    {
+      "id": "3c6aa958-7b22-4619-9647-2223c24c7a26",
+      "score": 0.36527607,
+      "title": "Assessing the prevalence of iron deficiency anemia and ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2213398424000411",
+      "citation_index": 8
+    },
+    {
+      "id": "a175e761-3e10-4ed7-91a8-11615418ae3d",
+      "score": 0.8455478,
+      "title": "Global, regional and national burden of dietary iron deficiency from 1990 to 2021: a Global Burden of Disease study | Institute for Health Metrics and Evaluation",
+      "url": "https://www.healthdata.org/research-analysis/library/global-regional-and-national-burden-dietary-iron-deficiency-1990-2021",
+      "citation_index": 9
+    },
+    {
+      "id": "3fe68442-84b3-4587-ae97-8fe446c33aa1",
+      "score": 0.7211353,
+      "title": "Iron deficiency | Blood | American Society of Hematology",
+      "url": "https://ashpublications.org/blood/article/133/1/30/6613/Iron-deficiency",
+      "citation_index": 10
+    },
+    {
+      "id": "d079428b-24bc-42d3-85a4-62a8d48b3de9",
+      "score": 0.66308063,
+      "title": "Are We Underestimating the Prevalence of Iron Deficiency? | Columbia University Irving Medical Center",
+      "url": "https://www.cuimc.columbia.edu/news/are-we-underestimating-prevalence-iron-deficiency",
+      "citation_index": 11
+    },
+    {
+      "id": "eccce21b-ea90-43c7-91b9-56a93925ebb3",
+      "score": 0.751375,
+      "title": "Iron deficiency anaemia: pathophysiology, assessment, practical management - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8744124/",
+      "citation_index": 12
+    },
+    {
+      "id": "c048916c-392c-45f3-bf30-9e2dfd5dadcb",
+      "score": 0.89189607,
+      "title": "Absolute and Functional Iron Deficiency in the US, 2017-2020 - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39316402/",
+      "citation_index": 13
+    },
+    {
+      "id": "5fbc615c-421f-4fba-9850-bf8773eefc67",
+      "score": 0.93191636,
+      "title": "Absolute and Functional Iron Deficiency in the US, 2017-2020 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11423176/",
+      "citation_index": 14
+    },
+    {
+      "id": "650064bd-4278-4fc8-90da-f8a5af16828b",
+      "score": 0.834852,
+      "title": "Prevalence and incidence of iron deficiency in European community-dwelling older adults: an observational analysis of the DO-HEALTH trial - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9464157/",
+      "citation_index": 15
+    },
+    {
+      "id": "64f09ca6-3d16-455a-b799-8fd8a769667e",
+      "score": 0.7522497,
+      "title": "Prevalence and incidence of iron deficiency in European ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9464157/",
+      "citation_index": 16
+    },
+    {
+      "id": "bdaacb36-1e24-4623-b124-8baadfb56f8c",
+      "score": 0.8124067,
+      "title": "Prevalence and incidence of iron deficiency in European community-dwelling older adults: an observational analysis of the DO-HEALTH trial - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35304704/",
+      "citation_index": 17
+    },
+    {
+      "id": "72e3bbde-3173-4c47-802b-eae68003c76a",
+      "score": 0.77994305,
+      "title": "Iron Deficiency and Iron Deficiency Anemia",
+      "url": "https://www.mdpi.com/1424-8247/18/8/1104",
+      "citation_index": 18
+    },
+    {
+      "id": "aba2d7fe-04df-446f-9e5e-b4cc61c09df6",
+      "score": 0.6816637,
+      "title": "Prevalence of iron deficiency and iron overload in the adult Icelandic population - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1753260/",
+      "citation_index": 19
+    },
+    {
+      "id": "b97ef42d-acef-44a7-834c-5570014d2ed5",
+      "score": 0.7449724,
+      "title": "Anaemia",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia",
+      "citation_index": 20
+    },
+    {
+      "id": "987a45ce-31b5-4516-87a4-b0b8d49e6f3d",
+      "score": 0.92825955,
+      "title": "High prevalence of iron deficiency and socioeconomic ...",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajh.27352",
+      "citation_index": 21
+    },
+    {
+      "id": "266932fe-61c1-4b85-b167-ee4de71f86d6",
+      "score": 0.9108078,
+      "title": "High Prevalence of Iron Deficiency and Socioeconomic ...",
+      "url": "https://ashpublications.org/blood/article/140/Supplement%201/8008/492874/High-Prevalence-of-Iron-Deficiency-and",
+      "citation_index": 22
+    },
+    {
+      "id": "8a5ec202-56df-4530-a77c-dcd197f81083",
+      "score": 0.8980626,
+      "title": "Women in Selected Communities of Punjab, India Have a High Prevalence of Iron, Zinc, Vitamin B12, and Folate Deficiencies: Implications for a Multiply-Fortified Salt Intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37447352/",
+      "citation_index": 23
+    },
+    {
+      "id": "3f03b476-29b8-4d2f-9ee6-5c5908628d44",
+      "score": 0.80089486,
+      "title": "Prevalence and Risk Factors of Iron Deficiency and Anemia in Women of Reproductive Age in the Hispanic Community Health Study/Study of Latinos - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11367547/",
+      "citation_index": 24
+    },
+    {
+      "id": "ca406f21-cabc-4fd0-8d5b-044c5b8894f8",
+      "score": 0.65966886,
+      "title": "Prevalence and Risk Factors of Iron Deficiency and Anemia in Women of Reproductive Age in the Hispanic Community Health Study/Study of Latinos.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39224140/",
+      "citation_index": 25
+    },
+    {
+      "id": "e4f921ec-5059-469b-8917-afffe846325c",
+      "score": 0.8440111,
+      "title": "Prevalence of Iron Deficiency and Iron-Deficiency Anemia in US Females Aged 12-21 Years, 2003-2020 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10300696/",
+      "citation_index": 26
+    },
+    {
+      "id": "3f9e6311-e7dd-4646-87a6-497bca99322a",
+      "score": 0.7811474,
+      "title": "Is It Time to Alter the Standard of Care for Iron Deficiency/Iron Deficiency Anemia in Reproductive-Age Women?",
+      "url": "https://www.mdpi.com/2227-9059/12/2/278",
+      "citation_index": 27
+    },
+    {
+      "id": "899356d0-bcd4-4cfb-8a93-7d3b3c3f00d2",
+      "score": 0.93952066,
+      "title": "High prevalence of iron deficiency and socioeconomic ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38695834/"
+    },
+    {
+      "id": "c5006bc7-32a4-494a-9e90-a38d37d735bc",
+      "score": 0.91988057,
+      "title": "Iron Deficiency --- United States, 1999--2000",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5140a1.htm"
+    },
+    {
+      "id": "5d2f02df-513b-4c7e-97f5-010e8f46f04f",
+      "score": 0.9191869,
+      "title": "Absolute, Functional Iron Deficiency Affects Large Proportion of US Adults | HCPLive",
+      "url": "https://www.hcplive.com/view/absolute-functional-iron-deficiency-affects-large-proportion-of-us-adults"
+    },
+    {
+      "id": "d627e222-1727-48ee-8c12-6bdb76015948",
+      "score": 0.90849644,
+      "title": "Micronutrient deficiencies among preschool-aged children and women of reproductive age worldwide: a pooled analysis of individual-level data from population-representative surveys.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36240826/"
+    },
+    {
+      "id": "9ff8af02-e7ed-4947-b5df-5f1d91dfa077",
+      "score": 0.902687,
+      "title": "Social determinants of iron supplementation among women of reproductive age: a systematic review of qualitative data - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6860632/"
+    },
+    {
+      "id": "a1628180-6b5a-4e72-a3c5-1d0b2496d876",
+      "score": 0.8783249,
+      "title": "Decreased Iron Intake Parallels Rising Iron Deficiency Anemia and Related Mortality Rates in the US Population - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33834234/"
+    },
+    {
+      "id": "3b1c7655-1c0e-400a-a8dd-0dab388ad3af",
+      "score": 0.87605256,
+      "title": "Iron deficiency anemia-related mortality trends in US older ...",
+      "url": "https://link.springer.com/article/10.1007/s40520-025-02982-0"
+    },
+    {
+      "id": "f1c1f58f-57fb-46ef-b0d8-f59647a10a82",
+      "score": 0.8682137,
+      "title": "Iron Deficiency in Community-Dwelling U.S. Adults with Self-Reported Heart Failure in NHANES III: Prevalence and Associations with Anemia and Inflammation - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3180903/"
+    },
+    {
+      "id": "d4791986-f6d0-4d50-bc7b-6e9c5f651005",
+      "score": 0.8622012,
+      "title": "Iron status in women of reproductive age in Morocco.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40569133/"
+    },
+    {
+      "id": "68df44b7-c5a8-49d4-ac01-61ed7390f4eb",
+      "score": 0.8536326,
+      "title": "Iron Deficiency in the United States: Limitations in Guidelines, Data, and Monitoring of Disparities | AJPH | Vol. 112 Issue S8",
+      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2022.306998"
+    },
+    {
+      "id": "4a482702-fed4-4cf7-90ff-1e44314c3cfb",
+      "score": 0.8455478,
+      "title": "High prevalence of iron deficiency and socioeconomic disparities in laboratory screening of non\u2010pregnant females of reproductive age: A retrospective cohort study",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.27352"
+    },
+    {
+      "id": "554db1b9-a9df-42a2-8dfe-d45651154673",
+      "score": 0.8443195,
+      "title": "Iron Deficiency Anemia (Low Iron): Symptoms, Causes, Treatment",
+      "url": "https://www.webmd.com/a-to-z-guides/iron-deficiency-anemia"
+    },
+    {
+      "id": "21a5ef0f-847c-4d63-8bfa-79d0263be84c",
+      "score": 0.843393,
+      "title": "Prevalence and factors associated with anemia in women ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10663544/"
+    },
+    {
+      "id": "17390341-1b1b-4d35-acc3-1a0e1264a0b9",
+      "score": 0.8405867,
+      "title": "FACTORS ASSOCIATED WITH ANEMIA IN WOMEN OF REPRODUCTIVE AGE IN IRAQI FEMALES SAMPLE.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35182116/"
+    },
+    {
+      "id": "d15c1f2d-9dcb-4c8f-a8a6-4ba4c488ccb2",
+      "score": 0.82186085,
+      "title": "Iron deficiency anemia: A global public health concern",
+      "url": "https://ijcbr.in/archive/volume/11/issue/4/article/15612"
+    },
+    {
+      "id": "3e61132d-4e26-4d50-aa82-429989d7a7db",
+      "score": 0.8036831,
+      "title": "Excess adiposity and iron-deficient status in Colombian women of reproductive age.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37814827/"
+    },
+    {
+      "id": "f3bd8d0c-beb1-4dc9-8fb0-27c0bcbb149d",
+      "score": 0.8010817,
+      "title": "Overview of iron deficiency and iron deficiency anemia in women and girls of reproductive age - Derman - 2023 - International Journal of Gynecology & Obstetrics - Wiley Online Library",
+      "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.14950"
+    },
+    {
+      "id": "cfcead59-b7df-4902-abe7-1a17a081e710",
+      "score": 0.79637206,
+      "title": "Anemia and its determinants among non-pregnant women of ...",
+      "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-22413-z"
+    },
+    {
+      "id": "41bedb8e-58ce-4e0b-a5ba-12ec538ca49c",
+      "score": 0.78014404,
+      "title": "Prevalence of iron deficiency in the United States - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9091669/"
+    },
+    {
+      "id": "c2aee635-7294-47d2-8d7f-9db2fb0a8815",
+      "score": 0.7750779,
+      "title": "Iron Deficiency Anemia | AAFP",
+      "url": "https://www.aafp.org/pubs/afp/issues/2007/0301/p671.html"
+    },
+    {
+      "id": "5272af5c-4453-4e83-a4a9-893a47758676",
+      "score": 0.7715858,
+      "title": "Iron - Health Professional Fact Sheet",
+      "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    },
+    {
+      "id": "7e143d69-3689-451c-9ba2-305b7708a615",
+      "score": 0.7680558,
+      "title": "Iron Deficiency and Iron Deficiency Anemia Are Common Epidemiological Conditions in Saudi Arabia: Report of the National Epidemiological Survey - Owaidah - 2020 - Anemia - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1155/2020/6642568"
+    },
+    {
+      "id": "32370f76-51f9-4cd6-a4f4-9d5b51f12a0a",
+      "score": 0.76490957,
+      "title": "Prevalence, years lived with disability, and trends in anaemia burden by severity and cause, 1990\u20132021: findings from the Global Burden of Disease Study 2021 - The Lancet Haematology",
+      "url": "https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(23)00160-6/fulltext"
+    },
+    {
+      "id": "2fd82da9-e12f-49e1-b07b-6526ddd90eba",
+      "score": 0.7552947,
+      "title": "findings from the Global Burden of Disease Study 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37536353/"
+    },
+    {
+      "id": "2ccd353b-06e1-4bd3-9a4b-d48ae86d3e03",
+      "score": 0.75355774,
+      "title": "Products - Data Briefs - Number 519 - December 2024",
+      "url": "https://www.cdc.gov/nchs/products/databriefs/db519.htm"
+    },
+    {
+      "id": "136aa033-8444-40b1-a017-db9ebaa3fc02",
+      "score": 0.7520312,
+      "title": "Iron Deficiency Anemia: Evaluation and Management | AAFP",
+      "url": "https://www.aafp.org/pubs/afp/issues/2013/0115/p98.html"
+    },
+    {
+      "id": "b4b6ca81-d483-4626-b9ba-75505d20289c",
+      "score": 0.74563974,
+      "title": "Anemia - Iron-Deficiency Anemia | NHLBI, NIH",
+      "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+    },
+    {
+      "id": "8497f115-b079-4e9a-b6e2-619773ecabe6",
+      "score": 0.74273956,
+      "title": "Associations of iron deficiency and depressive symptoms among young adult males and Females: NHANES 2017 to 2020.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38226328/"
+    },
+    {
+      "id": "732692ee-7dac-4382-b2bd-946603d5358c",
+      "score": 0.73642004,
+      "title": "Iron deficiency and anaemia in women and girls | Figo",
+      "url": "https://www.figo.org/resources/figo-statements/iron-deficiency-and-anaemia-women-and-girls"
+    },
+    {
+      "id": "c6728642-836a-4434-a679-591877bbcd0a",
+      "score": 0.73596483,
+      "title": "Iron deficiency",
+      "url": "https://dermnetnz.org/topics/iron-deficiency"
+    },
+    {
+      "id": "c7c5debe-7f5d-48d0-ab08-ee7f4b8e5dbb",
+      "score": 0.7325349,
+      "title": "Comparing functional versus absolute iron deficiency in ...",
+      "url": "https://sciencescholar.us/journal/index.php/ijhs/article/download/14654/11777/12642"
+    },
+    {
+      "id": "4cdd2d84-01fc-4340-925e-ba4419efc727",
+      "score": 0.73207545,
+      "title": "Iron status in pregnant women and women of reproductive age in Europe - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0002916522027381"
+    },
+    {
+      "id": "6d9d0c6a-0476-4054-ae66-df82484c867d",
+      "score": 0.7192461,
+      "title": "The Prevalence of Anemia and Moderate-Severe Anemia in the US Population (NHANES 2003-2012) | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166635"
+    },
+    {
+      "id": "c97c27cf-1c5a-478e-8dcb-b88fcb0d650f",
+      "score": 0.71829855,
+      "title": "The global IV and oral iron drugs market by revenue is expected to grow at a CAGR of 11.6% during the period 2021\u20132026",
+      "url": "https://finance.yahoo.com/news/global-iv-oral-iron-drugs-100400143.html"
+    },
+    {
+      "id": "f30a329f-8f99-47e8-926b-460bedb4b2c2",
+      "score": 0.7166357,
+      "title": "Iron Deficiency Anemia: A Common and Curable Disease - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3685880/"
+    },
+    {
+      "id": "910ee106-9b8b-4d6c-a3ec-21b1e586569f",
+      "score": 0.70847535,
+      "title": "Iron status of toddlers, nonpregnant females, and pregnant females in the United States.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29070559/"
+    },
+    {
+      "id": "9f01ac65-a069-45ed-94e8-3f69ef1c00d9",
+      "score": 0.7050753,
+      "title": "Iron deficiency is a common disorder in general population ...",
+      "url": "https://link.springer.com/article/10.1007/s00392-020-01631-y"
+    },
+    {
+      "id": "5e741de4-a36e-4958-96e2-85207a5c8013",
+      "score": 0.7031221,
+      "title": "Iron deficiency without anaemia: a diagnosis that matters",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8002799/"
+    },
+    {
+      "id": "464661cb-91f5-40d0-81fd-4be611f31da3",
+      "score": 0.7023877,
+      "title": "Iron deficiency anemia-Iron deficiency anemia - Symptoms & causes - Mayo Clinic",
+      "url": "https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034"
+    },
+    {
+      "id": "a75d950c-1f9e-4ae0-bd0d-893b24df8e0e",
+      "score": 0.7004242,
+      "title": "QuickStats: Prevalence of Anemia Among Adults...",
+      "url": "https://www.cdc.gov/mmwr/volumes/67/wr/mm6742a8.htm"
+    },
+    {
+      "id": "a97372e4-6f24-44b4-bb10-e88b93015b21",
+      "score": 0.69498676,
+      "title": "Iron deficiency anemia Information | Mount Sinai - New York",
+      "url": "https://www.mountsinai.org/health-library/diseases-conditions/iron-deficiency-anemia"
+    },
+    {
+      "id": "ff4e197f-912a-4dcf-8161-3e99e93d276c",
+      "score": 0.6937432,
+      "title": "Absolute and Functional Iron Deficiency in the US, 2017-2020 - Kaiser Permanente Division of Research",
+      "url": "https://divisionofresearch.kaiserpermanente.org/publications/absolute-and-functional-iron-deficiency-in-the-us-2017-2020/"
+    },
+    {
+      "id": "26573dd7-6114-44c1-8ea4-b5bbbd977df1",
+      "score": 0.69249696,
+      "title": "Anaemia in women of reproductive age (aged 15-49), prevalence (%), by pregnancy status",
+      "url": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-anaemia-in-women-of-reproductive-age-(-)"
+    },
+    {
+      "id": "a52e5580-19fd-4191-8828-04f12c990990",
+      "score": 0.69024646,
+      "title": "Anemia in women of reproductive age in Ecuador: Data from a national survey",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239585"
+    },
+    {
+      "id": "77a5fd93-5d07-4d34-89eb-751396adcb94",
+      "score": 0.68571854,
+      "title": "Burden of anemia and its underlying causes in 204 countries ...",
+      "url": "https://jhoonline.biomedcentral.com/articles/10.1186/s13045-021-01202-2"
+    },
+    {
+      "id": "ed86ded2-a8db-4888-bda8-9f1c3d28b5fc",
+      "score": 0.683948,
+      "title": "Iron deficiency anemia: Impact on women\u2019s reproductive health - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0015028222013723"
+    },
+    {
+      "id": "dc1133e3-d9ae-42f6-9d45-6280efadd6a5",
+      "score": 0.6829338,
+      "title": "Diagnosis of iron deficiency and iron deficiency anemia in adults",
+      "url": "https://www.uptodate.com/contents/diagnosis-of-iron-deficiency-and-iron-deficiency-anemia-in-adults"
+    },
+    {
+      "id": "f780fcda-949a-4dfb-a103-a9a5ff40c007",
+      "score": 0.67911536,
+      "title": "Iron Deficiency Anemia - StatPearls - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK448065/"
+    },
+    {
+      "id": "6d9201a7-4afa-4bb1-a297-a429b242a01d",
+      "score": 0.6783488,
+      "title": "Anemia in women and children",
+      "url": "https://www.paho.org/en/enlace/anemia-women-and-children"
+    },
+    {
+      "id": "81ad6b1d-44dc-4c35-bbae-0a5c3c4abc70",
+      "score": 0.6729558,
+      "title": "Ferinject\u00ae approved in Chinafor the treatment of iron deficiency in adult patients",
+      "url": "https://www.businesswire.com/news/home/20221127005020/en/Ferinject%C2%AE-approved-in-Chinafor-the-treatment-of-iron-deficiency-in-adult-patients"
+    },
+    {
+      "id": "bcc60261-438b-45f4-813a-6f6bcfd119c9",
+      "score": 0.6643884,
+      "title": "Iron Deficiency and Nonscarring Alopecia in Women: Systematic Review and Meta-Analysis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8928181/"
+    },
+    {
+      "id": "18f22794-1eb4-4162-adb2-973f82e6cda8",
+      "score": 0.65966886,
+      "title": "Worldwide Fortified Foods Industry to 2027 - Players Include BASF, Nestle, Danone and Cargill",
+      "url": "https://finance.yahoo.com/news/worldwide-fortified-foods-industry-2027-093300630.html"
+    },
+    {
+      "id": "05586b0e-0370-4097-9b7c-a28a13279a37",
+      "score": 0.6580885,
+      "title": "Nutrition-specific interventions for preventing and controlling anaemia throughout the life cycle: an overview of systematic reviews.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34564844/"
+    },
+    {
+      "id": "20c07183-b549-42c5-8f77-ec48b2bb7937",
+      "score": 0.65597594,
+      "title": "Decreased Iron Intake Parallels Rising Iron Deficiency Anemia and Related Mortality Rates in the US Population - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022316622002413"
+    },
+    {
+      "id": "7b211108-df08-4997-826c-4150cdb6c12e",
+      "score": 0.6504012,
+      "title": "Iron-Deficiency Anemia Could Be the Reason You\u2019re So Tired",
+      "url": "https://my.clevelandclinic.org/health/diseases/22824-iron-deficiency-anemia"
+    },
+    {
+      "id": "c9a1cc0d-271b-4f22-9ca5-d72f9c48f65d",
+      "score": 0.6493346,
+      "title": "Iron deficiency is a common disorder in general population and independently predicts all-cause mortality: results from the Gutenberg Health Study - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7588396/"
+    },
+    {
+      "id": "24226256-2247-4094-8f44-f592a8a5598f",
+      "score": 0.64826655,
+      "title": "Iron-Deficiency Anemia - Hematology.org",
+      "url": "https://www.hematology.org/education/patients/anemia/iron-deficiency"
+    },
+    {
+      "id": "d2379c9e-fa9a-4f63-8be5-22fe489072f3",
+      "score": 0.64719695,
+      "title": "Iron deficiency in heart failure: Epidemiology, diagnostic ...",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/ehf2.15157"
+    },
+    {
+      "id": "1a2db486-0514-4ce6-9b24-7e9b1cdc1fcd",
+      "score": 0.64639384,
+      "title": "Iron deficiency without anemia: indications for treatment",
+      "url": "https://gremjournal.com/journal/04-2020/iron-deficiency-without-anemia-indications-for-treatment/"
+    },
+    {
+      "id": "6c40febd-2edd-4bfa-b934-8da1b006b64d",
+      "score": 0.64585793,
+      "title": "Iron deficiency anemia-Iron deficiency anemia - Diagnosis & treatment - Mayo Clinic",
+      "url": "https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/diagnosis-treatment/drc-20355040"
+    },
+    {
+      "id": "774347ca-211f-4573-abcc-32fc8e67f0b0",
+      "score": 0.64182705,
+      "title": "Iron deficiency: global prevalence and consequences - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17016951/"
+    },
+    {
+      "id": "3df19a7b-f633-405a-8d42-8053f5b67b42",
+      "score": 0.62687886,
+      "title": "Iron deficiency anaemia - NHS",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+    },
+    {
+      "id": "491b5f9d-249d-434b-b2b1-8e86ee0affae",
+      "score": 0.6186197,
+      "title": "Anemia vs Iron Deficiency",
+      "url": "https://manhattancardiology.com/blog/anemia-vs-iron-deficiency-what-is-the-difference/"
+    },
+    {
+      "id": "3f57eb82-6192-42f3-9944-5374dc688a07",
+      "score": 0.6186197,
+      "title": "Anemia - Symptoms and causes - Mayo Clinic",
+      "url": "https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360"
+    },
+    {
+      "id": "f8a11739-cad0-4b20-97ec-feee67be128f",
+      "score": 0.61307496,
+      "title": "About 1 in 4 Americans may have inadequate iron intake or absorption | NHLBI, NIH",
+      "url": "https://www.nhlbi.nih.gov/news/2024/about-1-4-americans-may-have-inadequate-iron-intake-or-absorption"
+    },
+    {
+      "id": "3520a320-20d2-4241-a5bb-f543e8a504fd",
+      "score": 0.61140573,
+      "title": "Anemia - Hematology.org",
+      "url": "https://www.hematology.org/education/patients/anemia"
+    },
+    {
+      "id": "81071101-abcf-4437-ba3c-a2af05cf4f37",
+      "score": 0.6100127,
+      "title": "Factors associated with iron deficiency anaemia among pregnant teenagers in Ashanti Region, Ghana: A hospital-based prospective cohort study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250246"
+    },
+    {
+      "id": "6705d804-9103-4294-9a17-28a124b0c8fa",
+      "score": 0.6072213,
+      "title": "The impact of maternal iron deficiency and iron deficiency anemia on child\u2019s health - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4375689/"
+    },
+    {
+      "id": "3b6fc0d0-0c33-4488-b012-19a972ed80a9",
+      "score": 0.6058229,
+      "title": "Prevalence of anemia among women of reproductive age ...",
+      "url": "https://data.worldbank.org/indicator/SH.ANM.ALLW.ZS"
+    },
+    {
+      "id": "aa66ed24-6a54-4f59-8e49-c56273134ad4",
+      "score": 0.5968332,
+      "title": "Association between overweight/obesity and iron deficiency anaemia among women of reproductive age: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39324337/"
+    },
+    {
+      "id": "8e51eb74-05ee-44f0-b81d-7c9dd1ce73f0",
+      "score": 0.58948064,
+      "title": "Medical News Today: WHO urge nutrition interventions against worrying global trends",
+      "url": "https://www.medicalnewstoday.com/articles/326317.php"
+    },
+    {
+      "id": "4b5b8625-7cae-4688-a13d-c110066e3af9",
+      "score": 0.5818027,
+      "title": "Iron Deficiency Overview, Prevalence, Impacts in HF",
+      "url": "https://www.youtube.com/watch?v=6C4fC051XEE"
+    },
+    {
+      "id": "7da69d79-cafb-4d11-ad96-cbc0f6dba5ee",
+      "score": 0.5780915,
+      "title": "Iron and iron deficiency | Better Health Channel",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/iron"
+    },
+    {
+      "id": "397045db-1397-422d-ab4f-3bf30c012525",
+      "score": 0.5749443,
+      "title": "Prevalence and Risk Factors of Iron Deficiency and Anemia in Women of Reproductive Age in the Hispanic Community Health Study/Study of Latinos - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2475299124023539"
+    },
+    {
+      "id": "c554b3b2-5ea6-4192-a4a3-add403586eb4",
+      "score": 0.57322514,
+      "title": "Absolute and Functional Iron Deficiency Anemia among Different Tumors in Cancer Patients in South Part of Iran, 2014 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5625469/"
+    },
+    {
+      "id": "f3c62cce-9ba9-4bc6-8c61-0fdfddfe69e4",
+      "score": 0.5715041,
+      "title": "Prevalence and factors associated with anemia in women ...",
+      "url": "https://www.nature.com/articles/s41598-023-46739-z"
+    },
+    {
+      "id": "b9d6f534-f71b-4c49-b19b-5e0aa28f3152",
+      "score": 0.56517935,
+      "title": "The prevalence of celiac disease in average-risk and at-risk Western European populations: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15825128/"
+    },
+    {
+      "id": "f7f045de-4c3c-4042-866d-a8a026ecf432",
+      "score": 0.5611433,
+      "title": "Iron Deficiency: A Silent Threat in Patients With Heart Failure With Reduced Ejection Fraction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38445122/"
+    },
+    {
+      "id": "16af837c-ef93-4bf2-bbd9-965a2fbe1f00",
+      "score": 0.5550741,
+      "title": "Iron deficiency, pregnancy, and neonatal development - Ataide - 2023 - International Journal of Gynecology & Obstetrics - Wiley Online Library",
+      "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.14944"
+    },
+    {
+      "id": "f8b40ca9-7ffc-4c86-b4a8-e44c56bea848",
+      "score": 0.5513086,
+      "title": "(PDF) Iron deficiency in Europe",
+      "url": "https://www.researchgate.net/publication/11668644_Iron_deficiency_in_Europe"
+    },
+    {
+      "id": "c2d51d99-a17e-4800-afd8-05c6f8b9323e",
+      "score": 0.54855317,
+      "title": "Prevalence and foetomaternal effects of iron deficiency anaemia among pregnant women in Lagos, Nigeria",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227965"
+    },
+    {
+      "id": "c3fb8953-36e5-40ca-9fcc-097d96b92632",
+      "score": 0.5253938,
+      "title": "Prevalence and risk factors for functional iron deficiency in children with chronic kidney disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36192566/"
+    },
+    {
+      "id": "c60c6905-778a-4105-83ca-753b38ba879c",
+      "score": 0.5198388,
+      "title": "[Anemia classification, prevalence and predictive factors in inflammatory bowel disease].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39799539/"
+    },
+    {
+      "id": "a29aef15-0860-4f01-bac5-696ceeab2962",
+      "score": 0.51369345,
+      "title": "Iron-Deficiency Anemia | Johns Hopkins Medicine",
+      "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/irondeficiency-anemia"
+    },
+    {
+      "id": "c2d396f1-4c8c-49b7-a07c-53a108c4e63c",
+      "score": 0.51193684,
+      "title": "Absolute versus functional iron deficiency",
+      "url": "https://www.e-cep.org/journal/view.php?doi=10.3345/cep.2023.01732"
+    },
+    {
+      "id": "c437fca9-b1be-455c-a204-94449e0487a2",
+      "score": 0.5071046,
+      "title": "Prevalence and causes of anemia in the elderly - Video abstract [61125]",
+      "url": "https://www.youtube.com/watch?v=zcBsCGODdK8"
+    },
+    {
+      "id": "01b12a04-64b2-4fb1-acff-43a48fc04997",
+      "score": 0.49802306,
+      "title": "Absolute versus functional iron deficiency - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11825113/"
+    },
+    {
+      "id": "6100bd23-65a3-4a2b-9217-6c24fa7f977f",
+      "score": 0.49450764,
+      "title": "Iron Deficiency and Iron Deficiency Anemia: Implications and Impact in Pregnancy, Fetal Development, and Early Childhood Parameters - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7071168/"
+    },
+    {
+      "id": "3369fad0-8cdb-4635-b375-753f05c17517",
+      "score": 0.49040702,
+      "title": "Physiologically based serum ferritin thresholds for iron deficiency in children and non-pregnant women: a US National Health and Nutrition Examination Surveys (NHANES) serial cross-sectional study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34329578/"
+    },
+    {
+      "id": "b9f97e41-c758-40b2-8d7e-6607ab0be429",
+      "score": 0.48718598,
+      "title": "Absolute and Functional Iron Deficiency in the US, 2017-2020 | Nutrition, Obesity, Exercise | JAMA Network Open | JAMA Network",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823909"
+    },
+    {
+      "id": "a9311c1b-a503-4a40-bd99-336714a48336",
+      "score": 0.48396602,
+      "title": "Iron deficiency in Europe - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11683548/"
+    },
+    {
+      "id": "6f15a173-b83f-4fbf-ae62-ff7027a95f8a",
+      "score": 0.47636098,
+      "title": "(PDF) Absolute versus functional iron deficiency",
+      "url": "https://www.researchgate.net/publication/385787673_Absolute_versus_functional_iron_deficiency"
+    },
+    {
+      "id": "69ee16c1-e400-4681-a307-7c0081ed5fd8",
+      "score": 0.47387698,
+      "title": "Decreased Iron Intake Parallels Rising Iron Deficiency Anemia ...",
+      "url": "https://jn.nutrition.org/article/S0022-3166(22)00241-3/pdf"
+    },
+    {
+      "id": "d759f91d-fee6-4ef3-9156-31b757bac0ca",
+      "score": 0.47168615,
+      "title": "Full article: Trends in prevalence and treatment rate of anemia in the U.S. population: cross-sectional study using data from NHANES 2005\u20132018",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/16078454.2022.2109557"
+    },
+    {
+      "id": "a3cf47f4-57ad-45a8-b4f1-889027905d62",
+      "score": 0.4680374,
+      "title": "Biology of Anemia: A Public Health Perspective.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37778889/"
+    },
+    {
+      "id": "cc7a8ae8-71b3-4748-9c14-3062e88157ea",
+      "score": 0.4603137,
+      "title": "Prevalence, correlates and outcomes of absolute and functional iron deficiency anemia in nondialysis-dependent chronic kidney disease - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31641775/"
+    },
+    {
+      "id": "9274205d-fa28-48a5-bd76-7e5752b127ef",
+      "score": 0.4574039,
+      "title": "Prevalence of Absolute and Functional Iron Deficiency in Non-Dialyzed Children with Chronic Kidney Disease | Indian Journal of Pediatrics",
+      "url": "https://link.springer.com/article/10.1007/s12098-024-05408-3"
+    },
+    {
+      "id": "2f2aa32e-92e0-42f4-a342-958e8bb38b15",
+      "score": 0.45086768,
+      "title": "Associations of anaemia and iron deficiency with health-related quality of life in patients with chronic kidney disease stage G3b-5 in Japan: sub analysis of the Reach-J CKD cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39563222/"
+    },
+    {
+      "id": "192db6ec-2907-45e7-ae73-d537876b9d4b",
+      "score": 0.43093804,
+      "title": "The Lancet: New study reveals global anemia cases ...",
+      "url": "https://www.healthdata.org/news-events/newsroom/news-releases/lancet-new-study-reveals-global-anemia-cases-remain-persistently"
+    },
+    {
+      "id": "7fcda140-27b8-453a-91d5-26e4cf28711c",
+      "score": 0.41905406,
+      "title": "Anaemia",
+      "url": "https://www.who.int/health-topics/anaemia"
+    },
+    {
+      "id": "59a35381-d267-4daf-9f5d-4fa1959eec77",
+      "score": 0.4009141,
+      "title": "Cdc",
+      "url": "https://www.cdc.gov/nchs/data/databriefs/db519.pdf"
+    },
+    {
+      "id": "871d1b19-943f-4e9d-afa4-0ac4bba5e53e",
+      "score": 0.39606872,
+      "title": "Frontiers | Iron deficiency: prevalence, mortality risk, and dietary relationships in general and heart failure populations",
+      "url": "https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2024.1342686/full"
+    },
+    {
+      "id": "90fabba4-b562-415e-8fae-3a31ff1e4dbd",
+      "score": 0.3738078,
+      "title": "Iron Deficiency \u2013 Diagnosis and Management",
+      "url": "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/iron-deficiency"
+    },
+    {
+      "id": "6b127b2e-e785-4df0-ad26-2e95d3a22dfa",
+      "score": 0.3731908,
+      "title": "Global burden and inequality of iron deficiency: findings from the Global Burden of Disease datasets 1990\u20132017 | Nutrition Journal | Full Text",
+      "url": "https://nutritionj.biomedcentral.com/articles/10.1186/s12937-022-00771-3"
+    },
+    {
+      "id": "f574d373-d44b-4f7d-823a-e6dfc78f8ad4",
+      "score": 0.3708637,
+      "title": "Assessing the iron status of populations: including literature reviews",
+      "url": "https://www.who.int/publications/i/item/9789241596107"
+    },
+    {
+      "id": "60c8b8f8-a25c-42d2-9b6c-850c8f5e2b28",
+      "score": 0.3681336,
+      "title": "Functional iron deficiency anemia in patients with cancer",
+      "url": "https://www.bloodresearch.or.kr/journal/view.html?uid=2677&vmd=Full"
+    },
+    {
+      "id": "4df7f339-b31d-40ef-a982-1097fe0bc2c1",
+      "score": 0.36806548,
+      "title": "Understanding investigations: iron studies. Michael Leahy",
+      "url": "https://www.youtube.com/watch?v=2G_ORGsQX9I"
+    },
+    {
+      "id": "36bb1eb1-5fb4-4df5-a630-834049df89b7",
+      "score": 0.35750076,
+      "title": "Global prevalence of iron deficiency anemia and its variation with different gestational age systematic review and meta-analysis - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2667268524001207"
+    },
+    {
+      "id": "27facff1-d9f8-4140-ad89-4495648e493e",
+      "score": 0.3486013,
+      "title": "FastStats - Anemia",
+      "url": "https://www.cdc.gov/nchs/fastats/anemia.htm"
+    },
+    {
+      "id": "49b92668-64fe-4090-a06f-867f5e72c381",
+      "score": 0.34277,
+      "title": "Association between Iron Status and Survival in Patients on Chronic Hemodialysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37299540/"
+    },
+    {
+      "id": "16ebdd54-b723-44d7-b99a-7c3c3ddba687",
+      "score": 0.34145126,
+      "title": "Anaemia in women and children",
+      "url": "https://www.who.int/data/gho/data/themes/topics/anaemia_in_women_and_children"
+    },
+    {
+      "id": "7a138a29-ada2-4af8-820f-15bbf7a14193",
+      "score": 0.31878248,
+      "title": "Functional iron deficiency anemia was associated with higher mortality in chronic kidney disease patients: the NHANES III follow-up study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38059456/"
+    },
+    {
+      "id": "742c3adb-2766-4c89-aead-2fd65d04ecdf",
+      "score": 0.26910016,
+      "title": "Iron deficiency in patients of heart failure with reduced ejection fraction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36267507/"
+    },
+    {
+      "id": "d928b6aa-1e27-4a3f-8f6f-ff7bfc991b04",
+      "score": 0.24076162,
+      "title": "Spotlight Talks: How I Treat Absolute Iron Deficiency in Inflammatory Disorders",
+      "url": "https://www.youtube.com/watch?v=6pcqyUUTht4"
+    },
+    {
+      "id": "26f2e299-cd2c-4608-aa83-1b288964dfff",
+      "score": 0.23911873,
+      "title": "Prevalence and Associated Factors of Iron Deficiency and Iron Deficiency Anemia Among Under-5 Children: A Systematic Review and Meta-Analysis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9272181/"
+    },
+    {
+      "id": "f2b2cb42-b75f-498a-a561-6022eaec460c",
+      "score": 0.22638187,
+      "title": "Helicobacter pylori moderates the association between 5-MTHF concentration and cognitive function in older adults",
+      "url": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190475"
+    },
+    {
+      "id": "e2ce0b04-f07d-4a59-847f-e8198a509a8f",
+      "score": 0.21937971,
+      "title": "Prevalence of Iron Deficiency in Peri- Menopausal Women- Expert Consensus Publication, P&G Health",
+      "url": "https://www.youtube.com/watch?v=1he5rigEzss"
+    },
+    {
+      "id": "5e074ef6-02c8-4f09-ab13-cab151520e96",
+      "score": 0.20510544,
+      "title": "Association between serum copper-zinc ratio and respiratory tract infection in children and adolescents",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293836"
+    },
+    {
+      "id": "92dd88a2-2a05-45c8-804a-56380cdf966f",
+      "score": 0.20453286,
+      "title": "Prevalence of iron deficiency and anemia in pediatric heart transplant recipients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38809215/"
+    },
+    {
+      "id": "8901d62d-eba7-4c7b-80c4-eb165b61f675",
+      "score": 0.20187654,
+      "title": "Adjusting total body iron for inflammation: Biomarkers Reflecting Inflammation and Nutritional Determinants of Anemia (BRINDA) project.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28615255/"
+    },
+    {
+      "id": "40ec70ed-0cf3-48b8-a79c-9548dfd9390e",
+      "score": 0.18643583,
+      "title": "A Review of Anemia Prevalence, and Prevention ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2475299124024119"
+    },
+    {
+      "id": "5332d6e6-3cd0-4916-a98b-e7d672f8ae33",
+      "score": 0.17694198,
+      "title": "Association between dietary inflammatory index and NT-proBNP levels in US adults: A cross-sectional analysis",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304289"
+    },
+    {
+      "id": "432fffb2-c266-4fad-b799-34914d89c78e",
+      "score": 0.14288872,
+      "title": "Assessment of Vitamin D status and association with inflammation: Biomarkers Reflecting Inflammation and Nutritional Determinants of Anemia (BRINDA) project.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36789936/"
+    },
+    {
+      "id": "0939f0cd-680a-41a3-b7fa-561d8dbd6c21",
+      "score": 0.10415817,
+      "title": "TRANSIENT HYPOPHOSPHATEMIA AS POSSIBLE ADVERSE OUTCOME AFTER IRON DEFICIENCY ANEMIA TREATMENT WITH FERRIC CARBOXYMALTOSE - SINGLE CENTER EXPERIENCE.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41050246/"
+    },
+    {
+      "id": "07ff24d2-8e29-4c88-8a29-eb1511caf5a6",
+      "score": 0.08614665,
+      "title": "Exploring the Use of Iron and Hematologic Indicators for Surveillance of Iron Deficiency in Pregnant and Nonpregnant Women in the United States.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40324523/"
+    },
+    {
+      "id": "a4a6fc4b-c4ca-468a-b142-c2095ee8debd",
+      "score": 0.07652507,
+      "title": "The reverse association between riboflavin intake and Helicobacter pylori infection in US adults: A cross-sectional study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326787"
+    },
+    {
+      "id": "8ae20634-ec0c-4a19-8b1d-fed4734f2867",
+      "score": 0.07023382,
+      "title": "How A Worm Gave the South a Bad Name",
+      "url": "https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/"
+    },
+    {
+      "id": "e435b84d-bd85-4e98-9921-cbb3bfb1f2a4",
+      "score": 0.052235804,
+      "title": "Dairying, diseases and the evolution of lactase persistence in Europe",
+      "url": "https://www.nature.com/articles/s41586-022-05010-7"
+    }
+  ]
+}

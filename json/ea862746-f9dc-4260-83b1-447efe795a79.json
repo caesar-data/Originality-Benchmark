@@ -1,0 +1,354 @@
+{
+  "id": "ea862746-f9dc-4260-83b1-447efe795a79",
+  "status": "completed",
+  "content": "TRUE.\n\nThe claim that California experienced 7,477 wildfires in 2022 is factual, based on official data from the California Department of Forestry and Fire Protection (CAL FIRE)[1][2][3]. While other figures exist, the number 7,477 is the most consistently reported total in CAL FIRE's direct incident archives.\n\n## Detailed Wildfire Statistics for 2022\n\n### Official Fire Count and Discrepancies\n\nMultiple official sources and media outlets confirm the 7,477 figure, directly attributing it to CAL FIRE data.\n\n*   **CAL FIRE Data:** The official CAL FIRE \"2022 Incident Archive\" page explicitly states there were 7,477 wildfires, which burned a total of 331,358 acres[1][2][3].\n*   **Supporting Sources:** Several other sources corroborate this number, including the *Los Angeles Times* and wildfire tracking site Frontline[4][5]. Wikipedia's page for the 2022 California wildfires also lists the total as 7,477[6].\n\nA slightly different figure of 7,490 wildfires is also reported by some sources, which also cite CAL FIRE[7][8][9]. This minor discrepancy is often accompanied by a different acreage total of 362,455 acres burned[8][9]. Such variations can occur due to differences in how data is aggregated across various jurisdictions (state, federal, local) over time. Definitive clarification is typically found in CAL FIRE's annual \"Redbook\" statistical reports, which detail fires by jurisdiction[10].\n\n### An Explained Outlier: The CARB Figure\n\nA significantly lower number of 305 wildfires was reported by the California Air Resources Board (CARB) for 2022[11]. This figure is not a comprehensive count of all fire incidents but is specific to CARB's methodology for estimating greenhouse gas and particulate matter emissions[12]. CARB's process uses data from CAL FIRE's wildfire geodatabase and the U.S. Forest Service's First Order Fire Effects Model (FOFEM) to calculate emissions from fires that are reported and mapped for this purpose[12]. The agency historically tracks wildfire emissions separately from its inventory of manmade, fossil fuel-generated emissions[13][14].\n\n## Context of the 2022 Wildfire Season\n\nThe 2022 wildfire season was considered unusually tame compared to previous years[4]. The total number of fires (7,490 according to one source) was about 3% below the five-year average of 7,746[7]. The total area burned was significantly lower than the five-year average of over 2.3 million acres[1].\n\n### Impacts and Key Incidents\n\n*   **Acreage:** The 7,477 fires burned 331,358 acres[1].\n*   **Fatalities:** The fires resulted in 9 civilian fatalities and no firefighter deaths[1][7].\n*   **Structures:** A total of 1,279 structures were impacted, with 946 destroyed and 333 damaged[1]. Another source places the number of destroyed structures at 772 and damaged at 104[7].\n*   **Largest Fire:** The largest incident of the year was the Mosquito Fire, which burned 76,788 acres in El Dorado and Placer counties[1][7].\n*   **Most Destructive Fires:** The McKinney Fire destroyed 185 structures in July, and the Oak Fire destroyed 182 structures, also in July[7].\n\n### Historical Comparison\n\nThe 2022 season's burned acreage stands in stark contrast to more severe recent years. For comparison, 2.5 million acres burned in 2021 and a record-breaking 4.3 million acres burned in 2020[7][5]. The number of fires in 2022 was also lower than in 2021 (7,396 incidents) and 2020 (8,648 incidents)[5].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "86aaec21-7b76-47f0-a9c1-704ee6fb74c1",
+      "score": 0.8399576,
+      "title": "2022 Fire Season Incident Archive | CAL FIRE",
+      "url": "https://www.fire.ca.gov/incidents/2022",
+      "citation_index": 1
+    },
+    {
+      "id": "43abd0c5-d28d-4fbd-bd20-b2bbb2188bac",
+      "score": 0.83093774,
+      "title": "2022 Incident Archive - Cal Fire - CA.gov",
+      "url": "https://www.fire.ca.gov/incidents/2022/?ref=currently",
+      "citation_index": 2
+    },
+    {
+      "id": "4acdd6f2-1ae4-4a8a-9bed-be9beb5d8876",
+      "score": 0.7811474,
+      "title": "2022 Incident Archive - Cal Fire - CA.gov",
+      "url": "https://www.fire.ca.gov/incidents/2022/-",
+      "citation_index": 3
+    },
+    {
+      "id": "b763ae26-b103-47f0-88c9-33ee3e05cb5d",
+      "score": 0.9229352,
+      "title": "California wildfires off to explosive start, burning 30 times as many acres as all of last year",
+      "url": "https://www.latimes.com/california/story/2024-07-31/california-wildfires-have-burned-750-000-acres-so-far-this-year",
+      "citation_index": 4
+    },
+    {
+      "id": "be2ef7bf-e255-4be6-942c-c341041dace3",
+      "score": 0.9020676,
+      "title": "Live California Fire Map and Tracker | Frontline",
+      "url": "https://www.frontlinewildfire.com/california-wildfire-map/",
+      "citation_index": 5
+    },
+    {
+      "id": "722a7688-2a2e-4aa7-b4f8-680c1d7446c0",
+      "score": 0.9147261,
+      "title": "2022 California wildfires - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2022_California_wildfires",
+      "citation_index": 6
+    },
+    {
+      "id": "f79e8f3a-fabd-4899-a382-d8c88697ae9b",
+      "score": 0.8655088,
+      "title": "By the numbers: California\u2019s mild 2022 wildfire season - CalMatters",
+      "url": "https://calmatters.org/environment/wildfires/2022/12/california-wildfires-2022/",
+      "citation_index": 7
+    },
+    {
+      "id": "ed0ac474-4654-4a17-9b39-2e8e9fe74d99",
+      "score": 0.843393,
+      "title": "California Wildfires History & Statistics | Frontline Wildfire Defense",
+      "url": "https://www.frontlinewildfire.com/wildfire-news-and-resources/california-wildfires-history-statistics/",
+      "citation_index": 8
+    },
+    {
+      "id": "bdeddfe3-a7d1-4b70-b63d-d303f6dd9170",
+      "score": 0.4574039,
+      "title": "List of California wildfires - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_California_wildfires",
+      "citation_index": 9
+    },
+    {
+      "id": "8fb55dfa-4131-4063-b98d-a92f3a41ff4a",
+      "score": 0.8124067,
+      "title": "Statistics | CAL FIRE",
+      "url": "https://www.fire.ca.gov/our-impact/statistics",
+      "citation_index": 10
+    },
+    {
+      "id": "0c90a9b7-8f11-4342-93de-98c2fa736b27",
+      "score": 0.54201555,
+      "title": "Statistics | CAL FIRE - CA.gov",
+      "url": "https://www.fire.ca.gov/our-impact/statistics?os=v&ref=app",
+      "citation_index": 10
+    },
+    {
+      "id": "a83a565e-7d80-41f3-a931-fd1f1f599be7",
+      "score": 0.921929,
+      "title": "Wildfire Emission Estimates for 2022",
+      "url": "https://ww2.arb.ca.gov/sites/default/files/classic/cc/inventory/Wildfire%20Emission%20Estimates%20for%202022%20%28ADA%29.pdf",
+      "citation_index": 11
+    },
+    {
+      "id": "5a04c96c-eea7-4679-8223-a85e8700e398",
+      "score": 0.12123791,
+      "title": "Wildfire Emission Estimates for 2022",
+      "url": "https://ww2.arb.ca.gov/sites/default/files/classic/cc/inventory/Wildfire Emission Estimates for 2022 (ADA).pdf",
+      "citation_index": 11
+    },
+    {
+      "id": "6d0bd28d-6a4d-4b61-bf09-a626d963d207",
+      "score": 0.6636041,
+      "title": "Wildfire Emission Estimates for 2022",
+      "url": "https://ww2.arb.ca.gov/sites/default/files/classic/cc/inventory/Wildfire%20Emission%20Estimates%20for%202022%20ERRATA%20FINAL.pdf",
+      "citation_index": 12
+    },
+    {
+      "id": "0716a804-c69b-4542-8bb7-d6e4e025ab10",
+      "score": 0.3522023,
+      "title": "Wildfires & Climate Change | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/wildfires-climate-change",
+      "citation_index": 13
+    },
+    {
+      "id": "0ebff22f-a7cf-46bc-9cd8-3426320fffd1",
+      "score": 0.46935064,
+      "title": "California\u2019s wildfire smoke and climate change: 4 things to know",
+      "url": "https://calmatters.org/environment/2023/09/california-wildfire-smoke-climate-change/",
+      "citation_index": 14
+    },
+    {
+      "id": "1fc645a2-18c5-439d-8984-1c732486e831",
+      "score": 0.90102744,
+      "title": "California Fire Season: In-Depth Guide | WFCA",
+      "url": "https://wfca.com/wildfire-articles/california-fire-season-in-depth-guide/"
+    },
+    {
+      "id": "d503a0f4-b25c-49e5-9d89-d6b81f8e25b6",
+      "score": 0.89545894,
+      "title": "National Fire News | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/nfn"
+    },
+    {
+      "id": "9030c265-7502-4fe7-a939-d1c33ffceaa1",
+      "score": 0.84183896,
+      "title": "Search Results | CAL FIRE",
+      "url": "https://www.fire.ca.gov/Search-Results?search=los&programsCategoryFilters=&activeFilters=&page=9&contenttype=&type=content"
+    },
+    {
+      "id": "a4c60e2b-7f7b-4a97-9034-d85741164043",
+      "score": 0.8184036,
+      "title": "Facts + Statistics: Wildfires | III",
+      "url": "https://www.iii.org/fact-statistic/facts-statistics-wildfires"
+    },
+    {
+      "id": "17e4eae4-526f-4497-81d6-e3512f01ba22",
+      "score": 0.8088086,
+      "title": "Incidents | CAL FIRE",
+      "url": "https://www.fire.ca.gov/incidents"
+    },
+    {
+      "id": "a534253e-c3a6-480b-9e97-e8216188659c",
+      "score": 0.76194656,
+      "title": "California Fire Perimeters last 5 years View - Overview",
+      "url": "https://www.arcgis.com/home/item.html?id=692135b4e6ff47c8adae066ff477f4f1&sublayer=0"
+    },
+    {
+      "id": "13b7f810-f2c3-4e00-8b54-00fdfad36308",
+      "score": 0.7197191,
+      "title": "California Wildfire Emission Estimates | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/wildfire-emissions"
+    },
+    {
+      "id": "4b454772-e066-4ec5-9554-27d031e767c7",
+      "score": 0.62523276,
+      "title": "California wildfires offset greenhouse gas reductions - Los Angeles Times",
+      "url": "https://www.latimes.com/california/story/2022-10-20/california-wildfires-offset-greenhouse-gas-reductions"
+    },
+    {
+      "id": "0ec7373b-841c-46b9-ae64-6e48d17b1d8e",
+      "score": 0.6202772,
+      "title": "Carbon credits are literally going up in smoke as wildfires threaten their sustainability",
+      "url": "https://fortune.com/2024/08/12/carbon-credits-california-wildfires-park-fire-forest-offset-projects-buffer-pool/"
+    },
+    {
+      "id": "dd8f0cbd-8ed2-4a24-86ea-36a3fc384c41",
+      "score": 0.6133529,
+      "title": "Fire Map: Track California Wildfires 2025 - CalMatters",
+      "url": "https://calmatters.org/california-wildfire-map-tracker/"
+    },
+    {
+      "id": "70bee855-403b-47b6-921a-79561078f2cf",
+      "score": 0.59061456,
+      "title": "California Wildfire Emission Estimates",
+      "url": "https://carbstage.arb.ca.gov/wildfire-emissions"
+    },
+    {
+      "id": "b9048826-7ff3-4578-8d7b-8e01b3039130",
+      "score": 0.521886,
+      "title": "Our Impact | CAL FIRE",
+      "url": "https://www.fire.ca.gov/our-impact"
+    },
+    {
+      "id": "dc20af9b-3cfb-48c9-947c-ef3187fb0cae",
+      "score": 0.49655825,
+      "title": "California Incident Data and Statistics Program | OSFM - CA.gov",
+      "url": "https://osfm.fire.ca.gov/resources/california-incident-data-and-statistics-program"
+    },
+    {
+      "id": "34354d32-0a21-4330-ba8c-35f03952409a",
+      "score": 0.4896749,
+      "title": "California fire loss and fire department profile",
+      "url": "https://www.usfa.fema.gov/statistics/states/california.html"
+    },
+    {
+      "id": "ad939700-71f3-4102-8d16-5a0cb680c34e",
+      "score": 0.43295085,
+      "title": "California Wildfires",
+      "url": "https://www.soa.org/49b14c/globalassets/assets/files/static-pages/research/arch/2021/arch-2021-2-california-wildfires.pdf"
+    },
+    {
+      "id": "76924c51-99dc-4135-869b-00081343e637",
+      "score": 0.40726325,
+      "title": "Three Dozen California Bills Focus on Wildfire, Others Are Concerning for Insurance Industry",
+      "url": "https://www.insurancejournal.com/news/west/2021/04/06/608775.htm"
+    },
+    {
+      "id": "a230f09a-1b75-4896-811c-fc906e421f4f",
+      "score": 0.35871297,
+      "title": "2018 Wildfire Activity Statistics",
+      "url": "http://large.stanford.edu/courses/2022/ph240/chunduru1/docs/redbook-2018.pdf"
+    },
+    {
+      "id": "ddcccea2-ca37-45a5-8235-c4d794b3403d",
+      "score": 0.32769033,
+      "title": "Current California GHG Emission Inventory Data | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/ghg-inventory-data"
+    },
+    {
+      "id": "65216d92-39df-4f4f-a709-9fbf89e76bb6",
+      "score": 0.31605303,
+      "title": "California Air Resources Board Releases California Smoke Spotter 2.0 - New App Features Help Users Track Wildfire Smoke",
+      "url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/40391-california-air-resources-board-releases-california-smoke-spotter-2-0-new-app-features-help-users-track-wildfire-smoke"
+    },
+    {
+      "id": "00a34864-3fa4-4ff3-982c-dfdf2435fb3d",
+      "score": 0.28419885,
+      "title": "2021 Fire Season Incident Archive | CAL FIRE",
+      "url": "https://www.fire.ca.gov/incidents/2021"
+    },
+    {
+      "id": "3f477d6b-d0d1-4acf-a49c-6578f965668e",
+      "score": 0.28419885,
+      "title": "Profiles in Government: Air Resources Board Wields IT to Improve Environment",
+      "url": "https://insider.govtech.com/california/news/profiles-in-government-air-resources-board-wields-it-to-improve-environment"
+    },
+    {
+      "id": "e2888029-ee7f-444b-ae28-9ba17c9edcbf",
+      "score": 0.2835735,
+      "title": "A new Stanford study shows we\u2019ll see 30,000 additional deaths annually by 2050 as a direct result of wildfire smoke and yet CARB doesn\u2019t even count it in their pollution plans! \n\nThe Air Board\u2019s sole purpose is to keep Californians safe from harmful air pollution, not to serve as an instrument of social engineering or force us into electric vehicles.\n\nThat\u2019s why I\u2019ve sent a letter calling on CARB to fix its priorities and protect Californians from wildfire smoke!\n\nhttps://t.co/uydIhWhwSo",
+      "url": "https://x.com/SenBrianJones/status/1974178395417424282"
+    },
+    {
+      "id": "3b86cbcf-de61-4725-8d3f-6ead8b3fcd72",
+      "score": 0.238134,
+      "title": "Frequently Asked Questions: Wildfire Emissions | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/resources/documents/frequently-asked-questions-wildfire-emissions"
+    },
+    {
+      "id": "1386c47e-20a2-4b63-81cc-4fec0c069d14",
+      "score": 0.22633056,
+      "title": "CARB Releases Final 2022 Scoping Plan",
+      "url": "https://wildfiretaskforce.org/carb-releases-final-2022-scoping-plan/"
+    },
+    {
+      "id": "a7778a9d-28c6-4909-bf80-546a881786da",
+      "score": 0.18559302,
+      "title": "Statistics | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/statistics"
+    },
+    {
+      "id": "1f76ccc6-6c12-43a0-945d-006d3dd5e4be",
+      "score": 0.17229746,
+      "title": "Petition to Phase Out Greenhouse Gas (GHG) Pollution to Restore a Stable and Healthy Climate \u2013 James E. Hansen, Donn Viviani, et al.",
+      "url": "https://www.juancole.com/2022/06/petition-greenhouse-pollution.html"
+    },
+    {
+      "id": "8e9fc0fb-e6f2-4e43-864f-fccb7c3f9413",
+      "score": 0.1707156,
+      "title": "DRAFT 2022 PROGRESS REPORT",
+      "url": "https://ww2.arb.ca.gov/sites/default/files/2022-06/2022_SB_150_Main_Report_Draft_1.pdf"
+    },
+    {
+      "id": "ce00d1f4-3f7f-4307-9f8c-32de6183ce08",
+      "score": 0.16450334,
+      "title": "Wildfires and Acres | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/statistics/wildfires"
+    },
+    {
+      "id": "31464013-c15d-4d6e-bdd9-1fa5c20a7767",
+      "score": 0.14999175,
+      "title": "Wildfires: Emissions from Burning Structures | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/resources/documents/wildfires-emissions-burning-structures"
+    },
+    {
+      "id": "7f3205e8-9200-4dc4-8afa-00329b044d4e",
+      "score": 0.14850381,
+      "title": "Interagency Standards for Fire and Fire Aviation Operations",
+      "url": "https://www.nifc.gov/standards/guides/red-book"
+    },
+    {
+      "id": "4ca25489-45bb-4a88-8ff6-a540f9056146",
+      "score": 0.13011979,
+      "title": "Examining the health impacts of short-term repeated exposure to wildfire smoke | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/resources/documents/examining-health-impacts-short-term-repeated-exposure-wildfire-smoke"
+    },
+    {
+      "id": "cd49cb73-a7fa-4a77-bf11-aa658d878358",
+      "score": 0.12255495,
+      "title": "Air quality and health impacts of the 2020 wildfires in California | Fire Ecology | Full Text",
+      "url": "https://fireecology.springeropen.com/articles/10.1186/s42408-023-00234-y"
+    },
+    {
+      "id": "84933097-1537-4ad9-8126-94311fe583bb",
+      "score": 0.1144182,
+      "title": "Camp Fire Air Quality Data Analysis | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/resources/documents/camp-fire-air-quality-data-analysis"
+    },
+    {
+      "id": "dc80b96a-3565-414a-b4f9-1ea3cc16a8ad",
+      "score": 0.09695367,
+      "title": "Weekly Climate and Energy News Roundup #601",
+      "url": "https://wattsupwiththat.com/2024/06/10/weekly-climate-and-energy-news-roundup-601/"
+    },
+    {
+      "id": "a87076bd-2937-466f-a839-ee8fe96f91b1",
+      "score": 0.09029351,
+      "title": "Frequently Asked Questions about Wildfire Smoke, Ash & Air Quality | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/resources/fact-sheets/frequently-asked-questions-about-wildfire-smoke-ash-air-quality"
+    },
+    {
+      "id": "b75bed36-33d2-48fb-835e-c8fb91dcd632",
+      "score": 0.085870296,
+      "title": "About | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/about"
+    },
+    {
+      "id": "ddc9cda3-5b67-488d-976d-3fb65b1fb451",
+      "score": 0.04282224,
+      "title": "carb-wildfire-emissions-faq.pdf - California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/sites/default/files/2021-03/carb-wildfire-emissions-faq.pdf"
+    },
+    {
+      "id": "021c029d-f547-424f-80d4-aa0e319c031a",
+      "score": 0.03233523,
+      "title": "Sandy Hook memorial, rabid bats, Tour de Turtles: News from around our 50 states",
+      "url": "https://www.usatoday.com/story/news/50-states/2021/07/26/sandy-hook-memorial-rabid-bats-tour-de-turtles-news-around-states/117661940/"
+    },
+    {
+      "id": "0d3e4d18-43b5-45a2-bdda-74b71527bb2c",
+      "score": 0.013733088,
+      "title": "Long-term trends in wildfire damages in California",
+      "url": "https://emlab.ucsb.edu/sites/default/files/documents/wildfire-brief.pdf"
+    }
+  ]
+}

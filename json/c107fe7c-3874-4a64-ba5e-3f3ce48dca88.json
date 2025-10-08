@@ -1,0 +1,318 @@
+{
+  "id": "c107fe7c-3874-4a64-ba5e-3f3ce48dca88",
+  "status": "completed",
+  "content": "TRUE. The claim that 420,000 acres of land burned in Oregon in 2022 is a reasonably accurate reflection of the total acreage reported by multiple official and journalistic sources, although the most comprehensive figure is slightly higher.\n\nOfficial data from the Northwest Interagency Coordination Center (NWCC) states a final total of 456,038 acres burned in Oregon during the 2022 fire season[1]. Other reported year-end figures range from approximately 400,000 to 442,000 acres, placing the 420,000-acre claim well within the established scale of the fire season[3].\n\n## Official 2022 Acreage Data\n\nMultiple agencies track wildfire statistics, leading to slight variations in reported totals. The most comprehensive data, which aggregates statistics across federal, state, and local jurisdictions, is compiled by the National Interagency Fire Center (NIFC) and its regional bodies.\n\n*   **Northwest Interagency Coordination Center (NWCC):** The 2022 annual fire report specifies a total of **456,038 acres** burned in Oregon from 2,023 separate fires[1].\n*   **End-of-Season Reports (Journalistic):** News reports from late 2022 provided similar figures. The *Statesman Journal* reported that wildfires burned roughly **442,366 acres** for the season[3]. Wikipedia's compilation based on official sources cited a total of **436,772 acres** from 1,975 fires as of the season's end on October 22, 2022[4].\n*   **Retrospective Data:** In an October 2023 article, the *Statesman Journal* referred to the 2022 season in rounded terms, stating **400,000 acres** burned that year, compared to 1.1 million in 2020 and 800,000 in 2021.\n\n### Analysis of Data Discrepancies\n\nLower figures reported by some state agencies are typically due to jurisdictional limitations. For instance, the Oregon Office of Emergency Management's (OEM) 2022 After-Action Report cited an estimated total of **304,254 acres** burned[5]. This lower number likely reflects fires on lands where the state has primary protection responsibility, excluding large fires on federal lands[6].\n\nThe NWCC data confirms this distribution, breaking down the 456,038-acre total by protecting agency[1]:\n*   **U.S. Forest Service (FS):** 333,866 acres\n*   **Bureau of Land Management (BLM):** 76,145 acres\n*   **Oregon Department of Forestry (DOF):** 44,821 acres\n*   **Bureau of Indian Affairs (BIA):** 838 acres\n*   **Other Agencies:** 368 acres\n\nFederal lands managed by the U.S. Forest Service and BLM accounted for approximately 90% of the total acreage burned in Oregon in 2022[1].\n\n## Major Wildfires in 2022\n\nMore than half of the total acreage burned in 2022 resulted from two \"megafires\"\u2014fires exceeding 100,000 acres[3][7].\n\n*   **Double Creek Fire:** The state's largest fire of the season, it burned **171,532 acres** in northeastern Oregon[3]. The fire started from a lightning strike on August 22 and grew rapidly in hot, dry conditions, topping 100,000 acres by early September[8][9].\n*   **Cedar Creek Fire:** This lightning-caused fire burned **127,283 acres** near Oakridge and was the most expensive of the season, with suppression costs reaching $132.7 million[3].\n\nLightning was the primary cause of burned acreage in 2022. Of the 442,366 acres tallied in one report, lightning ignited 874 fires that burned 379,255 acres, while human activity caused 843 fires that burned 42,824 acres[3].\n\n## National and Regional Context\n\nNationally, 2022 saw over 7.5 million acres burned across the United States[10]. The Western states, including Oregon, accounted for the vast majority of this total, with over 20,000 wildfires burning approximately 5.8 million acres[11]. In the West, 64% of the acreage burned (3.7 million acres) was on federal land[11].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "32cb17f0-1ae9-4f08-9cad-3b9264155bd0",
+      "score": 0.90289277,
+      "title": "Northwest Annual Fire Report 2022",
+      "url": "https://gacc.nifc.gov/nwcc/content/pdfs/archives/2022_NWCC_Annual_Fire_Report_Final.pdf",
+      "citation_index": 1
+    },
+    {
+      "id": "3a11062b-c66f-4e97-93c9-1bc2062c6d3d",
+      "score": 0.9119436,
+      "title": "'Started late and went long': Even in quieter season, wildfire impact felt across Oregon",
+      "url": "https://www.statesmanjournal.com/story/news/2022/11/01/oregon-wildfires-2022-acres-burned-homes-lost-cedar-creek-fire/69592983007/",
+      "citation_index": 3
+    },
+    {
+      "id": "3031d173-6dc1-417b-ad41-59c6c66d6592",
+      "score": 0.9183121,
+      "title": "2022 Oregon wildfires - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2022_Oregon_wildfires",
+      "citation_index": 4
+    },
+    {
+      "id": "10db339a-5b9c-48d6-838c-709fefbf29be",
+      "score": 0.9197076,
+      "title": "2022 Wildfire Season",
+      "url": "https://www.oregon.gov/oem/Documents/2022_Wildfire_Season_AAR.pdf",
+      "citation_index": 5
+    },
+    {
+      "id": "b0d6a7d5-2056-4d8c-84c8-ff8576eb5da4",
+      "score": 0.71185225,
+      "title": "ODF Fire History 2000-2022 Dashboard | data.oregon.gov | Oregon's Open Data Portal | Oregon.gov",
+      "url": "https://data.oregon.gov/stories/s/92y3-mdk3",
+      "citation_index": 6
+    },
+    {
+      "id": "617e776d-e84e-4f11-b568-79ffd2fa4845",
+      "score": 0.48528314,
+      "title": "Wildland Fire Management",
+      "url": "https://www.doi.gov/sites/doi.gov/files/doi-large-fire-review-2022.pdf",
+      "citation_index": 7
+    },
+    {
+      "id": "77fee33b-e8c4-4ff2-b0a1-05b5e9928060",
+      "score": 0.8025714,
+      "title": "Oregon sees 63% drop in wildfire acres burned in 2022",
+      "url": "https://www.koin.com/news/wildfires/oregon-sees-63-drop-in-wildfire-acres-burned-in-2022/",
+      "citation_index": 8
+    },
+    {
+      "id": "51120db5-7711-4c0e-9a84-a1068528e9a6",
+      "score": 0.78886026,
+      "title": "Oregon\u2019s largest wildfire tops 100,000 acres, still 0% contained - OPB",
+      "url": "https://www.opb.org/article/2022/09/08/oregon-wildfires-double-creek-fire-evacuations-100000-acres/",
+      "citation_index": 9
+    },
+    {
+      "id": "b48d97c9-6e5d-4abf-bdea-76a7f623afe9",
+      "score": 0.7018975,
+      "title": "Facts + Statistics: Wildfires | III",
+      "url": "https://www.iii.org/fact-statistic/facts-statistics-wildfires",
+      "citation_index": 10
+    },
+    {
+      "id": "00b9da1f-67a1-4b83-aa87-03037393f8f1",
+      "score": 0.88564163,
+      "title": "Wildfire Statistics | Congress.gov | Library of Congress",
+      "url": "https://www.congress.gov/crs-product/IF10244",
+      "citation_index": 11
+    },
+    {
+      "id": "2495e92e-5e2d-4bc9-ba66-bc2f8107a850",
+      "score": 0.91671574,
+      "title": "How bad was the 2023 Oregon wildfire season? Acres burned, air quality impact",
+      "url": "https://www.statesmanjournal.com/story/news/local/oregon/2023/10/19/how-bad-was-the-2023-oregon-wildfires-season-acres-burned-air-quality/71208750007/"
+    },
+    {
+      "id": "af09a23b-06b2-4c8b-9334-4c1720fc113a",
+      "score": 0.9145431,
+      "title": "National Fire News | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/nfn"
+    },
+    {
+      "id": "02ea2722-8c2b-448a-88aa-f13294ac1b8d",
+      "score": 0.86358756,
+      "title": "Washington\u2019s 2022 fire season has been the mildest in a decade - OPB",
+      "url": "https://www.opb.org/article/2022/10/09/washington-wildfire-season-bolt-creek-fire-goat-rocks-fire-oregon-wildfires/"
+    },
+    {
+      "id": "36bd59f4-7a82-4631-8b78-93ca9dfb3ca7",
+      "score": 0.81979275,
+      "title": "NationalFireNews: As of December 31, 2022 the ...",
+      "url": "https://www.facebook.com/photo.php?fbid=499314875646230&id=100067031662172&set=a.189195166658204"
+    },
+    {
+      "id": "747917b8-d9dd-4071-a3a6-8142766bdcf5",
+      "score": 0.78631157,
+      "title": "Untitled",
+      "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF10244.web.html"
+    },
+    {
+      "id": "8198c893-8264-4e4f-a2ae-7abb14b5c738",
+      "score": 0.77589405,
+      "title": "Oregon wildfires have already burned 20,000 acres and destroyed 56 homes. What's next?",
+      "url": "https://www.statesmanjournal.com/story/news/2025/06/20/oregon-wildfires-2025-season/84264473007/"
+    },
+    {
+      "id": "5bc29c0a-26a9-4e6d-8c00-a3cfbe9bd564",
+      "score": 0.7644879,
+      "title": "Oregon on track to set new wildfire record for acreage burned - OPB",
+      "url": "https://www.opb.org/article/2024/08/07/oregon-wildfires-arceage/"
+    },
+    {
+      "id": "3d02ccdc-f5f7-45a3-90b0-2693bd339e63",
+      "score": 0.75442725,
+      "title": "Statistics | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/statistics"
+    },
+    {
+      "id": "7d25a0c6-4b8c-4f51-90a3-e53d6d8e194e",
+      "score": 0.725824,
+      "title": "Oregon Department of Forestry Announces the End of 2023 Fire Season and Describes Agency Successes - My Oregon News",
+      "url": "https://www.myoregon.gov/2023/10/30/oregon-department-of-forestry-announces-the-end-of-2023-fire-season-and-describes-agency-successes/"
+    },
+    {
+      "id": "5060bdc3-c73d-4522-85e9-d9a45e1e6693",
+      "score": 0.7159213,
+      "title": "2024 Oregon wildfires - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2024_Oregon_wildfires"
+    },
+    {
+      "id": "a000de49-e901-4ff5-9022-e5d9e4503ec8",
+      "score": 0.7060491,
+      "title": "Oregon Department of Forestry : Information & statistics : Fire : State of Oregon",
+      "url": "https://www.oregon.gov/odf/fire/pages/firestats.aspx"
+    },
+    {
+      "id": "0fe685f7-6f22-4170-9ece-066795897dd2",
+      "score": 0.70067,
+      "title": "Department of Forestry 2024 Fire Season",
+      "url": "https://olis.oregonlegislature.gov/liz/2023I1/Downloads/CommitteeMeetingDocument/286816"
+    },
+    {
+      "id": "261f0a77-b55a-495e-ac08-85945c55d65a",
+      "score": 0.69249696,
+      "title": "ODF Fire History 2000-2022 Dashboard | data.oregon.gov | Oregon's Open Data Portal | Oregon.gov",
+      "url": "https://data.oregon.gov/stories/s/ODF-Fire-History-2000-2022-Dashboard/92y3-mdk3/"
+    },
+    {
+      "id": "8eb8e78e-da45-4ef0-b271-e42b8126a557",
+      "score": 0.6701125,
+      "title": "Difficult fire season strains relationship between forestry department and Eastern Oregon landowners - OPB",
+      "url": "https://www.opb.org/article/2024/10/17/fire-season-forestry-oregon-eastern-landowners/"
+    },
+    {
+      "id": "9ae4a15f-a02d-496e-ae40-bd0b34836974",
+      "score": 0.63939893,
+      "title": "Fire Information | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information"
+    },
+    {
+      "id": "bb887bed-d870-4c4e-ba5a-ae06298bb11c",
+      "score": 0.6353361,
+      "title": "r/oregon on Reddit: 300,000 acres of Oregon have burned in the past week",
+      "url": "https://www.reddit.com/r/oregon/comments/1e43rza/300000_acres_of_oregon_have_burned_in_the_past/"
+    },
+    {
+      "id": "1efedd79-a579-4b60-8800-274e745b5d57",
+      "score": 0.6077801,
+      "title": "NASA Scientific Visualization Studio | Annual Wildfire Burned Area in the United States",
+      "url": "https://svs.gsfc.nasa.gov/5453/"
+    },
+    {
+      "id": "ed8065c3-8e37-4bbb-8815-cce87d9b3285",
+      "score": 0.57006866,
+      "title": "The Oregon Department of Forestry reminds residents to ...",
+      "url": "https://www.facebook.com/mycolumbiabasininfo/posts/the-oregon-department-of-forestry-reminds-residents-to-stay-prepared-as-fire-dan/1452704046304725/"
+    },
+    {
+      "id": "41612d3c-d0c5-4a16-9125-c4b980d3fb04",
+      "score": 0.55420566,
+      "title": "Climate Change Indicators: Wildfires | US EPA",
+      "url": "https://www.epa.gov/climate-indicators/climate-change-indicators-wildfires"
+    },
+    {
+      "id": "95a1c5a0-e088-4451-9a3c-9c765637f882",
+      "score": 0.54681134,
+      "title": "Oregon Forest Facts",
+      "url": "https://oregonforestfacts.org/sites/default/files/2025-05/OFRI-ForestFacts2025_DIGITAL.pdf"
+    },
+    {
+      "id": "ab8d2c2b-7ead-47cf-9444-0332dd701400",
+      "score": 0.5310884,
+      "title": "Oregon Department of Forestry : Fire : Fire : State of Oregon",
+      "url": "https://www.oregon.gov/odf/fire/pages/default.aspx"
+    },
+    {
+      "id": "3bdd4117-c5d0-429b-86d0-b7afeec20012",
+      "score": 0.529191,
+      "title": "Number of human-caused wildfires in Oregon down nearly ...",
+      "url": "https://oregoncapitalchronicle.com/briefs/number-of-human-caused-wildfires-in-oregon-down-nearly-20/"
+    },
+    {
+      "id": "42296eec-a9ef-42fb-9f19-273d6cc7656c",
+      "score": 0.51662046,
+      "title": "Oregon wildfire burns almost 100K acres, approaching rare megafire status",
+      "url": "https://www.nbcnews.com/news/us-news/oregon-cram-fire-rcna219392"
+    },
+    {
+      "id": "2df4cad0-7baf-4705-a51f-4c9d26595da1",
+      "score": 0.43655056,
+      "title": "Wildfire Information",
+      "url": "https://ofic.com/wildfire-information/"
+    },
+    {
+      "id": "8affed26-57d2-4648-b7a8-708db0b2e353",
+      "score": 0.38567597,
+      "title": "Annual Report (OEM) 2024",
+      "url": "https://www.oregonlegislature.gov/cis/GovToGovReports/Annual%20Report%20(OEM)%202024.pdf"
+    },
+    {
+      "id": "24383565-eb1f-4fee-a577-b6b9fc12b023",
+      "score": 0.38110495,
+      "title": "State of Oregon Fires Dashboard",
+      "url": "https://www.arcgis.com/apps/instant/portfolio/index.html?appid=22d04c007866419c91ccf00d097526c8"
+    },
+    {
+      "id": "09ec9be2-98ce-4d1b-a0be-bf4755af8250",
+      "score": 0.36466494,
+      "title": "Oregon Dept. of Forestry announces end of fire season | Oregon / Northwest | centraloregondaily.com",
+      "url": "https://www.centraloregondaily.com/news/regional/oregon-forestry-fire-season-restrictions-ends/article_9c9f46da-9562-11ef-bac8-f7d59e8b61f2.html"
+    },
+    {
+      "id": "9ee609b9-cf43-41b4-87d1-e811a397a870",
+      "score": 0.3420444,
+      "title": "A look at megafires as an Oregon wildfire approaches the 100,000-acre mark - OPB",
+      "url": "https://www.opb.org/article/2025/07/22/a-look-at-megafires-as-an-oregon-wildfire-approaches-the-100000-acre-mark/"
+    },
+    {
+      "id": "ef956a1b-46ed-48e0-a521-961031815342",
+      "score": 0.27449402,
+      "title": "Wildfires By State, 2023 - Archived Tables | III",
+      "url": "https://www.iii.org/table-archive/23284"
+    },
+    {
+      "id": "7ce078a1-cda1-4ed9-8108-d964d1ff5cd4",
+      "score": 0.26490873,
+      "title": "A quantitative wildfire risk assessment using a modular approach of geostatistical clustering and regionally distinct valuations of assets\u2014A case study in Oregon - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8903305/"
+    },
+    {
+      "id": "bb1fa136-7c27-42ed-ad9c-2d8bc30da13e",
+      "score": 0.25852996,
+      "title": "ODF Protected Lands - Wildfire Acres Burned by Decade",
+      "url": "https://www.oregon.gov/odf/fire/documents/odf-protected-acres-burned-by-decade-chart.pdf"
+    },
+    {
+      "id": "b053c2f3-7d3b-4301-a4d9-69bf46749aaa",
+      "score": 0.25802484,
+      "title": "Wildfires by the numbers: How many acres burned and the estimated cost",
+      "url": "https://nbc16.com/news/local/wildfires-by-the-numbers-how-many-acres-burned-and-the-estimated-cost-wildfire-kotek-politics-trump-money-budget-"
+    },
+    {
+      "id": "dc237431-1203-452d-aa40-bdf80083874e",
+      "score": 0.25666705,
+      "title": "2020 Oregon GIS After Action Report and Improvement Plan",
+      "url": "https://storymaps.arcgis.com/stories/1b34f9ca15a747378b3519baad3530aa"
+    },
+    {
+      "id": "074bcac6-e36e-491a-8b8b-7cebc47d6358",
+      "score": 0.25202075,
+      "title": "Oregon Explorer Wildfire Risk",
+      "url": "https://hub.oregonexplorer.info/pages/wildfire"
+    },
+    {
+      "id": "98dc2a9e-a849-4c71-a563-97b86015a9d7",
+      "score": 0.24648389,
+      "title": "Stories of fire: Resources for media covering wildfire events ...",
+      "url": "https://extension.oregonstate.edu/catalog/ec-1658-stories-fire"
+    },
+    {
+      "id": "20a2cea7-71dc-47b5-bf79-f92b6f19a602",
+      "score": 0.22666417,
+      "title": "Wildfires and Acres | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/statistics/wildfires"
+    },
+    {
+      "id": "72db87a2-1ab8-489d-a73a-d7c9174b0d3a",
+      "score": 0.16931002,
+      "title": "Lessons learned from 2020 helped Oregon avoid another fire disaster - OPB",
+      "url": "https://www.opb.org/article/2022/09/12/oregon-wildfire-management-prevention-emergency-management/?outputType=amp"
+    },
+    {
+      "id": "fb14056b-a75c-427d-8afe-2b2e0d00194c",
+      "score": 0.14600226,
+      "title": "National Interagency Fire Center",
+      "url": "https://data-nifc.opendata.arcgis.com/"
+    },
+    {
+      "id": "dfbdceb7-7986-4bc0-b80a-082616666498",
+      "score": 0.12932599,
+      "title": "Oregon, United States Deforestation Rates & Statistics | GFW",
+      "url": "https://www.globalforestwatch.org/dashboards/country/USA/38/?category=fires"
+    },
+    {
+      "id": "39fdcfbc-ed7d-48a6-9b35-2d793faee140",
+      "score": 0.015557138,
+      "title": "Oregon Wildfire Response Protocol for Severe Smoke ...",
+      "url": "https://www.oregon.gov/deq/FilterDocs/WFresponse.pdf"
+    }
+  ]
+}

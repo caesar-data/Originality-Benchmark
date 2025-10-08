@@ -1,0 +1,363 @@
+{
+  "id": "57a9d2ed-8483-423f-86e6-f22cf8986363",
+  "status": "completed",
+  "content": "TRUE.\n\nSouth Korea has historically used three distinct systems to count a person's age, a practice that led to widespread confusion and prompted recent legislative reform [1][2]. As of June 28, 2023, a new law standardized the international age system for most legal and administrative purposes; however, one of the traditional methods remains in use for specific laws, and the most common traditional system persists in social and cultural contexts [3][4].\n\n## The Three Age-Counting Systems\n\nSouth Korea's complex approach to age has involved three different calculation methods, each with a specific name and application [5][6].\n\n### 1. International Age (`man-nai`)\nThis is the globally recognized standard where a person is zero years old at birth and gains one year on their birthday [1]. In Korean, it is called `man-nai` (\ub9cc \ub098\uc774), with \"man\" (\u6eff) meaning \"full\" or \"actual\" [8][9]. Since the early 1960s, South Korea has used this system for official legal and medical documents [10][11].\n\n### 2. Korean Age (`se-neun-nai`)\nKnown as `se-neun-nai` (\uc138\ub294 \ub098\uc774) or \"counting age,\" this is the most common traditional method used in everyday social life [12][8]. Under this system:\n*   A person is considered one year old at birth, with some theories suggesting this accounts for time spent in the womb [13][14][2].\n*   Everyone gains an additional year on January 1st, not on their birthday [15][3].\nThis means a baby born on December 31st is considered two years old the very next day [13][16].\n\n### 3. Calendar Age or Year Age (`yeon-nai`)\nThe third system is `yeon-nai` (\uc5f0 \ub098\uc774), or \"year age\" [8][12]. This method is a hybrid of the other two:\n*   A person is zero years old at birth, similar to the international system [13].\n*   They gain a year every January 1st, similar to the Korean age system [13][10].\nIt can also be calculated by subtracting the birth year from the current year [1]. This system has been specifically used for certain legal purposes, such as determining the age for military conscription and the legal age to buy alcohol and tobacco [11][1].\n\n## Legal Unification and Current Status\n\nTo reduce \"unnecessary social and economic costs\" caused by the confusion, South Korea's National Assembly passed a law in December 2022 to standardize age counting [2][8]. The law took effect on June 28, 2023 [3][17].\n\n*   **Official Standard:** The law makes the **international age** (`man-nai`) the official standard for all administrative and civil matters, effectively scrapping the traditional `se-neun-nai` and `yeon-nai` systems from most official documents [18][19].\n*   **Social Persistence:** Despite the legal change, the traditional **Korean age** (`se-neun-nai`) continues to be used in everyday conversations and social interactions due to its deep cultural roots [4].\n*   **Legal Exceptions:** Crucially, the **calendar age** (`yeon-nai`) system will remain in use for the time being for specific purposes [10][11]. The new law does not affect regulations under the Military Service Act or the Juvenile Protection Act, which define eligibility for military service and the legal age for drinking and smoking based on the year of birth, not the specific birthday [3][20].\n\n## Illustrative Example\n\nThe simultaneous use of these systems means a single individual can have three different ages. For example, as of June 28, 2023, a person born on June 29, 2003, would be:\n*   **19** under the international system (their 20th birthday has not occurred yet) [13].\n*   **20** under the calendar/year age system (2023 minus 2003) [13].\n*   **21** under the traditional Korean age system (1 at birth + 20 years passed since birth year) [13].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "a5775cdf-1734-4b3c-9dee-6847cb5c6f94",
+      "score": 0.94109917,
+      "title": "Age Counting Systems in South Korea: Unification Efforts, Confusion, and Implications \u2013 Hallyuism",
+      "url": "https://hallyuism.com/2024/03/15/age-counting-systems-in-south-korea-unification-efforts-confusion-and-implications/",
+      "citation_index": 1
+    },
+    {
+      "id": "9303057e-3191-4c17-a631-7439a7a37f21",
+      "score": 0.8091708,
+      "title": "All South Koreans to become younger as traditional age system scrapped | South Korea | The Guardian",
+      "url": "https://www.theguardian.com/world/2022/dec/09/all-south-koreans-to-become-younger-as-traditional-age-system-scrapped",
+      "citation_index": 2
+    },
+    {
+      "id": "d70226cf-96dd-4612-ac60-f7274a28b520",
+      "score": 0.7935067,
+      "title": "South Koreans grow younger overnight as the country changes how it counts people's ages | AP News",
+      "url": "https://apnews.com/article/south-korea-age-counting-law-a38a4a6b47c6864bd13433fdac071cec",
+      "citation_index": 3
+    },
+    {
+      "id": "dfe51a55-c2f2-427b-a864-920124fe57d9",
+      "score": 0.8386933,
+      "title": "Age Counting System Only Used in Korea?!",
+      "url": "https://blog.talktomeinkorean.com/age-counting-system-only-used-in-korea/",
+      "citation_index": 4
+    },
+    {
+      "id": "29716a35-84b7-43b0-932f-36ae05f369a8",
+      "score": 0.8891543,
+      "title": "South Koreans become 1 to 2 years younger with new law \u2014 Here's what to know",
+      "url": "https://www.nbcnewyork.com/news/national-international/south-koreans-become-1-to-2-years-younger-with-new-law-korean-cultural-center-ny-explains/4474149/",
+      "citation_index": 5
+    },
+    {
+      "id": "0982c1fc-e002-4295-8d7e-c1ead0fed1ff",
+      "score": 0.69199765,
+      "title": "Bidding farewell to Korean age system - The Korea Herald",
+      "url": "https://www.koreaherald.com/article/3144488",
+      "citation_index": 6
+    },
+    {
+      "id": "39c6a172-d2e0-4020-9e02-32297a932f5e",
+      "score": 0.78749067,
+      "title": "Koreans Becoming Younger \u2013 Unification of Age-Counting Systems | In Custodia Legis",
+      "url": "https://blogs.loc.gov/law/2023/01/koreans-becoming-younger-unification-of-age-counting-systems/",
+      "citation_index": 8
+    },
+    {
+      "id": "fd7f095c-b504-4ca9-994c-a433cd7b133f",
+      "score": 0.7746691,
+      "title": "East Asian age reckoning - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/East_Asian_age_reckoning",
+      "citation_index": 9
+    },
+    {
+      "id": "14f86656-932c-48fa-921c-20261b9dabda",
+      "score": 0.818055,
+      "title": "South Koreans become a year or two younger as traditional way of counting age scrapped | Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreans-become-year-or-two-younger-traditional-way-counting-age-scrapped-2023-06-28/",
+      "citation_index": 10
+    },
+    {
+      "id": "e513d7a1-f148-4116-ab03-875289e9e332",
+      "score": 0.8536326,
+      "title": "Why are South Koreans becoming one year younger today? - ABC News",
+      "url": "https://www.abc.net.au/news/2023-06-28/south-koreas-become-one-year-younger/102536790",
+      "citation_index": 11
+    },
+    {
+      "id": "ea850a21-d190-4cc6-8e82-f898b251bb97",
+      "score": 0.767429,
+      "title": "What exactly is Korean age and why move towards a unified age system?",
+      "url": "https://www.youtube.com/watch?v=Xn-5ifmHYFw",
+      "citation_index": 12
+    },
+    {
+      "id": "f0cc748f-8ff8-40a8-bca3-c2b3977ae23a",
+      "score": 0.86024034,
+      "title": "South Koreans become younger under new age-counting law",
+      "url": "https://www.bbc.com/news/world-asia-66028606",
+      "citation_index": 13
+    },
+    {
+      "id": "1d37c707-b1dc-4845-8acc-e17ba01848be",
+      "score": 0.7913865,
+      "title": "S. Koreans react to new age system, gov't says it will be beneficial in long run",
+      "url": "https://www.youtube.com/watch?v=u0IWg0-LhB0",
+      "citation_index": 14
+    },
+    {
+      "id": "1f7156de-02d4-45d1-b92b-aba0c45022ad",
+      "score": 0.81979275,
+      "title": "Age counting system only used in Korea?! | 5-minute Korea",
+      "url": "https://www.youtube.com/watch?v=fBmwzZsjMWA",
+      "citation_index": 15
+    },
+    {
+      "id": "7ad637b5-bc0a-4171-b382-4e3165296c5d",
+      "score": 0.826278,
+      "title": "Why South Korea is Changing How You Count Your Age",
+      "url": "https://www.youtube.com/watch?v=9HAP945VV3g",
+      "citation_index": 16
+    },
+    {
+      "id": "0cd8926c-721f-4d57-8ef4-db8a11dd1718",
+      "score": 0.71948266,
+      "title": "A National Law on Standardizing International Age",
+      "url": "https://global.seoul.go.kr/web/news/senw/bordContDetail.do?mode=W&brd_no=5&post_no=FFC8FBFA445D0162E053C0A8A023740D&lang=EN",
+      "citation_index": 17
+    },
+    {
+      "id": "931dd9a0-0257-4186-9dce-51f1e496e7b2",
+      "score": 0.8047902,
+      "title": "South Korea Changes Age-Counting Method - The New York Times",
+      "url": "https://www.nytimes.com/2023/06/28/world/asia/south-korea-age.html",
+      "citation_index": 18
+    },
+    {
+      "id": "309ba3df-af0a-4abd-9829-452113adcf28",
+      "score": 0.6501347,
+      "title": "South Korea: Age system to be standardised from 2023",
+      "url": "https://www.bbc.com/news/world-asia-63903771",
+      "citation_index": 19
+    },
+    {
+      "id": "6c8677c3-fd6c-4dcc-a520-f1e7e28dfcbe",
+      "score": 0.7295395,
+      "title": "S Koreans get younger after age counting method changed",
+      "url": "https://www.youtube.com/watch?v=AZMNGIQ9mBs",
+      "citation_index": 20
+    },
+    {
+      "id": "28736dfc-3592-4c35-a195-9ee31556ece8",
+      "score": 0.85186684,
+      "title": "Gravitas: South Korea introduces new age-counting system | Will people age backwards?",
+      "url": "https://www.youtube.com/watch?v=URBafoxFw1o"
+    },
+    {
+      "id": "3f7b2c64-5243-48f6-a9a0-f3c7099cfcf8",
+      "score": 0.8025714,
+      "title": "Turning back time: People in South Korea are about to ...",
+      "url": "https://www.sbs.com.au/news/article/turning-back-time-people-in-south-korea-are-about-to-become-a-year-younger-heres-why/r5r1f5b5y"
+    },
+    {
+      "id": "90f47a99-4bfe-422e-8807-8bdd7c306121",
+      "score": 0.8020137,
+      "title": "Did You Know\u2026 In South Korea Age Is Counted Differently",
+      "url": "https://medium.com/did-you-know-short-fun-facts/did-you-know-in-south-korea-age-is-counted-differently-71adf471319d"
+    },
+    {
+      "id": "c12dcd2f-ede4-4f92-a78f-a369e1cbd447",
+      "score": 0.80089486,
+      "title": "S/Korea Aligns With International Age Counting Method",
+      "url": "https://www.youtube.com/watch?v=QZWMa5xJ-CQ"
+    },
+    {
+      "id": "271ecd3e-c35f-4002-b983-6599ac85b5f5",
+      "score": 0.7876867,
+      "title": "At least a year younger on paper: South Korea makes changes to age-counting law",
+      "url": "https://www.usatoday.com/story/news/world/2023/06/28/south-korea-changes-age-counting-law/70363453007/"
+    },
+    {
+      "id": "a8861c25-896b-45f6-ab67-4045cd834f96",
+      "score": 0.7869018,
+      "title": "South Koreans become a year or two younger as country changes system for counting ages | South Korea | The Guardian",
+      "url": "https://www.theguardian.com/world/2023/jun/28/south-koreans-become-a-year-or-two-younger-as-country-changes-system-for-counting-ages"
+    },
+    {
+      "id": "dddb1acc-7944-46b5-8412-0d86558ec139",
+      "score": 0.78393924,
+      "title": "South Korea Adopts International Age Counting Method",
+      "url": "https://eslfrog.com/korean-international-age/"
+    },
+    {
+      "id": "cc0f3a2f-5bf9-4513-87a5-30d27c5b4292",
+      "score": 0.76951396,
+      "title": "What's your Korean Age? | All THREE age systems in Korea explained",
+      "url": "https://www.youtube.com/watch?v=rW0Gyb8Cfb4"
+    },
+    {
+      "id": "f1b4f413-ddf1-4287-a33e-80d8d94f880e",
+      "score": 0.76847315,
+      "title": "Why South Koreans are becoming a year or two younger today | The World",
+      "url": "https://www.youtube.com/watch?v=aUWsf6QBz8A"
+    },
+    {
+      "id": "117c113c-fa9b-4822-abef-8dc9b1ba7589",
+      "score": 0.7668008,
+      "title": "Korean aging system explained: why we are turning a year or two younger soon",
+      "url": "https://www.youtube.com/watch?v=ERzEwjDs-Bo"
+    },
+    {
+      "id": "ac30c707-38df-4324-a09d-4bf6a7397aa3",
+      "score": 0.76300776,
+      "title": "Millions become a year or two younger as South Korea scraps traditional way of counting age",
+      "url": "https://www.nbcnews.com/news/world/south-korea-year-younger-traditional-way-counting-age-scrapped-rcna91609"
+    },
+    {
+      "id": "1631c8be-29d3-4285-8fe3-89a50c6330e0",
+      "score": 0.7578844,
+      "title": "South Koreans instantly get younger after age counting change",
+      "url": "https://www.youtube.com/watch?v=ggsTvzrmo38"
+    },
+    {
+      "id": "ee3c2721-c9bb-4ca4-9b1a-fb898e075b10",
+      "score": 0.7576693,
+      "title": "South Korea adopts international practice for calculating ...",
+      "url": "https://www.cbsnews.com/news/south-korea-adopts-international-practice-for-calculating-age-reducing-citizens-ages/"
+    },
+    {
+      "id": "a70daace-1add-4282-8b32-33230388c3b9",
+      "score": 0.75659186,
+      "title": "Why Koreans could soon become a year younger - BBC News",
+      "url": "https://www.bbc.com/news/world-asia-61117434.amp"
+    },
+    {
+      "id": "b950feec-5115-4a31-97fc-cd495e44673d",
+      "score": 0.7429634,
+      "title": "South Korea enacts law that will make the entire population ...",
+      "url": "https://english.elpais.com/international/2022-12-15/south-korean-enacts-law-that-will-make-the-entire-population-younger-in-2023.html"
+    },
+    {
+      "id": "cff0bb01-5922-429d-886b-afee34f8bbba",
+      "score": 0.72019166,
+      "title": "Does South Korea use a different calendar for calculating people's ages? Is it called 'Korean Age' instead of the commonly used 'International Date Line'? - Quora",
+      "url": "https://www.quora.com/Does-South-Korea-use-a-different-calendar-for-calculating-peoples-ages-Is-it-called-Korean-Age-instead-of-the-commonly-used-International-Date-Line"
+    },
+    {
+      "id": "e752469e-5779-49a4-892a-0884a8d68a8a",
+      "score": 0.7031221,
+      "title": "S. Korea to adopt universal age-counting system in administrative and legal sectors...",
+      "url": "https://www.youtube.com/watch?v=1JEvGPhYnGw"
+    },
+    {
+      "id": "f0538d6c-c056-4dab-be3a-13ca7b5b8aa5",
+      "score": 0.69820654,
+      "title": "South Koreans wake up a year or two younger as new law ...",
+      "url": "https://www.axios.com/2023/06/28/south-korea-new-age-law"
+    },
+    {
+      "id": "0b970a4b-3e21-4900-a960-15e5b53b684f",
+      "score": 0.6947383,
+      "title": "Why are South Koreans suddenly younger? New age system explained | News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2023/6/28/why-are-south-koreans-one-year-younger-today"
+    },
+    {
+      "id": "b8889de7-3620-4031-ad4b-6df260c88e21",
+      "score": 0.6867278,
+      "title": "Koreans to get 1-2 years younger under revised age system : Korea.net : The official website of the Republic of Korea",
+      "url": "https://www.korea.net/NewsFocus/policies/view?articleId=234677"
+    },
+    {
+      "id": "c8a7081d-a359-4add-9265-413a9f504eba",
+      "score": 0.6826801,
+      "title": "Punished For Getting Older: South Korea\u2019s Age-based Policies and Older Workers\u2019 Rights | HRW",
+      "url": "https://www.hrw.org/report/2025/07/08/punished-for-getting-older/south-koreas-age-based-policies-and-older-workers"
+    },
+    {
+      "id": "5080e15f-2ad5-4a13-882f-80a6a7737e76",
+      "score": 0.6826801,
+      "title": "Korean Age Calculator",
+      "url": "https://www.omnicalculator.com/everyday-life/korean-age"
+    },
+    {
+      "id": "e070b88b-9e6a-4e67-9ecf-37668cc87019",
+      "score": 0.6824261,
+      "title": "South Korea changes its age law and Koreans get younger : NPR",
+      "url": "https://www.npr.org/2022/12/08/1141524578/south-korea-age-counting-koreans-younger"
+    },
+    {
+      "id": "ed4c0e07-461f-4f6a-a2a4-323f80e99c79",
+      "score": 0.6641271,
+      "title": "South Koreans are about to get a year or two younger ...",
+      "url": "https://www.cnn.com/2022/12/09/asia/south-korea-international-age-law-intl-hnk"
+    },
+    {
+      "id": "75f4ea57-0943-4d80-b5d8-0d4c34b1d772",
+      "score": 0.63316137,
+      "title": "Korean Age Explained",
+      "url": "https://www.youtube.com/watch?v=8ArG-dX-rn0"
+    },
+    {
+      "id": "8dee6c5f-b4f8-42f0-9251-f36fe1df193e",
+      "score": 0.61196244,
+      "title": "South Koreans change their age after leaving birthday system behind",
+      "url": "https://www.youtube.com/watch?v=Od9zpD5Yus0"
+    },
+    {
+      "id": "7bc83608-27a9-4032-a01f-1c0556a7c281",
+      "score": 0.61057013,
+      "title": "r/kpopthoughts on Reddit: Today is the start of international age system in Korea! No more confusion I guess?",
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/14km3sj/today_is_the_start_of_international_age_system_in/"
+    },
+    {
+      "id": "207cba82-7c02-4ed6-8624-dbc179cddff7",
+      "score": 0.58976424,
+      "title": "Korean Age: How to Calculate and Talk About It - LingoDeer",
+      "url": "https://blog.lingodeer.com/korean-age-system/"
+    },
+    {
+      "id": "d3172542-d24c-47cc-8c60-932bcafcc9b6",
+      "score": 0.5194,
+      "title": "Law Change Makes Everyone a Year or Two Younger in South Korea | TIME",
+      "url": "https://time.com/6290505/south-korea-age-law-change/"
+    },
+    {
+      "id": "6a531c4c-3995-433f-9457-63012564fec9",
+      "score": 0.5005133,
+      "title": "Koreans | Age of Empires Series Wiki | Fandom",
+      "url": "https://ageofempires.fandom.com/wiki/Koreans"
+    },
+    {
+      "id": "bde3e283-c0df-41e1-91fe-be8d68ee8a52",
+      "score": 0.48030865,
+      "title": "Korean Age - Calculator and Explanation of the System",
+      "url": "https://www.90daykorean.com/korean-age-all-about-age-in-korea/"
+    },
+    {
+      "id": "b4f25671-e0f1-4db1-9344-b566534a8ef5",
+      "score": 0.46570396,
+      "title": "The South Korean Age System - Superprof",
+      "url": "https://www.superprof.com/blog/sys-age-korea/"
+    },
+    {
+      "id": "2f08928d-0eb7-4ea0-99f9-79a8742c3576",
+      "score": 0.42663267,
+      "title": "The Complexity of the South Korean Age System - International Relations Council",
+      "url": "https://www.irckc.org/the-complexity-of-the-south-korean-age-system/"
+    },
+    {
+      "id": "d43e6a9d-d3f0-4a9f-aca2-9eadba1edc16",
+      "score": 0.41520765,
+      "title": "South Koreans Just Got Younger, Thanks to a New Law",
+      "url": "https://www.smithsonianmag.com/smart-news/south-korea-international-age-180982458/"
+    },
+    {
+      "id": "638072ad-c3ea-4cd8-8b30-d0a735a4ced5",
+      "score": 0.3438268,
+      "title": "Korean Age Calculator: What's My Korean Age?",
+      "url": "https://www.koreanclass101.com/korean-age/"
+    },
+    {
+      "id": "809f4cea-8920-4ca8-8d99-43130147c57f",
+      "score": 0.09461931,
+      "title": "Korean language - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Korean_language"
+    },
+    {
+      "id": "a57ac827-1963-400b-8c5b-b44e56f5b802",
+      "score": 0.019948887,
+      "title": "Coinbase S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm"
+    }
+  ]
+}

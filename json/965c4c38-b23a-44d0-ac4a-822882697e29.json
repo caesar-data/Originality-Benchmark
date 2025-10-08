@@ -1,0 +1,247 @@
+{
+  "id": "965c4c38-b23a-44d0-ac4a-822882697e29",
+  "status": "completed",
+  "content": "FALSE.\n\nBased on the provided research, the statement that filmmaker Werner Herzog cycled 200 miles from Berlin to Warsaw to attend a film festival is false. The query appears to conflate the details of Herzog's well-documented long-distance journey, which was a walk from Munich to Paris undertaken for a different purpose.\n\n## Analysis of the Claim vs. Documented Events\n\nThe provided sources contain no evidence of Werner Herzog undertaking a cycling trip between Berlin and Warsaw[1][2]. Instead, they extensively document a different journey, which is widely recognized as a significant event in his life and is detailed in his published diary, *Of Walking in Ice*[3][4][5].\n\n### The Actual Journey: A Walk from Munich to Paris\n\n*   **Method of Travel:** Werner Herzog traveled on foot, a practice he considers a profound way of experiencing the world[6][7]. He explicitly states that for important matters, he would walk[8]. The journey is consistently referred to as a \"walk\" or \"pilgrimage on foot\"[4][9]. There is no mention of him cycling[6][10].\n*   **Route and Distance:** The journey was from Munich, Germany, to Paris, France, a distance of approximately 600 miles[3][4][11]. This route is confirmed by the subtitle of his diary: *Munich-Paris, 23 November\u201314 December 1974*[5][12].\n*   **Date and Duration:** Herzog undertook this walk in the winter, from November 23 to December 14, 1974, a period of three weeks[3][10][4].\n*   **Purpose:** The motivation for the journey was not to attend a film festival. In late November 1974, Herzog received a call informing him that his close friend, mentor, and esteemed German film historian Lotte H. Eisner was gravely ill and dying in Paris[13][9]. Herzog undertook the walk as an act of faith, believing that if he traveled on foot, she would not die[3][14]. He stated, \"I said that this must not be... we would not permit her death\"[13]. Eisner ultimately lived for another nine years after his journey was completed[3][15].\n\n### Lack of Evidence for Berlin to Warsaw Claim\n\n*   **No Connection to Herzog:** One source identifies a 567.44 km (approximately 352 miles) cycling route between Warsaw and Berlin, but it makes no mention of Werner Herzog[1].\n*   **No Mention of Film Festival:** None of the provided materials link any of Herzog's long-distance travels to his attendance at a film festival[4][16].\n\nIn summary, every verifiable detail in the user's query\u2014the method (cycling), the route (Berlin to Warsaw), and the purpose (film festival)\u2014is contradicted by the extensive documentation of Werner Herzog's actual and celebrated long-distance journey.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "761263c6-e3b4-499c-8a46-893b16d13319",
+      "score": 0.74161834,
+      "title": "Warsaw-Berlin road - Cycling Route - \ud83d\udeb2 Bikemap",
+      "url": "https://www.bikemap.net/en/r/2555484/",
+      "citation_index": 1
+    },
+    {
+      "id": "49c421fa-8bd8-4198-897b-0f6f5d6f0656",
+      "score": 0.04652104,
+      "title": "Werner Herzog | visitBerlin.de",
+      "url": "https://www.visitberlin.de/en/event/werner-herzog",
+      "citation_index": 2
+    },
+    {
+      "id": "73869753-3dbc-4c36-bb1e-c1a2d44b2d44",
+      "score": 0.26817292,
+      "title": "Of Walking in Ice - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Of_Walking_in_Ice",
+      "citation_index": 3
+    },
+    {
+      "id": "f0183c31-2ff3-4eab-906d-0acfc56a6893",
+      "score": 0.76617163,
+      "title": "When Werner Herzog Walked From Munich to Paris in the Dead of Winter",
+      "url": "https://slate.com/culture/2015/05/werner-herzogs-memoir-of-walking-in-ice-reviewed.html",
+      "citation_index": 4
+    },
+    {
+      "id": "4385536c-a0e7-4635-af08-eaeaeba0995c",
+      "score": 0.82391036,
+      "title": "Of Walking in Ice",
+      "url": "https://www.upress.umn.edu/9780816697328/of-walking-in-ice/",
+      "citation_index": 5
+    },
+    {
+      "id": "c5c3fe1a-b122-4264-aa73-d56d433ad869",
+      "score": 0.21750407,
+      "title": "Traveling on Foot: Werner Herzog - Ploughshares",
+      "url": "https://pshares.org/blog/traveling-on-foot-werner-herzog/",
+      "citation_index": 6
+    },
+    {
+      "id": "6bb55cf2-6401-4d1a-a263-01950c987222",
+      "score": 0.023637626,
+      "title": "Werner Herzog: \u2018The world reveals itself to those who travel on foot\u2019 | National Geographic",
+      "url": "https://www.nationalgeographic.com/travel/article/werner-herzog-interview-on-bruce-chatwin-film-nomad",
+      "citation_index": 7
+    },
+    {
+      "id": "bc3e5e93-5c3b-4fe9-b262-80a5d2e4af48",
+      "score": 0.44044575,
+      "title": "The Trail of Werner Herzog: An Interview",
+      "url": "https://offscreen.com/view/herzog",
+      "citation_index": 8
+    },
+    {
+      "id": "900b72d7-1520-4c31-8f88-eca00110e890",
+      "score": 0.73778254,
+      "title": "Walking with Werner Herzog - The Criterion Collection",
+      "url": "https://www.criterion.com/current/posts/3890-walking-with-werner-herzog?srsltid=AfmBOoonhCAFzu9ICJdWelDwXkd-2cQhODGgF1RBSmxD4WkmbonWfiFe",
+      "citation_index": 9
+    },
+    {
+      "id": "53b85427-bc5c-4cde-ad6c-8be242d49556",
+      "score": 0.73207545,
+      "title": "Walking with Werner Herzog | Current | The Criterion Collection",
+      "url": "https://www.criterion.com/current/posts/3890-walking-with-werner-herzog",
+      "citation_index": 9
+    },
+    {
+      "id": "3e8e1ae4-8a39-498d-ae41-3ecd71bdf6c8",
+      "score": 0.18303838,
+      "title": "Walking from Munich to Paris | Medium",
+      "url": "https://medium.com/@erdalcrane/of-walking-in-ice-walking-from-munich-to-paris-to-save-a-life-not-a-film-but-reality-f4310f5fbdd9",
+      "citation_index": 10
+    },
+    {
+      "id": "eca29115-0f03-4288-8886-3c7dd8de05bb",
+      "score": 0.8029425,
+      "title": "OF WALKING IN ICE, Werner Herzog",
+      "url": "https://warrenellis.ltd/books/of-walking-in-ice-werner-herzog/",
+      "citation_index": 11
+    },
+    {
+      "id": "0353a967-92c7-42c4-b21a-dddf70ae8ba5",
+      "score": 0.6033015,
+      "title": "Of Walking In Ice - Werner Herzog",
+      "url": "https://www.penguin.co.uk/books/422827/of-walking-in-ice-by-werner-herzog/9781784870379",
+      "citation_index": 12
+    },
+    {
+      "id": "1b4148c4-aaae-43f2-a7a5-42fe9fc5ab7a",
+      "score": 0.74652773,
+      "title": "Werner Herzog Walks to Paris - Longreads",
+      "url": "https://longreads.com/2015/06/04/werner-herzog-walks-to-paris-2/",
+      "citation_index": 13
+    },
+    {
+      "id": "d76c4757-0839-4a05-a029-cede03dd56f4",
+      "score": 0.6506676,
+      "title": "Werner Herzog: \u201cThe World Reveals Itself to Those Who Walk.\" | Los Angeles Review of Books",
+      "url": "https://lareviewofbooks.org/av/werner-herzog-world-reveals-walk/",
+      "citation_index": 14
+    },
+    {
+      "id": "b5a69856-f4d6-4234-8d17-3400f839a84c",
+      "score": 0.14614846,
+      "title": "Of Walking in Ice \u2013 Werner Herzog | Full Stop",
+      "url": "https://www.full-stop.net/2015/04/30/reviews/heather-duncan/of-walking-in-ice-werner-herzog/",
+      "citation_index": 15
+    },
+    {
+      "id": "d99ec758-b2cc-4401-8629-e2fc2198b966",
+      "score": 0.15746078,
+      "title": "\u201cThe world reveals itself to those who walk\u201d: Werner Herzog\u2019s Of Walking In Ice",
+      "url": "https://workingtitlebookshop.wordpress.com/2021/10/11/the-world-reveals-itself-to-those-who-walk-werner-herzogs-of-walking-in-ice/",
+      "citation_index": 16
+    },
+    {
+      "id": "9aed40c8-db92-4fb5-bf24-bbaddcf9a3cb",
+      "score": 0.7872945,
+      "title": "Werner Herzog \u2013 The Urban Wanderer - WordPress.com",
+      "url": "https://uncannycities.wordpress.com/tag/werner-herzog/"
+    },
+    {
+      "id": "a3e19fa9-3f30-492e-a3d0-d934b022d65f",
+      "score": 0.77137923,
+      "title": "Of Walking in Ice Quotes by Werner Herzog",
+      "url": "https://www.goodreads.com/work/quotes/2173880-vom-gehen-im-eis"
+    },
+    {
+      "id": "65cfd199-a085-4d40-a25b-d3a339e23960",
+      "score": 0.7680558,
+      "title": "Of Walking in Ice: Munich\u2013Paris, 23 November\u201314 December 1974 0816697329, 9780816697328 - DOKUMEN.PUB",
+      "url": "https://dokumen.pub/of-walking-in-ice-munichparis-23-november14-december-1974-0816697329-9780816697328.html"
+    },
+    {
+      "id": "d03cc793-1fcd-4c3f-8ff0-a88cdb8dd6cd",
+      "score": 0.71687365,
+      "title": "Werner Herzog: Waying Mythologies \u2013 Border Crossings Magazine",
+      "url": "https://bordercrossingsmag.com/article/werner-herzog-waying-mythologies"
+    },
+    {
+      "id": "0b55af31-37bf-4e8f-932b-5796f4e8464f",
+      "score": 0.70287734,
+      "title": "TIL in the Winter of 1974 Werner Herzog, on hearing ...",
+      "url": "https://www.reddit.com/r/todayilearned/comments/7ymj9c/til_in_the_winter_of_1974_werner_herzog_on/"
+    },
+    {
+      "id": "41f6a708-4f52-4422-8a57-6af581ad5fa9",
+      "score": 0.6937432,
+      "title": "'Walking the Line' of The West Highland Way - Richard Skinner",
+      "url": "https://richardskinner.weebly.com/blogposts/walking-the-line-of-the-west-highland-way"
+    },
+    {
+      "id": "f478d76a-db2f-45de-b084-4b5a36078fa6",
+      "score": 0.6729558,
+      "title": "Of Walking in Ice by Herzog - AbeBooks",
+      "url": "https://www.abebooks.co.uk/book-search/title/of-walking-in-ice/author/herzog/"
+    },
+    {
+      "id": "78670e05-b0d1-4859-9839-b5ca2792c764",
+      "score": 0.6698534,
+      "title": "Werner Herzog on traveling, raising children and hospitality - The Spectator World",
+      "url": "https://thespectator.com/book-and-art/werner-herzog-traveling-raising-children-hospitality/"
+    },
+    {
+      "id": "843a3da7-e849-4649-aca0-14be5cef0d72",
+      "score": 0.6599319,
+      "title": "To Walk like Werner Herzog in the Internet Age",
+      "url": "https://www.youtube.com/watch?v=szB0PoCW6Xg"
+    },
+    {
+      "id": "fa656e6f-dca3-4ccf-8269-84cd93d5612e",
+      "score": 0.6337056,
+      "title": "Of Walking in Ice by Werner Herzog",
+      "url": "https://www.youtube.com/watch?v=gK9PY53HQ78"
+    },
+    {
+      "id": "a330ba22-1ea2-4986-be9d-9beb4e93b719",
+      "score": 0.6175132,
+      "title": "Of Walking in Ice: Munich - Paris 23 November - 14 December 1974: Herzog, Werner: 9780979612107: Amazon.com: Books",
+      "url": "https://www.amazon.com/Werner-Herzog-Walking-November-December/dp/0979612101"
+    },
+    {
+      "id": "bbe4daf9-2641-4762-b4d0-8d52faa67cc8",
+      "score": 0.56258565,
+      "title": "Of Walking in Ice - Werner Herzog \u2013 50 Watts Books",
+      "url": "https://50wattsbooks.com/products/of-walking-in-ice"
+    },
+    {
+      "id": "ddd980fe-4f89-49f1-944e-d6d7e5e21e3f",
+      "score": 0.5425973,
+      "title": "German Film-Maker Werner Herzog on how to know the world | Perceiving Ideas",
+      "url": "https://www.youtube.com/watch?v=0QS9_jkW9fs"
+    },
+    {
+      "id": "79736ecf-84a2-49fd-8d49-1a3ce03b1b64",
+      "score": 0.47592255,
+      "title": "Dear Werner | Trailer | English Subtitles",
+      "url": "https://www.youtube.com/watch?v=h8j74_MbX-Q"
+    },
+    {
+      "id": "e5afa78b-e9d6-440c-be6b-af0e13d18775",
+      "score": 0.200605,
+      "title": "UKC Articles - Mountain Literature Classics: Of Walking in Ice by Werner Herzog",
+      "url": "https://www.ukclimbing.com/articles/literature/mountain_literature_classics_of_walking_in_ice_by_werner_herzog-15609"
+    },
+    {
+      "id": "48929406-1dde-482e-912a-8efe96267c36",
+      "score": 0.16091137,
+      "title": "Werner Herzog - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Werner_Herzog"
+    },
+    {
+      "id": "c04f06a5-fa62-4d7f-b880-d0bffd30518a",
+      "score": 0.12807758,
+      "title": "Werner Herzog\u2019s short talk about a long walk from Munich to Paris | The Book Haven",
+      "url": "https://bookhaven.stanford.edu/2019/05/werner-herzogs-short-talk-about-a-long-walk-from-munich-to-paris/"
+    },
+    {
+      "id": "c1213e34-d968-4d8a-9477-070c70e997bf",
+      "score": 0.11591089,
+      "title": "Werner Herzog's walking blues - Los Angeles Times",
+      "url": "https://www.latimes.com/books/jacketcopy/la-et-jc-werner-herzog-walking-blues-20150506-story.html"
+    },
+    {
+      "id": "28b42af9-0256-49cb-ba3f-1902398ab7b5",
+      "score": 0.08633136,
+      "title": "r/books on Reddit: Of Walking in Ice: Munich to Paris by Werner Herzog.",
+      "url": "https://www.reddit.com/r/books/comments/jl33f1/of_walking_in_ice_munich_to_paris_by_werner_herzog/"
+    },
+    {
+      "id": "2396601a-47d7-41a1-9323-34cf00c26e6c",
+      "score": 0.07185793,
+      "title": "Why I love walking, but can't",
+      "url": "https://www.youtube.com/watch?v=Nacbj46-4KI"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "id": "40943bbb-a145-4c57-8722-0e2178635276",
+  "status": "completed",
+  "content": "TRUE. Nevada authorizes and actively uses controlled burns, officially known as prescribed fires, as a key strategy to manage vegetation, reduce hazardous fuels, and prevent catastrophic wildfires. This practice is codified in state law, implemented by state and federal agencies, and supported by a framework of regulations, inter-agency partnerships, and public education programs.\n\n## State-Level Authorization and Programs\n\nThe use of prescribed fire in Nevada is formally governed by state law, specifically Nevada Revised Statutes (NRS) 527.122-128[1]. The Nevada Division of Forestry (NDF) explicitly lists prescribed fire as a land management tool under its Forest Stewardship Program[2]. The goal of these burns is to reduce flammable fuels, which in turn can lower the threat of catastrophic wildfires in the treated areas[1].\n\nTo ensure safety and effectiveness, any prescribed fire implemented by the state must adhere to strict requirements[1]:\n*   **Written Plan**: The burn must follow a detailed, written plan prepared by a qualified person[1].\n*   **Technical Review**: The plan must undergo a technical review by a qualified burn boss from outside the NDF[1].\n*   **Official Approval**: All plans require authorization from the State Fire Management Officer and the State Forester/Firewarden before implementation[1].\n*   **On-Site Supervision**: A qualified burn boss must be on-site to directly supervise the entire duration of the fire[1].\n\nNevada has also established a supportive legal environment for this practice. It was the first western state to pass a law limiting the liability of prescribed burn managers to a \"gross negligence\" standard for escaped fires, a measure that protects certified practitioners who take proper precautions[3][4].\n\n## Implementation and Inter-Agency Collaboration\n\nPrescribed burning in Nevada is executed through the coordinated efforts of state, federal, and local partners.\n*   **Nevada Division of Forestry (NDF)**: NDF is an active participant in prescribed fire operations. It works with the Tahoe Fire & Fuels Team (TFFT) on fuel reduction projects, including pile burning, around Lake Tahoe[5][6][7]. The NDF also coordinates the Fire Adapted Nevada program to promote wildfire resilience statewide[8].\n*   **Bureau of Land Management (BLM)**: The BLM, which manages vast tracts of land in Nevada, routinely conducts prescribed burns to reduce hazardous fuels. Projects have been planned and executed across the state, including a 209-acre pile burn in Douglas County, a four-acre research burn in Washoe County, and thousands of acres of piled juniper burns near Vya in northwest Nevada[10][11][12]. These burns are part of a broader strategy to create up to 11,000 miles of fuel breaks in the Great Basin to improve firefighter safety and control the spread of wildfires[13][14]. Over the last decade, prescribed fire methods accounted for approximately 25% of the 600,000 to 900,000 acres the BLM treats annually[15].\n*   **U.S. Forest Service**: Federal partners like the Humboldt-Toiyabe National Forest use prescribed fire to reduce fuel loading and promote forest health, treating an average of 3,000 acres per year, with a range of 2,000 to 8,000 acres in recent years[16].\n\n## Regulatory and Management Framework\n\nA comprehensive regulatory and public information system supports the use of prescribed fire in Nevada.\n*   **Smoke Management**: The Nevada Division of Environmental Protection (NDEP) runs the Nevada Smoke Management Program to coordinate open burning and ensure compliance with air quality standards under NRS 445B.100-845[17]. Burn managers must obtain permits from state or local air quality districts to mitigate smoke impacts and meet Clean Air Act requirements[16].\n*   **Public Information**: The state utilizes the NV-RxFire information repository to provide public updates on active prescribed burns[18].\n*   **Education and Training**: Organizations like the Nevada County Resource Conservation District offer educational programs and hands-on workshops for private landowners on the basics of prescribed burning, including how to develop a burn plan, manage smoke, and obtain permits[19]. This is complemented by state-level initiatives like the Fire Adapted Nevada program, which aims to create ignition-resistant communities through collaboration between agencies and residents[20].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "fe197d83-a7fc-4ceb-9c2f-d8ac33467230",
+      "score": 0.8497846,
+      "title": "Prescribed Fire - Division of Forestry - State of Nevada",
+      "url": "http://forestry.nv.gov/natural-resource-management/controlled-burns-prescribed-fire",
+      "citation_index": 1
+    },
+    {
+      "id": "69c3aba5-4988-44e3-a76a-bb6affdd20ab",
+      "score": 0.8325776,
+      "title": "Forest Stewardship Program",
+      "url": "https://forestry.nv.gov/natural-resource-management/forest-stewardship-program",
+      "citation_index": 2
+    },
+    {
+      "id": "71bd2471-a521-424a-b3b4-61d2037b6f06",
+      "score": 0.73642004,
+      "title": "Overcoming obstacles to prescribed fire in the North American ...",
+      "url": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2687",
+      "citation_index": 3
+    },
+    {
+      "id": "4b58e837-06e2-42cc-971e-d16695f04ae3",
+      "score": 0.62934244,
+      "title": "S.4424 - National Prescribed Fire Act of 2024 118th ...",
+      "url": "https://www.congress.gov/bill/118th-congress/senate-bill/4424/text",
+      "citation_index": 4
+    },
+    {
+      "id": "f1f5d2d5-3df5-49be-9a9e-c35b8b7ef620",
+      "score": 0.86928266,
+      "title": "Lake Tahoe Prescribed Fires Continue This Week ...",
+      "url": "https://nltfpd.org/news/lake-tahoe-prescribed-fires-continue-this-weekconditions-and-weather-permitting",
+      "citation_index": 5
+    },
+    {
+      "id": "aa2a1609-9a60-4517-9bff-e8a69bae748b",
+      "score": 0.5003668,
+      "title": "Prescribed Fires Continue at Lake Tahoe",
+      "url": "https://www.tahoelivingwithfire.com/prescribed-fire/prescribed-fires-continue-at-lake-tahoe-2/",
+      "citation_index": 6
+    },
+    {
+      "id": "254447be-ef70-4475-9e0e-1a5bfc62ae83",
+      "score": 0.5003668,
+      "title": "Prescribed Fire Operations Continue at Lake Tahoe",
+      "url": "http://www.fs.usda.gov/r05/laketahoebasin/newsroom/releases/prescribed-fire-operations-continue-lake-tahoe-14",
+      "citation_index": 7
+    },
+    {
+      "id": "9c4dd823-1438-4812-9d33-e5d3c5c82a43",
+      "score": 0.61112726,
+      "title": "Nevada Network of Fire Adapted Communities Summit - Welcome & Fire Adapted Nevada",
+      "url": "https://www.youtube.com/watch?v=QXRW8gF7BQA",
+      "citation_index": 8
+    },
+    {
+      "id": "beebd8f5-1367-438b-aaed-987a4198a2f3",
+      "score": 0.76321954,
+      "title": "BLM plans prescribed burn in Douglas County",
+      "url": "https://www.blm.gov/announcement/blm-plans-prescribed-burn-douglas-county",
+      "citation_index": 10
+    },
+    {
+      "id": "1970f4df-008f-422b-8bf6-757519919d02",
+      "score": 0.8865877,
+      "title": "BLM plans prescribed fire projects in in northeast California, northwest Nevada | Bureau of Land Management",
+      "url": "https://www.blm.gov/announcement/blm-plans-prescribed-fire-projects-northeast-california-northwest-nevada",
+      "citation_index": 11
+    },
+    {
+      "id": "3dd222cf-705a-4f11-a9ce-1e72921f30dc",
+      "score": 0.83452857,
+      "title": "Bureau of Land Management Plans Fall and Winter RX Burns - SierraDailyNews.com",
+      "url": "https://www.sierradailynews.com/local/bureau-of-land-management-plans-fall-and-winter-rx-burns/",
+      "citation_index": 12
+    },
+    {
+      "id": "3870a765-5191-4204-b98e-694ee1761a1e",
+      "score": 0.76826453,
+      "title": "Interior Improves Strategies to Combat Wildfires across 223 Million Acres in the Great Basin | U.S. Department of the Interior",
+      "url": "https://www.doi.gov/pressreleases/interior-improves-strategies-combat-wildfires-across-223-million-acres-great-basin",
+      "citation_index": 13
+    },
+    {
+      "id": "b46a1a05-74a0-406a-a6ad-4e0ad66e0b08",
+      "score": 0.79637206,
+      "title": "Interior Improves Strategies to Combat Wildfires across 223 million acres in the Great Basin | Bureau of Land Management",
+      "url": "https://www.blm.gov/press-release/interior-improves-strategies-combat-wildfires-across-223-million-acres-great-basin",
+      "citation_index": 14
+    },
+    {
+      "id": "1a3e38f8-23bb-438b-bd9f-229ebc6386ae",
+      "score": 0.29491046,
+      "title": "BLM Fuels Treatments | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/about-us/our-partners/blm/fuels/treatments",
+      "citation_index": 15
+    },
+    {
+      "id": "8e3d84e9-8d0f-4837-b5e4-20d681282070",
+      "score": 0.6659544,
+      "title": "Prescribed Fire in Tahoe and Nevada",
+      "url": "https://www.youtube.com/watch?v=qK99rw5rKWs",
+      "citation_index": 16
+    },
+    {
+      "id": "4cf828d9-cad3-4493-ad67-6473e51ca25c",
+      "score": 0.79254496,
+      "title": "Smoke Management | NDEP",
+      "url": "https://ndep.nv.gov/air/air-pollutants/smoke-management",
+      "citation_index": 17
+    },
+    {
+      "id": "1e91e440-cdb7-4362-b669-be42ac663b6e",
+      "score": 0.65597594,
+      "title": "NV-RxFire: Nevada Prescribed Fire Information Repository",
+      "url": "https://tmrpa.org/resources/nv-rxfire-nevada-prescribed-fire-information-repository-active-burns/",
+      "citation_index": 18
+    },
+    {
+      "id": "8ac6745d-df22-4aee-9951-824fd3de8fcc",
+      "score": 0.7038554,
+      "title": "Prescribed Fire Education Programs - Nevada ...",
+      "url": "https://www.ncrcd.org/prescribed-fire-education-programs",
+      "citation_index": 19
+    },
+    {
+      "id": "a2329dca-812c-4a9f-b1df-db86ad0a0740",
+      "score": 0.26874802,
+      "title": "Nevada Network of Fire Adapted Communities Summit - Afternoon Workshop",
+      "url": "https://www.youtube.com/watch?v=RbYhnf8rGJc",
+      "citation_index": 20
+    },
+    {
+      "id": "7f381c3b-a422-4095-9139-655f83879528",
+      "score": 0.8858788,
+      "title": "Nv",
+      "url": "https://forestry.nv.gov/our-mission"
+    },
+    {
+      "id": "bc631c37-b26c-44c7-9a1f-042815a30004",
+      "score": 0.8282873,
+      "title": "BLM plans prescribed burns in NE California and NW Nevada, to prevent wildfire risk | Bureau of Land Management",
+      "url": "https://www.blm.gov/press-release/blm-plans-prescribed-burns-ne-california-and-nw-nevada-prevent-wildfire-risk"
+    },
+    {
+      "id": "5bd9245a-410c-4e54-b031-748cbb665d13",
+      "score": 0.81630427,
+      "title": "South Yuba Rim Hazardous Fuels Reduction Project | Nevada County, CA",
+      "url": "https://nevadacountyca.gov/3806/South-Yuba-Rim-Hazardous-Fuels-Reduction"
+    },
+    {
+      "id": "9d1bac08-3a36-400e-944c-e71cbc6ad51a",
+      "score": 0.78631157,
+      "title": "Nevada communities invited to apply for fire mitigation funding | Bureau of Land Management",
+      "url": "https://www.blm.gov/announcement/fire-mitigation-grant"
+    },
+    {
+      "id": "f0a13ed3-46b3-4c83-936d-97a1cc97a4c6",
+      "score": 0.769098,
+      "title": "BLM plans prescribed burns in NE California, NW Nevada, ...",
+      "url": "https://www.lassennews.com/blm-plans-prescribed-burns-in-ne-california-nw-nevada-to-prevent-wildfire-risk-3"
+    },
+    {
+      "id": "ddf1a446-88ba-40b4-9cc2-6a7d4be95288",
+      "score": 0.73596483,
+      "title": "Smoke Management Program",
+      "url": "https://www.nnph.org/programs-and-services/air-quality/smoke-management-program.php"
+    },
+    {
+      "id": "decedaed-bb4f-4b4b-8b58-fafab11d679e",
+      "score": 0.7343678,
+      "title": "Nevada Division of Forestry Grant Funding Opportunities.",
+      "url": "https://forestry.nv.gov/grants"
+    },
+    {
+      "id": "7cbd77cc-136f-4063-ad87-84d761f33888",
+      "score": 0.6954834,
+      "title": "Interior\u2019s BLM analyzes 11,000 miles of Fuel Breaks in the Great Basin to Combat Wildfires | Bureau of Land Management",
+      "url": "https://www.blm.gov/press-release/blm-analyzes-11000-miles-fuel-breaks-great-basin-combat-wildfires"
+    },
+    {
+      "id": "0a69fb62-ffa8-4e30-aa7a-cc48d843a30b",
+      "score": 0.6811549,
+      "title": "Interior\u2019s BLM analyzes 11,000 miles of Fuel Breaks in the Great Basin to Combat Wildfires | U.S. Department of the Interior",
+      "url": "https://www.doi.gov/pressreleases/interiors-blm-analyzes-11000-miles-fuel-breaks-great-basin-combat-wildfires"
+    },
+    {
+      "id": "3f491af6-ae4c-4f7e-ae45-2ac4ce8059a3",
+      "score": 0.6803909,
+      "title": "Wildfire",
+      "url": "https://www.stateforesters.org/where-we-stand/wildfire/"
+    },
+    {
+      "id": "0e49bc12-9b8f-43ad-9e45-cde4e6eb8dd9",
+      "score": 0.67037153,
+      "title": "Fire Restrictions Begin June 13 on Nevada State Lands ...",
+      "url": "https://forestry.nv.gov/happening-now/news/fire-restrictions-begin-june-13-on-nevada-state-lands-and-state-parks-in-clark-and-lincoln-counties"
+    },
+    {
+      "id": "ae2b2a08-80a7-4dc9-bb65-5254b224c136",
+      "score": 0.6493346,
+      "title": "Ethanol anxiety, \u2018PB4WEGO,\u2019 hologram lecture: News from around our 50 states",
+      "url": "https://news.yahoo.com/ethanol-anxiety-pb4wego-hologram-lecture-053447082.html"
+    },
+    {
+      "id": "97b70eba-490a-4729-b6b9-36214c292339",
+      "score": 0.6437107,
+      "title": "Nevada Network of Fire Adapted Communities Summit - Morning Workshop",
+      "url": "https://www.youtube.com/watch?v=Up4JWO8tENw"
+    },
+    {
+      "id": "facb6306-a93e-4539-a780-eeb40f6b56af",
+      "score": 0.63804686,
+      "title": "Federal Register :: Notice of Availability of the Record of Decision for the Final Programmatic Environmental Impact Statement for Fuel Breaks in the Great Basin; California, Idaho, Oregon, Nevada, Utah, and Washington",
+      "url": "https://www.federalregister.gov/documents/2020/04/02/2020-06898/notice-of-availability-of-the-record-of-decision-for-the-final-programmatic-environmental-impact"
+    },
+    {
+      "id": "669347e4-1a73-4e66-8a7f-b8a8fb4c00b7",
+      "score": 0.6350646,
+      "title": "BLM releases final plan to construct and maintain up to 11,000 miles of fuel breaks in the Great Basin to combat wildfires | Bureau of Land Management",
+      "url": "https://www.blm.gov/press-release/blm-releases-final-plan-construct-and-maintain-11000-miles-fuel-breaks-great-basin"
+    },
+    {
+      "id": "8bf27c65-b2c5-4cbd-9e90-5d1921edd45f",
+      "score": 0.6257817,
+      "title": "Public meetings set for BLM fuel breaks and restoration environmental impact statements | Bureau of Land Management",
+      "url": "https://www.blm.gov/press-release/public-meetings-set-blm-fuel-breaks-and-restoration-environmental-impact-statements"
+    },
+    {
+      "id": "7938dc2a-4431-4911-b188-fc89dead8a1f",
+      "score": 0.6244086,
+      "title": "November 2023 Forest Futures Salon - Prescribed Fire: What, Why and How?",
+      "url": "https://www.youtube.com/watch?v=-wz4kvpfLjA"
+    },
+    {
+      "id": "8091b50a-e0a4-495f-b2f4-2d283281ae31",
+      "score": 0.6141863,
+      "title": "Fire Restrictions | State Parks",
+      "url": "https://parks.nv.gov/about/fire-restrictions"
+    },
+    {
+      "id": "24248502-6f70-42bb-b75d-e224227d4cbf",
+      "score": 0.61196244,
+      "title": "Fire Prevention and Forest Health in the Nevada portion of ...",
+      "url": "https://www.leg.state.nv.us/Division/Research/Documents/157-19.pdf"
+    },
+    {
+      "id": "1bdc78b1-5067-4096-8a51-346540b72911",
+      "score": 0.5826579,
+      "title": "BLM plans prescribed burns in NE California, NW Nevada, to prevent wildfire risk | Bureau of Land Management",
+      "url": "https://www.blm.gov/press-release/blm-plans-prescribed-burns-ne-california-nw-nevada-prevent-wildfire-risk"
+    },
+    {
+      "id": "936d8e2c-0e63-477b-9481-7272e99b7bb0",
+      "score": 0.5786631,
+      "title": "Battle Mountain Fuels Reduction Project- Toiyabe West, 2018",
+      "url": "https://www.youtube.com/watch?v=mKsRn66PT2k"
+    },
+    {
+      "id": "d345f20e-8fc9-4def-85f6-5a617f671ee7",
+      "score": 0.57837737,
+      "title": "Jones Bar Fuels Reduction Project - EplanningUi",
+      "url": "https://eplanning.blm.gov/eplanning-ui/project/2040183"
+    },
+    {
+      "id": "564cee03-787b-428f-8de6-785a2f5edbda",
+      "score": 0.5746579,
+      "title": "BLM Fuels Management Program | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/about-us/our-partners/blm/blm-fuels-management-program"
+    },
+    {
+      "id": "c44dee62-a913-47a9-bd16-bb05523a5352",
+      "score": 0.5504388,
+      "title": "BLM plans prescribed burns in NE California, NW Nevada ...",
+      "url": "https://www.blm.gov/announcement/blm-plans-prescribed-burns-ne-california-nw-nevada-prevent-wildfire-risk"
+    },
+    {
+      "id": "f7e3f2b1-cfa8-4594-8bc5-acb0ebcc0a95",
+      "score": 0.5297749,
+      "title": "Certified Prescribed Burn Manager Course Spring 2022 Field Tour",
+      "url": "https://www.youtube.com/watch?v=UXmCRZFsLKc"
+    },
+    {
+      "id": "5d5b1727-0065-4eef-8727-0f71fc8f3628",
+      "score": 0.52583206,
+      "title": "New fuel breaks for wildfire control",
+      "url": "https://www.youtube.com/watch?v=8bz0ymhgRGg"
+    },
+    {
+      "id": "60574879-c977-403d-b31e-f556d563d563",
+      "score": 0.5255399,
+      "title": "How to fire teams prepare for a controlled burn?",
+      "url": "https://www.youtube.com/watch?v=Q1gK72mPWcg"
+    },
+    {
+      "id": "08080ccb-22df-48d1-8e3e-a5c5a9eae2d5",
+      "score": 0.45784017,
+      "title": "\ud83c\uddfa\ud83c\uddf8 ENVIRONMENTALISTS SUED TO SAVE THE FORESTS\u2014FROM BEING SAVED\u2026\n\nIn 2007, the Sierra Club sued the U.S. Forest Service to block Categorical Exclusions (CE) for controlled burns under NEPA, claiming the process needed a 3.5-year EIS review. \n\nBecause, obviously, bureaucracy is better than wildfire prevention. \n\nControlled burns are essential to reducing fire risks.\n\nFast forward: the John Muir Project in 2018 and the Center for Biological Diversity in 2021 pulled the same stunts, halting critical fuel reduction plans. \n\nEven Trump discussed the auspicious effect of cleaning the brush off the forest. \n\nFor some reason, Newsom seems to choose to ignore it\u2026",
+      "url": "https://x.com/MarioNawfal/status/1877133737936240845"
+    },
+    {
+      "id": "4fa0f76c-8e07-4df7-af6b-2261a4e44036",
+      "score": 0.43352634,
+      "title": "Wedge fire stopped by Wedge Butte fuel reduction treatment on public lands",
+      "url": "https://www.youtube.com/watch?v=D84moNv7APg"
+    },
+    {
+      "id": "8263999b-baf9-4887-b08e-4831549a2a31",
+      "score": 0.42419788,
+      "title": "Fuel Breaks - Lines of Defense",
+      "url": "https://www.youtube.com/watch?v=K_M7scIAXns"
+    },
+    {
+      "id": "11d1221c-f6ed-4883-b0ce-222bc082dd2c",
+      "score": 0.41137156,
+      "title": "Nevada land management agencies have a strong history ...",
+      "url": "https://www.facebook.com/story.php?story_fbid=1048092470677613&id=100064306105393"
+    },
+    {
+      "id": "e20e3f3b-2389-4560-a982-9b1ea471c816",
+      "score": 0.37882724,
+      "title": "2023 Southern Nevada Fire Restrictions Announced | Bureau of Land Management",
+      "url": "https://www.blm.gov/press-release/2023-southern-nevada-fire-restrictions-announced"
+    },
+    {
+      "id": "2d12e52e-d6cd-4898-b68f-e4b31f33ed39",
+      "score": 0.32264385,
+      "title": "Southern Nevada Fire Restrictions Reduced | U.S. Fish & Wildlife Service",
+      "url": "https://www.fws.gov/press-release/2024-11/southern-nevada-fire-restrictions-reduced"
+    },
+    {
+      "id": "41063f17-d000-4c91-8365-31d7835861ca",
+      "score": 0.3010542,
+      "title": "Fire Restrictions Lifted for Nevada State Parks ...",
+      "url": "https://forestry.nv.gov/happening-now/news/restrictions-lifted-2024"
+    },
+    {
+      "id": "4093de1b-27b2-4d55-8650-62f053bcfe50",
+      "score": 0.25084898,
+      "title": "Prescribed Fire Season Begins in Nevada County",
+      "url": "https://the-lookout.org/2025/09/19/prescribed-fire-season-begins-in-nevada-county/"
+    },
+    {
+      "id": "8c77b39c-d15d-49d3-8a2e-06d61bc0fc50",
+      "score": 0.23898546,
+      "title": "Nevada community groups awarded funding for fire mitigation | Bureau of Land Management",
+      "url": "https://www.blm.gov/nfca"
+    },
+    {
+      "id": "7914e009-5a7d-4f5f-88ef-5924ac3e25db",
+      "score": 0.22818272,
+      "title": "Prescribed fire operations are planned near Superior Oct. 8 - 10, weather permitting. These small, controlled burns (all under 2.5 acres) reduce unwanted vegetation and support research efforts. Smoke and flames may be visible - please do not call 911, as this is not an emergency.\n\nhttps://t.co/JnOXMyspAW",
+      "url": "https://x.com/BldrCOSheriff/status/1974160826287440282"
+    },
+    {
+      "id": "5815bd3f-e79f-444a-a41d-95c15bde7e52",
+      "score": 0.22492291,
+      "title": "Burn Permits | Nevada County, CA",
+      "url": "https://www.nevadacountyca.gov/2753/Burn-Permits"
+    },
+    {
+      "id": "3af3c379-a5f8-4a4c-9724-3ea0f4549211",
+      "score": 0.21777844,
+      "title": "Nevada Fire InfoNevada Fire Information",
+      "url": "https://www.nevadafireinfo.org/restrictions-and-closures"
+    },
+    {
+      "id": "7942ba0d-014a-4581-b059-f2bc524ae287",
+      "score": 0.21363993,
+      "title": "BLM Conducting Prescribed Burn Operations In Southern Colorado",
+      "url": "https://www.youtube.com/watch?v=lq6qcC1qwFI"
+    },
+    {
+      "id": "deb712e4-6316-4121-a569-5bb565062d0b",
+      "score": 0.19378772,
+      "title": "Stage 1 fire restrictions begin in southern Nevada | Bureau of Land Management",
+      "url": "https://www.blm.gov/announcement/stage-1-fire-restrictions-begin-southern-nevada"
+    },
+    {
+      "id": "384afe4b-7fd6-42fc-9469-b22c0f6c848b",
+      "score": 0.19114676,
+      "title": "2024 Southern Nevada Fire Restrictions Announced - Lake Mead National Recreation Area (U.S. National Park Service)",
+      "url": "https://www.nps.gov/lake/learn/news/2024-southern-nevada-fire-restrictions-announced.htm"
+    },
+    {
+      "id": "aa1fb277-5b11-4ac7-8b3d-6d22d5cc231d",
+      "score": 0.1585521,
+      "title": "Moving Beyond America\u2019s War on Wildfire: 4 Ways to Avoid Future Megafires",
+      "url": "https://www.nakedcapitalism.com/2021/10/moving-beyond-americas-war-on-wildfire-4-ways-to-avoid-future-megafires.html"
+    },
+    {
+      "id": "f2668ae7-825f-472c-8ec0-e1bce70f98fb",
+      "score": 0.15521957,
+      "title": "Stage 1 fire restrictions begin in northeast Nevada | Bureau of Land Management",
+      "url": "https://www.blm.gov/announcement/stage-1-fire-restrictions-begin-northeast-nevada"
+    },
+    {
+      "id": "9cbdbb1a-523b-4c5b-9820-075b68724519",
+      "score": 0.14932065,
+      "title": "Prescribed Burning Techniques and Lessons Learned",
+      "url": "https://www.youtube.com/watch?v=Z-s0w0FFprw"
+    },
+    {
+      "id": "e1ca4caa-1d70-4f7e-a5bf-d86fac19bb09",
+      "score": 0.13696611,
+      "title": "NRS: CHAPTER 472 - STATE FORESTER FIREWARDEN",
+      "url": "https://www.leg.state.nv.us/nrs/NRS-472.html"
+    },
+    {
+      "id": "37b756bf-f0f9-4120-b8e3-a2f085f68269",
+      "score": 0.13205522,
+      "title": "Southern Nevada Fire Restrictions Announced | U.S. Fish & Wildlife Service",
+      "url": "https://www.fws.gov/press-release/2025-06/southern-nevada-fire-restrictions-announced"
+    },
+    {
+      "id": "e7aeb111-92a3-420b-a94a-cdc449c133a9",
+      "score": 0.1257404,
+      "title": "Hell and High Water: the Year in Climate Chaos",
+      "url": "https://www.counterpunch.org/2024/12/20/hell-and-high-water-the-year-in-climate-chaos/"
+    },
+    {
+      "id": "07a061af-e314-4f15-93a6-3d93363b279c",
+      "score": 0.10625414,
+      "title": "Pile burning is underway at the #PhoenixVMP. The planned broadcast burn of 433 acres has been postponed, but burning down these piles will remove dangerous fire fuel. https://t.co/BQfffoMgJr",
+      "url": "https://x.com/CALFIRE_ButteCo/status/1973429012535058471"
+    },
+    {
+      "id": "0e6f61d1-f9be-42a9-bd84-6358798bad68",
+      "score": 0.1028533,
+      "title": "Firefighters Cope As Climate Change Radically Changes Their Jobs",
+      "url": "https://www.huffingtonpost.com/entry/wildfires-climate-change-california_us_5b8fedd2e4b0511db3de3d4b"
+    },
+    {
+      "id": "6c889bea-3d70-4100-8d3d-39db4c072617",
+      "score": 0.09726189,
+      "title": "",
+      "url": "https://www.usatoday.com/story/news/50-states/2019/05/10/wave-undie-run-undone-florida-man-series-news-around-states/39466837/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+    },
+    {
+      "id": "2d69fe7d-2c28-443a-906f-cade13fcea5b",
+      "score": 0.0899092,
+      "title": "Saving salmon, Giglio Feast, humpback whale: News from around our 50 states",
+      "url": "https://www.usatoday.com/story/news/50-states/2022/07/26/saving-salmon-giglio-feast-humpback-whale-news-around-states/50527151/"
+    },
+    {
+      "id": "e27a76bc-afc3-45fb-a9c3-2f5e2c50f257",
+      "score": 0.07586518,
+      "title": "#PhoenixVMP [update] Burning has begun on day two of the project. We are looking to build on the success of yesterday's work. Crews are on the ridgetop at the upper end of the burn area, bringing fire down the hill safely. https://t.co/4oWVBvFYxD",
+      "url": "https://x.com/CALFIRE_ButteCo/status/1975627102591578564"
+    },
+    {
+      "id": "6d23c921-1b02-4abd-a16b-42e855a01c4e",
+      "score": 0.067233816,
+      "title": "Stage 1 fire restrictions lifted in southern Nevada | Bureau of Land Management",
+      "url": "https://www.blm.gov/announcement/stage-1-fire-restrictions-lifted-southern-nevada"
+    },
+    {
+      "id": "3539b6f4-02af-4890-9999-a75ce9fefda7",
+      "score": 0.028895615,
+      "title": "Wildlife Responding To Prescribed Fire",
+      "url": "https://www.youtube.com/watch?v=hxV23yIs5Ds"
+    }
+  ]
+}

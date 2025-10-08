@@ -1,0 +1,523 @@
+{
+  "id": "a9a9d8bc-937b-4c63-9b7e-02f4932ace72",
+  "status": "completed",
+  "content": "TRUE: Multiple independent studies and surveys consistently show that the percentage of U.S. workers who do not use all of their paid time off (PTO) is significantly higher than 40%, or 4 in 10.\n\n## Supporting Data on Unused Paid Time Off\n\nA wide range of research from various sources confirms that a substantial portion of the U.S. workforce leaves paid time off unused. The reported percentages vary by survey and year but consistently exceed the 40% threshold.\n\n*   **Pew Research Center:** A frequently cited 2023 Pew Research Center survey of 5,188 U.S. adults found that 46% of workers who receive paid time off take less than they are offered[1][2][3][4]. The same survey indicated that 48% use all of their available days off[5][6][7].\n*   **Sorbet Financial Technology:** A survey of 1,500 U.S. employees by Sorbet found that nearly two-thirds (62%) of Americans did not use all of their PTO in 2023, letting a third of it go to waste[8][9].\n*   **Harris Poll:** A Harris Poll survey revealed that 78% of Americans do not use the maximum amount of paid time off allowed by their employer[11]. Another Harris Poll from May 2024 found that three in four workers did not use their maximum permitted PTO[12].\n*   **U.S. Travel Association:** Research conducted by the U.S. Travel Association, Oxford Economics, and Ipsos found that 55% of American workers did not use all their allotted time off in 2018[13][14][15]. Similar studies from this group reported that 52% of workers left vacation time unused in 2017 and 54% did so in 2016[17][18][19].\n*   **Other Surveys:** Various other studies reinforce this trend:\n    *   A QuickBooks survey found that nearly 61% of those with available PTO left some unused, and another metric from the same source stated 70% of workers with PTO did not use it all[20].\n    *   A 2024 survey by Solitaired revealed that 47% of Americans left PTO unused[21].\n    *   A Zippia analysis for 2022 showed 55% of Americans did not use all their PTO[14][22].\n    *   An Expedia report found that 53% of Americans did not plan to use all their time off in a year[23].\n    *   An Eagle Hill Consulting survey noted that 48% of U.S. employees did not expect to take all their vacation days by year-end[24][25].\n\n## Stated Reasons for Not Using PTO\n\nWorkers cite a range of personal and professional pressures for not taking their full allotment of time off. According to the Pew Research Center survey, the most common reasons among those who don't use all their leave are:\n\n*   **No Perceived Need:** 52% state they don\u2019t feel they need to take more time off[1][4].\n*   **Fear of Falling Behind:** 49% worry about falling behind at work[1][2][3].\n*   **Guilt About Co-workers:** 43% feel bad about colleagues taking on additional work[1][2][4].\n*   **Career Concerns:** 19% believe taking more time off could hurt their chances for career advancement[4][26].\n*   **Fear of Job Loss:** 16% fear they might risk losing their job[2][4].\n*   **Discouragement from Management:** 12% say their boss discourages time off[2][4].\n\n## Scale and Economic Impact of Unused PTO\n\nThe collective amount of unused vacation time represents a significant figure in both days and monetary value.\n\n*   **Total Unused Days:** In 2018, American workers left a record 768 million vacation days unused, a 9% increase from 2017[13][14][27]. This was up from 705 million unused days in 2017 and 662 million in 2016[19][18].\n*   **Forfeited Days and Value:** Of the 768 million unused days in 2018, 236 million were completely forfeited, equating to $65.5 billion in lost benefits for workers[27][28]. Another estimate placed the value of unused vacation days at over $312 billion in one year[8][29]. The average personal loss per worker has been estimated at $604 to $1,800 in unused time[30][20].\n\n## Demographic and Employment-Level Variances\n\nThe tendency to leave PTO unused varies across different worker demographics, according to the Pew Research Center:\n\n*   **Income and Education:** Upper-income workers (51%) and those with a bachelor's degree or higher (51%) are more likely to take less time off than offered compared to their middle- and lower-income counterparts (45% and 41%, respectively) or those with less education (41%)[1][5].\n*   **Job Role:** Salaried workers (52%) are more likely than hourly workers (39%) to leave time unused[1]. Similarly, managers (54%) are more likely to do so than non-managers (42%)[1].\n*   **Industry:** The practice is especially prevalent in education (68% leave time unused) and government/public administration/military (57%)[1].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "0911d9c4-2aac-436e-b209-aa8747bd749e",
+      "score": 0.8991304,
+      "title": "46% of US workers don\u2019t use all their paid time off | Pew Research Center",
+      "url": "https://www.pewresearch.org/short-reads/2023/08/10/more-than-4-in-10-u-s-workers-dont-take-all-their-paid-time-off/",
+      "citation_index": 1
+    },
+    {
+      "id": "c498eb44-da44-4909-bdce-bc85913f828f",
+      "score": 0.90432173,
+      "title": "Almost half of employees don't use all of their PTO. Here's ...",
+      "url": "https://www.nbcbayarea.com/news/local/pew-study-employee-pto/3788904/",
+      "citation_index": 2
+    },
+    {
+      "id": "41615538-0345-4c92-94ff-484b7309c9a9",
+      "score": 0.8849276,
+      "title": "Why Aren't US Workers Taking Their Paid Time Off?",
+      "url": "https://tech.co/news/why-arent-us-workers-taking-pto",
+      "citation_index": 3
+    },
+    {
+      "id": "1102ab27-d7f9-4a18-bfde-1679e6988108",
+      "score": 0.82220376,
+      "title": "Why Do Almost Half of Americans Leave Paid Time Off on the Table? - The New York Times",
+      "url": "https://www.nytimes.com/2023/05/27/business/dealbook/unused-paid-time-off.html",
+      "citation_index": 4
+    },
+    {
+      "id": "56f5ec55-8450-4bb3-bed7-0e0e6cda388b",
+      "score": 0.8969848,
+      "title": "The average PTO in the USA: Crucial PTO statistics for 2025",
+      "url": "https://clockify.me/pto-statistics",
+      "citation_index": 5
+    },
+    {
+      "id": "321ce229-cb52-4c77-bd8f-cbed4cc6a502",
+      "score": 0.9057319,
+      "title": "Less than half of U.S. workers use all their vacation days | Crain's Detroit Business",
+      "url": "https://prod.crainsdetroit.com/workforce/less-half-us-workers-use-all-their-vacation-days",
+      "citation_index": 6
+    },
+    {
+      "id": "010adf4e-7f22-47a1-8132-83d85525f1fe",
+      "score": 0.8865877,
+      "title": "Vacation Time Goes Unused as Only 48% in US Take All Their Days",
+      "url": "https://news.bloomberglaw.com/in-house-counsel/vacation-time-goes-unused-as-only-48-in-us-take-all-their-days",
+      "citation_index": 7
+    },
+    {
+      "id": "c983a61d-7ca4-4191-ad6c-36b25e8bb044",
+      "score": 0.92857105,
+      "title": "One-Third of U.S. Employees' Vacation Days Go Unused",
+      "url": "https://qpsemployment.com/2024/07/29/one-third-of-us-employees-vacation-days-go-unused/",
+      "citation_index": 8
+    },
+    {
+      "id": "afa3037a-c95c-4ddb-bf16-b8e86e91d3e3",
+      "score": 0.86928266,
+      "title": "Most American Workers Don't Use All Their Paid Vacation Time | Money",
+      "url": "https://money.com/workers-unused-vacation-time-pto-survey/",
+      "citation_index": 9
+    },
+    {
+      "id": "fb5cd65c-f9e4-413c-85e6-72447c57c9c2",
+      "score": 0.8952393,
+      "title": "Taking a vacation from work may soon become mandatory",
+      "url": "https://www.cnbc.com/2024/06/14/taking-a-vacation-from-work-may-soon-become-mandatory.html",
+      "citation_index": 11
+    },
+    {
+      "id": "d3ced025-0269-43ea-8723-90d2cec7472d",
+      "score": 0.846159,
+      "title": "U.S. Workers Stink at Taking PTO. It's a Problem You Need ...",
+      "url": "https://worldatwork.org/publications/workspan-daily/u-s-workers-stink-at-taking-pto-it-s-a-problem-you-need-to-solve-",
+      "citation_index": 12
+    },
+    {
+      "id": "f72174e7-97bf-440f-a182-a5d9da09f592",
+      "score": 0.9008183,
+      "title": "PAID TIME OFF TRENDS IN THE U.S.",
+      "url": "https://www.ustravel.org/sites/default/files/media_root/document/Paid Time Off Trends Fact Sheet.pdf",
+      "citation_index": 13
+    },
+    {
+      "id": "3d3dae53-a38b-4840-8087-a99b362c450c",
+      "score": 0.8533396,
+      "title": "PAID TIME OFF TRENDS IN THE U.S.",
+      "url": "https://www.ustravel.org/sites/default/files/media_root/document/Paid%20Time%20Off%20Trends%20Fact%20Sheet.pdf",
+      "citation_index": 13
+    },
+    {
+      "id": "55a242c0-969f-44d2-a4c0-ab4ea4f586d7",
+      "score": 0.9222657,
+      "title": "The Average Vacation Days Per Year for US Workers",
+      "url": "https://connecteam.com/average-vacation-days-per-year/",
+      "citation_index": 14
+    },
+    {
+      "id": "aa7bb47d-8b7f-4f6f-83e0-2ac1d39c55c2",
+      "score": 0.69498676,
+      "title": "Americans Wasted 768 Million Vacation Days Last Year ...",
+      "url": "https://www.forbes.com/sites/niallmccarthy/2019/08/19/americans-wasted-768-million-vacation-days-last-year-infographic/",
+      "citation_index": 15
+    },
+    {
+      "id": "5b2b176d-b003-4e19-8bf7-0a429a00e3b8",
+      "score": 0.8747745,
+      "title": "Here's how many paid vacation days the typical American worker gets",
+      "url": "https://www.cnbc.com/2018/07/05/heres-how-many-paid-vacation-days-the-typical-american-worker-gets-.html",
+      "citation_index": 17
+    },
+    {
+      "id": "34f1c6d8-84a1-423f-9728-164c5536fad1",
+      "score": 0.9125066,
+      "title": "Vacation Time: Americans Are Still Terrible At Taking Time Off | Fortune",
+      "url": "https://fortune.com/2017/05/23/vacation-time-americans-unused/",
+      "citation_index": 18
+    },
+    {
+      "id": "d8642418-2436-49cd-8cf9-c2d1f8ede07c",
+      "score": 0.62303346,
+      "title": "StateofAmericanVacation2018.pdf",
+      "url": "https://www.ustravel.org/system/files/media_root/document/StateofAmericanVacation2018.pdf",
+      "citation_index": 19
+    },
+    {
+      "id": "ed85c58b-81e7-4ab6-bb98-deb3b4f1d047",
+      "score": 0.8325776,
+      "title": "How Much PTO is Normal? Survey Results | QuickBooks",
+      "url": "https://quickbooks.intuit.com/time-tracking/resources/pto-survey/",
+      "citation_index": 20
+    },
+    {
+      "id": "58de0887-a234-424a-8735-0b25a5fe1819",
+      "score": 0.8319231,
+      "title": "Data Shows Nearly Half of Workers Don't Use All Their PTO",
+      "url": "https://hrdailyadvisor.com/2025/02/24/data-shows-nearly-half-of-workers-dont-use-all-their-pto/",
+      "citation_index": 21
+    },
+    {
+      "id": "e54bcd7a-cfe7-4960-8a92-88d6273e1c56",
+      "score": 0.7380092,
+      "title": "50+ Telling Paid Time Off (PTO) Statistics [2023]: Average PTO In The USA - Zippia",
+      "url": "https://www.zippia.com/advice/pto-statistics/",
+      "citation_index": 22
+    },
+    {
+      "id": "436c51da-fcb2-4729-a4c7-3e470795a8b9",
+      "score": 0.13158582,
+      "title": "Expedia Report Finds Americans Win The Gold Medal For Taking Fewest Vacation Days In The World",
+      "url": "https://www.hospitalitynet.org/news/4122528.html",
+      "citation_index": 23
+    },
+    {
+      "id": "58f1bfc1-bff0-4d5d-9d65-c8a7c04022cb",
+      "score": 0.16020063,
+      "title": "Average PTO in the US",
+      "url": "https://fitsmallbusiness.com/average-pto-in-the-us/",
+      "citation_index": 24
+    },
+    {
+      "id": "1e837a49-880a-440a-b024-24566bb589b0",
+      "score": 0.8194462,
+      "title": "Nearly Half of Employees Expect to Leave Vacation Time ...",
+      "url": "https://www.shrm.org/topics-tools/news/benefits-compensation/nearly-half-of-employees-expect-to-leave-vacation-time-unused--w",
+      "citation_index": 25
+    },
+    {
+      "id": "6ad2391f-276c-4a44-94ad-7fe0f96cdd93",
+      "score": 0.77405477,
+      "title": "U.S. Workers Take Fewest Vacation Days, Research Shows - AFAR",
+      "url": "https://www.afar.com/magazine/why-us-workers-need-to-step-up-their-vacation-game",
+      "citation_index": 26
+    },
+    {
+      "id": "b5370693-ed1a-4191-9309-f5a8105e7856",
+      "score": 0.783542,
+      "title": "Study: A Record 768 Million U.S. Vacation Days Went Unused in \u201918, Opportunity Cost in the Billions",
+      "url": "https://www.hospitalitynet.org/news/4094694.html",
+      "citation_index": 27
+    },
+    {
+      "id": "6206c9b0-c337-4151-b0e3-7b53eb222d8a",
+      "score": 0.7734393,
+      "title": "Study: American workers leave record 768 million vacation days unused",
+      "url": "https://www.mercurynews.com/2019/08/27/u-s-travel-association-workers-leave-record-768-million-vacation-days-unused/",
+      "citation_index": 28
+    },
+    {
+      "id": "7ae5b5c5-bc78-4d90-b21f-fb7f69a0ba74",
+      "score": 0.34660816,
+      "title": "One-third of U.S. employees' PTO, vacation days go unused - Lane Report | Kentucky Business & Economic News",
+      "url": "https://www.lanereport.com/175306/2024/07/one-third-of-u-s-employees-pto-vacation-days-go-unused/",
+      "citation_index": 29
+    },
+    {
+      "id": "1a7d15b0-4c97-4889-b1bc-31c715649d46",
+      "score": 0.7927375,
+      "title": "Unused vacation costs workers $66 billion in lost benefits",
+      "url": "https://www.cnbc.com/2018/01/30/unused-vacation-costs-workers-66-billion-in-lost-benefits.html",
+      "citation_index": 30
+    },
+    {
+      "id": "a7691ba8-d377-4e5b-8afd-a96e6ea91b6f",
+      "score": 0.96239495,
+      "title": "Peter's COVID Consolidated Brief - 29 Apr",
+      "url": "https://www.lesswrong.com/posts/q68WH32ZZoWZRRYPn/peter-s-covid-consolidated-brief-29-apr"
+    },
+    {
+      "id": "9d5dceec-1b25-404c-90a6-62c6e163a175",
+      "score": 0.93161833,
+      "title": "Lemonade Files S1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1691421/000104746920003416/a2241721zs-1.htm#bg40510a_main_toc"
+    },
+    {
+      "id": "c1ebf9bb-bbf6-4f13-835e-3e489c368d3e",
+      "score": 0.9240941,
+      "title": "Why Do American Workers Feel Guilty About Taking Their Vacation Days?",
+      "url": "https://www.yahoo.com/lifestyle/articles/why-american-workers-feel-guilty-210347111.html"
+    },
+    {
+      "id": "70b6ca63-41cd-44ae-b866-320ac527e318",
+      "score": 0.9237645,
+      "title": "Americans and \u2018vacation guilt\u2019: US is an outlier in encouraging time off work - oregonlive.com",
+      "url": "https://www.oregonlive.com/business/2025/07/americans-and-vacation-guilt-us-is-an-outlier-in-encouraging-time-off-work.html"
+    },
+    {
+      "id": "990d1622-421b-4e1a-97c0-a9aa46a40d94",
+      "score": 0.921591,
+      "title": "Researchers examine why so many American workers feel guilty taking vacation time | PBS News",
+      "url": "https://www.pbs.org/newshour/nation/researchers-examine-why-so-many-american-workers-feel-guilty-taking-vacation-time"
+    },
+    {
+      "id": "10c6fd42-6679-4fb1-85e2-365e9919b762",
+      "score": 0.91563576,
+      "title": "Happy National Plan for Vacation Day",
+      "url": "https://disneyparks.disney.go.com/blog/2018/01/happy-national-plan-for-vacation-day/"
+    },
+    {
+      "id": "0ef637b6-42d2-47c0-bc6a-eeeca344f0a5",
+      "score": 0.91490877,
+      "title": "Americans Are Not Using Their Vacation Days | Symmetry",
+      "url": "https://www.symmetry.com/payroll-tax-insights/americans-are-not-using-their-vacation-days"
+    },
+    {
+      "id": "da5a5658-6662-48dc-af32-9261146046d1",
+      "score": 0.9138076,
+      "title": "Many American workers feel guilty about taking vacation they\u2019ve earned - UPI.com",
+      "url": "https://www.upi.com/Voices/2025/07/11/vacation-guilt-study/5511752247053"
+    },
+    {
+      "id": "7e3ad993-27e7-4c04-b964-a4cffaf90acc",
+      "score": 0.9014448,
+      "title": "Why So Many American Workers Feel Guilty Taking Vacation",
+      "url": "https://katiecouric.com/lifestyle/workplace/american-workers-vacation-guilt/"
+    },
+    {
+      "id": "669ec3ea-3523-4a66-a80e-db75c7d4bca6",
+      "score": 0.90123636,
+      "title": "Why do so many American workers feel guilty about taking ...",
+      "url": "https://gettysburgconnection.org/why-do-so-many-american-workers-feel-guilty-about-taking-the-vacation-theyve-earned/"
+    },
+    {
+      "id": "f9865ecf-b5d1-41e0-a8a2-7c3b9fa36a53",
+      "score": 0.89121616,
+      "title": "Researchers examine why so many American workers feel guilty taking vacation time",
+      "url": "https://biztoc.com/x/5556d8546a926fd3"
+    },
+    {
+      "id": "3d58133b-def5-44de-a0ee-f9228e303362",
+      "score": 0.8863518,
+      "title": "Less Than Half of US Workers Use All Their Vacation Days - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2023-03-30/less-than-half-of-us-workers-use-all-their-vacation-days"
+    },
+    {
+      "id": "807ab888-6b8d-4f39-b25f-fc73c17eca87",
+      "score": 0.8506799,
+      "title": "Americans aren't taking all of their paid time off from work",
+      "url": "https://www.axios.com/2023/03/30/americans-pto-time-off-survey"
+    },
+    {
+      "id": "daf9590e-86bd-4caa-a51b-d5eeceb122c2",
+      "score": 0.81489426,
+      "title": "Nearly Half of American Workers Don't Use All Their PTO, Research Says - Business Insider",
+      "url": "https://www.businessinsider.com/nearly-half-american-workers-dont-take-all-their-pto-research-2023-3"
+    },
+    {
+      "id": "e2bbb4d9-96ed-44af-a17e-38caca448a5b",
+      "score": 0.79561085,
+      "title": "Study: Americans Forfeit 236 Million Vacation Days Annually | AAA Colorado",
+      "url": "https://www.colorado.aaa.com/news/study-americans-forfeit-236-million-vacation-days-annually"
+    },
+    {
+      "id": "a5abd6a8-0b5a-4a29-9a38-a4dfbb7d771e",
+      "score": 0.7730283,
+      "title": "Study: Unused Vacation Days Drag on Economy",
+      "url": "https://www.usnews.com/news/articles/2016-06-17/study-unused-vacation-days-drag-on-economy"
+    },
+    {
+      "id": "a8b01839-7c67-48c0-a352-d0dba152f035",
+      "score": 0.76554126,
+      "title": "A record 768 million US vacation days went to waste last year, a study says | CNN",
+      "url": "https://www.cnn.com/travel/article/unused-vacation-days-trnd/index.html"
+    },
+    {
+      "id": "689b3b38-73dc-494f-9ee0-540550f33a73",
+      "score": 0.76279575,
+      "title": "768 Million Vacation Days Went Unused In U.S. Last Year - CBS Boston",
+      "url": "https://www.cbsnews.com/boston/news/vacation-days-wasted-united-states-study/"
+    },
+    {
+      "id": "198c10d3-c1d0-4b98-9b58-73290e3d9997",
+      "score": 0.7587435,
+      "title": "Americans Waste More Than $200 Billion Annually By Failing To Use All Their Vacation Time",
+      "url": "https://www.forbes.com/sites/danielreed/2019/08/20/americans-waste-more-than-200-billion-annually-by-failing-to-use-all-their-vacation-time/"
+    },
+    {
+      "id": "1f1bb7cd-d75c-4dba-9c7f-8718cfc45588",
+      "score": 0.73891455,
+      "title": "Nearing 2025, almost half of workers expect to leave some ...",
+      "url": "https://www.hrdive.com/news/nearing-2025-almost-half-of-workers-unused-vacation-time/734609/"
+    },
+    {
+      "id": "2d7fe1a7-be64-42e2-90db-e225ec5c8efa",
+      "score": 0.7311551,
+      "title": "Vacation days taken by US workers hit highest level since 2010, study says",
+      "url": "https://www.cnbc.com/2018/05/09/vacation-use-by-us-workers-hits-highest-level-for-7-years.html"
+    },
+    {
+      "id": "fb16c033-e29f-431c-89db-d002885d19b5",
+      "score": 0.7197191,
+      "title": "1 in 4 workers in U.S. don't get any paid vacation time or holidays - CBS News",
+      "url": "https://www.cbsnews.com/news/one-in-four-workers-in-us-dont-get-any-paid-vacation-time-or-holidays/"
+    },
+    {
+      "id": "7c66f64b-3a23-4a64-8f51-2547801b9d83",
+      "score": 0.69399214,
+      "title": "Report: Americans take fewest vacation days globally",
+      "url": "https://www.asianhospitality.com/report-americans-use-fewest-vacation-days/"
+    },
+    {
+      "id": "01a29ff8-66eb-45b5-8ddb-d618b51bea1b",
+      "score": 0.6739866,
+      "title": "Who receives paid vacations? : U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/ebs/factsheets/paid-vacations.htm"
+    },
+    {
+      "id": "2e606645-768f-4c1f-ae94-ec244148711f",
+      "score": 0.5925965,
+      "title": "American Workers Are Letting a Third of Their Vacation ...",
+      "url": "https://www.nasdaq.com/articles/american-workers-are-letting-third-their-vacation-time-go-waste-report"
+    },
+    {
+      "id": "39e39b39-0e8c-466b-a414-a767be133569",
+      "score": 0.5826579,
+      "title": "Average PTO In The US & Other PTO Statistics",
+      "url": "https://www.forbes.com/advisor/business/pto-statistics/"
+    },
+    {
+      "id": "afbc0766-06a0-44e1-b827-1f04106a2fb0",
+      "score": 0.5786631,
+      "title": "The US Has a Vacation Problem: Here's Why We Should ...",
+      "url": "https://www.reworked.co/leadership/the-us-has-a-vacation-problem-heres-why-we-should-fix-it/"
+    },
+    {
+      "id": "c7986494-65d3-46c1-a00c-7d8a6ce14791",
+      "score": 0.5715041,
+      "title": "National Plan for Vacation Day: The Antidote to \u2018Vacation Deprivation\u2019 | U.S. Travel Association",
+      "url": "https://www.ustravel.org/press/national-plan-vacation-day-antidote-vacation-deprivation"
+    },
+    {
+      "id": "3db9325c-0cdc-4df6-a29b-e0f5297528cd",
+      "score": 0.56661874,
+      "title": "Why do so many American workers feel guilty about taking the vacation they\u2019ve earned?",
+      "url": "https://theconversation.com/why-do-so-many-american-workers-feel-guilty-about-taking-the-vacation-theyve-earned-254913"
+    },
+    {
+      "id": "8a943769-5687-4401-a9a0-3ca76cb29aad",
+      "score": 0.54187006,
+      "title": "Average Paid Time Off (PTO) in the USA: An Overview - Day Off",
+      "url": "https://day-off.app/2024/02/14/average-paid-time-off-pto-in-the-usa-an-overview/"
+    },
+    {
+      "id": "f760b6a8-cdb2-459a-bd0e-3abb51c9c658",
+      "score": 0.49523994,
+      "title": "Because Americans Still Need to Take All Their Time Off",
+      "url": "https://www.ustravel.org/sites/default/files/media_root/document/NPVD19_FactSheet.pdf"
+    },
+    {
+      "id": "36d267fb-f451-40a9-9ffe-db93f3aeb812",
+      "score": 0.43611822,
+      "title": "State-by-State Time Off",
+      "url": "https://www.ustravel.org/sites/default/files/media_root/document/NPVD19_State-by-State.pdf"
+    },
+    {
+      "id": "586c6a8a-3bb6-4e10-a88a-3fa136f15ea5",
+      "score": 0.42391166,
+      "title": "Project: Time Off",
+      "url": "https://www.mainetourism.com/lets-go/"
+    },
+    {
+      "id": "8b6a57a8-bec2-4e14-a3cb-58de471710da",
+      "score": 0.41023695,
+      "title": "Americans Widely Support Paid Family and Medical Leave, ...",
+      "url": "https://assets.pewresearch.org/wp-content/uploads/sites/3/2017/03/22152556/Paid-Leave-Report-3-17-17-FINAL.pdf"
+    },
+    {
+      "id": "7b7102ad-39e8-49b1-aaf7-38ede20f90ae",
+      "score": 0.39550823,
+      "title": "Which U.S. workers have paid sick leave? | Pew Research Center",
+      "url": "https://www.pewresearch.org/short-reads/2020/03/12/as-coronavirus-spreads-which-u-s-workers-have-paid-sick-leave-and-which-dont/"
+    },
+    {
+      "id": "2360b809-7373-4171-90cd-929557a1a647",
+      "score": 0.35857818,
+      "title": "State of American Vacation 2018 (2018-05-08)| U.S. Travel Association",
+      "url": "https://www.ustravel.org/research/state-american-vacation-2018"
+    },
+    {
+      "id": "10c0d466-1ec2-4e01-9a25-0fcda54a17f7",
+      "score": 0.3446204,
+      "title": "Time Off and Vacation Usage | U.S. Travel Association",
+      "url": "https://www.ustravel.org/toolkit/time-and-vacation-usage"
+    },
+    {
+      "id": "ddb87e3c-6212-44cb-bfd7-3406f646b1c8",
+      "score": 0.33209428,
+      "title": "New U.S. Travel Association Report Offers a State-by-State Look at Time Off and Travel - SYTA",
+      "url": "https://syta.org/new-u-s-travel-association-report-offers-a-state-by-state-look-at-time-off-and-travel/"
+    },
+    {
+      "id": "ed24e3df-7654-4ff2-9497-459d4fe94f2a",
+      "score": 0.2884643,
+      "title": "VACATION",
+      "url": "https://www.ustravel.org/sites/default/files/media_root/document/2017_May%2023_Research_State%20of%20American%20Vacation%202017.pdf"
+    },
+    {
+      "id": "14c39b62-6d87-419b-9978-36803e77976c",
+      "score": 0.25065634,
+      "title": "Average PTO Days by Industry in the US",
+      "url": "https://www.officeseries.com/pto-in-usa/average-pto-in-the-united-states/average-pto-days-by-industry-in-the-usa"
+    },
+    {
+      "id": "dd3eace3-60ec-4f49-b48c-02a0779c6da9",
+      "score": 0.24471977,
+      "title": "Unbundling Work from Employment (2020)",
+      "url": "https://www.atelierventures.co/content/unbundling-work-from-employment"
+    },
+    {
+      "id": "2bfb948a-9820-4f08-8e8b-2e5da3e0fa4e",
+      "score": 0.22413224,
+      "title": "Read the full memo Spotify's CEO sent employees announcing it would cut 17% of its staff: 'Being lean is not just an option but a necessity'",
+      "url": "https://www.businessinsider.com/spotify-layoffs-read-memo-ceo-sent-employees-announcing-cuts-2023-12"
+    },
+    {
+      "id": "487f8d3c-c5c0-47f0-bee5-e97d8992c685",
+      "score": 0.22038478,
+      "title": "Under-Vacationed America: A State-by-State Look at Time Off (2018-08-08)| U.S. Travel Association",
+      "url": "https://www.ustravel.org/research/under-vacationed-america-state-state-look-time"
+    },
+    {
+      "id": "8e34a5da-2a20-415d-b95b-95c439504625",
+      "score": 0.21133581,
+      "title": "Average Number of PTO Days Offered in 2025",
+      "url": "https://tesseon.com/blog/average-number-of-pto-days-offered-in-2025/"
+    },
+    {
+      "id": "48815153-c2ef-401e-af80-93743f082bb5",
+      "score": 0.18238217,
+      "title": "Under-Vacationed America:",
+      "url": "https://www.ustravel.org/system/files/media_root/document/PTO-UnderVacationed-States2018.pdf"
+    },
+    {
+      "id": "ebac19fd-ee06-4971-97f8-3f7b8ed71c69",
+      "score": 0.18007815,
+      "title": "THE STATE OF AMERICAN VACATION 2017",
+      "url": "https://www.ustravel.org/sites/default/files/media_root/document/2017_May 23_Research_State of American Vacation 2017.pdf"
+    },
+    {
+      "id": "bfe3984d-0dfc-46bd-a5a1-f58fbac42877",
+      "score": 0.15422338,
+      "title": "Spotify Lays Off 17% Of Its Staff",
+      "url": "https://metalinjection.net/its-just-business/spotify-lays-off-17-of-its-staff"
+    },
+    {
+      "id": "a8aa0fbb-c636-496b-8645-10af6631e2af",
+      "score": 0.15376535,
+      "title": "Spotify Lays Off 17% of Workforce, CEO Explains It\u2019s for Typically Cynical Corporate Reasons",
+      "url": "https://www.metalsucks.net/2023/12/05/spotify-lays-off-17-of-workforce-ceo-explains-its-for-typically-cynical-corporate-reasons/"
+    },
+    {
+      "id": "0ab9325f-4c32-4c51-b48e-692ee8c53886",
+      "score": 0.14999175,
+      "title": "How Many Days of PTO Is Normal?",
+      "url": "https://buddypunch.com/blog/how-many-vacation-days-per-year-is-normal/"
+    },
+    {
+      "id": "ae5c05db-edc7-41f6-822b-7cd922370d7b",
+      "score": 0.103939675,
+      "title": "Table 5. Average paid holidays and days of vacation and sick leave for full-time employees",
+      "url": "https://www.bls.gov/news.release/ebs.t05.htm"
+    },
+    {
+      "id": "d13fd0c2-d1b6-4e85-bcb0-c5a245ffb5a4",
+      "score": 0.085962325,
+      "title": "Report: Business taxes hit a record low under Trump - AOL",
+      "url": "https://www.aol.com/article/finance/2019/04/10/business-taxes-hit-a-record-low-under-trump/23709407/"
+    },
+    {
+      "id": "f5807a25-8c8e-4af3-97b9-853059f7452d",
+      "score": 0.07990414,
+      "title": "Paid leave benefits: Average number of sick and vacation days by length of service requirement",
+      "url": "https://www.bls.gov/charts/employee-benefits/paid-leave-sick-vacation-days-by-service-requirement.htm"
+    }
+  ]
+}

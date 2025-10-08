@@ -1,0 +1,754 @@
+{
+  "id": "e81c7d2b-8b75-4ca9-bd5d-d9010349ed16",
+  "status": "completed",
+  "content": "FALSE.\n\nThe assertion that tarantulas possess acute night vision is factually incorrect[1][2][3]. Analysis of their sensory biology, ocular anatomy, and hunting behavior demonstrates that while many are nocturnal, they have extremely poor visual acuity and rely primarily on mechanoreception\u2014the sense of touch via vibrations\u2014to perceive their environment and hunt[4][5]. Their eyes serve as a backup system, capable of detecting little more than light, darkness, and motion within a very short range[6][3].\n\n## Visual Acuity and Resolution\n\nA tarantula's vision is not \"acute\" by any standard; it is exceptionally poor and blurry[7]. While they have eight eyes, these are simple eyes, sometimes described as \"eye spots\" that lack a focusing element to form a detailed image[6][8].\n\n*   **Quantitative Acuity:** The visual acuity of a tarantula's primary eyes is estimated to be around 20/6000, which is 100 times worse than the 20/60 vision that would require a human to wear glasses[3].\n*   **Effective Range:** They are extremely nearsighted and cannot see clearly beyond a few inches from their bodies[3]. Their vision is limited to perceiving shapes and motion only when objects are very close[7].\n*   **Eye Function:** Tarantulas have two larger primary eyes (anterior medians) that produce the sharpest\u2014albeit still extremely low-resolution\u2014images[3][9]. The other three pairs of secondary eyes are specialized for detecting movement and shifts in light but not for resolving detail[3].\n*   **Color Vision:** Tarantulas are completely colorblind and see the world only in shades of blue, as their eyes lack the photoreceptor cells for red and green light[3].\n\n## Primary Sensory Modalities\n\nTouch is a tarantula's keenest and primary sense, superseding vision for hunting, navigation, and environmental perception[4][1][10].\n\n*   **Setae (Sensory Hairs):** A tarantula's body is covered in thousands of sensitive hairs or bristles called setae[11]. These organs are used to detect vibrations, air currents, wind direction, chemical signatures like pheromones, and possibly sound[4][12]. Specialized \"taste hairs\" near their feet and mouth allow them to taste their environment[13][14]. With their legs spread, tarantulas can effectively triangulate the location and size of prey in complete darkness using vibrations alone[15].\n*   **Hunting Strategy:** Tarantulas are typically nocturnal \"sit-and-wait\" or ambush predators[2][16]. They do not use webs to ensnare prey but instead hunt by detecting vibrations given off by the movement of prey like insects, beetles, and small rodents[10][17]. Many species line their burrows with silk and spin \"trip wires\" at the entrance; when prey touches these threads, the vibrations alert the spider inside[13][18]. Their movement is often slow and deliberate to better sense these vibrations before they quickly pounce on a detected victim[2].\n\n## Anatomy for Low-Light Vision\n\nWhile tarantulas are primarily nocturnal, their ocular anatomy does not support the \"acute\" night vision seen in other specialized nocturnal hunters[19][3].\n\n### The Tapetum Lucidum\n\nThe tapetum lucidum is a reflective layer behind the retina that increases the amount of light available to photoreceptors, enhancing vision in low-light conditions[20][21].\n\n*   **Presence in Tarantulas:** Tarantulas, as part of the Mygalomorphae infraorder, possess a \"primitive-type\" tapetum lucidum[22][23]. This structure is a simple sheet behind the retina[22]. It is only found in their secondary eyes; their primary (main) eyes, which are responsible for image formation, lack a tapetum entirely[9][22].\n*   **Comparative Efficiency:** The \"primitive-type\" tapetum is structurally less complex and considered less efficient than the \"grate-type\" tapetum found in spiders known for their excellent night vision, such as wolf spiders (Lycosidae)[9][24]. Some highly specialized nocturnal spiders, like the net-casting spider (*Deinopis*), achieve exceptional night vision through massively enlarged lenses and the nightly production of a large, light-sensitive membrane, rather than a tapetum[25][26].\n\n### Photoreceptor Cells\n\nThe specific ultrastructure of photoreceptor cells in tarantulas (family Theraphosidae) is not detailed in the provided research, but general principles of spider vision and behavioral evidence suggest their retinas are not optimized for high-sensitivity night vision. Invertebrate photoreceptors are known as rhabdoms, which are structurally different from the rod and cone cells of vertebrates[27]. While some spiders possess a full complement of opsins (light-sensitive proteins), the functional application in tarantulas points away from acute vision[28]. Their reliance on mechanoreception indicates their photoreceptors do not provide the high-sensitivity, low-light performance characteristic of animals with true night vision.\n\n## Behavioral and Comparative Evidence\n\nNo experimental studies in the provided materials, such as eye-occlusion tests, have been conducted on tarantulas to isolate the role of vision in nocturnal hunting[30]. However, available behavioral descriptions consistently show a primary dependence on non-visual senses[30].\n\n*   **Tarantula Behavior:** Tarantulas are described as \"practically blind\" sit-and-wait predators whose ability to detect prey is limited by vibrations[30]. One study noted that the tarantula *Lasiodora parahybana* uses vibrations mainly, with some potential use of sound or sound combined with vision, but not vision alone[30].\n*   **Contrast with Other Spiders:** The capabilities of tarantulas stand in stark contrast to other nocturnal spiders. For example, net-casting spiders (*Deinopis spinosa*) have enormous posterior median eyes and rely heavily on visual cues to hunt cursorial prey at night[31][32]. Eye-occlusion experiments on *Deinopis* prove they are significantly less effective at foraging when their large eyes are covered[33]. This experimental evidence of vision-dependent nocturnal hunting in other spiders highlights its absence in the described behavior of tarantulas.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "a410f906-c772-438d-acda-60e6885a8b1b",
+      "score": 0.8573986,
+      "title": "Tarantulas - Wild Animals News & Facts",
+      "url": "https://www.adoptananimalkits.com/advocate/wild-animals/params/post/1294260/tarantulas",
+      "citation_index": 1
+    },
+    {
+      "id": "77afecd0-38b2-4686-8294-076faef0205a",
+      "score": 0.70483154,
+      "title": "Tarantulas: Everything you need to know | Western",
+      "url": "https://www.westernexterminator.com/spiders/everything-you-should-know-about-tarantulas",
+      "citation_index": 2
+    },
+    {
+      "id": "23c1a5ae-38e2-4b66-b711-63169b692922",
+      "score": 0.8464638,
+      "title": "How Tarantulas See the World",
+      "url": "https://www.youtube.com/watch?v=KcIgiKV7DtY",
+      "citation_index": 3
+    },
+    {
+      "id": "638f3ad2-1c21-411a-a046-a31287526920",
+      "score": 0.83290404,
+      "title": "Tarantula - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tarantula",
+      "citation_index": 4
+    },
+    {
+      "id": "9a51cba8-9ed0-4274-9304-0ceb1739bd24",
+      "score": 0.7587435,
+      "title": "Tarantula Behavior Explained: A Guide for New Pet Owners | Spiders Web HQ",
+      "url": "https://spiderswebhq.com/behavior-of-tarantulas/",
+      "citation_index": 5
+    },
+    {
+      "id": "f698c372-75d1-43e9-baf5-8b7129103083",
+      "score": 0.6641271,
+      "title": "Tarantula Anatomy | Blue Planet Aquarium",
+      "url": "https://www.blueplanetaquarium.com/education/tarantula-anatomy-learn-all-about-the-furry-friends-bodies/",
+      "citation_index": 6
+    },
+    {
+      "id": "52b413d8-5bcd-412f-95d0-40e49bd9b523",
+      "score": 0.8415267,
+      "title": "How Many Eyes Does a Tarantula Have? - A-Z Animals",
+      "url": "https://a-z-animals.com/blog/how-many-eyes-does-a-tarantula-have/",
+      "citation_index": 7
+    },
+    {
+      "id": "5f1a1640-0f00-40c4-95f2-34a1101e671c",
+      "score": 0.7311551,
+      "title": "Why are tarantulas essentially blind despite having so many eyes? - Quora",
+      "url": "https://www.quora.com/Why-are-tarantulas-essentially-blind-despite-having-so-many-eyes",
+      "citation_index": 8
+    },
+    {
+      "id": "5d57672c-04ba-4597-b46a-70b4eb96355b",
+      "score": 0.6364215,
+      "title": "Spider vision - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spider_vision",
+      "citation_index": 9
+    },
+    {
+      "id": "8c987642-20b2-48a7-8ab6-b6a32b1a185c",
+      "score": 0.85567063,
+      "title": "Tarantulas - Wild Animals News & Facts",
+      "url": "https://www.earthandanimals.com/advocate/wild-animals/params/post/1294260/tarantulas",
+      "citation_index": 10
+    },
+    {
+      "id": "a4ff8a59-872a-423a-895e-d97e765deb4b",
+      "score": 0.60498303,
+      "title": "Tarantula (U.S. National Park Service)",
+      "url": "https://www.nps.gov/articles/tarantula.htm",
+      "citation_index": 11
+    },
+    {
+      "id": "dd172236-3430-4881-8d30-cb5b75c5bce8",
+      "score": 0.82728493,
+      "title": "Tarantulas - Wild Animals News & Facts",
+      "url": "https://www.earthandanimals.com/advocate/wild-animals/params/post/1294260/tarantulas&sa=U",
+      "citation_index": 12
+    },
+    {
+      "id": "e78ebee0-f301-46e5-a767-d9873ad458fb",
+      "score": 0.81025416,
+      "title": "Tarantula - Lindsay Wildlife Experience",
+      "url": "https://lindsaywildlife.org/animal-ambassador/tarantula/",
+      "citation_index": 13
+    },
+    {
+      "id": "de741347-5c1c-48ff-8731-6b7d64bc7f1b",
+      "score": 0.69498676,
+      "title": "Tarantulas and Other Spiders - Pinnacles National Park (U.S. National Park Service)",
+      "url": "https://www.nps.gov/pinn/learn/nature/tarantula.htm",
+      "citation_index": 14
+    },
+    {
+      "id": "65e79d0b-dce0-4715-8a9e-c9ea386b5f6a",
+      "score": 0.59796065,
+      "title": "Can tarantulas sense certain things? | Arachnoboards",
+      "url": "https://arachnoboards.com/threads/can-tarantulas-sense-certain-things.225403/",
+      "citation_index": 15
+    },
+    {
+      "id": "119f14b9-2a88-4bd9-914b-d6c2a79597ff",
+      "score": 0.63316137,
+      "title": "Tarantula facts: size, diet, habitat - and why they're so feared",
+      "url": "https://www.discoverwildlife.com/animal-facts/insects-invertebrates/tarantula-facts",
+      "citation_index": 16
+    },
+    {
+      "id": "0a5b226a-64f6-4d9c-96ce-c4d3c194c5ab",
+      "score": 0.22671553,
+      "title": "Tarantula Tactics: Nature's Master Hunters Revealed! \ud83d\udd77\ufe0f\u2728",
+      "url": "https://www.youtube.com/watch?v=bFg0fZsIyYk",
+      "citation_index": 17
+    },
+    {
+      "id": "64cd3c98-6bb5-43e8-9f3b-7bd37f71dcd9",
+      "score": 0.23356688,
+      "title": "Tarantulas | National Geographic | National Geographic",
+      "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/tarantulas",
+      "citation_index": 18
+    },
+    {
+      "id": "9b0523d0-0de0-4e34-ba1f-e147596828f6",
+      "score": 0.088481195,
+      "title": "Tarantula Fact Sheet",
+      "url": "https://www.desertmuseum.org/kids/oz/long-fact-sheets/tarantula.php",
+      "citation_index": 19
+    },
+    {
+      "id": "87edc5a9-f966-4261-9821-07099fd82769",
+      "score": 0.55391616,
+      "title": "Spider Eyes \u2013 How Many Eyes Does a Spider Have?",
+      "url": "https://animalhotels.com/gb/blog/spiders-and-insects/spider-eyes-how-many-eyes-does-a-spider-have",
+      "citation_index": 20
+    },
+    {
+      "id": "ec7cc683-2368-4c83-85af-6e4c7dc022e4",
+      "score": 0.4023222,
+      "title": "Tapetum lucidum - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/tapetum-lucidum",
+      "citation_index": 21
+    },
+    {
+      "id": "4873b881-2302-4198-86bc-c869945dfb5e",
+      "score": 0.63615024,
+      "title": "Tapetum lucidum - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tapetum_lucidum",
+      "citation_index": 22
+    },
+    {
+      "id": "118f593c-ece3-41c9-88d1-819717be82f3",
+      "score": 0.45638612,
+      "title": "Mygalomorphae - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mygalomorphae",
+      "citation_index": 23
+    },
+    {
+      "id": "2ea0ace2-4119-407b-93ee-8a5cf6588cdd",
+      "score": 0.34197846,
+      "title": "Reflections on the tapetum lucidum and eyeshine in lycosoid spiders | Request PDF",
+      "url": "https://www.researchgate.net/publication/270176438_Reflections_on_the_tapetum_lucidum_and_eyeshine_in_lycosoid_spiders",
+      "citation_index": 24
+    },
+    {
+      "id": "92a598c6-f615-4d8d-93e1-8f58f449f976",
+      "score": 0.3992968,
+      "title": "Spider anatomy - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spider_anatomy",
+      "citation_index": 25
+    },
+    {
+      "id": "158eb80c-2e27-4cad-a769-4649072d9135",
+      "score": 0.43856934,
+      "title": "How spiders see the world - The Australian Museum",
+      "url": "https://australian.museum/learn/animals/spiders/how-spiders-see-the-world/",
+      "citation_index": 26
+    },
+    {
+      "id": "2ce0d3e7-9879-4d1a-b4cc-361ffec098ad",
+      "score": 0.19424585,
+      "title": "Photoreception - Light, Vision, Photopigments | Britannica",
+      "url": "https://www.britannica.com/science/photoreception/Structure-and-function-of-photoreceptors",
+      "citation_index": 27
+    },
+    {
+      "id": "ccfe781b-bb74-4343-a649-4e101e338a9c",
+      "score": 0.6304352,
+      "title": "(PDF) Distributed Vision in Spiders",
+      "url": "https://www.researchgate.net/publication/369615614_Distributed_Vision_in_Spiders",
+      "citation_index": 28
+    },
+    {
+      "id": "c4889619-5195-4e77-a19f-1b1b6a207195",
+      "score": 0.49494705,
+      "title": "How does Tarantula Lasiodora parahybena Mello Leitto ...",
+      "url": "https://www.researchgate.net/publication/234138814_How_does_Tarantula_Lasiodora_parahybena_Mello_Leitto_Aranea_Theraphosidae_detect_its_prey",
+      "citation_index": 30
+    },
+    {
+      "id": "e17f787c-c1ba-46b0-b446-be64cdfece7b",
+      "score": 0.63615024,
+      "title": "Nocturnal foraging enhanced by enlarged secondary eyes in ...",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rsbl.2016.0152",
+      "citation_index": 31
+    },
+    {
+      "id": "bffc72d8-ae24-4d2e-a81d-35ddfb8f87d5",
+      "score": 0.42076674,
+      "title": "Nocturnal foraging enhanced by enlarged secondary eyes in a net-casting spider - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4892245/",
+      "citation_index": 32
+    },
+    {
+      "id": "4dca24d5-dd2d-4cbf-b234-d9a86d4fb8bc",
+      "score": 0.5530473,
+      "title": "Testing proves giant eyes of net-casting spider help with nocturnal foraging",
+      "url": "https://phys.org/news/2016-05-giant-eyes-net-casting-spider-nocturnal.html",
+      "citation_index": 33
+    },
+    {
+      "id": "1007dc61-baa5-40b8-904e-549087669f38",
+      "score": 0.8306082,
+      "title": "Unveiling and Exploring the Mysteries of Tarantula Eyes",
+      "url": "https://empiretarantula.com/tarantula-eyes/"
+    },
+    {
+      "id": "6ab2d5e3-5a60-4ac0-8f94-e9f9fa90f98f",
+      "score": 0.7511561,
+      "title": "Visual odometry in the wolf spider Lycosa tarantula (Araneae",
+      "url": "https://journals.biologists.com/jeb/article/217/3/395/12982/Visual-odometry-in-the-wolf-spider-Lycosa"
+    },
+    {
+      "id": "cc4f29e2-ba00-4dc5-b6a1-435a87617808",
+      "score": 0.7101667,
+      "title": "Research | Sebastian Echeverri",
+      "url": "https://www.spiderdaynightlive.com/research/"
+    },
+    {
+      "id": "a8c2a2c2-1e20-4cf2-95e5-2873f885916a",
+      "score": 0.6952351,
+      "title": "How Tarantulas Hunt | Arachnoboards",
+      "url": "https://arachnoboards.com/threads/how-tarantulas-hunt.336609/"
+    },
+    {
+      "id": "8befa338-f5e3-4f28-8fd3-10f1574bc993",
+      "score": 0.66308063,
+      "title": "Tarantula vision. | Arachnoboards",
+      "url": "https://arachnoboards.com/threads/tarantula-vision.333558/"
+    },
+    {
+      "id": "c83faeb8-94f9-45d8-bea2-25c2e89a902d",
+      "score": 0.60386235,
+      "title": "Anterior lateral eyes of Lycosa tarantula (Araneae: Lycosidae) are used during orientation to detect changes in the visual structure of the substratum | Journal of Experimental Biology | The Company of Biologists",
+      "url": "https://journals.biologists.com/jeb/article/214/14/2375/921/Anterior-lateral-eyes-of-Lycosa-tarantula-Araneae"
+    },
+    {
+      "id": "dda0ec9d-78b0-49be-a295-ecb38413289c",
+      "score": 0.5829428,
+      "title": "Role of Vision and Mechanoreception in Bed Bug, Cimex lectularius L. Behavior - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4351988/"
+    },
+    {
+      "id": "45dca347-81ff-4819-afd7-0a3105dba70d",
+      "score": 0.572078,
+      "title": "Photoreceptor cell types in the retina of the tuatara (Sphenodon punctatus) have cone characteristics - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15896966/"
+    },
+    {
+      "id": "a4db951e-12f9-48ad-9ad1-52494376db54",
+      "score": 0.57006866,
+      "title": "Structural specialization in the dorsal retina of the bee, Apis mellifera - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1175219/"
+    },
+    {
+      "id": "6767cbc2-aade-4bf7-8dbc-de8cba533a99",
+      "score": 0.56719416,
+      "title": "Role of the different eyes in the visual odometry in the wolf ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28100804/"
+    },
+    {
+      "id": "6e4f6863-2892-4b84-90d8-c6cb41b8ef8a",
+      "score": 0.5663309,
+      "title": "The evolutionary diversity of insect retinal mosaics ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0168952515000815"
+    },
+    {
+      "id": "d8c6996f-361c-4184-8aeb-15149b6ca8f6",
+      "score": 0.5376489,
+      "title": "(PDF) Nocturnal foraging enhanced by enlarged secondary eyes in a net-casting spider",
+      "url": "https://www.researchgate.net/publication/303412095_Nocturnal_foraging_enhanced_by_enlarged_secondary_eyes_in_a_net-casting_spider"
+    },
+    {
+      "id": "32538559-cc7a-4656-afc0-8edb72640521",
+      "score": 0.53415143,
+      "title": "Cone cell - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cone_cell"
+    },
+    {
+      "id": "b171b48a-5c87-4a2c-9420-de17663b7035",
+      "score": 0.53400564,
+      "title": "Photoreceptor cell - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Photoreceptor_cell"
+    },
+    {
+      "id": "ad498673-0625-4755-9304-1692eae0d6e1",
+      "score": 0.5249554,
+      "title": "Is there a visual representation of how a tarantula sees?",
+      "url": "https://arachnoboards.com/threads/is-there-a-visual-representation-of-how-a-tarantula-sees.290647/"
+    },
+    {
+      "id": "e3b8ef7f-7dff-4a2c-84b9-fe93e24f0fea",
+      "score": 0.51325434,
+      "title": "Retinal adaptation to dim light vision in spectacled caimans (Caiman crocodilus fuscus): Analysis of retinal ultrastructure - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9930524/"
+    },
+    {
+      "id": "fc99468d-ef13-4ab2-beeb-afc59353f26e",
+      "score": 0.50769037,
+      "title": "Functional architecture of the mammalian retina - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2006220/"
+    },
+    {
+      "id": "526069e6-4e88-4379-9825-d8c229a8341a",
+      "score": 0.50490767,
+      "title": "Spider - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spider"
+    },
+    {
+      "id": "e1755690-b5f8-40f7-98d7-69815a81c194",
+      "score": 0.49948794,
+      "title": "Tapetum lucidum | Animal Database | Fandom",
+      "url": "https://animals.fandom.com/wiki/Tapetum_lucidum"
+    },
+    {
+      "id": "aa30ec16-1ef2-4435-bd6d-a2d8b278772e",
+      "score": 0.49450764,
+      "title": "The Anatomy of a Tarantula & Spider Biology",
+      "url": "https://www.youtube.com/watch?v=ZNm9kMaIGrk"
+    },
+    {
+      "id": "b2e1593c-a008-4682-8dfb-6f170573d351",
+      "score": 0.4921643,
+      "title": "The mammalian photoreceptor mosaic-adaptive design - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11029553/"
+    },
+    {
+      "id": "47ab09d1-d4a2-4707-8593-e065eda2d78a",
+      "score": 0.4874788,
+      "title": "Role of the different eyes in the visual odometry in the wolf ...",
+      "url": "https://journals.biologists.com/jeb/article/220/2/259/18622/Role-of-the-different-eyes-in-the-visual-odometry"
+    },
+    {
+      "id": "821083be-3524-4744-9718-e63c74d8ad62",
+      "score": 0.47621483,
+      "title": "Vision: The Retina \u2013 Foundations of Neuroscience",
+      "url": "https://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/"
+    },
+    {
+      "id": "4162586c-65b0-449c-9f06-c6634c2a49df",
+      "score": 0.47314653,
+      "title": "absence or presence of tapetum lucidum: macro and",
+      "url": "https://www.slovetres.si/index.php/VMHE/article/view/653/140"
+    },
+    {
+      "id": "4a8f64b7-375b-4cfa-a9e0-d0115018fb39",
+      "score": 0.4627892,
+      "title": "Photoreceptor projection from a four-tiered retina to four distinct regions of the first optic ganglion in a jumping spider - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30458068/"
+    },
+    {
+      "id": "b29fa261-404e-4b5a-a1c1-9ed45b24f1b8",
+      "score": 0.43467787,
+      "title": "Functional characterization of optic photoreception in Lymnaea stagnalis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11556747/"
+    },
+    {
+      "id": "46ab343c-b869-4bf7-a555-66127c4b6757",
+      "score": 0.43194416,
+      "title": "Morphology of invertebrate photoreceptors - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7098862/"
+    },
+    {
+      "id": "454e6b32-531c-4b96-a496-3ac574e09ab7",
+      "score": 0.4292146,
+      "title": "Behavioral, Morphological and Physiological Correlates of Diurnal and Nocturnal Vision in Selected Wading Bird Species | Brain Behavior and Evolution | Karger Publishers",
+      "url": "https://karger.com/bbe/article-abstract/53/5-6/227/46490/Behavioral-Morphological-and-Physiological"
+    },
+    {
+      "id": "1046cce8-58fe-40c0-9fd4-71a4ccb2515b",
+      "score": 0.42663267,
+      "title": "Photoreceptor Cell - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/immunology-and-microbiology/photoreceptor-cell"
+    },
+    {
+      "id": "fb642e69-3b96-49f9-8399-41ba46cf5e1c",
+      "score": 0.42477044,
+      "title": "Photoreceptors: Rods and cones",
+      "url": "https://www.kenhub.com/en/library/physiology/photoreceptors"
+    },
+    {
+      "id": "ee61a778-f630-4ae0-a4d5-3e56b3fbf4d1",
+      "score": 0.42262435,
+      "title": "Mygalomorphae - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/mygalomorphae"
+    },
+    {
+      "id": "a865cc1a-5c06-43a7-a08b-f2546fa5d239",
+      "score": 0.42205253,
+      "title": "Exploring the role of vision in social foraging: what happens to group size, vigilance, spacing, aggression and habitat use in birds and mammals that forage at night? - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17624965/"
+    },
+    {
+      "id": "8d1c21a7-ab12-427f-a4d3-1f097d71760d",
+      "score": 0.41506538,
+      "title": "A trap and a lure: dual function of a nocturnal animal ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0003347217301914"
+    },
+    {
+      "id": "894bf0c7-60de-4ddb-b806-4eaf01a806fe",
+      "score": 0.41435426,
+      "title": "Morphological and physiological studies of rod-driven horizontal cells with special reference to the question of whether they have axons and axon terminals - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3819018/"
+    },
+    {
+      "id": "ee0d09b1-4f5d-4c3e-9a88-1bf4f880dfc5",
+      "score": 0.3899187,
+      "title": "Deceptive color signaling in the night: a nocturnal predator ...",
+      "url": "https://academic.oup.com/beheco/article/19/2/237/212321"
+    },
+    {
+      "id": "7b2cc1f6-0d8d-49cf-b47c-77fa02860239",
+      "score": 0.37627983,
+      "title": "Comparative morphology of the tapetum lucidum (among selected species) - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14738502/"
+    },
+    {
+      "id": "8b7c06c2-0a6c-41e0-8179-83c330ac4b5d",
+      "score": 0.37298524,
+      "title": "(PDF) Role of Vision and Mechanoreception in Bed Bug, Cimex lectularius L. Behavior",
+      "url": "https://www.researchgate.net/publication/273325793_Role_of_Vision_and_Mechanoreception_in_Bed_Bug_Cimex_lectularius_L_Behavior"
+    },
+    {
+      "id": "c8740e75-dd14-4a5d-863f-516a47015e0e",
+      "score": 0.37100044,
+      "title": "Photoreceptors - All About Vision",
+      "url": "https://www.allaboutvision.com/eye-care/eye-anatomy/eye-structure/photoreceptors/"
+    },
+    {
+      "id": "5fb588b6-cfb6-4f17-b99d-f36e9306be98",
+      "score": 0.36683974,
+      "title": "Dim-light vision in jumping spiders (Araneae, Salticidae): identification of prey and rivals - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6526699/"
+    },
+    {
+      "id": "c6aac802-8969-451f-b32c-90a8774500ae",
+      "score": 0.3656158,
+      "title": "Nocturnal Animal - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/nocturnal-animal"
+    },
+    {
+      "id": "87f5fbd5-c4b6-426b-a607-2478a26dad69",
+      "score": 0.36466494,
+      "title": "Mygalomorphae",
+      "url": "http://tolweb.org/Mygalomorphae/2641"
+    },
+    {
+      "id": "b3541ce7-66c3-4350-b11d-c608718b808b",
+      "score": 0.3546794,
+      "title": "The Night Begins to Shine: The Tapetum Lucidum and Our Backward Retinas | Skeptical Inquirer",
+      "url": "https://skepticalinquirer.org/2022/12/the-night-begins-to-shine-the-tapetum-lucidum-and-our-backward-retinas/"
+    },
+    {
+      "id": "68e2d63c-b7a4-4888-aeec-1254140c19b3",
+      "score": 0.35327253,
+      "title": "(PDF) Photoreceptor projection from a four-tiered retina to ...",
+      "url": "https://www.researchgate.net/publication/329078308_Photoreceptor_projection_from_a_four-tiered_retina_to_four_distinct_regions_of_the_first_optic_ganglion_in_a_jumping_spider"
+    },
+    {
+      "id": "de1f3bf0-8d54-4001-a0ca-af71c14ed6a9",
+      "score": 0.35293794,
+      "title": "Is a spider's vision stitched together like ours? : r/askscience",
+      "url": "https://www.reddit.com/r/askscience/comments/a0v8wy/is_a_spiders_vision_stitched_together_like_ours/"
+    },
+    {
+      "id": "cf72f50c-62f0-4a62-a2f2-335bf6a3bf31",
+      "score": 0.34534863,
+      "title": "Comparative morphology of the tapetum lucidum (among selected species) - Ollivier - 2004 - Veterinary Ophthalmology - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-5224.2004.00318.x"
+    },
+    {
+      "id": "3b575c4d-d7be-4b70-b978-99a11a6fdac8",
+      "score": 0.3365932,
+      "title": "Spectral sensitivities of photoreceptor in the ocelli of ...",
+      "url": "https://www.americanarachnology.org/journal-joa/joa-all-articles/article/download/JoA_v17_p195.pdf/?no_cache=1"
+    },
+    {
+      "id": "8d64cde9-96fd-4506-8d05-3fc12a9e2d8a",
+      "score": 0.33489442,
+      "title": "Tapestry of Light | The Outside Story",
+      "url": "https://northernwoodlands.org/outside_story/article/tapestry-of-light"
+    },
+    {
+      "id": "8cc50f40-8158-453f-9229-0d9f8aaaee44",
+      "score": 0.324664,
+      "title": "Photoreceptors - American Academy of Ophthalmology",
+      "url": "https://www.aao.org/eye-health/anatomy/photoreceptors"
+    },
+    {
+      "id": "6792eab4-4c3a-4a89-9097-a26eada4f465",
+      "score": 0.31779715,
+      "title": "Reflections on the tapetum lucidum and eyeshine in lycosoid spiders on JSTOR",
+      "url": "https://www.jstor.org/stable/23610234"
+    },
+    {
+      "id": "1e648c66-aa30-4591-86bf-a85497fb99b3",
+      "score": 0.31595805,
+      "title": "All About Spider Eyes: What Can They See?",
+      "url": "https://www.tarantulaheaven.com/all-about-spider-eyes-what-can-they-see/"
+    },
+    {
+      "id": "96cdbc5c-342c-499c-b22f-7d6486f9707a",
+      "score": 0.30844066,
+      "title": "Photoreceptors",
+      "url": "https://www.youtube.com/watch?v=pLPDaKXcWzY"
+    },
+    {
+      "id": "f0798a32-60f1-4c4b-a653-454c346045ff",
+      "score": 0.30557346,
+      "title": "\"Tarantula eyes' - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8957967/"
+    },
+    {
+      "id": "00881077-942c-4c21-905b-e579a98ec95d",
+      "score": 0.30290684,
+      "title": "Comparative morphology of the tapetum lucidum (among selected species) | Request PDF",
+      "url": "https://www.researchgate.net/publication/8906264_Comparative_morphology_of_the_tapetum_lucidum_among_selected_species"
+    },
+    {
+      "id": "a82cf871-0807-4cc0-949b-68136bbb32cd",
+      "score": 0.29664963,
+      "title": "Record breaking achievements by spiders and the scientists who study them - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5668680/"
+    },
+    {
+      "id": "ba0c4efd-d78d-4cea-8a65-b3fe30161fd0",
+      "score": 0.29310137,
+      "title": "Restoration of photoreceptor ultrastructure and function in retinal degeneration slow mice by gene therapy - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10888879/"
+    },
+    {
+      "id": "f4c7e6d8-f723-45e8-bb15-7d078b06108d",
+      "score": 0.28587058,
+      "title": "Photoreceptors (Rods & Cones): Anatomy & Function",
+      "url": "https://my.clevelandclinic.org/health/body/photoreceptors-rods-and-cones"
+    },
+    {
+      "id": "707636cd-1f97-4a45-92eb-7a430354b1ac",
+      "score": 0.2851385,
+      "title": "Spider anatomy | Spiderpedia Wiki | Fandom",
+      "url": "https://spiderpedia.fandom.com/wiki/Spider_anatomy"
+    },
+    {
+      "id": "0c0562bc-c543-43b5-8203-ee312d8f79af",
+      "score": 0.28148013,
+      "title": "A re-evaluation of the role of vision in the activity and communication of nocturnal primates - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16415577/"
+    },
+    {
+      "id": "a2d5aa6b-1883-4e02-8317-86fc9bc2faae",
+      "score": 0.27733642,
+      "title": "Phototransduction and Visual processing",
+      "url": "https://www.youtube.com/watch?v=EcpPFkzuNNM"
+    },
+    {
+      "id": "51223a4e-c700-44d7-a0b2-b4908f85bc5f",
+      "score": 0.27150863,
+      "title": "vision and visual behaviour in nocturnal bees and wasps",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18490389/"
+    },
+    {
+      "id": "8e2a922f-749a-4b2b-b762-ea17c398cc61",
+      "score": 0.26744092,
+      "title": "Vision in the nocturnal wandering spider Leucorchestris ...",
+      "url": "https://www.researchgate.net/publication/5571498_Vision_in_the_nocturnal_wandering_spider_Leucorchestris_arenicola_Araneae_Sparassidae"
+    },
+    {
+      "id": "a628542e-85c3-401d-ac07-6943515a2ea4",
+      "score": 0.23612009,
+      "title": "Vision-mediated courtship in a nocturnal arthropod - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0003347218301994"
+    },
+    {
+      "id": "e0e06011-8a5d-44ae-8a5d-defb1fa82ac2",
+      "score": 0.2252295,
+      "title": "Neuroanatomy, Retina - StatPearls",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545310/"
+    },
+    {
+      "id": "338c06be-52d2-42cd-8256-fc9cac74413a",
+      "score": 0.21499655,
+      "title": "Neural activity associated with monitoring the oscillating threat value of a tarantula - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21059963/"
+    },
+    {
+      "id": "ba651e2d-4b48-4ac1-886e-d76e69c05c48",
+      "score": 0.21236303,
+      "title": "Spider vision: Current Biology",
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(20)31067-8"
+    },
+    {
+      "id": "b69a7f20-1b2c-414b-a8d2-a47d40b03495",
+      "score": 0.20798618,
+      "title": "Molecular Evolution of Spider Vision: New Opportunities, ...",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/693977"
+    },
+    {
+      "id": "5fef1fe7-2012-49a6-bbeb-f775849dd0f3",
+      "score": 0.20692645,
+      "title": "See the world through a jumping spider\u2019s eyes \u2014 and other senses",
+      "url": "https://www.snexplores.org/article/jumping-spider-vision-eyes-color-senses-hearing-mating-courtship"
+    },
+    {
+      "id": "1f38a4f7-83b7-4910-a847-bdd1eea2d6ec",
+      "score": 0.20074598,
+      "title": "The Major Cell Populations of the Mouse Retina | Journal of Neuroscience",
+      "url": "https://www.jneurosci.org/content/18/21/8936"
+    },
+    {
+      "id": "6f984da2-356b-46f8-b716-08e6768812d6",
+      "score": 0.19678025,
+      "title": "Intracellular staining of physiologically identified photoreceptor cells and hyperpolarizing interneurons in the teleost pineal organ - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3405424/"
+    },
+    {
+      "id": "5ae46bfb-b0fb-437d-a944-7ce3826e3e76",
+      "score": 0.19178173,
+      "title": "Ten Things to Know About Tarantulas | AMNH",
+      "url": "https://www.amnh.org/explore/news-blogs/tarantula-facts"
+    },
+    {
+      "id": "020e5504-683a-46de-a6e6-c8325c56ef38",
+      "score": 0.18268816,
+      "title": "Spider - Nervous System, Senses, Arachnid | Britannica",
+      "url": "https://www.britannica.com/animal/spider-arachnid/Nervous-system-and-senses"
+    },
+    {
+      "id": "286655c6-a5cb-4348-a983-8a6407ba6b93",
+      "score": 0.17719813,
+      "title": "Unique ultrastructural organization of human rod ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39820780/"
+    },
+    {
+      "id": "d3338224-786a-4614-bffc-ea7d8614f7e5",
+      "score": 0.17042546,
+      "title": "Activities displayed around the burrow through juvenile",
+      "url": "https://commons.emich.edu/cgi/viewcontent.cgi?article=2597&context=theses"
+    },
+    {
+      "id": "2a5121e6-d238-4939-96de-001786633f2a",
+      "score": 0.16820042,
+      "title": "Nutrition-induced macular-degeneration-like ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0042698923000093"
+    },
+    {
+      "id": "dc687e0b-ef14-4273-a2d3-cf89fb0bf735",
+      "score": 0.16717818,
+      "title": "Artificial night light alters nocturnal prey interception ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5731334/"
+    },
+    {
+      "id": "d4774de0-755d-4f29-8ced-efa8d3115a2e",
+      "score": 0.16514862,
+      "title": "How Do We Know Tarantulas Have Bad Eyesight? | Arachnoboards",
+      "url": "https://arachnoboards.com/threads/how-do-we-know-tarantulas-have-bad-eyesight.290323/"
+    },
+    {
+      "id": "e90a2396-9482-47d2-8629-a6dbe5f4648e",
+      "score": 0.1649064,
+      "title": "Clues to a tarantula's ocular anatomy - www.photomacrography.net",
+      "url": "https://www.photomacrography.net/forum/viewtopic.php?t=22584"
+    },
+    {
+      "id": "63c73124-119c-450e-8eee-f6977aa32da4",
+      "score": 0.16162466,
+      "title": "Nocturnal hunting of a brightly coloured sit-and-wait predator - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0003347207002205"
+    },
+    {
+      "id": "c3feb1e3-1195-460d-93c6-ba076d1f9d31",
+      "score": 0.14932065,
+      "title": "Artificial night light alters nocturnal prey interception outcomes for morphologically variable spiders - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5731334/"
+    },
+    {
+      "id": "7c39f448-8f30-4eba-b384-2e2e601d568e",
+      "score": 0.14498241,
+      "title": "The roles of vision and antennal mechanoreception in hawkmoth flight control - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6303104/"
+    },
+    {
+      "id": "53c5319b-c0e8-4f05-bf27-f7794fc1fe8d",
+      "score": 0.12548296,
+      "title": "r/tarantulas on Reddit: Let\u2019s talk tarantula personality quirks!",
+      "url": "https://www.reddit.com/r/tarantulas/comments/rth11k/lets_talk_tarantula_personality_quirks/"
+    },
+    {
+      "id": "f0000150-8f1a-4c3e-8bf8-157b5fb47e77",
+      "score": 0.11090394,
+      "title": "Tarantula eye configurations vary significantly",
+      "url": "https://www.facebook.com/groups/TheEntomologyGroup/posts/10157106219973393/"
+    },
+    {
+      "id": "f67c87af-98cf-4fa3-b3e4-b03f4665060a",
+      "score": 0.10586528,
+      "title": "Eye disease associated with handling pet tarantulas: three case reports | The BMJ",
+      "url": "https://www.bmj.com/content/314/7093/1524"
+    },
+    {
+      "id": "b1b5eaa4-0485-4485-b6ae-a3a867c4fa0f",
+      "score": 0.06456509,
+      "title": "Photoreceptor Cells in the Spider Eye: Spectral Sensitivity ...",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-642-70348-5_6"
+    },
+    {
+      "id": "3c8ad2cf-dcdf-4f31-a08a-48adce4d9cf7",
+      "score": 0.051601294,
+      "title": "Night of the hunter: using cameras to quantify nocturnal activity in desert spiders - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7860110/"
+    },
+    {
+      "id": "1044e3b9-165a-4652-b87a-28b56ebc79b6",
+      "score": 0.037078608,
+      "title": "Eye shine in t's | Arachnoboards",
+      "url": "https://arachnoboards.com/threads/eye-shine-in-ts.261485/"
+    },
+    {
+      "id": "7cc76b34-89ed-4866-a1ba-03183df9a90d",
+      "score": 0.017905358,
+      "title": "Cell",
+      "url": "https://www.cell.com/current-biology/pdf/S0960-9822(20)31067-8.pdf"
+    }
+  ]
+}

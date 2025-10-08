@@ -1,0 +1,508 @@
+{
+  "id": "23deefcc-d3d9-47d3-a307-7001f3a9e235",
+  "status": "completed",
+  "content": "TRUE. The statement is factually correct [1][2]. The Nobel Assembly at Karolinska Institutet jointly awarded the 2023 Nobel Prize in Physiology or Medicine to Drs. Katalin Karik\u00f3 and Drew Weissman for their foundational discoveries concerning \"nucleoside base modifications\" [3][4]. This \"chemical tweak\" to messenger RNA (mRNA) was the critical breakthrough that enabled the rapid development of effective mRNA vaccines against COVID-19 [5][6].\n\n## Award and Recipients\n\nOn October 2, 2023, the Nobel Assembly at Karolinska Institutet in Stockholm, Sweden, announced that the Nobel Prize in Physiology or Medicine was awarded jointly to Katalin Karik\u00f3 and Drew Weissman [4][7]. Katalin Karik\u00f3 is a Hungarian-American biochemist affiliated with Szeged University in Hungary and is a senior vice president at BioNTech [8][9][en.wikipedia.org/wiki/2023_Nobel_Prize_in_Physiology_or_Medicine]. Drew Weissman is an American physician-scientist at the University of Pennsylvania's Perelman School of Medicine, where he is the Roberts Family Professor in Vaccine Research [10][8].\n\nThe two laureates shared the prize money of 11 million Swedish kronor (approximately $1 million USD) [7]. The official prize citation states the award was \"for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19\" [2][3][5].\n\n## The Scientific Breakthrough: \"Nucleoside Base Modifications\"\n\nThe core of Karik\u00f3 and Weissman's Nobel-winning work was solving a fundamental problem that had long hindered the therapeutic use of mRNA: lab-made mRNA was highly inflammatory and unstable, making it unsuitable for use in the human body [12][13].\n\n### The Problem with Unmodified mRNA\nWhen the researchers began their collaboration at the University of Pennsylvania, they observed that in vitro transcribed (lab-made) mRNA was recognized by the immune system's dendritic cells as a foreign substance [2]. This recognition triggered a strong and undesirable inflammatory response, releasing signaling molecules that could be harmful [14][2]. This immune reaction also led to inefficient production of the protein encoded by the mRNA, defeating its therapeutic purpose [14][5].\n\n### The Discovery of a \"Chemical Tweak\"\nKarik\u00f3 and Weissman hypothesized that the reason lab-made mRNA provoked an immune reaction was its lack of chemical modifications, which are frequently present in RNA from mammalian cells [2][14]. They investigated this by creating different versions of mRNA, each with unique chemical alterations to its nucleoside bases (the \"letters\" A, U, G, and C of the genetic code) [2][14].\n\nTheir seminal 2005 paper, published in the journal *Immunity*, revealed a striking result: when the nucleoside base uridine (U) was replaced with a modified version, such as pseudouridine (\u03a8), the inflammatory response was almost completely abolished [2][15][16]. This modification allowed the synthetic mRNA to evade recognition by innate immune sensors called Toll-like receptors (TLRs), particularly TLR7 and TLR8 [17][18].\n\n### Dual Benefits of the Modification\nSubsequent research by the pair in 2008 and 2010 further demonstrated that these base modifications had a second crucial benefit: they markedly increased protein production compared to unmodified mRNA [2][19]. This was because the modified mRNA avoided activating an enzyme known as PKR, which would otherwise shut down protein synthesis [2][18]. Together, these discoveries eliminated the primary obstacles to the clinical application of mRNA technology [19].\n\n## Impact on COVID-19 Vaccine Development\n\nThe discoveries made by Karik\u00f3 and Weissman fundamentally changed the scientific understanding of how mRNA interacts with the immune system [2][20]. Though their key findings were published over a decade before the COVID-19 pandemic, they provided the essential blueprint for creating safe and effective mRNA vaccines [19][2].\n\nWhen the pandemic began in early 2020, this technology\u2014licensed by companies like BioNTech and Moderna\u2014allowed for the development of vaccines at an unprecedented rate [9][2]. These vaccines, which use nucleoside-modified mRNA to instruct cells to build the SARS-CoV-2 spike protein and train the immune system, were approved by December 2020 [21]. The Nobel Committee commended the laureates for their contribution to this rapid vaccine development, which has saved millions of lives, prevented severe disease, and allowed societies to reopen [8][21].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "29c569fb-fd64-4659-9c53-457149f6595d",
+      "score": 0.9657998,
+      "title": "Nobel Prize for Physiology or Medicine 2023: Who Won? - BioTechniques",
+      "url": "https://www.biotechniques.com/molecular-biology/who-won-the-2023-nobel-prize-in-physiology-or-medicine/",
+      "citation_index": 1
+    },
+    {
+      "id": "1d15d27b-07f6-4655-919c-da7efcb66be7",
+      "score": 0.89849097,
+      "title": "Press release: The Nobel Prize in Physiology or Medicine ...",
+      "url": "https://www.nobelprize.org/prizes/medicine/2023/press-release/",
+      "citation_index": 2
+    },
+    {
+      "id": "3471b786-c505-46d9-8a2f-8030a8f2ba7a",
+      "score": 0.9505628,
+      "title": "The Nobel Prize in Physiology or Medicine 2023",
+      "url": "https://www.nobelprize.org/prizes/medicine/2023/summary/",
+      "citation_index": 3
+    },
+    {
+      "id": "7cda47c4-7b54-4403-9b8c-5e13691a5d58",
+      "score": 0.9595845,
+      "title": "The Nobel Prize Winners 2023: a snapshot of their patent footprints - Part 1 Physiology or Medicine - Spruson & Ferguson",
+      "url": "https://www.spruson.com/the-nobel-prize-winners-2023-a-snapshot-of-their-patent-footprints-part-1-physiology-or-medicine/",
+      "citation_index": 4
+    },
+    {
+      "id": "6567c051-a96b-41fe-8b47-9761b32d3716",
+      "score": 0.9014448,
+      "title": "From rejection to the Nobel Prize: Karik\u00f3 and Weissman's ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10663363/",
+      "citation_index": 5
+    },
+    {
+      "id": "530eb2ac-6ddd-4a61-b39e-1fc9e90c9e22",
+      "score": 0.90330297,
+      "title": "Katalin Karik\u00f3 and Drew Weissman win 2023 Nobel Prize in Medicine for mRNA vaccines work against COVID-19",
+      "url": "https://biospectrumindia.com/news/66/23655/katalin-karik-and-drew-weissman-win-2023-nobel-prize-in-medicine-for-mrna-vaccines-work-against-covid-19.html",
+      "citation_index": 6
+    },
+    {
+      "id": "10364eff-846d-45bb-8fb9-e5d943c2baf6",
+      "score": 0.96039474,
+      "title": "2023 Nobel Prize winners in Physiology or Medicine announced \u2013 The Oxford Student",
+      "url": "https://www.oxfordstudent.com/2023/10/05/2023-nobel-prize-winners-in-physiology-or-medicine-announced/",
+      "citation_index": 7
+    },
+    {
+      "id": "e6f9cfbf-5fcc-4f42-a3df-2f7928e3d2e6",
+      "score": 0.95857275,
+      "title": "2 scientists share 2023 Nobel Prize in Physiology or Medicine",
+      "url": "https://www.austinglobe.com/news/273986455/2-scientists-share-2023-nobel-prize-in-physiology-or-medicine",
+      "citation_index": 8
+    },
+    {
+      "id": "cc385145-30d9-44a4-91cc-f366bc06e7c9",
+      "score": 0.87605256,
+      "title": "Katalin Karik\u00f3 - Society for Brain Mapping and Therapeutics",
+      "url": "https://worldbrainmapping.org/katalin-kariko",
+      "citation_index": 9
+    },
+    {
+      "id": "0738e5a5-5c80-4ea6-9fc9-03e31ac963f4",
+      "score": 0.9652537,
+      "title": "Katalin Karik\u00f3 and Drew Weissman Named Co-Recipients ...",
+      "url": "https://pci.upenn.edu/katalin-kariko-and-drew-weissman-named-co-recipients-of-the-2023-nobel-prize-for-medicine/",
+      "citation_index": 10
+    },
+    {
+      "id": "f315c6e7-1b66-4d90-a8b8-9f6de96d55e3",
+      "score": 0.7154444,
+      "title": "Nobel Prize lecture: Katalin Karik\u00f3, Nobel Prize in Physiology or Medicine 2023",
+      "url": "https://www.youtube.com/watch?v=gPdUnYjvWxo",
+      "citation_index": 12
+    },
+    {
+      "id": "ff8adb32-79c9-4589-bfcd-d9ef4baf0fa8",
+      "score": 0.9055316,
+      "title": "The perfect storm",
+      "url": "https://www.asbmb.org/asbmb-today/science/120623/the-perfect-storm",
+      "citation_index": 13
+    },
+    {
+      "id": "8c531734-887e-4ef3-8213-4a10b809863c",
+      "score": 0.9336793,
+      "title": "2023 Nobel Prize in Medicine Awarded to mRNA Vaccine Pioneers, Katalin Karik\u00f3 and Drew Weissman",
+      "url": "https://www.youtube.com/watch?v=gyvK9MaWumA",
+      "citation_index": 14
+    },
+    {
+      "id": "53b1d304-b6e6-483b-b519-f1cd85f2b367",
+      "score": 0.8259413,
+      "title": "mRNA discovery that paved way for COVID-19 vaccines wins Nobel Prize in Physiology or Medicine | Science | AAAS",
+      "url": "https://www.science.org/content/article/mrna-discovery-paved-way-covid-19-vaccines-wins-nobel-prize-physiology-medicine",
+      "citation_index": 15
+    },
+    {
+      "id": "13a37dc4-c80e-4a8e-8572-ae2224fc6317",
+      "score": 0.7876867,
+      "title": "Nobel Winner Drew Weissman Shares 7 Insights On Future mRNA Breakthroughs",
+      "url": "https://www.forbes.com/sites/juergeneckhardt/2023/11/16/nobel-winner-drew-weissman-shares-7-insights-on-future-mrna-breakthroughs/",
+      "citation_index": 16
+    },
+    {
+      "id": "2191aeb3-420c-48e6-8bbf-545678104c67",
+      "score": 0.8849276,
+      "title": "Modified mRNA vaccines",
+      "url": "https://laskerfoundation.org/winners/modified-mrna-vaccines/",
+      "citation_index": 17
+    },
+    {
+      "id": "f7bc147f-ee80-425e-99e0-118a1e13af3d",
+      "score": 0.47212428,
+      "title": "The biochemistry behind the 2023 Nobel Prize in Medicine -  Katalin Karik\u00f3 and Drew Weissman's work",
+      "url": "https://www.youtube.com/watch?v=wXsypkQTlt8",
+      "citation_index": 18
+    },
+    {
+      "id": "bbf9b0b1-5114-4ce5-b949-18e13594a1ce",
+      "score": 0.91399205,
+      "title": "TL 2023 Nobel Prize News Spotlights Nucleoside-Modified mRNA | TriLink BioTechnologies",
+      "url": "https://www.trilinkbiotech.com/blog/2023-nobel-prize-news-spotlights-nucleoside-modified-mrna/",
+      "citation_index": 19
+    },
+    {
+      "id": "8ce33960-bb13-4ebc-9b98-34272a39f8c0",
+      "score": 0.9302622,
+      "title": "Nobel prize for medicine awarded to Katalin Karik\u00f3, Drew Weissman for research that led directly to the first mRNA vaccines to fight Covid-19 - Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/europe/nobel-prize-stockholm-medicine-physiology-sweden-karolinska-2023-katalin-karik-drew-weissman-covid-mrna-vaccine/amp_articleshow/104104370.cms",
+      "citation_index": 20
+    },
+    {
+      "id": "de89f742-4bda-42e3-99e7-709853c4ced0",
+      "score": 0.7940821,
+      "title": "Work on mRNA Vaccines lead to Nobel Prize for Medicine 2023 | Katalin Kariko and Drew Weissman",
+      "url": "https://www.youtube.com/watch?v=0udGegexryM",
+      "citation_index": 21
+    },
+    {
+      "id": "27bc6d4e-7594-4684-95cf-09d5e9a9d411",
+      "score": 0.96213967,
+      "title": "Nobel Prize Winners 2023: Physiology or Medicine | by Ontario Youth Medical Society | Medium",
+      "url": "https://ontarioyouthmedicalsociety.medium.com/nobel-prize-winners-2023-physiology-or-medicine-4e77c443a859"
+    },
+    {
+      "id": "c3fe7c11-7e3b-43fd-95db-b6f16e4dcf53",
+      "score": 0.9570577,
+      "title": "Immunity paper recognized by 2023 Nobel Prize in Physiology or Medicine",
+      "url": "https://www.cell.com/news-do/nobel-prize-2023-physiology-medicine-immunity"
+    },
+    {
+      "id": "d7346447-4ba3-41e6-abdd-a276369e448d",
+      "score": 0.9531401,
+      "title": "Winners of the Nobel Prize in Physiology or Medicine for 2023.",
+      "url": "https://www.nobelists.org/en/physiology-2023/"
+    },
+    {
+      "id": "a2cadc47-f15f-4c5e-b55f-d2f8f823217f",
+      "score": 0.9529303,
+      "title": "The 2023 Nobel Prize in Physiology or Medicine: mRNA wins at last",
+      "url": "https://www.cinz.nz/posts/the-2023-nobel-prize-in-physiology-or-medicine-mrna-wins-at-last"
+    },
+    {
+      "id": "7c938252-3294-4695-8d40-855b522a86c2",
+      "score": 0.9522955,
+      "title": "Science This Week | 2023 Nobel Prize winners announced, ISRO to begin unmanned flight tests for Gaganyaan and more - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/science-this-week-2023-nobel-prize-winners-announced-isro-to-begin-unmanned-flight-tests-for-gaganyaan-and-more/article67395577.ece"
+    },
+    {
+      "id": "f71d1ce8-3f9e-47ac-9410-8a94135ff2dc",
+      "score": 0.94956195,
+      "title": "Katalin Karik\u00f3 and Drew Weissman were jointly awarded ...",
+      "url": "https://www.who.int/srilanka/news/detail/15-12-2023-katalin-karik--and-drew-weissman-were-jointly-awarded-the-nobel-prize-in-physiology-or-medicine-2023"
+    },
+    {
+      "id": "ebaca2dd-05fd-4ad6-bf97-15f2cd001c3b",
+      "score": 0.9484276,
+      "title": "Nobel Prize in Physiology or Medicine given to duo behind Covid vaccines - Science - News - Daily Express US",
+      "url": "https://www.the-express.com/news/science/113608/nobel-prize-physiology-medicine-2023-mrna-vaccines"
+    },
+    {
+      "id": "b11ee00d-55d2-451a-b06f-8ee7767cd511",
+      "score": 0.947386,
+      "title": "Nobel prize in Physiology or Medicine 2023 | PDF",
+      "url": "https://www.slideshare.net/slideshow/nobel-prize-in-physiology-or-medicine-2023/275495360"
+    },
+    {
+      "id": "db5e5171-46be-4e5c-9d46-f6e99cc5b7b7",
+      "score": 0.9441409,
+      "title": "Who are all Nobel Prize 2023 winners and why were they chosen? Full list here | World News",
+      "url": "https://www.hindustantimes.com/world-news/who-are-all-nobel-prize-2023-winners-and-why-were-they-chosen-full-list-here-101696845198816.html"
+    },
+    {
+      "id": "ad0ae7ad-bfb4-4bbe-87c6-851be0da280f",
+      "score": 0.94263905,
+      "title": "Nobel Prize in Physiology or Medicine 2023",
+      "url": "https://www.nature.com/collections/bieheeeddf"
+    },
+    {
+      "id": "e952cf70-fe18-4d94-acc2-e25cb12964bf",
+      "score": 0.9408388,
+      "title": "2023 Nobel Prize in Physiology or Medicine",
+      "url": "https://en.wikipedia.org/wiki/2023_Nobel_Prize_in_Physiology_or_Medicine"
+    },
+    {
+      "id": "8d6e6fa2-0ad8-4990-beb3-136be23965d6",
+      "score": 0.92980474,
+      "title": "2023 Nobel Prize winners announced",
+      "url": "https://www.labonline.com.au/content/lab-business/news/2023-nobel-prize-winners-announced-1636355128"
+    },
+    {
+      "id": "6f2b4444-ec09-465b-9f8d-6ec936a00ca4",
+      "score": 0.9184877,
+      "title": "Developers of COVID-19 mRNA Vaccine Technology Win Nobel Prize",
+      "url": "https://mymodernmet.com/mrna-nobel-prize/"
+    },
+    {
+      "id": "184b8bbf-77b3-47f0-85fe-acfbc3eaf3be",
+      "score": 0.9134376,
+      "title": "All Nobel Prizes in Physiology or Medicine",
+      "url": "https://www.nobelprize.org/prizes/lists/all-nobel-laureates-in-physiology-or-medicine/"
+    },
+    {
+      "id": "d3dac57d-d48f-4fdc-b562-175e8c7b3213",
+      "score": 0.91023487,
+      "title": "Profile of Katalin Karik\u00f3 and Drew Weissman: 2023 Nobel laureates in Physiology or Medicine | PNAS",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2400423121"
+    },
+    {
+      "id": "abefa75e-07ae-43c2-8744-92dde7d47120",
+      "score": 0.9061314,
+      "title": "Immigrant Nobel Prize Winners Continue To Impress",
+      "url": "https://www.forbes.com/sites/stuartanderson/2023/10/05/immigrant-nobel-prize-winners-continue-to-impress/"
+    },
+    {
+      "id": "bfadf0cd-cc38-4ef8-af4e-9c709026dc86",
+      "score": 0.8936907,
+      "title": "NIDCR Funded Winner of 2023 Nobel Prize in Physiology ...",
+      "url": "https://www.nidcr.nih.gov/news-events/nidcr-news/2023/nidcr-funded-winner-2023-nobel-prize-physiology-or-medicine"
+    },
+    {
+      "id": "4cb7ffb6-d585-42b0-96b0-7c651853181c",
+      "score": 0.8934678,
+      "title": "The Nobel Prize on LinkedIn: Katalin Karik\u00f3 and Drew Weissman \u2013 awarded the 2023 Nobel Prize in\u2026 | 43 comments",
+      "url": "https://www.linkedin.com/posts/nobelprize_katalin-karik%C3%B3-and-drew-weissman-awarded-activity-7114581289273315328-g9Z8"
+    },
+    {
+      "id": "4ff20aca-a3ea-4d17-b9b9-75fc34e31582",
+      "score": 0.8909888,
+      "title": "Nobel for medicine recognizes mRNA vaccine research",
+      "url": "https://pubs.acs.org/doi/10.1021/cen-10133-scicon1"
+    },
+    {
+      "id": "b75ff4da-9323-4ef9-9c99-c594d8dc2197",
+      "score": 0.8896154,
+      "title": "Katalin Karik\u00f3 \u2013 Facts \u2013 2023",
+      "url": "https://www.nobelprize.org/prizes/medicine/2023/kariko/facts/"
+    },
+    {
+      "id": "dd758915-679a-40d9-8228-8eb93f66a6b3",
+      "score": 0.8896154,
+      "title": "(PDF) From rejection to the Nobel Prize: Karik\u00f3 and Weissman\u2019s pioneering work on mRNA vaccines, and the need for diversity and inclusion in translational immunology",
+      "url": "https://www.researchgate.net/publication/375488958_From_rejection_to_the_Nobel_Prize_Kariko_and_Weissman's_pioneering_work_on_mRNA_vaccines_and_the_need_for_diversity_and_inclusion_in_translational_immunology"
+    },
+    {
+      "id": "69d684d6-0c3b-4b86-9a29-52c3bfb8410f",
+      "score": 0.8891543,
+      "title": "Drew Weissman & Katalin Karik\u00f3 to Co-Receive 2023 ...",
+      "url": "https://www.asgct.org/news-publications/asgct-news/drew-weissman-katalin-karik%C3%B3-to-co-receive-2023-nobel-prize-for-discoveries-in-mrna-technology"
+    },
+    {
+      "id": "26e163c1-dc06-4686-b14d-d11d6a271cec",
+      "score": 0.8849276,
+      "title": "The Nobel Prize in Physiology or Medicine 2023 to Katalin Karik\u00f3 and Drew Weissman | Karolinska Institutet",
+      "url": "https://news.ki.se/the-nobel-prize-in-physiology-or-medicine-2023-to-katalin-kariko-and-drew-weissman"
+    },
+    {
+      "id": "c2561c10-d224-438c-a1eb-631a1ebc5bcb",
+      "score": 0.8827621,
+      "title": "Frontiers | Global research on RNA vaccines for COVID-19 from 2019 to 2023: a bibliometric analysis",
+      "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1259788/full"
+    },
+    {
+      "id": "25ea8ade-4ee6-4aed-b3d3-fcb55be0e71b",
+      "score": 0.8755427,
+      "title": "2023 Nobel Prize winner Drew Weissman, MD, PhD ...",
+      "url": "https://www.aamc.org/news/2023-nobel-prize-winner-drew-weissman-md-phd-reflects-value-basic-science-research"
+    },
+    {
+      "id": "2683a1d9-605f-4984-929c-e524175d85c4",
+      "score": 0.8747745,
+      "title": "Map Shows Where Most Nobel Prize Winners Come From",
+      "url": "https://www.newsweek.com/map-most-nobel-prize-winners-1964877"
+    },
+    {
+      "id": "cf6a4c76-a9b2-437a-b2c7-9dec1c1b1f4c",
+      "score": 0.8740022,
+      "title": "From rejection to the Nobel Prize: Karik\u00f3 and Weissman's pioneering work on mRNA vaccines, and the need for diversity and inclusion in translational immunology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38022662/"
+    },
+    {
+      "id": "261dba53-b1b8-4976-af0d-8642125dbb67",
+      "score": 0.8687491,
+      "title": "Katalin Kariko, Drew Weissman win Nobel Medicine Prize for Covid-19 vaccine research",
+      "url": "https://www.thehindubusinessline.com/news/science/katalin-kariko-drew-weissman-win-nobel-medicine-prize-for-covid-19-vaccine-research/article67371939.ece"
+    },
+    {
+      "id": "64daf738-9e48-43e9-88de-42e64c331ec0",
+      "score": 0.8684817,
+      "title": "Katalin Karik\u00f3 and Drew Weissman win the Nobel Prize, and antivaxxers lose it - RESPECTFUL INSOLENCE",
+      "url": "https://www.respectfulinsolence.com/2023/10/04/katalin-kariko-and-drew-weissman-win-the-nobel-prize-and-antivaxxers-lose-it/"
+    },
+    {
+      "id": "059e0c1d-27a2-4ef2-8581-36cd89841ae4",
+      "score": 0.86767644,
+      "title": "Global research on RNA vaccines for COVID-19 from 2019 to 2023: a bibliometric analysis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10902429/"
+    },
+    {
+      "id": "84344b49-a753-46a0-86bc-9d17dc25af42",
+      "score": 0.86767644,
+      "title": "Nobel Prize 2023 for Medicine awarded to Katalin Karik\u00f3 and Drew Weissman for their work in mRNA vaccines - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/nobel-prize-medicine-winner-2023-katalin-karik%C3%B3-and-drew-weissman/article67371585.ece/amp"
+    },
+    {
+      "id": "5efaead9-948a-4935-91c4-bff470dd4a3f",
+      "score": 0.8660535,
+      "title": "The 2023 Nobel Science Prizes",
+      "url": "https://www.metafilter.com/200972/The-2023-Nobel-Science-Prizes"
+    },
+    {
+      "id": "022db7ee-bd6c-493a-be54-42ed18a25486",
+      "score": 0.8616433,
+      "title": "Katalin Karik\u00f3 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3"
+    },
+    {
+      "id": "df07dfe5-8741-40ca-b906-61352beac6c1",
+      "score": 0.8482825,
+      "title": "Nobel Prize for physiology or medicine in 2023",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10758357/"
+    },
+    {
+      "id": "796a67d8-cd1b-4e84-a307-ec82c692eae1",
+      "score": 0.8446273,
+      "title": "An accolade to Nobel Laureates 2023",
+      "url": "https://ijpas.org/index.php/ijpas/article/download/204/144"
+    },
+    {
+      "id": "fa3145fe-877f-4382-9b77-dc00d3e49db3",
+      "score": 0.84027237,
+      "title": "Katalin Karik\u00f3 and Drew Weissman: 2023 Nobel Prize in Medicine | University of Pennsylvania Almanac",
+      "url": "https://almanac.upenn.edu/articles/katalin-kariko-and-drew-weissman-2023-nobel-prize-in-medicine"
+    },
+    {
+      "id": "92dfffcb-0df3-4c6e-89b0-3953348a17f4",
+      "score": 0.826278,
+      "title": "APS Congratulates 2023 Nobel Laureates Katalin Karik\u00f3 and Drew Weissman | American Physiological Society",
+      "url": "https://www.physiology.org/detail/news/2023/10/02/aps-congratulates-2023-nobel-laureates-katalin-karik%C3%B3-and-drew-weissman?SSO=Y"
+    },
+    {
+      "id": "3c3cc2c9-76ca-4929-9986-8218c6f8e5d2",
+      "score": 0.82492816,
+      "title": "Getting the message right: An interview with mRNA vaccine pioneer Katalin Karik\u00f3 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10626440/"
+    },
+    {
+      "id": "32008546-78ae-4b92-bc75-7478fd33ebd6",
+      "score": 0.8131201,
+      "title": "Katalin Kariko and Drew Weissman win Nobel in Medicine",
+      "url": "https://www.youtube.com/watch?v=QVp2i9smiRU"
+    },
+    {
+      "id": "2261522a-fc65-4eab-ac9b-be3729d8fd8b",
+      "score": 0.8010817,
+      "title": "Katalin Karik\u00f3 - People considered me unsuccessful",
+      "url": "https://www.youtube.com/watch?v=9z6DlER-4Es"
+    },
+    {
+      "id": "f4e5fa51-78b6-4dfd-9f3f-dd2efe294d8d",
+      "score": 0.78214747,
+      "title": "Watch live: Winners of the 2023 Nobel Prize in Physiology or Medicine announced | The Independent",
+      "url": "https://www.the-independent.com/news/watch-live-winners-2023-nobel-prize-physiology-medicine-b2422222.html"
+    },
+    {
+      "id": "b7ef9745-eff1-465f-9ce2-66e260e7cda9",
+      "score": 0.76279575,
+      "title": "Nobel Winner Drew Weissman On The Future Of mRNA In Medicine",
+      "url": "https://www.forbes.com/sites/juergeneckhardt/2023/11/16/nobel-winner-drew-weissman-on-the-future-of-mrna-in-medicine/"
+    },
+    {
+      "id": "70b72e24-c56f-43f2-8687-7c6e9d088ed2",
+      "score": 0.74251556,
+      "title": "The List of Nobel Prize Winners in Medicine: 1901-2023 - INVENTgen",
+      "url": "https://www.inventiongen.com/nobel-prize-winners-medicine/"
+    },
+    {
+      "id": "0bb71de6-be14-4af0-a74d-6e63d8966f00",
+      "score": 0.73023266,
+      "title": "Nobel Prize lecture: Drew Weissman, Nobel Prize in Physiology or Medicine 2023",
+      "url": "https://www.youtube.com/watch?v=XQDzAfe7qAs"
+    },
+    {
+      "id": "8ed1f97b-4f3d-417b-b708-c5fe25fc61f7",
+      "score": 0.7283819,
+      "title": "The Nobel Prize in Medicine has gone to Katalin Karik\u00f3 and ...",
+      "url": "https://www.frontiersofknowledgeawards-fbbva.es/noticias/nobel-prize-medicine-katalin-kariko-drew-weissman-frontiers-of-knowledge-laureates/"
+    },
+    {
+      "id": "05b5fb4c-fbbb-453f-b846-7ead73cd0b56",
+      "score": 0.7230167,
+      "title": "Treating the World: The Katalin Karik\u00f3 and Drew Weissman Story",
+      "url": "https://www.youtube.com/watch?v=X2Sl-cVBsMw"
+    },
+    {
+      "id": "e53ab591-f58c-4970-a2d8-d9c88cb10254",
+      "score": 0.7023877,
+      "title": "UPenn's Drew Weissman, Katalin Karik\u00f3 win Nobel Prize for creation of mRNA vaccines against COVID-19",
+      "url": "https://www.youtube.com/watch?v=Al1pX6pv66Y"
+    },
+    {
+      "id": "66af46a7-904d-4345-86ca-9f5c57313dd3",
+      "score": 0.6884899,
+      "title": "Katalin Karik\u00f3 & Drew Weissman, Scientists Behind mRNA COVID Vaccine Get Nobel Prize In Medicine",
+      "url": "https://www.youtube.com/watch?v=UAyGqjxwNZI"
+    },
+    {
+      "id": "672db2e3-13b3-4c69-8200-0b5e8f2439a1",
+      "score": 0.6755297,
+      "title": "MRNA: from Instability to a World-Changing Vaccine with Katalin Karik\u00f3 and Drew Weissman",
+      "url": "https://www.youtube.com/watch?v=YZujsZ9z4P4"
+    },
+    {
+      "id": "04285ede-aaf5-448c-8418-3abb8ff7aa7a",
+      "score": 0.6641271,
+      "title": "A Penn official once told Katalin Karik\u00f3 she was \u2018not of faculty quality.\u2019 Her work there just won a Nobel Prize.",
+      "url": "https://www.inquirer.com/health/university-pennsylvania-refused-tenure-katalin-kariko-20231007.html"
+    },
+    {
+      "id": "88664bf6-b8cd-4f9c-a189-aa226d21b885",
+      "score": 0.6543875,
+      "title": "A Penn official told Katalin Karik\u00f3 she was \u2018not of faculty quality.\u2019 Her work there just won a Nobel Prize - pennlive.com",
+      "url": "https://www.pennlive.com/news/2023/10/a-penn-official-told-katalin-kariko-she-was-not-of-faculty-quality-her-work-there-just-won-a-nobel-prize.html"
+    },
+    {
+      "id": "867143a9-ad91-4dbc-9d96-6bfbc0c0fbfe",
+      "score": 0.6194488,
+      "title": "\"Developing mRNA for therapy\" - Dr. Katalin Karik\u00f3, 2022 Gairdner Laureate Lectures",
+      "url": "https://www.youtube.com/watch?v=Bgy9__CH0jA"
+    },
+    {
+      "id": "ea5621d3-fb28-4f50-9014-093c8c3037e4",
+      "score": 0.61779,
+      "title": "Statement on Katalin Karik\u00f3 and Drew Weissman ... - BioNTech",
+      "url": "https://investors.biontech.de/news-releases/news-release-details/statement-katalin-kariko-and-drew-weissman-awarded-nobel-prize"
+    },
+    {
+      "id": "e7df4eec-f2dd-4316-a66d-f906913f3fb4",
+      "score": 0.53619206,
+      "title": "Trio of scientists win Nobel Prize in Medicine for work on immune system",
+      "url": "https://www.abc.net.au/news/2025-10-06/scientists-win-nobel-prize-medicine-for-immune-system-work/105859742"
+    },
+    {
+      "id": "ab65ba4b-369c-448f-8f64-3908c1049189",
+      "score": 0.467308,
+      "title": "Katalin Karik\u00f3, Drew Weissman Win 2023 Nobel Prize In Medicine For Research Enabling Development Of mRNA Covid-19 Vaccines",
+      "url": "https://swarajyamag.com/science/katalin-karik-drew-weissman-win-2023-nobel-prize-in-medicine-for-research-enabling-development-of-mrna-covid-19-vaccines"
+    },
+    {
+      "id": "bbef8d5b-6d8f-45fd-9b2e-76b3e6d11219",
+      "score": 0.35200182,
+      "title": "Nobel Prize Winners Dr. Katalin Karik\u00f3 and Dr. Drew Weissman | The Story Behind mRNA Vaccines",
+      "url": "https://www.youtube.com/watch?v=-3x4IMdeFdI"
+    },
+    {
+      "id": "f5c67529-5159-48ed-ada2-1108ffd8feee",
+      "score": 0.3014242,
+      "title": "Katalin Karik\u00f3 and Drew Weissman, Penn\u2019s historic mRNA vaccine research team, win 2023 Nobel Prize in Medicine | Penn Today",
+      "url": "https://penntoday.upenn.edu/news/katalin-kariko-and-drew-weissman-penns-historic-mrna-vaccine-research-team-win-2023-nobel"
+    },
+    {
+      "id": "92747160-83a8-4849-a8f1-1003ac86d97e",
+      "score": 0.29982272,
+      "title": "Persistence Pays Off: Recognizing Katalin Karik\u00f3 and Drew Weissman, the 2023 Nobel Prize Winners in Physiology or Medicine \u2013 NIH Director's Blog",
+      "url": "https://directorsblog.nih.gov/2023/10/12/persistence-pays-off-recognizing-katalin-kariko-and-drew-weissman-the-2023-nobel-prize-winners-in-physiology-or-medicine/"
+    },
+    {
+      "id": "1fe16d0e-6255-4ece-b383-aa88e36a8a29",
+      "score": 0.039449755,
+      "title": "Hungarian and U.S. scientists win medicine Nobel for COVID-19 vaccine work",
+      "url": "https://www.investing.com/news/coronavirus/kariko-and-weissman-win-medicine-nobel-for-covid19-vaccine-work-3187830"
+    },
+    {
+      "id": "77254cdf-0783-4bea-be34-af15456b2692",
+      "score": 0.038268104,
+      "title": "Katalin Karik\u00f3 and Drew Weissman Receive the 2023 Nobel Prize in Physiology or Medicine",
+      "url": "https://edzardernst.com/2023/10/katalin-kariko-and-drew-weissman-receive-the-2023-nobel-prize-in-physiology-or-medicine/"
+    }
+  ]
+}

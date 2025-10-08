@@ -1,0 +1,310 @@
+{
+  "id": "68b230c6-7966-4073-be80-3add2ef79f61",
+  "status": "completed",
+  "content": "FALSE. While NASA astronauts Drew Feustel and Zena Cardman did participate in mock moonwalks together wearing training suits that weighed more than 80 pounds, the training event occurred in October 2022, not \"last October\" (referring to October 2024)[1][2]. Furthermore, Drew Feustel retired from NASA in July 2023, making his participation in a 2024 exercise impossible[3].\n\n## JETT3 Mission Details\n\nIn early October 2022, NASA astronauts Drew Feustel and Zena Cardman served as the crew for the Joint EVA Test Team 3 (JETT3) mission in the San Francisco Volcanic Field north of Flagstaff, Arizona[4][5]. The site, which includes the 800-foot-tall S P Crater, was chosen for its lunar-like landscape of lava rock and challenging terrain, having been used for astronaut training since the Apollo era[4][6][7].\n\nThe mission, which wrapped up on October 12, 2022, consisted of four simulated moonwalks conducted at night to replicate the harsh lighting conditions at the Moon's south pole[2][8]. The trials ran from October 4 to October 9, followed by additional training at Black Point Lava Flow[1][5][9]. The primary purpose of the JETT3 mission was not to train the astronauts, but rather to test hardware, tools, and operational protocols for future Artemis missions[4][5].\n\nDuring the simulations, Feustel and Cardman performed tasks such as:\n*   Collecting geologic samples using tools like rakes, hammers, and coring devices[10][9].\n*   Navigating a one-mile circuit using low-resolution maps without GPS or compass bearings[11][12].\n*   Testing an early design of the Handheld Universal Lunar Camera, being developed by Nikon for Artemis missions[13][14].\n\nA flight control team at Johnson Space Center in Houston guided the astronauts throughout the exercises[11][2].\n\n## Training Suit Specifications\n\nThe statement's claim that the training suit weighs more than 80 pounds is correct. For the JETT3 mission, Cardman and Feustel wore mockup spacesuits weighing **100 pounds**[15][16][17].\n\nThese mockups are designed to simulate the weight, feel, and constraints of fully pressurized spacesuits[18][10]. During one phase of the JETT3 test, the crew wore field backpacks to simulate the added weight of a pressurized suit while allowing for greater mobility to venture farther on the simulated moonwalk[2]. These terrestrial training suits differ significantly from actual flight suits; for comparison, a Field Test Training Suit used in a 2008 study weighed 165 pounds, while the Apollo-era suits weighed approximately 180 pounds on Earth[19].\n\n## Chronological Discrepancy\n\nThe assertion that the training occurred in October 2024 is incorrect.\n*   Multiple sources, including NASA and news reports, explicitly date the JETT3 mission involving Feustel and Cardman to October 2022[1][5][18].\n*   Andrew \"Drew\" Feustel retired from the NASA astronaut corps in July 2023, precluding his participation in any official capacity in October 2024[3].\n*   NASA conducted similar Artemis field tests in Arizona in May 2024, but the participating astronauts were Kate Rubins and Andre Douglas, not Feustel and Cardman[6][21].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "cf9eda6c-eb6b-4f7f-9735-c9bbc28ebbfa",
+      "score": 0.48294178,
+      "title": "NASA astronauts 'moonwalk' in the Arizona desert for our lunar future | Space",
+      "url": "https://www.space.com/artemis-astronauts-moonwalking-desert-simulation-2022",
+      "citation_index": 1
+    },
+    {
+      "id": "503bcc20-d5ed-4ac1-915d-3bf25f1af26f",
+      "score": 0.6609831,
+      "title": "Moonwalking Test Mission Daily Field Log",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/moonwalking-test-mission-daily-field-log/",
+      "citation_index": 2
+    },
+    {
+      "id": "bbedc0e1-adb9-49ba-b198-6ec9fda70955",
+      "score": 0.2551956,
+      "title": "http://www.nasa.gov/astronauts/biographies",
+      "url": "https://www.nasa.gov/wp-content/uploads/2024/07/feustel-aj.pdf?emrc=080518",
+      "citation_index": 3
+    },
+    {
+      "id": "0bdbbbb7-d70e-4d9d-aa47-1fb1a8de355d",
+      "score": 0.92731744,
+      "title": "In the Arizona desert, NASA prepares for walking on the moon | National Geographic",
+      "url": "https://www.nationalgeographic.com/magazine/article/in-the-arizona-desert-nasa-prepares-for-walking-on-the-moon",
+      "citation_index": 4
+    },
+    {
+      "id": "163f1bd6-1aa0-4a7e-9377-6ea850101b24",
+      "score": 0.7211353,
+      "title": "Artemis Astronauts Visit Desert to Prepare for Moon | APPEL Knowledge Services",
+      "url": "https://appel.nasa.gov/2022/10/26/artemis-astronauts-visit-desert-to-prepare-for-moon/",
+      "citation_index": 5
+    },
+    {
+      "id": "345cc3a2-f33e-4d72-afbd-cbc708254b41",
+      "score": 0.3288855,
+      "title": "Friends of NASA: Moonwalk Practice: Astronauts Kate Rubins & Andre Douglas | NASA Artemis",
+      "url": "https://www.friendsofnasa.org/2024/05/moonwalk-practice-astronauts-kate.html",
+      "citation_index": 6
+    },
+    {
+      "id": "1f090dbf-b20b-4354-81cf-52b3e6b931e3",
+      "score": 0.21865308,
+      "title": "From Sci-Fi to Reality: Flagstaff's Moonwalk Training",
+      "url": "https://www.youtube.com/watch?v=zV4J3msy-ow",
+      "citation_index": 7
+    },
+    {
+      "id": "6950d6a8-4a7f-4b2b-aced-d30e3ed224cd",
+      "score": 0.8296166,
+      "title": "See the astronauts learning how to walk on the moon... in Arizona | New Scientist",
+      "url": "https://www.newscientist.com/article/0-see-the-astronauts-learning-how-to-walk-on-the-moon-in-arizona/",
+      "citation_index": 8
+    },
+    {
+      "id": "eed5c79e-7e3c-4c28-8a3b-4d267b4327b2",
+      "score": 0.6410185,
+      "title": "NASA to Practice Artemis Moonwalking, Roving Operations in Arizona Desert - NASA",
+      "url": "https://www.nasa.gov/humans-in-space/nasa-to-practice-artemis-moonwalking-roving-operations-in-arizona-desert/",
+      "citation_index": 9
+    },
+    {
+      "id": "7fe12f9c-47c4-4c30-95b6-2615062ed0e0",
+      "score": 0.7352811,
+      "title": "NASA to practice Artemis moonwalking, roving operations in Arizona desert - Aerotech News & Review",
+      "url": "https://www.aerotechnews.com/blog/2022/10/11/nasa-to-practice-artemis-moonwalking-roving-operations-in-arizona-desert/",
+      "citation_index": 10
+    },
+    {
+      "id": "788bba72-4339-44a2-be69-3c5011c9eb4d",
+      "score": 0.8106142,
+      "title": "NASA astronauts practicing moonwalks outside of Flagstaff | 12news.com",
+      "url": "https://www.12news.com/article/news/local/arizona/nasa-astronauts-practicing-moonwalks-outside-of-flagstaff-arizona/75-ad2b789b-7edd-48dc-aca3-b6f863788f0f",
+      "citation_index": 11
+    },
+    {
+      "id": "11f695d7-e8b2-4a99-955c-213b911f1008",
+      "score": 0.7825466,
+      "title": "This is why Artemis is heading back to the moon",
+      "url": "https://www.nationalgeographic.com/premium/article/nasa-artemis-moon-mars-space-exploration",
+      "citation_index": 12
+    },
+    {
+      "id": "59024f3a-bef9-4059-ba09-98d40e56698e",
+      "score": 0.51310796,
+      "title": "NASA Signs Agreement with Nikon to Develop Lunar Artemis Camera - NASA",
+      "url": "https://www.nasa.gov/humans-in-space/nasa-signs-agreement-with-nikon-to-develop-lunar-artemis-camera/",
+      "citation_index": 13
+    },
+    {
+      "id": "dc404ce9-3d76-4229-aba3-8d21696e1208",
+      "score": 0.4600226,
+      "title": "Nikon Mirrorless Camera Selected to Go to the Moon",
+      "url": "https://floridamedianow.com/2024/05/nikon-camera-selected-for-artemis-iii/",
+      "citation_index": 14
+    },
+    {
+      "id": "817a5d11-ed9d-44ee-898d-6566f45e800d",
+      "score": 0.7156829,
+      "title": "With its Artemis program, NASA is aiming to return ...",
+      "url": "https://www.instagram.com/p/CosM3W_vTQy/",
+      "citation_index": 15
+    },
+    {
+      "id": "39a8fbc4-99b7-4d3f-92cb-9d92700d9420",
+      "score": 0.7106489,
+      "title": "1) NASA Astronauts Zena Cardman (L) and Drew Feustel ...",
+      "url": "https://www.instagram.com/p/ClAI8Q6OQRn/",
+      "citation_index": 16
+    },
+    {
+      "id": "624c360a-e7a9-4e48-ac5b-2db09d93ec0a",
+      "score": 0.67706895,
+      "title": "NASA Astronauts Zena Cardman (L ...",
+      "url": "https://www.facebook.com/photographizemag/posts/nasa-astronauts-zena-cardman-l-and-drew-feustel-r-wearing-their-100-pound-space-/1089697263200853/",
+      "citation_index": 17
+    },
+    {
+      "id": "955c3c4e-6c97-43fd-9e14-dc6f6251ddf3",
+      "score": 0.66203266,
+      "title": "NASA astronaut walks on the 'moon' to get ready for Artemis landings (photos) | Space",
+      "url": "https://www.space.com/nasa-astronauts-moon-walk-training-artemis-program",
+      "citation_index": 18
+    },
+    {
+      "id": "d06e2d65-ba4e-49c2-a084-9af207d6e3a6",
+      "score": 0.95100147,
+      "title": "Integrated Suit Test 1 - A Study to Evaluate Effects of Suit Weight, Pressure, and Kinematics on Human Performance during Lunar Ambulation - NASA Technical Reports Server (NTRS)",
+      "url": "https://ntrs.nasa.gov/citations/20080013604",
+      "citation_index": 19
+    },
+    {
+      "id": "7873ff2b-801c-4188-ab75-3efd9d45b806",
+      "score": 0.12167554,
+      "title": "Practicing Artemis Moonwalks in the Desert on This Week @NASA \u2013 May 17, 2024",
+      "url": "https://www.youtube.com/watch?v=qb2ONVgj-3Q",
+      "citation_index": 21
+    },
+    {
+      "id": "d994e6dc-4cfe-4269-8863-38271bb01a67",
+      "score": 0.6954834,
+      "title": "50 Years Ago: Apollo Suit Backpack Passes Vacuum Testing - NASA",
+      "url": "https://www.nasa.gov/history/50-years-ago-apollo-suit-backpack-passes-vacuum-testing/"
+    },
+    {
+      "id": "1e0bc873-9085-4e6c-bce0-7ebb83857a70",
+      "score": 0.6765563,
+      "title": "Ariz. volcanic bed test site for moon spacesuits, rover",
+      "url": "https://tucson.com/news/article_10de0543-46e9-56e4-9820-dfcb04718ae1.html"
+    },
+    {
+      "id": "e4d5848e-d431-4f1b-98a1-ba3d56a59394",
+      "score": 0.5999311,
+      "title": "Moonwalking Test Mission Daily Field Log - NASA",
+      "url": "https://www.nasa.gov/humans-in-space/moonwalking-test-mission-daily-field-log/"
+    },
+    {
+      "id": "cc0caa55-1c64-401a-9d30-d83a8b43044d",
+      "score": 0.5758033,
+      "title": "Photos: NASA mimics moonwalk in Arizona desert ...",
+      "url": "https://interestingengineering.com/photo-story/nasa-artemis-moonwalk-simulations-earth"
+    },
+    {
+      "id": "bf9190f8-76a3-413e-87b0-34976141c3d5",
+      "score": 0.5565207,
+      "title": "Two-time Carolina alumna graduates from NASA astronaut basic training | UNC-Chapel Hill",
+      "url": "https://www.unc.edu/posts/2020/01/10/two-time-alumna-graduates-from-nasa-astronaut-basic-training/"
+    },
+    {
+      "id": "af055f2f-caa9-49e9-b8be-e24bd94e0f40",
+      "score": 0.5310884,
+      "title": "I Trained In A WEIGHT SUIT for a Month!",
+      "url": "https://www.youtube.com/watch?v=LD-aY7nm3Jo"
+    },
+    {
+      "id": "111a8bce-f418-441b-bcb3-58e990a36ab2",
+      "score": 0.5120832,
+      "title": "Zena Cardman - NASA",
+      "url": "https://www.nasa.gov/people/zena-cardman/"
+    },
+    {
+      "id": "59d95f05-3462-4c67-b916-23f2f2ace2d4",
+      "score": 0.50944775,
+      "title": "What would be the minimum 'earth weight' of a lunar suit ...",
+      "url": "https://www.quora.com/What-would-be-the-minimum-earth-weight-of-a-lunar-suit-with-which-you-ll-be-able-to-go-out-and-walk-around-without-special-equipment-for-someone-let-s-say-75kg-180cm"
+    },
+    {
+      "id": "0a3ea5d4-5593-488e-9015-e095652ffd33",
+      "score": 0.468621,
+      "title": "Aquanauts test spacesuits on ocean floor",
+      "url": "https://www.nbcnews.com/id/wbna14077064"
+    },
+    {
+      "id": "5b22c64b-32fe-4794-a6c7-4b815ccf9752",
+      "score": 0.40825373,
+      "title": "NASA Astronaut Zena Cardman - NASA",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-zena-cardman/"
+    },
+    {
+      "id": "add5b5f1-e635-402d-b85f-6c63fbc5d422",
+      "score": 0.37930995,
+      "title": "Space Suits - NASA",
+      "url": "https://www.nasa.gov/reference/space-suits/"
+    },
+    {
+      "id": "336dff8c-5af7-4d0f-93ef-7ee42d61aca3",
+      "score": 0.3413195,
+      "title": "NASA Astronaut Zena Cardman EMU Spacesuit Training Reel [HDR]",
+      "url": "https://www.youtube.com/watch?v=AeBelh6EFr8"
+    },
+    {
+      "id": "9e7b8b22-905a-425c-a57b-8726468df6e9",
+      "score": 0.34052956,
+      "title": "@DefiantLs She\u2019s practicing for her astronaut moonwalk. https://t.co/UracoibPzU",
+      "url": "https://x.com/TroyG5500/status/1919499610919219707"
+    },
+    {
+      "id": "54cce6de-f906-433c-8b30-4c79cf5027c8",
+      "score": 0.33522078,
+      "title": "Zena Cardman - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zena_Cardman"
+    },
+    {
+      "id": "13c6236d-c117-4f64-83df-716539f57a16",
+      "score": 0.28688842,
+      "title": "NASA Tests Technology, Practices Artemis Moonwalks in Arizona Desert - NASA",
+      "url": "https://www.nasa.gov/humans-in-space/nasa-tests-technology-practices-artemis-moonwalks-in-arizona-desert/"
+    },
+    {
+      "id": "6a2dd6ee-2fb6-40c3-b7fd-761fd91140a7",
+      "score": 0.22497399,
+      "title": "\ud83d\ude80 Meet NASA's Next Generation: Training for the Moon & Mars! | The New Space Race",
+      "url": "https://www.youtube.com/watch?v=-OSRnB8hYGU"
+    },
+    {
+      "id": "39d4ad27-c7ce-4b90-bd93-4b8288af19ec",
+      "score": 0.22038478,
+      "title": "Suited for the Moon - NASA",
+      "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/suited-for-the-moon/"
+    },
+    {
+      "id": "eda0104c-8b0f-4529-bb17-44e6fed5b284",
+      "score": 0.15217108,
+      "title": "Collins Aerospace Tests NASA Space Station Suit in Weightlessness - NASA",
+      "url": "https://www.nasa.gov/image-article/collins-aerospace-tests-nasa-space-station-suit-in-weightlessness/"
+    },
+    {
+      "id": "7a9baa34-e1b7-4f68-96f9-3dad14ce1bab",
+      "score": 0.103232384,
+      "title": "NASA Spacesuit User Interface Technologies for Students - NASA",
+      "url": "https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/"
+    },
+    {
+      "id": "7e0135be-4888-4013-a9e8-b4e3c782dceb",
+      "score": 0.094218515,
+      "title": "Spacesuit for NASA\u2019s Artemis III Moon Surface Mission Debuts - NASA",
+      "url": "https://www.nasa.gov/humans-in-space/spacesuit-for-nasas-artemis-iii-moon-surface-mission-debuts/"
+    },
+    {
+      "id": "6a3c5223-d4ea-4339-ad2f-5678493887a7",
+      "score": 0.08413856,
+      "title": "Space Station Live: Testing a New Spacesuit for an Asteroid Spacewalk",
+      "url": "https://www.youtube.com/watch?v=ohPe0Wg6F4k"
+    },
+    {
+      "id": "d18ba7c4-7897-460e-9b9b-420793f966e3",
+      "score": 0.078367025,
+      "title": "Extravehicular Activity and Human Surface Mobility - NASA",
+      "url": "https://www.nasa.gov/suits-and-rovers/"
+    },
+    {
+      "id": "c9ff3986-432b-410f-92dc-4938e6cc7039",
+      "score": 0.0609809,
+      "title": "\u201cThey\u2019ve been practicing this for hours and they still gonna get it wrong\u201d  https://t.co/aCpukBEjQO",
+      "url": "https://x.com/landosmile/status/1868127094388977863"
+    },
+    {
+      "id": "a335d5da-1c8d-43bb-b761-8e7dacc96622",
+      "score": 0.056262378,
+      "title": "Testing Spacesuits in Antarctica | News | Astrobiology",
+      "url": "https://astrobiology.nasa.gov/news/testing-spacesuits-in-antarctica/"
+    },
+    {
+      "id": "d40b752b-cd51-404c-ac57-cba1e5fe5088",
+      "score": 0.040166434,
+      "title": "Nasa",
+      "url": "https://roundupreads.jsc.nasa.gov/roundup/1776/Building on a Mission Neutral Buoyancy Facilities for Spacewalk Training"
+    },
+    {
+      "id": "c9133d30-8efc-4cec-b44a-e8ca757011cd",
+      "score": 0.033949643,
+      "title": "NASA Exercise: Survival on the Moon",
+      "url": "https://www.csuchico.edu/anthmuseum/_assets/documents/nasa-exercise-survival-on-the-moon.pdf"
+    },
+    {
+      "id": "d6b84c92-756d-48a1-bf32-52aead9fe54a",
+      "score": 0.018112598,
+      "title": "CAN I COMPLETE THE NASA ASTRONAUT FITNESS TEST?",
+      "url": "https://www.youtube.com/watch?v=tSNPCRnh5vM"
+    }
+  ]
+}

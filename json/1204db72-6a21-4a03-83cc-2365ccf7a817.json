@@ -1,0 +1,345 @@
+{
+  "id": "1204db72-6a21-4a03-83cc-2365ccf7a817",
+  "status": "completed",
+  "content": "FALSE.\n\nAnalysis of scientific literature and data from safety organizations indicates that the human odor detection threshold for ammonia is significantly higher than 5 parts per billion (ppb). The most sensitive thresholds reported in the provided sources are in the range of 37 to 43 ppb, while the majority of sources place the average detection level between 1 and 50 parts per million (ppm), which is equivalent to 1,000 to 50,000 ppb. The claim of a 5 ppb threshold is factually incorrect and likely stems from a misunderstanding of the commonly cited 5 ppm threshold.\n\n## Assessment of Ammonia's Odor Detection Threshold\n\nThe odor detection threshold is the minimum concentration of a substance that the human sense of smell can perceive[1]. This value can vary significantly among individuals and based on the measurement methodology used[2][3]. For ammonia, there is no scientific consensus on a single value, but a wide range of thresholds has been established through numerous studies[4].\n\n### Reported Threshold Ranges\n\nThe provided research consistently places the odor detection threshold for ammonia well above 5 ppb.\n\n*   **Lowest Reported Values:** The most sensitive, or lowest, reported detection thresholds for ammonia are 0.037 ppm (37 ppb) and 0.04 ppm (40 ppb)[5][6][7]. Another study cites a low-end value of 43 ppb[8]. These figures are the closest to the claim but are still more than seven times higher than 5 ppb.\n\n*   **Commonly Cited Ranges (in ppm):** Most governmental and safety organizations report the threshold in parts per million (ppm), which are orders of magnitude higher than 5 ppb (1 ppm = 1,000 ppb).\n    *   The U.S. Occupational Safety and Health Administration (OSHA) states the range is between 5 and 50 ppm (5,000 to 50,000 ppb)[9][10][11].\n    *   The National Center for Biotechnology Information (NCBI) cites a range of 5 to 53 ppm (5,000 to 53,000 ppb) and notes the pungent smell is detectable at concentrations as low as 5 ppm[12][13].\n    *   Other sources report mean or typical thresholds of 1.5 ppm (1,500 ppb), 2.6 ppm (2,600 ppb), and 17 ppm (17,000 ppb)[14][15][2][6].\n    *   A field study following accidental releases found that of over 6,500 air samples taken between 0 and 1 ppm, an odor was detected in only 3.2% of cases, suggesting the threshold is typically above 1 ppm[4].\n\n### Context of Background Ammonia Levels\n\nThe implausibility of a 5 ppb odor threshold is further supported by data on typical ambient ammonia concentrations. Ammonia is typically present in indoor air at concentrations between 10 and 70 ppb[14]. If the human nose could detect ammonia at 5 ppb, its pungent odor would be a constant presence in most indoor environments, which is contrary to common experience.\n\n## Comparative Analysis of Potent Odorants\n\nWhile ammonia has a strong, pungent odor, its detection threshold is not considered exceptionally low when compared to other highly potent chemical odorants, particularly sulfur-containing compounds[17][18]. These substances establish the benchmark for what is considered a \"tiny\" concentration in olfaction science.\n\n### Chemicals with Ultra-Low Thresholds\n\nSeveral chemicals are detectable by the human nose at concentrations far below the lowest reported thresholds for ammonia.\n\n*   **Hydrogen Sulfide ($\\text{H}_2\\text{S}$):** Often described as smelling like rotten eggs, it can be detected at concentrations as low as 0.00047 ppm, or 0.47 ppb[19].\n*   **Ethyl Mercaptan:** This is the odorant added to natural gas to serve as a warning agent. Its odor threshold has been reported as low as 0.00014 ppm (0.14 ppb)[20].\n*   **Geosmin:** This organic compound, responsible for the earthy smell after rain, has one of the lowest known thresholds at 6.50 \u00d7 10\u207b\u2076 ppm, which is equivalent to 0.0065 ppb[17][18].\n\nThese examples demonstrate that the most potent odorants can be detected at sub-ppb levels, placing them in a different category of olfactory sensitivity compared to ammonia, whose lowest documented threshold is approximately 37 ppb[5][20].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "12d28ff4-7ac9-4b1d-826a-4c16e9fe0074",
+      "score": 0.32739994,
+      "title": "Odor detection threshold - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odor_detection_threshold",
+      "citation_index": 1
+    },
+    {
+      "id": "3e3a288e-a122-470d-8c90-4f97ee02ad5c",
+      "score": 0.7197191,
+      "title": "Odor and irritation thresholds for ammonia: a comparison between static and dynamic olfactometry - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17003100/",
+      "citation_index": 2
+    },
+    {
+      "id": "6a920c1f-e5da-458d-94ac-31f0d693f65c",
+      "score": 0.6821721,
+      "title": "Odor and Irritation Thresholds for Ammonia: A Comparison between ...",
+      "url": "https://academic.oup.com/chemse/article/32/1/11/361356",
+      "citation_index": 3
+    },
+    {
+      "id": "8191dc70-4545-40fe-bd2b-006e70aa590b",
+      "score": 0.29561153,
+      "title": "Field studies on the ammonia odor threshold based on ambient air-sampling following accidental releases: Toxicological & Environmental Chemistry: Vol 91 , No 4 - Get Access",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02772240802358469",
+      "citation_index": 4
+    },
+    {
+      "id": "b48bc822-3884-423f-aca6-29fe36dbc63a",
+      "score": 0.8106142,
+      "title": "Ammonia Refrigerant (ie, NH3, ANHYDROUS AMMONIA)",
+      "url": "https://www.fsis.usda.gov/sites/default/files/media_file/2020-08/Ammonia.pdf",
+      "citation_index": 5
+    },
+    {
+      "id": "686c0f8e-6fab-496e-b849-09394fdb7c01",
+      "score": 0.685971,
+      "title": "Ammonia - Hazardous Agents | Haz-Map",
+      "url": "https://haz-map.com/Agents/291",
+      "citation_index": 6
+    },
+    {
+      "id": "0977caaa-0479-4a14-9bc8-de24348638ac",
+      "score": 0.8482825,
+      "title": "AMMONIA",
+      "url": "https://cdn.ymaws.com/members.cshema.org/resource/collection/F49147DB-6509-4040-9B53-ADBE65E31247/Ammonia.pdf",
+      "citation_index": 7
+    },
+    {
+      "id": "6c08c39f-2bf4-4ff3-b4ea-02ac16fda041",
+      "score": 0.882276,
+      "title": "Ammonia",
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/ammonia.pdf/@@download/file/ammonia.pdf",
+      "citation_index": 8
+    },
+    {
+      "id": "736de41f-e907-400b-93d8-a56e372a818c",
+      "score": 0.8914433,
+      "title": "Ammonia Gas \u2014 What You Need to Know About it",
+      "url": "https://www.blacklinesafety.com/blog/ammonia-gas",
+      "citation_index": 9
+    },
+    {
+      "id": "83f08f0c-c837-465e-ab10-973e7f942c0e",
+      "score": 0.8727061,
+      "title": "eTools : Ammonia Refrigeration - Properties of Ammonia",
+      "url": "http://www.osha.gov/etools/ammonia-refrigeration/ammonia",
+      "citation_index": 10
+    },
+    {
+      "id": "05d39a16-454a-4f09-bfb1-3f68c498562b",
+      "score": 0.86954874,
+      "title": "eTools : Ammonia Refrigeration - Properties of Ammonia | Occupational Safety and Health Administration",
+      "url": "https://www.osha.gov/etools/ammonia-refrigeration/ammonia",
+      "citation_index": 11
+    },
+    {
+      "id": "7051b59e-6e37-4adf-bcd5-7bfad7e4d261",
+      "score": 0.7969415,
+      "title": "Ammonia Acute Exposure Guideline Levels - Acute Exposure Guideline Levels for Selected Airborne Chemicals - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK207883/",
+      "citation_index": 12
+    },
+    {
+      "id": "8b72ebb2-e294-46b5-9c04-f3df83026691",
+      "score": 0.68318754,
+      "title": "Ammonia Toxicity - StatPearls - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546677/",
+      "citation_index": 13
+    },
+    {
+      "id": "40af383b-cc63-4d79-925b-c827bf835de8",
+      "score": 0.80625874,
+      "title": "Human Ammonia Emission Rates under Various Indoor Environmental Conditions | Environmental Science & Technology",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.est.0c00094",
+      "citation_index": 14
+    },
+    {
+      "id": "a71ab6a9-be18-44b9-9bde-21570baa44bf",
+      "score": 0.72042775,
+      "title": "Human Ammonia Emission Rates under Various Indoor ...",
+      "url": "https://www.picarro.com/sites/default/files/product_documents/li-et-al-2020-human-ammonia-emission-rates-under-various-indoor-environmental-conditions.pdf",
+      "citation_index": 15
+    },
+    {
+      "id": "8a5f7184-9b4c-41a6-bcc8-7c5b4731190e",
+      "score": 0.6693348,
+      "title": "Human odour thresholds are tuned to atmospheric chemical lifetimes - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7209931/",
+      "citation_index": 17
+    },
+    {
+      "id": "0a81cabd-f775-415b-9c3b-c8ff09feae24",
+      "score": 0.3795859,
+      "title": "Human odour thresholds are tuned to atmospheric chemical lifetimes | Philosophical Transactions of the Royal Society B: Biological Sciences",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0274",
+      "citation_index": 18
+    },
+    {
+      "id": "88c173ad-b852-439a-b9a3-83eb1d362201",
+      "score": 0.6077801,
+      "title": "Odor Thresholds In Safety And Health: Understanding The ...",
+      "url": "https://hetiservices.com/odor-thresholds-in-safety-and-health-understanding-the-complex-world-of-smell-and-its-impact-on-workplace-safety/",
+      "citation_index": 19
+    },
+    {
+      "id": "3c459491-c3f7-4202-bd3d-a5923720f617",
+      "score": 0.75421005,
+      "title": "Ask Dr. ALOHA: Working with Toxic and Odor Thresholds, Step 3 | response.restoration.noaa.gov",
+      "url": "https://response.restoration.noaa.gov/oil-and-chemical-spills/chemical-spills/resources/ask-dr-aloha-working-toxic-odor-thresh-3.htm",
+      "citation_index": 20
+    },
+    {
+      "id": "8b677cc1-38e6-42d5-b0da-154afbba4221",
+      "score": 0.90907925,
+      "title": "Identity Information / Hazardous Ingredients: Anhydrous Ammonia | Minnesota Department of Agriculture",
+      "url": "https://www.mda.state.mn.us/identity-information-hazardous-ingredients-anhydrous-ammonia"
+    },
+    {
+      "id": "8602a780-b665-4f1b-9fb5-cc6cf3c5a00b",
+      "score": 0.87113565,
+      "title": "NRT Quick Reference Guide: Anhydrous Ammonia",
+      "url": "https://www.nrt.org/sites/2/files/NRT%20CBRN%20CHEM%20Ammonia%20NH3%20QRG%20FINAL%202020%2004%2006.pdf"
+    },
+    {
+      "id": "27f50364-ce80-4b4d-84b8-fe6db0251681",
+      "score": 0.8624794,
+      "title": "(PDF) Odor and Irritation Thresholds for Ammonia: A Comparison between Static and Dynamic Olfactometry",
+      "url": "https://www.researchgate.net/publication/6791666_Odor_and_Irritation_Thresholds_for_Ammonia_A_Comparison_between_Static_and_Dynamic_Olfactometry"
+    },
+    {
+      "id": "7191cb21-8531-4be9-9cca-a7abb4e8aaca",
+      "score": 0.852752,
+      "title": "NRT Quick Reference Guide: Anhydrous Ammonia",
+      "url": "https://www.nrt.org/sites/2/files/NRT CBRN CHEM Ammonia NH3 QRG FINAL 2020 04 06.pdf"
+    },
+    {
+      "id": "55004fb8-4866-4d1a-afd2-ad73928d8fde",
+      "score": 0.8312667,
+      "title": "Medical Management Guidelines for Ammonia",
+      "url": "https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=7&toxid=2"
+    },
+    {
+      "id": "423c11ba-0291-4c2d-ad73-403884228766",
+      "score": 0.81665546,
+      "title": "Ammonia Refrigeration - Overview | Occupational Safety and Health Administration",
+      "url": "https://www.osha.gov/ammonia-refrigeration"
+    },
+    {
+      "id": "1962c532-4698-4f2a-9e57-56c5c7c53628",
+      "score": 0.78493005,
+      "title": "Anhydrous Ammonia",
+      "url": "https://www.cfindustries.com/globalassets/cf-industries/media/documents/safety-data-sheets/ammonia---north-america/anhydrous-ammonia-english.pdf"
+    },
+    {
+      "id": "2e5cb9d1-899a-4bb4-9285-591e31f5c553",
+      "score": 0.7783298,
+      "title": "Measuring ammonia with the air-Q",
+      "url": "https://en.air-q.com/messwerte/ammoniak"
+    },
+    {
+      "id": "ab2ec3b1-4245-488d-9de5-782eefc141e9",
+      "score": 0.72698855,
+      "title": "Ammonia",
+      "url": "https://www.tn.gov/health/cedep/environmental/environmental-health-topics/eht/ammonia.html"
+    },
+    {
+      "id": "053f1edf-056a-4726-a214-99183acbd1dc",
+      "score": 0.7161595,
+      "title": "odor threshold values: Topics by Science.gov",
+      "url": "https://www.science.gov/topicpages/o/odor+threshold+values"
+    },
+    {
+      "id": "f3c4c4b7-8867-47f9-a100-b9ec909d0db5",
+      "score": 0.6554468,
+      "title": "An Algorithm for 353 Odor Detection Thresholds in Humans - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3278675/"
+    },
+    {
+      "id": "72ba56fa-b4f0-41bf-af15-7ba123578d03",
+      "score": 0.6391287,
+      "title": "Quantitative measurement of odor detection thresholds using an air dilution olfactometer, and association with genetic variants in a sample of diverse ancestry - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4226646/"
+    },
+    {
+      "id": "ee613278-1028-4cc0-8b3f-a84321422c13",
+      "score": 0.63777614,
+      "title": "Odour Detection Methods: Olfactometry and Chemical Sensors - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3231359/"
+    },
+    {
+      "id": "6d59ec42-ab7c-432c-8052-b66c0285d68c",
+      "score": 0.5993685,
+      "title": "Odor Detection Threshold - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/odor-detection-threshold"
+    },
+    {
+      "id": "5fbcd781-fac2-4751-9a95-988fb8d93624",
+      "score": 0.5709301,
+      "title": "Single olfactory receptors set odor detection thresholds | Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-018-05129-0"
+    },
+    {
+      "id": "b1cb50d7-c688-49c7-8faf-1d1ac98ce374",
+      "score": 0.5530473,
+      "title": "Odor Thresholds and Breathing Changes of Human Volunteers as Consequences of Sulphur Dioxide Exposure Considering Individual Factors - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3430915/"
+    },
+    {
+      "id": "81255881-67fd-495f-b9c5-6c7d42efbf77",
+      "score": 0.5393963,
+      "title": "Editors Present New Edition of AIHA Odor Threshold ...",
+      "url": "https://www.aiha.org/news/240522-editors-present-new-edition-of-aiha-odor-threshold-publication"
+    },
+    {
+      "id": "9ebfe497-8b8d-417b-9db0-e8a9c35b383a",
+      "score": 0.5019781,
+      "title": "Test-retest reliability of the olfactory detection threshold test of the Sniffin' sticks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18390818/"
+    },
+    {
+      "id": "8bfea396-85a2-4aa7-9bcf-89c2eeb2704d",
+      "score": 0.491725,
+      "title": "Chemical complexity of odors increases reliability of olfactory threshold testing | Scientific Reports",
+      "url": "https://www.nature.com/articles/srep39977"
+    },
+    {
+      "id": "91746e32-873b-4804-8f43-95398a6f5628",
+      "score": 0.48718598,
+      "title": "Threshold-based structure-activity relationships of pyrazines with bell-pepper flavor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10995349/"
+    },
+    {
+      "id": "d8209de5-5287-4905-a3b1-e436bb3b3e84",
+      "score": 0.33235425,
+      "title": "Algorithm for 353 Odor Detection Thresholds in Humans",
+      "url": "https://academic.oup.com/chemse/article/37/3/207/325917"
+    },
+    {
+      "id": "19d3c5b1-eab2-457f-9cb0-36c56dede820",
+      "score": 0.32869154,
+      "title": "Dose-dependent stereoselective activation of the trigeminal sensory system by nicotine in man.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10208315/"
+    },
+    {
+      "id": "3883c57d-a9c9-46b1-82c1-c12f5620ac97",
+      "score": 0.31967384,
+      "title": "Effects of laserneedle acupuncture on olfactory sensitivity of healthy human subjects: a placebo-controlled, double-blinded, randomized trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19593972/"
+    },
+    {
+      "id": "ee992895-776f-4e4c-b00a-88eb097c4014",
+      "score": 0.30213413,
+      "title": "Ammonia detection: A pathway towards potential point-of- ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0956566324001052"
+    },
+    {
+      "id": "75bb32b9-22b7-41a4-b2c7-40ca49271a56",
+      "score": 0.2679057,
+      "title": "21 Odor Thresholds for Chemicals with Established Health Standards, 2nd Edition",
+      "url": "https://swesiaq.se/onewebmedia/Dokument/ODOR%20THRESHOLDS.pdf"
+    },
+    {
+      "id": "a017b36c-fdbb-4b81-ad0f-fba7a7110015",
+      "score": 0.22182271,
+      "title": "1,8-Cineole in French Red Wines: Evidence for a Contribution Related to Its Various Origins.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28060498/"
+    },
+    {
+      "id": "391e7ebd-e128-4f5c-b45d-404f425e432a",
+      "score": 0.19228172,
+      "title": "Methyl salicylate, a grape and wine chemical marker and sensory contributor in wines elaborated from grapes affected or not by cryptogamic diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34034050/"
+    },
+    {
+      "id": "9a37f491-e1b0-4871-a62b-5beee6471956",
+      "score": 0.1880856,
+      "title": "Odor Thresholds for Chemicals with Established Occupational Health Standards",
+      "url": "https://opac.bhamada.ac.id/index.php?p=fstream-pdf&fid=128&bid=5442"
+    },
+    {
+      "id": "d0f4350b-43da-4ad4-b2ab-ecd95ab274aa",
+      "score": 0.15407057,
+      "title": "Odor detection threshold - Knowledge and References | Taylor & Francis",
+      "url": "https://taylorandfrancis.com/knowledge/Engineering_and_technology/Biomedical_engineering/Odor_detection_threshold/"
+    },
+    {
+      "id": "54174c7f-e4aa-4378-b40f-8c2bfa3d928c",
+      "score": 0.12343981,
+      "title": "Enhancement of Odor Sensitivity Following Repeated Odor and Visual Fear Conditioning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26126729/"
+    },
+    {
+      "id": "eb5e3fa1-0f98-4ed0-b1a7-6e086ce2148f",
+      "score": 0.103939675,
+      "title": "Odor Threshold Determinations of 53 Odorant Chemicals",
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/00022470.1969.10466465"
+    },
+    {
+      "id": "cb1dccac-eded-41f7-9507-78417ee54d1e",
+      "score": 0.093520775,
+      "title": "AMMONIA 1 1. PUBLIC HEALTH STATEMENT",
+      "url": "https://www.atsdr.cdc.gov/toxprofiles/tp126-c1.pdf"
+    },
+    {
+      "id": "a07f2f27-b591-49e2-927e-7729b966d9c5",
+      "score": 0.08486382,
+      "title": "Ammonia - IDLH | NIOSH | CDC",
+      "url": "https://www.cdc.gov/niosh/idlh/7664417.html"
+    },
+    {
+      "id": "068bb049-136c-429b-98e5-8851fa78ca9f",
+      "score": 0.07769257,
+      "title": "Reference Guide To Odor Thresholds For Hazardous Air ...",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000BHG5.TXT"
+    }
+  ]
+}

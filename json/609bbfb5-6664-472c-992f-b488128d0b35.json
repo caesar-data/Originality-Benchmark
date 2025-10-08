@@ -1,0 +1,554 @@
+{
+  "id": "609bbfb5-6664-472c-992f-b488128d0b35",
+  "status": "completed",
+  "content": "TRUE.\n\nThe Department of Justice (DOJ) ultimately filed a total of 13 criminal charges against FTX founder Sam Bankman-Fried through an initial indictment and a series of subsequent, or \"superseding,\" indictments[1][2][3]. He pleaded not guilty to all 13 counts[4][5].\n\n## Evolution of the Charges\n\n### Initial Eight-Count Indictment\nOn December 13, 2022, the U.S. Attorney\u2019s Office for the Southern District of New York unsealed the initial eight-count indictment against Bankman-Fried[6][7][8]. The original charges included a combination of fraud, conspiracy, money laundering, and campaign finance violations[9][10].\n\nThe specific charges in the original indictment were[9][11][12]:\n*   Conspiracy to Commit Wire Fraud on Customers\n*   Wire Fraud on Customers\n*   Conspiracy to Commit Wire Fraud on Lenders\n*   Wire Fraud on Lenders\n*   Conspiracy to Commit Commodities Fraud\n*   Conspiracy to Commit Securities Fraud\n*   Conspiracy to Commit Money Laundering\n*   Conspiracy to Defraud the United States and Violate Campaign Finance Laws\n\n### Superseding Indictments Increasing the Charge Count\nProsecutors subsequently filed superseding indictments that expanded the scope of the charges against Bankman-Fried[1].\n\n*   **Increase to 12 Charges**: In February 2023, a superseding indictment added four new criminal charges, bringing the total to 12[13][14][15]. The added counts included conspiracy to commit bank fraud and conspiracy to operate an unlicensed money transmitting business[13][16].\n\n*   **Increase to 13 Charges**: On March 28, 2023, prosecutors filed another superseding indictment, adding a thirteenth charge for conspiracy to violate the anti-bribery provisions of the Foreign Corrupt Practices Act (FCPA)[17][2]. This charge stemmed from an alleged plot to pay a $40 million bribe to Chinese officials to unfreeze Alameda Research trading accounts containing approximately $1 billion in cryptocurrency[18][19].\n\n## Legal Proceedings and Trial Structure\nDue to the terms of Bankman-Fried's extradition from the Bahamas, the 13 charges were slated to be handled across two separate trials[3][20]. His first trial, which began in October 2023, proceeded on seven of the original eight counts[20][10]. He was ultimately convicted on all seven of these charges, which included two counts of wire fraud and five counts of conspiracy[21][22]. A federal judge later sentenced him to 25 years in prison[23][24]. The remaining charges were scheduled for a second trial in March 2024[3].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "bc27aa9c-f04f-4882-a604-0e454955ad92",
+      "score": 0.9138076,
+      "title": "Superseding indictment against Sam Bankman-Fried includes using $100M for campaign contributions",
+      "url": "https://cointelegraph.com/news/sam-bankman-fried-superseding-indictment-includes-campaign-finance-allegations",
+      "citation_index": 1
+    },
+    {
+      "id": "7aee9325-f86f-419b-823a-2dc2fcad8b3c",
+      "score": 0.95529,
+      "title": "Disgraced crypto exec Sam Bankman-Fried faces new bribery charge",
+      "url": "https://abcnews.go.com/Business/disgraced-crypto-exec-sam-bankman-fried-faces-new/story?id=98178859",
+      "citation_index": 2
+    },
+    {
+      "id": "089abf6a-c767-47d5-bdd9-90ccfe41e2b5",
+      "score": 0.8033131,
+      "title": "The Trial of Sam Bankman-Fried, Explained | WIRED",
+      "url": "https://www.wired.com/story/sam-bankman-fried-trial-explained/",
+      "citation_index": 3
+    },
+    {
+      "id": "393d73e3-c956-4233-9718-14d802c0933b",
+      "score": 0.8131201,
+      "title": "Sam Bankman-Fried request to dismiss charges meets pushback ...",
+      "url": "https://www.denvergazette.com/2023/05/30/sam-bankman-fried-request-to-dismiss-charges-meets-pushback-from-prosecutors-ad5a5273-d8fd-5a76-badc-629c53a0c1b8/",
+      "citation_index": 4
+    },
+    {
+      "id": "e11cc997-b44a-404c-abfe-8ddcc4a78b2b",
+      "score": 0.752468,
+      "title": "Judge denies Sam Bankman-Fried's motion to dismiss ...",
+      "url": "https://www.cnn.com/2023/06/27/business/sbf-motion-to-dismiss-denied",
+      "citation_index": 5
+    },
+    {
+      "id": "d3781657-fed0-4af6-ae8a-629d8d819ba0",
+      "score": 0.8993429,
+      "title": "Sam Bankman-Fried criminal charges unsealed: Conspiracy to defraud the U.S., wire fraud, securities fraud, and money laundering",
+      "url": "https://www.cnbc.com/2022/12/13/us-indicts-sam-bankman-fried-on-conspiracy-to-defraud-the-us-wire-fraud-securities-fraud-and-money-laundering.html",
+      "citation_index": 6
+    },
+    {
+      "id": "078eb9d4-9013-483d-ab78-1f72e8e3a2c6",
+      "score": 0.83710164,
+      "title": "US unseals fraud and conspiracy charges against Bankman-Fried - Roll Call",
+      "url": "https://rollcall.com/2022/12/13/us-unseals-fraud-and-conspiracy-charges-against-bankman-fried/",
+      "citation_index": 7
+    },
+    {
+      "id": "3eb646fe-651d-42e5-83dc-d2f72211f406",
+      "score": 0.78572035,
+      "title": "United States v. Samuel Bankman-Fried, a/k/a \u201cSBF,\u201d 22 Cr ...",
+      "url": "https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak",
+      "citation_index": 8
+    },
+    {
+      "id": "0d9423b1-365c-4be3-a2c9-3f27b2bfeeb0",
+      "score": 0.8458536,
+      "title": "United States Attorney Announces Charges Against FTX ...",
+      "url": "https://www.justice.gov/usao-sdny/pr/united-states-attorney-announces-charges-against-ftx-founder-samuel-bankman-fried",
+      "citation_index": 9
+    },
+    {
+      "id": "997badab-9d88-4ad3-ba7c-4810c7094c17",
+      "score": 0.86413884,
+      "title": "Trial of Sam Bankman-Fried - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trial_of_Sam_Bankman-Fried",
+      "citation_index": 10
+    },
+    {
+      "id": "01ac468b-c1cf-4e36-a57f-5efa3b61358c",
+      "score": 0.8170061,
+      "title": "Here is the criminal indictment against Sam Bankman-Fried",
+      "url": "https://www.nytimes.com/interactive/2022/12/13/us/samuel-bankman-fried-indictment.html",
+      "citation_index": 11
+    },
+    {
+      "id": "c5b6db1d-a93f-469e-929a-3ccd2757c73f",
+      "score": 0.16783185,
+      "title": "Prosecutors and Regulators Announce Criminal Charges ...",
+      "url": "https://www.troutman.com/insights/prosecutors-and-regulators-announce-criminal-charges-and-civil-enforcement-actions-against-sam-bankman-fried-following-ftx-collapse/",
+      "citation_index": 12
+    },
+    {
+      "id": "85c2d21e-9052-4bc9-b3e1-1a2e984627a6",
+      "score": 0.94401723,
+      "title": "ABCOTV App Shell",
+      "url": "https://abc7news.com/post/ftx-founder-sam-bankman-fried-faces-4-new-charges/12865604/",
+      "citation_index": 13
+    },
+    {
+      "id": "337794bf-ae24-4b86-949e-dddf16d93c44",
+      "score": 0.87166095,
+      "title": "Bankman-Fried faces more criminal charges, allegedly hid political ...",
+      "url": "https://www.reuters.com/legal/new-indictment-unsealed-against-bankman-fried-containing-12-charges-2023-02-23/",
+      "citation_index": 14
+    },
+    {
+      "id": "b2325226-f78e-435e-bb66-840917f8e1fa",
+      "score": 0.9240941,
+      "title": "FTX founder Sam Bankman-Fried faces new criminal charges",
+      "url": "https://www.cnbc.com/2023/02/23/ftx-founder-sam-bankman-fried-hit-with-new-criminal-charges.html",
+      "citation_index": 15
+    },
+    {
+      "id": "bae7234a-7f47-40df-b600-d9eb9a606cca",
+      "score": 0.9412289,
+      "title": "New criminal charges for FTX founder",
+      "url": "https://www.linkedin.com/news/story/new-criminal-charges-for-ftx-founder-6178826/",
+      "citation_index": 16
+    },
+    {
+      "id": "8beb111c-2be7-425e-9dc3-d21230fca913",
+      "score": 0.6072213,
+      "title": "Sam Bankman-Fried\u2019s Superseding Indictment Highlights DOJ\u2019s Broad Enforcement of the FCPA Involving Cryptocurrency | Buchanan Ingersoll & Rooney PC",
+      "url": "https://www.bipc.com/sam-bankman-fried-superseding-indictment-enforcement-of-highlights-doj-fcpa-involving-cryptocurrency",
+      "citation_index": 17
+    },
+    {
+      "id": "2b62f7a3-468c-4661-bd11-c0f1c6aca269",
+      "score": 0.8386933,
+      "title": "The deepening predicament of Samuel Bankman-Fried | Reuters",
+      "url": "https://www.reuters.com/legal/legalindustry/deepening-predicament-samuel-bankman-fried-2023-04-10/",
+      "citation_index": 18
+    },
+    {
+      "id": "8c48658d-1b69-4ffe-8caa-b73a57d615b1",
+      "score": 0.5272928,
+      "title": "Criminal Division | United States v. Samuel Bankman-Fried | United States Department of Justice",
+      "url": "https://www.justice.gov/criminal/criminal-fraud/case/united-states-v-samuel-bankman-fried",
+      "citation_index": 19
+    },
+    {
+      "id": "5ac2a7e2-719b-4d1a-bba5-1dab9cb3a71c",
+      "score": 0.81097376,
+      "title": "What to Expect From the Trial of Sam Bankman-Fried",
+      "url": "https://time.com/6318688/sam-bankman-fried-trial-starts/",
+      "citation_index": 20
+    },
+    {
+      "id": "b395382d-a163-4932-8e61-75eb5f1757d0",
+      "score": 0.83452857,
+      "title": "Office of Public Affairs | Samuel Bankman-Fried Sentenced to 25 Years for His Orchestration of Multiple Fraudulent Schemes | United States Department of Justice",
+      "url": "https://www.justice.gov/archives/opa/pr/samuel-bankman-fried-sentenced-25-years-his-orchestration-multiple-fraudulent-schemes",
+      "citation_index": 21
+    },
+    {
+      "id": "2b9c0f89-8279-4b45-99ff-6f7f7bfaefed",
+      "score": 0.6364215,
+      "title": "Sam Bankman-Fried and the multibillion-dollar drama over FTX\u2019s ruins",
+      "url": "https://www.motherjones.com/politics/2025/10/ftx-sam-bankman-fried-crypto-bankruptcy-sullivan-cromwell-fraud/",
+      "citation_index": 22
+    },
+    {
+      "id": "9a69c50b-99ee-495e-9c5a-d55d10842f73",
+      "score": 0.45507812,
+      "title": "Sam Bankman-Fried sent to \u2018notoriously hard\u2019 prison in California, then low-security facility in LA | Fortune Crypto",
+      "url": "https://fortune.com/crypto/2025/04/10/sam-bankman-fried-sbf-ftx-victorville-california-oklahoma-brooklyn/",
+      "citation_index": 23
+    },
+    {
+      "id": "a7c8bad6-5869-4d0d-ae3a-99fffaccfbc3",
+      "score": 0.61668247,
+      "title": "Who is Danielle Sassoon, the prosecutor who stood up to Trump's DOJ over Eric Adams' case?",
+      "url": "https://www.reuters.com/world/us/who-is-danielle-sassoon-prosecutor-who-stood-up-trumps-doj-over-eric-adams-case-2025-02-14/",
+      "citation_index": 24
+    },
+    {
+      "id": "af60896e-0ba5-4d8d-9c3a-a4927d690468",
+      "score": 0.9381752,
+      "title": "ABCOTV App Shell",
+      "url": "https://abc7.com/13034168/"
+    },
+    {
+      "id": "03be4832-a880-4976-aa48-218e197ca907",
+      "score": 0.93425745,
+      "title": "FTX founder Sam Bankman-Fried faces 4 new charges",
+      "url": "https://abcnews.go.com/Business/ftx-founder-sam-bankman-fried-faces-4-new/story?id=97415611"
+    },
+    {
+      "id": "0726b7f0-83c5-4ed9-bcf0-f1c15c6a32da",
+      "score": 0.92652357,
+      "title": "A US court unseals a superseding indictment against Sam Bankman-Fried containing 12 charges, up from the initial eight, including alleged bank fraud (CoinDesk)",
+      "url": "https://www.techmeme.com/230223/p27"
+    },
+    {
+      "id": "6b0c732a-e841-4a73-9f24-d3c8fee72d69",
+      "score": 0.9263638,
+      "title": "SBF funneled $100 million in political donations for 'woke shit' and to Republicans through 2 executives to appear bipartisan, prosecutors say in new indictment",
+      "url": "https://www.businessinsider.com/sbf-political-donations-2-executives-republicans-democrats-woke-prosecutors-2023-2"
+    },
+    {
+      "id": "1bc633c3-33b1-47e1-85c4-4ec7074a2d06",
+      "score": 0.91306627,
+      "title": "SBF faces new charges",
+      "url": "https://www.bitsofblocks.io/post/sbf-faces-new-charges"
+    },
+    {
+      "id": "9289a93c-0839-4042-95b0-391ac896f71d",
+      "score": 0.9088853,
+      "title": "New indictment unsealed against Bankman-Fried, containing 12 charges",
+      "url": "https://www.reuters.com/article/business/media-telecom/new-indictment-unsealed-against-bankman-fried-containing-12-charges-idUSL1N35315G/"
+    },
+    {
+      "id": "316b522e-5d2d-4c46-a2e3-4a863c355f1f",
+      "score": 0.9053309,
+      "title": "FTX founder Sam Bankman-Fried still faces campaign finance charge, prosecutors say",
+      "url": "https://abcnews.go.com/US/ftx-founder-sam-bankman-fried-slapped-campaign-finance/story?id=102108326"
+    },
+    {
+      "id": "b212a558-ea0d-48cd-ba64-913c3f9d46a1",
+      "score": 0.87706697,
+      "title": "Criminal Charges Against Sam Bankman-Fried Revealed",
+      "url": "https://www.dailywire.com/news/criminal-charges-against-sam-bankman-fried-revealed"
+    },
+    {
+      "id": "3d15c90d-9f21-405d-9825-bd840cd01260",
+      "score": 0.8745175,
+      "title": "Unsealed superseding indictment against Sam Bankman-Fried includes 12 criminal charges",
+      "url": "https://cointelegraph.com/news/unsealed-superseding-indictment-against-sam-bankman-fried-includes-12-criminal-charges/amp"
+    },
+    {
+      "id": "a944753d-0d2d-4118-aef1-66cb2029fe81",
+      "score": 0.8737439,
+      "title": "No, prosecutors did not drop all charges against Sam Bankman-Fried | Factcheck | berkshireeagle.com",
+      "url": "https://www.berkshireeagle.com/ap/factcheck/no-prosecutors-did-not-drop-all-charges-against-sam-bankman-fried/article_dafdfa62-32ed-11ee-ae7d-5fd7255a56f6.html"
+    },
+    {
+      "id": "2a47caaf-a39a-45ea-80f6-b21b77c65a09",
+      "score": 0.8652358,
+      "title": "Criminal Charges Against Sam Bankman-Fried Revealed | SGT Report",
+      "url": "https://www.sgtreport.com/2022/12/criminal-charges-against-sam-bankman-fried-revealed/"
+    },
+    {
+      "id": "9cfed1bf-1fe2-4429-93e5-332be08831b6",
+      "score": 0.8616433,
+      "title": "Sam Bankman-Fried deleted a Slack message and tweets after FTX's top lawyer told the company to preserve records for regulators, prosecutors say",
+      "url": "https://www.businessinsider.com/sam-bankman-fried-deleted-messages-amid-ftx-scheme-prosecutors-say-2023-2"
+    },
+    {
+      "id": "cc73b31b-f086-4bd7-a940-9574e3025404",
+      "score": 0.84277284,
+      "title": "US DoJ Accuses FTX Founder of Leaking Caroline ...",
+      "url": "https://www.financemagnates.com/cryptocurrency/us-doj-accuses-ftx-founder-of-leaking-caroline-ellisons-private-diary/"
+    },
+    {
+      "id": "a5168a6c-19da-4f3d-9f0c-8c7dccf48e45",
+      "score": 0.8335554,
+      "title": "CFTC Charges Sam Bankman-Fried, FTX Trading and ...",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/8638-22"
+    },
+    {
+      "id": "27fbf9a6-5c07-4ca7-bd15-034b8bb532f1",
+      "score": 0.8319231,
+      "title": "Sam Bankman-Fried hit with 8 criminal charges, including fraud and conspiracy for allegedly 'misappropriating' FTX customer funds",
+      "url": "https://www.businessinsider.com/sam-bankman-fried-criminal-charges-fraud-conspiracy-campaign-finance-ftx-2022-12"
+    },
+    {
+      "id": "dacf5843-694a-44c5-8212-f7e07843ce60",
+      "score": 0.81418616,
+      "title": "Sam Bankman-Fried charged with fraud as first congressional hearing closes \u2013 as it happened | Business | The Guardian",
+      "url": "https://amp.theguardian.com/business/live/2022/dec/13/house-committee-john-j-ray-iii-ftx-sam-bankman-fried-arrest-cryptocurrency-bankruptcy-latest-updates"
+    },
+    {
+      "id": "70f782ed-5faf-4f1c-8050-4363e06505b5",
+      "score": 0.81133276,
+      "title": "Sam Bankman-Fried charged with using $100M in stolen funds for political contributions",
+      "url": "https://thehill.com/business/4153585-sam-bankman-fried-charged-with-using-100m-in-stolen-funds-for-political-contributions/"
+    },
+    {
+      "id": "51ecae31-ab4d-4a81-9dd4-a7f18c8ced9e",
+      "score": 0.7997713,
+      "title": "FTX founder faces criminal and civil charges for alleged ...",
+      "url": "https://www.abajournal.com/web/article/bankman-fried-faces-criminal-and-civil-charges-for-alleged-1-8b-fraud-at-ftx-trading"
+    },
+    {
+      "id": "baf7974d-015a-4906-a919-927d20e28b50",
+      "score": 0.79254496,
+      "title": "Sam Bankman-Fried Is Going to Jail, Judge Revokes Bail ...",
+      "url": "https://decrypt.co/152210/sam-bankman-fried-going-to-jail-judge-revokes-bail"
+    },
+    {
+      "id": "a36f8eef-7e67-4222-9d9a-2db1ba566a33",
+      "score": 0.7827459,
+      "title": "Sam Bankman-Fried, Living on Bread and Water in Prison, Pleads Not Guilty",
+      "url": "https://decrypt.co/153363/sam-bankman-fried-living-on-bread-and-water-in-prison-pleads-not-guilty"
+    },
+    {
+      "id": "fa61f272-f850-4716-a7cc-26a38764a2d1",
+      "score": 0.77589405,
+      "title": "Here Is the Criminal Indictment Against FTX's Sam Bankman-Fried",
+      "url": "https://www.vice.com/en/article/here-is-the-criminal-indictment-against-ftxs-sam-bankman-fried/"
+    },
+    {
+      "id": "89b462b7-55bb-4a52-be3e-65707d0d523b",
+      "score": 0.7728226,
+      "title": "Crypto mogul Do Kwon pleads guilty to fraud for $40bn market collapse",
+      "url": "https://www.theguardian.com/technology/2025/aug/12/crypto-do-kwon-fraud-guilty"
+    },
+    {
+      "id": "8506260c-e88d-4e1c-878f-5f3430c97630",
+      "score": 0.7621591,
+      "title": "Sam Bankman-Fried's criminal trial starts today",
+      "url": "https://boingboing.net/2023/10/03/sam-bankman-frieds-criminal-trial-starts-today.html"
+    },
+    {
+      "id": "735aa281-9666-4ce5-bb3f-43c25675ba83",
+      "score": 0.7576693,
+      "title": "Sam Bankman-Fried Trial Can Proceed on Original ...",
+      "url": "https://finance.yahoo.com/news/sam-bankman-fried-trial-proceed-092300254.html"
+    },
+    {
+      "id": "4c379162-a56c-40e6-a74c-358e9418e560",
+      "score": 0.7559439,
+      "title": "Bahamas court boosts Bankman-Fried's challenge to post- ...",
+      "url": "https://www.reuters.com/legal/sam-bankman-fried-challenges-post-extradition-charges-bahamas-court-2023-06-13/"
+    },
+    {
+      "id": "e1267dcc-0db7-4cfb-bc72-d6a3e9b7417a",
+      "score": 0.74229145,
+      "title": "FTX founder Sam Bankman-Fried expected to waive extradition from Bahamas: Sources - ABC7 Los Angeles",
+      "url": "https://abc7.com/post/sam-bankman-fried-ftx-crypto-sbf/12589964/"
+    },
+    {
+      "id": "443e6f86-2efc-4f1b-901a-84b8d07efa64",
+      "score": 0.7316155,
+      "title": "Prosecutors Slam SBF's Motions to Dismiss as \"Meritless\"",
+      "url": "https://dailycoin.com/prosecutors-slam-sbf-motions-to-dismiss-as-meritless/"
+    },
+    {
+      "id": "43b72be4-9c7f-40d4-81ab-ba99b42a53c4",
+      "score": 0.7180613,
+      "title": "Sam Bankman-Fried Was a Crypto King. Then, He Was Unmasked as a Con Artist.",
+      "url": "https://www.biography.com/crime/a68080292/sam-bankman-fried"
+    },
+    {
+      "id": "da4e4954-27f9-41d3-a9c2-47b07715a3b7",
+      "score": 0.6952351,
+      "title": "Understanding the Charges Brought Against Sam Bankman-Fried | Nasdaq",
+      "url": "https://www.nasdaq.com/articles/understanding-the-charges-brought-against-sam-bankman-fried"
+    },
+    {
+      "id": "3a317a58-e6dc-407d-8e53-13dc6157dc72",
+      "score": 0.68090034,
+      "title": "Sam Bankman-Fried Has Been Arrested in the Bahamas. What Happens Next?",
+      "url": "https://observer.com/2022/12/sam-bankman-fried-has-been-arrested-in-the-bahamas-what-happens-next/"
+    },
+    {
+      "id": "5e6fcb9c-8da8-45f8-8fb6-c09a0374d432",
+      "score": 0.6755297,
+      "title": "2022 Year In Review: Crypto Policy Experiences Massive Turbulence In Congress Amid TerraUSD And FTX Failures",
+      "url": "https://www.forbes.com/sites/jasonbrett/2022/12/23/2022-year-in-review-crypto-policy-experiences-massive-turbulence-in-congress-amid-terrausd-and-ftx-failures/"
+    },
+    {
+      "id": "ef997799-7be0-4566-8446-149256101c08",
+      "score": 0.66203266,
+      "title": "FTX founder Sam Bankman-Fried denied bail following arrest",
+      "url": "https://www.youtube.com/watch?v=OfBFOrp75PM"
+    },
+    {
+      "id": "f2fb36c9-e2d9-4b67-80b4-5d94ecd59139",
+      "score": 0.65887916,
+      "title": "The Case Against Sam Bankman-Fried",
+      "url": "https://www.youtube.com/watch?v=WFpYTCD7asc"
+    },
+    {
+      "id": "3d2db652-f8b7-419f-889c-3d559a8edd4f",
+      "score": 0.6533265,
+      "title": "SEC Charges Samuel Bankman-Fried with Defrauding ...",
+      "url": "https://www.sec.gov/newsroom/press-releases/2022-219"
+    },
+    {
+      "id": "67b37f56-dc69-4af8-83e3-596b1aa068fa",
+      "score": 0.6175132,
+      "title": "The Most Notable Career Crashes Of 2023",
+      "url": "https://www.forbes.com/sites/jenamcgregor/2023/12/26/the-most-notable-career-crashes-of-2023/"
+    },
+    {
+      "id": "434dd438-2d20-4f2d-8f85-7b20c92e8f36",
+      "score": 0.61057013,
+      "title": "US court to sentence former Celsius CEO Alex Mashinsky on May 8 over fraud and manipulation charges",
+      "url": "https://www.theblock.co/post/351813/alex-mashinsky-sentencing-date"
+    },
+    {
+      "id": "9583fbd6-ee91-4db5-9fc7-3978623fc3b1",
+      "score": 0.60049355,
+      "title": "FTX founder Sam Bankman-Fried charged in \"years-long\" fraud scheme",
+      "url": "https://www.youtube.com/watch?v=BG3D27Ln11Y"
+    },
+    {
+      "id": "9b5d7202-07a3-44f8-a6cd-ef8d778f57b1",
+      "score": 0.59089786,
+      "title": "The criminal charges against Sam Bankman-Fried carry big penalties and jail time if proven, legal experts say",
+      "url": "https://www.businessinsider.com/criminal-charges-against-sam-bankman-fried-can-carry-jail-time-2022-12"
+    },
+    {
+      "id": "f1e06a3b-71b7-449d-807b-3042a3e3d500",
+      "score": 0.5900477,
+      "title": "Sam Bankman-Fried Loses Bid for Dismissal of Criminal ...",
+      "url": "https://www.wsj.com/finance/currencies/sam-bankman-fried-loses-bid-for-dismissal-of-criminal-charges-8a1be18a?gaa_at=eafs&gaa_n=ASWzDAh4WvhezqWLmkAqeQGbnpFqo4B6MGn3--eEUrn5f3WZPWRD9n3X7jzG&gaa_ts=68e576bd&gaa_sig=yKOFNsLG4A6ELJRzIFAuaoC-VLIq0QEiSOd83lbMtRMjwP-XJYLu17CRe5SKP0wjK3dxk949YDYVjBLxFJjuyA%3D%3D"
+    },
+    {
+      "id": "75b61a77-1bd0-4e61-82de-680ae9548986",
+      "score": 0.54361504,
+      "title": "U.S. charges FTX founder with massive frau",
+      "url": "https://www.youtube.com/watch?v=YSTQ8nMddio"
+    },
+    {
+      "id": "5334dcb9-4690-42af-b49d-800ab3040be7",
+      "score": 0.52962893,
+      "title": "Is Sam Bankman-Fried active on X (Twitter) again? Former FTX CEO posts 'gm' from 'jail' - TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more",
+      "url": "https://www.thestreet.com/crypto/markets/sam-bankman-posts-gm-from-jail"
+    },
+    {
+      "id": "9936587d-0982-464b-b972-d78d8ed669ff",
+      "score": 0.52232456,
+      "title": "Watch: New York authorities discuss arrest of former FTX CEO Samuel Bankman-Fried",
+      "url": "https://www.youtube.com/watch?v=LTudklJg5-Q"
+    },
+    {
+      "id": "c03f1916-76e7-47b8-bf82-9a3f7e31c1a6",
+      "score": 0.5189612,
+      "title": "Sam Bankman-Fried facing likely extradition to the U.S. after arrest in the Bahamas",
+      "url": "https://www.youtube.com/watch?v=qaL-HwdIWPk"
+    },
+    {
+      "id": "d55c6f78-2037-4d19-959d-863acaf95f41",
+      "score": 0.5013922,
+      "title": "Fraud trial of Forbes \u201830 Under 30\u2019 honoree set to lift lid on startup culture",
+      "url": "https://www.theguardian.com/business/2025/feb/10/trial-of-forbes-30-under-30-honoree-set-to-lift-lid-on-startup-culture"
+    },
+    {
+      "id": "b0ae0a3f-c68a-4b68-87ee-f699048b056b",
+      "score": 0.4948006,
+      "title": "FTX founder Sam Bankman-Fried charged with fraud",
+      "url": "https://www.youtube.com/watch?v=RHuoGG4mjv4"
+    },
+    {
+      "id": "4f827e46-7a36-437f-a8c2-7f744297179c",
+      "score": 0.4864541,
+      "title": "U.S. prosecutors announce the indictment of FTX founder Sam Bankman-Fried \u2014 12/13/22",
+      "url": "https://www.youtube.com/watch?v=u4p-XvWDZMM"
+    },
+    {
+      "id": "092f7bb1-0ebe-4625-ba3f-c95106e02e74",
+      "score": 0.47957736,
+      "title": "Sam Bankman-Fried Hit With Additional Bank Fraud Charges in New Indictment",
+      "url": "https://www.coindesk.com/policy/2023/02/23/sam-bankman-fried-hit-with-additional-bank-fraud-charges-in-new-indictment"
+    },
+    {
+      "id": "fdc081ad-f239-4d48-811d-88954495ea72",
+      "score": 0.45362547,
+      "title": "U.S. Prosecutors Indict FTX Founder Sam Bankman-Fried | NBC New York",
+      "url": "https://www.youtube.com/watch?v=DQ3PKTbQXUQ"
+    },
+    {
+      "id": "61b61d59-d736-4a7c-8493-ac4d084ae168",
+      "score": 0.4527543,
+      "title": "Prosecutors provide details on Sam Bankman-Fried case",
+      "url": "https://www.youtube.com/watch?v=-HCnZHhMco4"
+    },
+    {
+      "id": "2aea927d-6e26-47f9-8f1f-20ddb640eb86",
+      "score": 0.44073462,
+      "title": "Former FTX CEO fighting extradition to the U.S.",
+      "url": "https://www.youtube.com/watch?v=L7dibrVcjyA"
+    },
+    {
+      "id": "3e5dd0a9-13de-4a9e-84ca-9c9d25bbfacb",
+      "score": 0.44015694,
+      "title": "LIVE: US Attorney Discusses Charges Against FTX Founder Sam Bankman-Fried",
+      "url": "https://www.youtube.com/watch?v=E4xfyBkieBo"
+    },
+    {
+      "id": "e446c8e0-954a-4dd5-aeaa-446228ad927b",
+      "score": 0.43482184,
+      "title": "UNITED STATES v. BANKMAN FRIED (2023)",
+      "url": "https://caselaw.findlaw.com/court/us-dis-crt-sd-new-yor/114488452.html"
+    },
+    {
+      "id": "0a0e64a9-7405-4f6c-b43f-a2b136ce5273",
+      "score": 0.43395805,
+      "title": "Sean 'Diddy' Combs sex trafficking trial opens in New York",
+      "url": "https://www.france24.com/en/americas/20250505-sean-diddy-combs-sex-trafficking-trial-new-york"
+    },
+    {
+      "id": "48a82811-34a4-4797-90e1-46814704f969",
+      "score": 0.42534322,
+      "title": "FTX Founder Sam Bankman-Fried\u2019s Attorneys Fire Back at Prosecutors Over Laptop Access",
+      "url": "https://www.youtube.com/watch?v=uePcvFipHms"
+    },
+    {
+      "id": "3ba62d30-8382-4669-8dc7-a0f8bacc35e7",
+      "score": 0.4133593,
+      "title": "Case 1:22-cr-00673-LAK Document 115 Filed 03/28/23 ...",
+      "url": "https://www.courthousenews.com/wp-content/uploads/2023/03/bankman-fried-superseding-indictmentOCR.pdf"
+    },
+    {
+      "id": "5af8c44a-60bf-450b-82d3-69498fcc2e5a",
+      "score": 0.40967003,
+      "title": "Rapper unraveled: How Diddy's world fell apart in one year",
+      "url": "https://www.businessinsider.com/diddys-career-life-fell-apart-one-year-2024-12"
+    },
+    {
+      "id": "818c0e99-2f5e-405d-8a95-af70aa6bfbbf",
+      "score": 0.40967003,
+      "title": "DOJ Says Sam Bankman-Fried Won't Face Campaign Finance Charge",
+      "url": "https://www.youtube.com/watch?v=WR4Ol3Ab3-U"
+    },
+    {
+      "id": "cd2f3a8c-1fa8-4c5c-b9da-bab8004649c9",
+      "score": 0.35226917,
+      "title": "Sam Bankman-Fried 5th Superseding Indictment | DocumentCloud",
+      "url": "https://www.documentcloud.org/documents/23728310-sam-bankman-fried-5th-superseding-indictment/"
+    },
+    {
+      "id": "5b5c4bc0-2b50-4358-adf7-f0ad767618bc",
+      "score": 0.2671531,
+      "title": "Roaming Charges: The Upside-Down World",
+      "url": "https://www.counterpunch.org/2022/11/18/roaming-charges-73/"
+    },
+    {
+      "id": "cf04c26d-8f55-4c10-817d-7c6774b819ba",
+      "score": 0.25917634,
+      "title": "Comedian Jeff Wittek Says He Saw \"Live Sex\" at Diddy's Party",
+      "url": "https://www.yahoo.com/news/comedian-jeff-wittek-says-saw-035141311.html"
+    },
+    {
+      "id": "0f73d18b-0edd-4c24-860e-c6346d1b16cb",
+      "score": 0.25917634,
+      "title": "Jay-Z\u2019s Request to File to Dismiss Rape Accuser\u2019s Lawsuit Granted",
+      "url": "https://www.yahoo.com/news/jay-z-request-file-dismiss-160300169.html"
+    },
+    {
+      "id": "b0af6ec7-acf2-40a2-845a-525e0308639d",
+      "score": 0.19544083,
+      "title": "A People-Powered Insurgency Threatened to Reshape the Democratic Party. Then Came AIPAC and Its Allied Super PAC, Democratic Majority for Israel.",
+      "url": "https://theintercept.com/2022/10/16/democratic-party-progressive-israel-aipac-dmfi/"
+    },
+    {
+      "id": "dac7f528-9061-4bdf-b4b4-3bebc614ed62",
+      "score": 0.15753852,
+      "title": "FTX Founder Sam Bankman-Fried's Bid for Release From Jail Denied by Judge",
+      "url": "https://www.youtube.com/watch?v=sFcc0vH3iM4"
+    }
+  ]
+}

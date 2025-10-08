@@ -1,0 +1,306 @@
+{
+  "id": "0f3aaf2d-a8b7-42b1-8785-00052c127f8a",
+  "status": "completed",
+  "content": "TRUE.\n\nThe claim that California's farmers produce about 80% of the world's almond supply is factual and widely substantiated by agricultural data and industry reports. Multiple sources consistently place the state's share of global production at or around this figure, with some reporting it as high as 82%[1][2].\n\n## Summary Assessment\n\nNumerous agricultural, governmental, and news sources affirm that California is the dominant producer of almonds globally. The state accounts for 100% of the commercial almond supply in the United States and approximately 80% of the world's supply[3][4]. This level of production is supported by around 8,000 farms in the state[5].\n\nSpecific figures cited by various organizations include:\n*   **82%**: Some reports state that 82% of the world's almonds are harvested in California, grown on 1.5 million acres in the Central Valley[2][1]. A Reddit post also cited this figure[6].\n*   **80%**: This is the most commonly cited statistic, appearing in reports from industry groups like the Almond Board of California[7], academic institutions[8], and numerous media outlets[9][10]. This figure has been used consistently over several years to describe California's market share[10][11][12].\n*   **Over 80%**: Other sources describe the state's contribution as \"over 80%\" of the global almond supply in recent years[11][13].\n\nThe state's Central Valley provides an ideal Mediterranean climate for almond cultivation[4][13].\n\n## Quantitative Verification (2023/2024 Crop Year)\n\nProduction volume data from the 2023/2024 crop year confirms California's 80% market share.\n\n*   **Global Production**: The U.S. Department of Agriculture (USDA) forecasted global almond production to be 1.5 million metric tons (shelled basis) for the 2023/24 season[14]. Another statistical source places the total at 1.507 million metric tons[15].\n*   **California Production**: For the same period, U.S. (California) production was projected to be 1.2 million metric tons[14]. The USDA's 2023 California Almond Objective Measurement Report separately forecasted production at 2.60 billion meat pounds[16][17][18], which is equivalent to 1.18 million metric tons[17].\n\nCalculating the state's global share using these figures:\n(1.2 million metric tons from California) / (1.5 million metric tons globally) = **80%**[14].\n\nSpain is the next-largest producer, but its output of 202,339 tons is minor compared to California's more than 2 million tons[2].\n\n## Economic and Agricultural Scale\n\nThe scale of California's almond industry underscores its global importance. The state has over 1.3 million acres of harvested almond orchards as of 2022, an increase from 760,000 acres in 2011[19].\n\n*   **Economic Value**: Almonds were California's fifth most valuable agricultural product in 2022, valued at $3.5 billion[4][7]. The industry's total economic activity contributes approximately $11 billion to the state's economy and supports around 110,000 jobs[20][11][21].\n*   **Leading Export**: Almonds are California\u2019s top agricultural export commodity[9][22][4]. In 2023, foreign sales of almonds brought in $4.4 billion[9].\n*   **Export Volume**: A significant portion of the crop is exported, with the share growing over time. More than three-quarters of the harvest is sold internationally[9]. The estimated export share rose from approximately 65% in the 2020-21 crop year to around 74% as of April 2025 for the 2024-25 crop year[3]. Key export destinations include the European Union, China, and India[4].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "0b49e984-ae99-47b8-b2a8-f2a3158f5fec",
+      "score": 0.7533401,
+      "title": "California Almonds: Weighing Economic Impact vs. Water ...",
+      "url": "https://yipinstitute.org/policy/california-almonds-weighing-economic-impact-vs-water-sustainability",
+      "citation_index": 1
+    },
+    {
+      "id": "b0f0dc9e-9997-4810-b8d5-9f1b7a2139ae",
+      "score": 0.67706895,
+      "title": "CALIFORNIA ALMONDS ALL IN A NUTSHELL . . . - Manteca Bulletin",
+      "url": "https://www.mantecabulletin.com/news/local-news/california-almonds-all-nutshell/",
+      "citation_index": 2
+    },
+    {
+      "id": "743a0779-c611-46b3-b169-75f51bba1e03",
+      "score": 0.81347597,
+      "title": "California Almond Facts & Statistics 2025",
+      "url": "https://www.jssalmonds.com/what-percentage-of-california-almonds-are-exported/",
+      "citation_index": 3
+    },
+    {
+      "id": "986db006-60d9-4922-8fd1-3078582c3666",
+      "score": 0.71687365,
+      "title": "Almond cultivation in California - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Almond_cultivation_in_California",
+      "citation_index": 4
+    },
+    {
+      "id": "3e214fd2-cbf7-473f-b05e-632f2c07807b",
+      "score": 0.75377536,
+      "title": "California farmers expect rebound in almond industry",
+      "url": "https://www.kvpr.org/business-economy/2024-07-11/farming-is-a-gamble-in-californias-almond-boom-and-bust-growers-are-hoping-for-a-rebound",
+      "citation_index": 5
+    },
+    {
+      "id": "dc95ea9e-c421-4443-8ac4-124fa83aa5ff",
+      "score": 0.79958355,
+      "title": "r/todayilearned on Reddit: TIL that California produces 82% of the world\u2019s almonds.",
+      "url": "https://www.reddit.com/r/todayilearned/comments/8leskp/til_that_california_produces_82_of_the_worlds/",
+      "citation_index": 6
+    },
+    {
+      "id": "c5cffa6d-a0e8-400f-9aab-a8dfab3e45be",
+      "score": 0.6041426,
+      "title": "KEY ISSUES & FAST FACTS 2023",
+      "url": "https://www.almonds.com/sites/default/files/2024-06/ABC_FastFactBrochure2023_Digital.pdf",
+      "citation_index": 7
+    },
+    {
+      "id": "8ece8d35-5f5f-40b2-bb0c-068a5c8e7f3c",
+      "score": 0.7237202,
+      "title": "Whole System Regenerative Almond Production \u2013 Center for Regenerative Agriculture and Resilient Systems",
+      "url": "https://www.csuchico.edu/regenerativeagriculture/regen-ag-systems/regenerative-almond-production.shtml",
+      "citation_index": 8
+    },
+    {
+      "id": "4f789db1-3366-4291-a4ae-c87c2998e646",
+      "score": 0.9018604,
+      "title": "California almond growers poised for near-record harvest",
+      "url": "https://www.sacbee.com/news/business/article310730300.html",
+      "citation_index": 9
+    },
+    {
+      "id": "17ff66ce-2a70-4af6-8e93-d63882dfac06",
+      "score": 0.75809944,
+      "title": "Climate Change In California Is Threatening The World's Top Almond Producer",
+      "url": "https://www.npr.org/2021/08/17/1028452988/climate-change-california-drought-heat-almond-production",
+      "citation_index": 10
+    },
+    {
+      "id": "bba24400-a710-4b21-b9e5-c834fc103c39",
+      "score": 0.68344116,
+      "title": "Almond Production By State: California\u2019s Global Impact",
+      "url": "https://farmonaut.com/usa/almond-production-by-state-californias-global-impact",
+      "citation_index": 11
+    },
+    {
+      "id": "476fe121-0de9-48ef-8478-7689c148e27b",
+      "score": 0.6445166,
+      "title": "80% of the World\u2019s Almonds Come From California",
+      "url": "https://blog.aghires.com/80-worlds-almonds-come-california/",
+      "citation_index": 12
+    },
+    {
+      "id": "0750a979-16d2-4e6b-b86f-9d377bde5b5a",
+      "score": 0.780947,
+      "title": "Almond Production by State 2025",
+      "url": "https://worldpopulationreview.com/state-rankings/almond-production-by-state",
+      "citation_index": 13
+    },
+    {
+      "id": "338e48e6-8804-4872-bc34-60137a376546",
+      "score": 0.6546525,
+      "title": "USDA Predicts 3% Rise in Global Almond Production in 2023/24 | Produce Report",
+      "url": "https://www.producereport.com/article/usda-predicts-rise-global-almond-production-2023-24",
+      "citation_index": 14
+    },
+    {
+      "id": "f8a2a87c-5f9e-4728-a2bd-b185f9012b05",
+      "score": 0.67140645,
+      "title": "Almond production worldwide 2024 | Statista",
+      "url": "https://www.statista.com/statistics/632829/almond-production-worldwide/",
+      "citation_index": 15
+    },
+    {
+      "id": "fb6b7cdf-b110-461e-be0f-59e2f87ad75f",
+      "score": 0.82117355,
+      "title": "Almond Update: 2023 Almond Production Expected to Increase",
+      "url": "https://agnetwest.com/almond-update-2023-almond-production-expected-to-increase/",
+      "citation_index": 16
+    },
+    {
+      "id": "4f889fa3-2aba-4c77-9040-f97549b2bccd",
+      "score": 0.7610953,
+      "title": "Almonds Global Statistical Review",
+      "url": "https://inc.nutfruit.org/almonds-global-statistical-review-3/",
+      "citation_index": 17
+    },
+    {
+      "id": "ff2da868-d2af-420d-9aaa-7816256e84f5",
+      "score": 0.755078,
+      "title": "2023 California Almond Objective Measurement Report",
+      "url": "https://www.rpacalmonds.com/wp-content/uploads/2023/07/NASS-Objective-Report-2023.pdf",
+      "citation_index": 18
+    },
+    {
+      "id": "761c4642-e2b5-437c-84f6-f09152e2e587",
+      "score": 0.79561085,
+      "title": "California grows 80% of the world\u2019s almonds but production is dropping. Can CA convert the land to solar or habitat and save water from this 'thirsty' product? - Quora",
+      "url": "https://www.quora.com/California-grows-80-of-the-world-s-almonds-but-production-is-dropping-Can-CA-convert-the-land-to-solar-or-habitat-and-save-water-from-this-thirsty-product",
+      "citation_index": 19
+    },
+    {
+      "id": "423abaad-a1f3-42ae-9940-fe5530a2b3fd",
+      "score": 0.4122231,
+      "title": "What Would Regenerative Farming Mean For Almonds?",
+      "url": "https://www.forbes.com/sites/stevensavage/2023/06/07/what-would-regenerative-farming-mean-for-almonds/",
+      "citation_index": 20
+    },
+    {
+      "id": "5bce1c0f-d48c-4d14-b726-600c36fd9b89",
+      "score": 0.3983836,
+      "title": "The Economic Impacts of the California Almond Industry",
+      "url": "http://www.almonds.com/sites/default/files/economic-impacts-california-almond-industry.pdf",
+      "citation_index": 21
+    },
+    {
+      "id": "cb411d23-9e2d-4dd7-87ba-5308cc6b31d5",
+      "score": 0.32402197,
+      "title": "Cracking Open New Markets for California Almonds | USDA Foreign Agricultural Service",
+      "url": "https://www.fas.usda.gov/newsroom/cracking-open-new-markets-california-almonds",
+      "citation_index": 22
+    },
+    {
+      "id": "611f4048-b890-4f54-bd7e-7bef93af9056",
+      "score": 0.8409005,
+      "title": "California Almond Acreage Increases in 2020",
+      "url": "https://www.almonds.com/about-us/press-room/california-almond-acreage-increases-2020"
+    },
+    {
+      "id": "8bacd99d-ab3a-4779-b4e9-76a3ad2112bb",
+      "score": 0.7837407,
+      "title": "Almonds Global Statistical Review - International Nut & Dried Fruit Council",
+      "url": "https://inc.nutfruit.org/almonds-global-statistical-review-2/"
+    },
+    {
+      "id": "6962b2cf-661f-451e-90f9-5625239a5026",
+      "score": 0.7646988,
+      "title": "California Almonds: From Seed to Snack - How They Grow + Thrive - California Grown",
+      "url": "https://californiagrown.org/blog/california-almonds/"
+    },
+    {
+      "id": "da3947b7-d199-4ebf-8dc3-7d0c54d7adba",
+      "score": 0.735737,
+      "title": "Global Statistical Review, Almonds - Commodity Board Europe GmbH",
+      "url": "https://commodity-board.com/global-statistical-review-almonds/"
+    },
+    {
+      "id": "0e191754-e606-426a-8d94-9a00b6001c1a",
+      "score": 0.7336813,
+      "title": "Almonds Global Statistical Review",
+      "url": "https://inc.nutfruit.org/almonds-global-statistical-review-4/"
+    },
+    {
+      "id": "e7647dd9-0671-4400-b15c-64f5490dc7d5",
+      "score": 0.69820654,
+      "title": "Global Almond Market Size & Forecast 2025-2030 | Free Sample",
+      "url": "https://www.knowledge-sourcing.com/report/almond-market"
+    },
+    {
+      "id": "996e88b7-0d65-47d8-8ab9-6af63dcf0f40",
+      "score": 0.6747586,
+      "title": "Almond production worldwide 2023/24, by country",
+      "url": "https://www.statista.com/statistics/632865/almond-production-worldwide-by-country/?srsltid=AfmBOooDVK7PLz3fAWhdewR26w8nHiYaHMqO2bMdaozxL7T-oG3nVo84"
+    },
+    {
+      "id": "ad8607e9-8ca7-4ecf-9aaa-d74cf80eda3c",
+      "score": 0.6659544,
+      "title": "Crop Reports | Almond Almanac Report",
+      "url": "https://www.almonds.com/tools-and-resources/crop-reports/almond-almanac"
+    },
+    {
+      "id": "606d76c1-30e7-465c-a73f-614b788c498b",
+      "score": 0.65887916,
+      "title": "Almond Crop Reports | Almond Board of California",
+      "url": "https://www.almonds.com/tools-and-resources/crop-reports"
+    },
+    {
+      "id": "84536dd1-0894-477f-b268-6e76bd36f16e",
+      "score": 0.64880073,
+      "title": "Is pistachio the new pumpkin spice? Why production of the nut is booming in California",
+      "url": "https://www.theguardian.com/us-news/2025/jan/03/pistachio-california"
+    },
+    {
+      "id": "cdcc734b-8b71-4336-b086-898f4fe81367",
+      "score": 0.6410185,
+      "title": "USDA Projects Larger 2024 Almond Crop; Down 7 Percent from May Forecast",
+      "url": "https://www.almonds.com/about-us/press-room/usda-projects-larger-2024-almond-crop"
+    },
+    {
+      "id": "691a2bab-3c41-4f2a-8a33-c649a02e7d72",
+      "score": 0.6279746,
+      "title": "2023-2024 Crop Year",
+      "url": "https://www.almonds.com/sites/default/files/2024-08/2024.07_PosRpt.pdf"
+    },
+    {
+      "id": "ffb1f254-7267-4f67-a53a-1339d2285d55",
+      "score": 0.6030211,
+      "title": "Standing Acreage Final Reports",
+      "url": "https://www.almonds.org/tools-and-resources/crop-reports/standing-acreage-final-reports"
+    },
+    {
+      "id": "5cba6d32-546b-436b-8a00-7cd7c3813e77",
+      "score": 0.5746579,
+      "title": "USDA forecasts California almond crop of 3 billion pounds",
+      "url": "https://www.freshplaza.com/north-america/article/9749813/usda-forecasts-california-almond-crop-of-3-billion-pounds/"
+    },
+    {
+      "id": "d22f515a-a9af-497e-8747-2230c7707204",
+      "score": 0.48528314,
+      "title": "California Almond Acreage Drops Again in 2024",
+      "url": "https://www.almonds.com/about-us/press-room/california-almond-acreage-drops-again-2024"
+    },
+    {
+      "id": "37d4d48a-d92c-41a1-aec7-e7d087223f3f",
+      "score": 0.37284824,
+      "title": "Almond Production Forecast | Crop Reports",
+      "url": "https://www.almonds.org/tools-and-resources/crop-reports/subjective-forecasts"
+    },
+    {
+      "id": "4d8493c9-734c-4a32-85dc-e7eb084a5d41",
+      "score": 0.35233605,
+      "title": "California Agricultural Production Statistics",
+      "url": "https://www.cdfa.ca.gov/Statistics/"
+    },
+    {
+      "id": "0d9048ae-a3c7-4563-8f55-df366b154fe0",
+      "score": 0.3280454,
+      "title": "Resources and Statistics",
+      "url": "https://www.almonds.com/almond-industry/regulatory-and-trade/resources-and-statistics"
+    },
+    {
+      "id": "3bc982a7-3117-453d-9ae9-cf1b20ed1c79",
+      "score": 0.14117509,
+      "title": "USDA - National Agricultural Statistics Service - California - Almonds",
+      "url": "https://www.nass.usda.gov/Statistics_by_State/California/Publications/Specialty_and_Other_Releases/Almond/index.php"
+    },
+    {
+      "id": "1f25b5d4-210b-4d98-b11c-b7bac10bf628",
+      "score": 0.11388496,
+      "title": "2021 California Almond Objective Measurement Report",
+      "url": "https://www.almonds.com/sites/default/files/2021-07/2021ObjectiveReport.pdf"
+    },
+    {
+      "id": "0ce3917a-98dd-4391-b711-415e8fbe4f09",
+      "score": 0.09726189,
+      "title": "A New Bee Crisis Could Make Your Food Scarce and Expensive",
+      "url": "https://www.scientificamerican.com/article/a-new-bee-crisis-could-make-your-food-scarce-and-expensive/"
+    },
+    {
+      "id": "0edd958c-ad7a-4c2a-aced-ec9c9c81bc1f",
+      "score": 0.09312415,
+      "title": "100 Women of Influence in 2022",
+      "url": "https://www.entrepreneur.com/leadership/100-women-of-influence-in-2022/435872"
+    },
+    {
+      "id": "e3c522a8-ca50-4fbe-8283-4d5eb7da15af",
+      "score": 0.021816617,
+      "title": "Carrot History \u2013 Carrots in the Second World War",
+      "url": "http://www.carrotmuseum.co.uk/history4.html"
+    },
+    {
+      "id": "37cbab7a-7dfc-4e93-b55c-dfd4b4735d5b",
+      "score": 0.007889708,
+      "title": "Ozone effects on blood biomarkers of systemic inflammation, oxidative stress, endothelial function, and thrombosis: The Multicenter Ozone Study in oldEr Subjects (MOSES)",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222601"
+    }
+  ]
+}

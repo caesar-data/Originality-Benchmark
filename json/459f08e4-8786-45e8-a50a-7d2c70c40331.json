@@ -1,0 +1,155 @@
+{
+  "id": "459f08e4-8786-45e8-a50a-7d2c70c40331",
+  "status": "completed",
+  "content": "FALSE.\n\nBased on an analysis of official and public records, the assertion that astronauts named John Smith and Alice Johnson conducted mock Mars walks is not factual. While the detail regarding the weight of training suits is accurate, the individuals and the event described do not appear in NASA's astronaut corps or recent activity reports.\n\n### Astronaut Identity Verification\n\nThe names \"John Smith\" and \"Alice Johnson\" do not appear on the official roster of NASA's active or management astronauts as of September 2025[1][2]. An exhaustive review of the 40 active astronauts and 12 management astronauts reveals no individuals with these names[1].\n\nFurthermore, these names are absent from the lists of recent NASA astronaut candidate classes, including:\n*   **Group 24 (2025 Class)**: The 10 members of this class are Ben Bailey, Cameron Jones, Katherine Spies, Anna Menon, Erin Overcash, Adam Fuhrmann, Lauren Edgar, Yuri Kubo, Rebecca Lawler, and Imelda Muller[3][4][5].\n*   **Group 23 (2022 Class)**: The ten NASA members are Nichole Ayers, Marcos Berr\u00edos, Christina Birch, Deniz Burnham, Luke Delaney, Andre Douglas, Jack Hathaway, Anil Menon, Christopher Williams, and Jessica Wittner[4][6].\n*   **Group 22 (2021 Class)**: Members include Kayla Barron, Zena Cardman, Raja Chari, Matthew Dominick, Robert Hines, Warren Hoburg, Jonny Kim, Jasmin Moghbeli, Loral O'Hara, Francisco Rubio, and Jessica Watkins[4].\n\n### Event Verification\n\nA targeted search for a mock Mars walk event involving individuals named John Smith and Alice Johnson in March 2025 yielded no results, indicating that no such publicly reported or officially documented event occurred.\n\n### Training Suit Weight Analysis\n\nThe claim that training suits for mock Mars missions weigh more than 70 pounds is factually correct.\n*   NASA uses mock-up suits, such as the Atlas Devices ExCon suit, for analog and field testing[7].\n*   These mock-ups, when outfitted with tools, communication, and avionics systems, can weigh **80+ pounds**[7].\n*   While efforts are underway to reduce the weight of these analog suits, with recent versions having removed over 20 pounds of structural weight, the 80+ pound figure establishes that such suits can and do exceed the 70-pound threshold[7].\n*   For comparison, other specialized suits also have significant mass. The orange launch and entry pressure suits weigh 91 pounds[8], and achieving optimal mobility in a future flight-rated Mars suit is estimated to require a mass of 45 kg (approximately 99 pounds)[9].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "64b47db4-2d05-4411-9a04-8df2ae243310",
+      "score": 0.8939131,
+      "title": "NASA Astronaut Corps - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/NASA_Astronaut_Corps",
+      "citation_index": 1
+    },
+    {
+      "id": "c4794c8d-f64c-4f29-9962-dbb09a1cc0f6",
+      "score": 0.7062922,
+      "title": "Active Astronauts - NASA",
+      "url": "https://www.nasa.gov/humans-in-space/astronauts/active-astronauts/",
+      "citation_index": 2
+    },
+    {
+      "id": "ae419768-c973-4afd-b383-ac667ffee387",
+      "score": 0.40924495,
+      "title": "NASA Selects All-American 2025 Class of Astronaut Candidates - NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/",
+      "citation_index": 3
+    },
+    {
+      "id": "0d6c130f-c01d-417d-ae05-c80007243ce8",
+      "score": 0.80014634,
+      "title": "List of astronauts by year of selection - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_astronauts_by_year_of_selection",
+      "citation_index": 4
+    },
+    {
+      "id": "61a35d85-febb-4445-bb00-e02ebd1f3081",
+      "score": 0.8875269,
+      "title": "NASA introduces 10 new astronaut candidates - CBS News",
+      "url": "https://www.cbsnews.com/news/new-nasa-astronaut-class-candidates/",
+      "citation_index": 5
+    },
+    {
+      "id": "97aa1e6f-d204-4e1c-85a7-71ca7c1e46f3",
+      "score": 0.28242916,
+      "title": "NASA Astronaut Group 23 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/NASA_Astronaut_Group_23",
+      "citation_index": 6
+    },
+    {
+      "id": "98461926-334f-4abb-92ac-b01ee3337cb2",
+      "score": 0.7982658,
+      "title": "NASA Advanced Space Suit Pressure Garment System ...",
+      "url": "https://ntrs.nasa.gov/api/citations/20250003995/downloads/Pressure%20Garment%20System%20Status%202025.pdf",
+      "citation_index": 7
+    },
+    {
+      "id": "2568d944-41cb-4e89-a8e7-34575bcba6c9",
+      "score": 0.16693358,
+      "title": "Spacesuits Built to Handle Pressure - NASA",
+      "url": "https://www.nasa.gov/humans-in-space/spacesuits-built-to-handle-pressure/",
+      "citation_index": 8
+    },
+    {
+      "id": "3d8dcab9-8478-419d-9320-c4ce778879b7",
+      "score": 0.7625837,
+      "title": "Optimal space suit mass for Mars extravehicular activity | IEEE Conference Publication | IEEE Xplore",
+      "url": "https://ieeexplore.ieee.org/document/7500869/",
+      "citation_index": 9
+    },
+    {
+      "id": "13110b49-f5ce-432e-bb33-470183e742da",
+      "score": 0.882276,
+      "title": "NASA unveils 10 new astronauts for missions to the moon \u2014 and maybe Mars | Space",
+      "url": "https://www.space.com/space-exploration/missions/nasa-unveils-10-new-astronauts-for-missions-to-the-moon-and-maybe-mars"
+    },
+    {
+      "id": "6e9a9fbb-3a6a-4384-ab0a-f6fdfb90e948",
+      "score": 0.71040785,
+      "title": "Who Is In Space - Live Updates",
+      "url": "https://whoisinspace.com/"
+    },
+    {
+      "id": "d7f51ce7-8910-48fc-b600-29cd7432b008",
+      "score": 0.69199765,
+      "title": "NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars - The New York Times",
+      "url": "https://www.nytimes.com/2025/09/22/science/nasa-new-astronauts.html"
+    },
+    {
+      "id": "3dcf20fb-8525-4938-a9d9-1fc55f685709",
+      "score": 0.6337056,
+      "title": "NASA introduces its newest astronauts: 10 chosen from ...",
+      "url": "https://abc7news.com/post/nasa-introduces-newest-astronauts-10-chosen-more-8000-applicants/17866917/"
+    },
+    {
+      "id": "d8673063-bafa-4b17-bd3d-c5439b7ddba0",
+      "score": 0.56719416,
+      "title": "Design Students Work With NASA on Mars Suit",
+      "url": "https://www.youtube.com/watch?v=4q5Q0oOewR4"
+    },
+    {
+      "id": "2e2c904f-490c-4ef3-b621-5aafa123b3ee",
+      "score": 0.48162505,
+      "title": "The Evolution of The Spacesuit!",
+      "url": "https://www.youtube.com/watch?v=H0KoqtdwuDY"
+    },
+    {
+      "id": "306dfec5-7ef4-44d9-b578-22b4a171f873",
+      "score": 0.47694567,
+      "title": "I got to participate in a 2-week Mars-analogue simulation. ...",
+      "url": "https://www.reddit.com/r/space/comments/yp7f2/i_got_to_participate_in_a_2week_marsanalogue/"
+    },
+    {
+      "id": "1d08c654-7e38-4b10-9f56-9c9eb9d57088",
+      "score": 0.41648865,
+      "title": "Suited versus Unsuited Analog Astronaut Performance ...",
+      "url": "https://www.liebertpub.com/doi/10.1089/ast.2013.1067"
+    },
+    {
+      "id": "2c0fff2b-ef40-46ff-9dc1-9b56eea63999",
+      "score": 0.40938663,
+      "title": "NASA to Announce New Astronaut Class, Preview Artemis II Moon Mission - NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-to-announce-new-astronaut-class-preview-artemis-ii-moon-mission/"
+    },
+    {
+      "id": "f302bce8-8a6f-4e55-b774-4c67d2b5d8db",
+      "score": 0.35447827,
+      "title": "Space suit - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Space_suit"
+    },
+    {
+      "id": "08bfaee2-6166-41f4-b9d8-04b12b3f963d",
+      "score": 0.31798777,
+      "title": "NASA\u2019s Management and Development of Spacesuits",
+      "url": "https://www.youtube.com/watch?v=V8xXULd0q5Y"
+    },
+    {
+      "id": "c14c6c5b-ece7-443b-9c48-2f21b2c244b2",
+      "score": 0.31060076,
+      "title": "Astronauts - NASA",
+      "url": "https://www.nasa.gov/humans-in-space/astronauts/"
+    },
+    {
+      "id": "044bb393-53d9-4906-97aa-d163dac59a80",
+      "score": 0.2463207,
+      "title": "Practicing for Mars: Analog Missions on ISS and Earth | H2M2 2025 Panel",
+      "url": "https://www.youtube.com/watch?v=0HpiqJmTxhg"
+    },
+    {
+      "id": "3f865641-0f28-4c45-af4d-fb51cf2674b3",
+      "score": 0.22005774,
+      "title": "NASA selects 10 new astronauts as it chases bold plans for the moon and Mars | CNN",
+      "url": "https://www.cnn.com/2025/09/22/science/nasa-new-astronaut-class-moon-mars"
+    }
+  ]
+}

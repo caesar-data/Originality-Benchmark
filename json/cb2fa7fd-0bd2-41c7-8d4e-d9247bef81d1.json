@@ -1,0 +1,768 @@
+{
+  "id": "cb2fa7fd-0bd2-41c7-8d4e-d9247bef81d1",
+  "status": "completed",
+  "content": "**TRUE.** ChatGPT can access up-to-date information by browsing the live internet, but this capability is subject to significant limitations regarding which subscription tier is being used, the technical mechanism employed, and the feature's operational reliability.\n\nWhile all underlying language models (e.g., GPT-4, GPT-4o, GPT-5) have static \"knowledge cutoff\" dates, meaning their internal training data is frozen in time, OpenAI has integrated external tools into the ChatGPT application that allow the models to retrieve current information from the web[1][2]. The availability and sophistication of these tools vary by user plan, and their performance is not consistently reliable[3][4].\n\n## Delineation of Web Access Capabilities\n\nChatGPT's ability to access current information is not a monolithic feature. It is enabled by distinct tools with different functionalities and availability across user tiers[5].\n\n### Core Web Browsing: \"Browse with Bing\" / \"ChatGPT Search\"\nThis is the standard mechanism for accessing current information and is available to all user tiers, including Free users[6][7].\n\n*   **Mechanism**: When a prompt requires current data, the model formulates search queries and sends them to Microsoft's Bing search engine[1][8]. It then retrieves, reads, and synthesizes information from the top search results to construct an answer, typically providing citations that link back to the source pages[1][9]. This process relies on Bing's real-time web index rather than the model's static training data[10][11].\n*   **Availability**: Initially exclusive to paid subscribers, web browsing was later extended to all users[1][7]. Free users gained this capability with the rollout of GPT-4o and subsequent updates[6][12].\n\n### Advanced Web Interaction: \"ChatGPT agent\"\nThis is a more powerful, interactive browsing tool available exclusively to paid subscription tiers (Plus, Pro, Team, and Enterprise)[5][13].\n\n*   **Mechanism**: The agent mode uses a virtual visual browser to interact with web pages directly[14]. It analyzes screenshots of the page to \"see\" and can perform actions like clicking links, navigating between pages, and filling out forms[14][15]. This allows it to conduct multi-step research and handle more complex online tasks than the standard search feature[13].\n*   **Availability**: Access to the agent mode is a key differentiator for paid plans. As of August 2025, it was available for Pro, Plus, and Team users, with Enterprise and Edu access following[16][13].\n\n## Availability Across Subscription Tiers\n\nAccess to up-to-date information is tiered, with paid users receiving more robust and extensive capabilities.\n\n| Feature / Capability | Free Tier | Plus Tier ($20/mo) | Pro, Team, Enterprise Tiers |\n| :--- | :--- | :--- | :--- |\n| **Knowledge Cutoff** | Varies by model (e.g., GPT-4o is June 2024) | Varies by model (e.g., GPT-4.1 is June 2024)[18] | Varies by model (e.g., GPT-5 is Oct 2024)[19] |\n| **Standard Web Search** | Yes, with usage limits[6] | Yes, with message limits up to 5x greater than free tier[6] | Yes, with higher or unlimited usage caps[20] |\n| **ChatGPT agent** | No | Yes, with monthly message limits[13] | Yes, with higher message limits or credit-based access[13][help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits] |\n\n## Critical Caveats on Reliability and Consistency\n\nAlthough the functionality exists, its practical application is inconsistent. Official status reports and user-led analyses reveal significant issues with reliability, accuracy, and performance.\n\n*   **Operational Instability**: The web browsing feature has a history of being disabled and re-enabled[22][23]. In the 30 days leading up to October 7, 2025, ChatGPT had a service uptime of 91.82%, indicating over two days of total downtime in a single month[24].\n*   **Frequent Outages**: In September and October 2025, OpenAI's services experienced multiple incidents and periods of degraded performance affecting components including \"Search\" and \"Agent\"[3][25]. A major outage on September 3, 2025, stemmed from a frontend failure that left ChatGPT unable to display responses[26][27]. An incident on October 3, 2025, rendered Search, Agent, and Deep Research features \"missing, unavailable, or unexpectedly enabled\"[28].\n*   **Inconsistent Behavior**: The model does not always elect to browse the web, even when a query necessitates current information, sometimes defaulting to its outdated internal knowledge without informing the user[29].\n*   **Accuracy and Transparency Concerns**: Some analyses suggest the browsing feature can be unreliable, occasionally failing to access live web pages while pretending it has, and instead falling back on outdated search snippets or hallucinated content[4]. When it does succeed, it may only retrieve information from a single source, and it is not always transparent about how that source was selected[29][30].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "c1eaf66a-8db5-4eb4-8f8f-0f30aeb1ef8a",
+      "score": 0.76321954,
+      "title": "ChatGPT with Internet Access: How It Works & Benefits",
+      "url": "https://www.byteplus.com/en/topic/538358",
+      "citation_index": 1
+    },
+    {
+      "id": "60ac6faa-2904-4447-8a45-f8a503600caf",
+      "score": 0.68318754,
+      "title": "Gamechanger: ChatGPT update introduces browsing tool with full access to internet. No more knowledge cutoff limit to database.",
+      "url": "https://wpadvancedads.com/chatgpt-provides-current-data/",
+      "citation_index": 2
+    },
+    {
+      "id": "23a3bb4f-cb32-43a5-98c3-b7cbee0d03d0",
+      "score": 0.8657814,
+      "title": "OpenAI ChatGPT Status. Check if OpenAI ChatGPT is down or having an outage. | StatusGator",
+      "url": "https://statusgator.com/services/openai/chatgpt",
+      "citation_index": 3
+    },
+    {
+      "id": "87f2751f-380c-4e5a-9775-920953ad9cd0",
+      "score": 0.7190094,
+      "title": "ChatGPT Is Not Accessing Live Websites \u2014 And No One Is ...",
+      "url": "https://medium.com/@danielponce_54327/chatgpt-is-not-accessing-live-websites-and-no-one-is-talking-about-it-ff582c049193",
+      "citation_index": 4
+    },
+    {
+      "id": "ca7f5f20-e445-4bb0-82fe-c1f18c23e27b",
+      "score": 0.80698997,
+      "title": "Using ChatGPT for browsing and real-time web research: what works and where",
+      "url": "https://www.datastudios.org/post/using-chatgpt-for-browsing-and-real-time-web-research-what-works-and-where",
+      "citation_index": 5
+    },
+    {
+      "id": "6dcd24d2-dbce-4cae-b602-eef789e029aa",
+      "score": 0.7208996,
+      "title": "Introducing GPT-4o and more tools to ChatGPT free users | OpenAI",
+      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/",
+      "citation_index": 6
+    },
+    {
+      "id": "e09751bd-85f8-4732-80d8-7f8f4ad7203a",
+      "score": 0.3308283,
+      "title": "Introducing ChatGPT search | OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-search/",
+      "citation_index": 7
+    },
+    {
+      "id": "c0cd9f30-353a-43a0-ba34-6c3797340b10",
+      "score": 0.45973158,
+      "title": "Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/",
+      "citation_index": 8
+    },
+    {
+      "id": "c720b21d-ceaa-43e3-be82-a943e42f02ae",
+      "score": 0.52144736,
+      "title": "What is ChatGPT Search (and how does it use Bing data)? \u2022 Yoast",
+      "url": "https://yoast.com/chatgpt-search/",
+      "citation_index": 9
+    },
+    {
+      "id": "d77ad5a8-5f33-4129-97f9-a1f0e53f6d3e",
+      "score": 0.61363083,
+      "title": "Unlocking AI Visibility: How Bing IndexNow Helps Brands Boost ChatGPT Discoverability",
+      "url": "https://martech.zone/chatgpt-visibility-and-bing-indexnow/",
+      "citation_index": 10
+    },
+    {
+      "id": "b020027c-2099-42af-baaa-58d5e219ebe8",
+      "score": 0.41108778,
+      "title": "What You Need to Know About the New Bing GPT Integration",
+      "url": "https://datadome.co/threat-research/about-new-bing-gpt-integration/",
+      "citation_index": 11
+    },
+    {
+      "id": "d2bce454-bb97-49ab-b7e1-9541ff47e936",
+      "score": 0.599087,
+      "title": "OpenAI Unveils GPT-4o: A Paradigm Shift in AI Capabilities and Accessibility",
+      "url": "https://www.webpronews.com/openai-unveils-gpt-4o-a-paradigm-shift-in-ai-capabilities-and-accessibility/",
+      "citation_index": 12
+    },
+    {
+      "id": "276c667f-2be7-4104-bf14-f8a63e4ee941",
+      "score": 0.55391616,
+      "title": "Introducing ChatGPT agent: bridging research and action",
+      "url": "https://openai.com/index/introducing-chatgpt-agent/",
+      "citation_index": 13
+    },
+    {
+      "id": "2805c9ea-2b00-4cfa-bd78-4cc30e954e43",
+      "score": 0.54782754,
+      "title": "ChatGPT agent",
+      "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+      "citation_index": 14
+    },
+    {
+      "id": "4286a33f-8fdb-4282-89e5-af6b59874432",
+      "score": 0.6562404,
+      "title": "ChatGPT agent explained: Everything you need to know",
+      "url": "https://www.techtarget.com/whatis/feature/ChatGPT-agents-explained",
+      "citation_index": 15
+    },
+    {
+      "id": "232a8056-2bc8-45c7-92fa-e4a5f0665f76",
+      "score": 0.5874941,
+      "title": "ChatGPT agent - release notes | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/11794368-chatgpt-agent-release-notes",
+      "citation_index": 16
+    },
+    {
+      "id": "213c0ff1-0b78-4311-8b05-6ac96c7aec54",
+      "score": 0.79637206,
+      "title": "Introducing GPT-4.1 in the API | OpenAI",
+      "url": "https://openai.com/index/gpt-4-1/",
+      "citation_index": 18
+    },
+    {
+      "id": "e485cebe-3098-43ad-9d03-ad286296278c",
+      "score": 0.85008353,
+      "title": "A comprehensive list of Large Language Model knowledge cut off dates - ALLMO: Boost Your Brand\u2019s Visibility in AI Search",
+      "url": "https://www.allmo.ai/articles/list-of-large-language-model-cut-off-dates",
+      "citation_index": 19
+    },
+    {
+      "id": "7bb71b9a-e714-401a-8d4b-bc6a89f181d0",
+      "score": 0.63804686,
+      "title": "Introducing ChatGPT Enterprise | OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-enterprise/",
+      "citation_index": 20
+    },
+    {
+      "id": "f8d595d0-5dbb-46e7-91a8-97985121cc82",
+      "score": 0.8091708,
+      "title": "OpenAI revives ChatGPT\u2019s browsing capabilities | CIO Dive",
+      "url": "https://www.ciodive.com/news/ChatGPT-Internet-access-OpenAI/694973/",
+      "citation_index": 22
+    },
+    {
+      "id": "2d51fe18-bef6-4bd4-803d-60ee381cca5a",
+      "score": 0.685971,
+      "title": "ChatGPT browsing feature deactivated only a week after roll out - here's why | ZDNET",
+      "url": "https://www.zdnet.com/article/chatgpt-browsing-feature-paused-after-users-bypassed-paywalls/",
+      "citation_index": 23
+    },
+    {
+      "id": "a714d500-cf25-4ac6-acc9-ec5257d914e3",
+      "score": 0.94326943,
+      "title": "Is OpenAI ChatGPT Down? Current OpenAI ChatGPT Status & Outages",
+      "url": "https://statusfield.com/status/openai/chatgpt",
+      "citation_index": 24
+    },
+    {
+      "id": "78b4a4db-9d73-4d43-8d8a-ff132d577b1d",
+      "score": 0.2324151,
+      "title": "OpenAI Status",
+      "url": "https://status.openai.com/",
+      "citation_index": 25
+    },
+    {
+      "id": "eb1802b6-4146-4ac0-a64d-1c42ecab4a70",
+      "score": 0.8765607,
+      "title": "ChatGPT Outage September 2025: Complete Analysis & ...",
+      "url": "https://blog.laozhang.ai/api-guides/chatgpt-outage-analysis-2025/",
+      "citation_index": 26
+    },
+    {
+      "id": "d79a463f-4dd3-4175-8d93-41e955156d8b",
+      "score": 0.34151715,
+      "title": "ChatGPT was down \u2014 OpenAI confirms status of outage | Tom's Guide",
+      "url": "https://www.tomsguide.com/news/live/chatgpt-outage-live-september-3-2025",
+      "citation_index": 27
+    },
+    {
+      "id": "87112a8e-f4ee-4a7d-9868-0bc0745afdb9",
+      "score": 0.8452414,
+      "title": "Is ChatGPT down? Check ChatGPT status and user reports | IsDown",
+      "url": "https://isdown.app/status/chatgpt",
+      "citation_index": 28
+    },
+    {
+      "id": "ddb5ff3b-145a-4e46-8c08-3134439454a8",
+      "score": 0.60861784,
+      "title": "Exploring the Unseen: Limitations of ChatGPT's Browse with Bing Feature",
+      "url": "https://www.youtube.com/watch?v=217lOeB2pB8",
+      "citation_index": 29
+    },
+    {
+      "id": "8242ca32-db8a-4e09-9c5b-3be0db3ab6cb",
+      "score": 0.60666215,
+      "title": "Ep 112: Browse with Bing - The New ChatGPT Feature You ...",
+      "url": "https://www.youreverydayai.com/browse-with-bing-the-new-chatgpt-feature-you-shouldnt-use/",
+      "citation_index": 30
+    },
+    {
+      "id": "3d1fea53-63ed-46c4-929e-c289d979a20f",
+      "score": 0.947386,
+      "title": "Knowledge Cutoff Dates of all LLMs (GPT-4o, GPT-4, Gemini)",
+      "url": "https://otterly.ai/blog/knowledge-cutoff/"
+    },
+    {
+      "id": "c4b17ac5-86b8-4b50-ba3c-ff32db8ce9e2",
+      "score": 0.9368016,
+      "title": "GPT-4o Knowledge Cutoff Date and Its Implications for Real-Time Access - Seifeur Guizeni - AI/ML Engineer & SEO Consultant",
+      "url": "https://seifeur.com/gpt-4o-knowledge-cutoff-date/"
+    },
+    {
+      "id": "ddae79e8-91c4-484b-b7f6-faa18c574421",
+      "score": 0.91671574,
+      "title": "ChatGPT Knowledge Cutoff Date 2025 Explained",
+      "url": "https://www.byteplus.com/en/topic/548902"
+    },
+    {
+      "id": "26e63e92-9f4d-4fcc-a2d2-0e4c7a664022",
+      "score": 0.90830135,
+      "title": "GPT-4 Turbo Knowledge cutoff Issues - API - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/gpt-4-turbo-knowledge-cutoff-issues/728680"
+    },
+    {
+      "id": "1c0e158a-e08a-4ebb-9843-a6c09d7983dd",
+      "score": 0.90039873,
+      "title": "GPT4 cut off date is now 2023.04? - Community - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/gpt4-cut-off-date-is-now-2023-04/444304"
+    },
+    {
+      "id": "18103826-f690-4064-ad1f-3def358bdd9a",
+      "score": 0.8925721,
+      "title": "Is OpenAI down? Check current OpenAI status",
+      "url": "https://incidenthub.cloud/status/openai"
+    },
+    {
+      "id": "33fa5ecb-e27f-4f58-864d-d5ad83258556",
+      "score": 0.88372874,
+      "title": "r/OpenAI on Reddit: GPT 4o Unaware and Earlier Knowledge Cutoff???",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1cr82je/gpt_4o_unaware_and_earlier_knowledge_cutoff/"
+    },
+    {
+      "id": "d2d63695-49cb-4d72-97ed-610616b4b812",
+      "score": 0.8825193,
+      "title": "GPT-4.5 knowledge cutoff is still October 2023 : r/singularity",
+      "url": "https://www.reddit.com/r/singularity/comments/1izpb8t/gpt45_knowledge_cutoff_is_still_october_2023/"
+    },
+    {
+      "id": "6de04ab0-768a-43a4-8cf7-f10c11d72c7c",
+      "score": 0.8740022,
+      "title": "New knowledge cutoff date - Community - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/new-knowledge-cutoff-date/382962"
+    },
+    {
+      "id": "67c26ec7-170f-4475-9dfa-2a46af7e7585",
+      "score": 0.87139857,
+      "title": "ChatGPT Tumbles in Global Outage! Here's What Happened",
+      "url": "https://opentools.ai/news/chatgpt-tumbles-in-global-outage-heres-what-happened"
+    },
+    {
+      "id": "d1ec4181-f47f-412c-9cc9-b28c28fa48c6",
+      "score": 0.86413884,
+      "title": "Model Release Notes | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes"
+    },
+    {
+      "id": "9ba090e6-4ef5-43a1-bdfe-fc53ad375fe1",
+      "score": 0.8548001,
+      "title": "Model Knowledge Cutoff Date (gpt-4-0125-preview) - API - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/model-knowledge-cutoff-date-gpt-4-0125-preview/654401"
+    },
+    {
+      "id": "f3386c7a-6869-461d-94c2-028821645607",
+      "score": 0.8533396,
+      "title": "Whats the actual knowledge cutoff date for gpt-4.1-nano? - Microsoft Q&A",
+      "url": "https://learn.microsoft.com/en-us/answers/questions/2259299/whats-the-actual-knowledge-cutoff-date-for-gpt-4-1"
+    },
+    {
+      "id": "9c3cec3b-6549-440d-a092-b9c493196641",
+      "score": 0.8479807,
+      "title": "Understanding Knowledge Cut-offs in GenAI Models",
+      "url": "https://promptrevolution.poltextlab.com/understanding-knowledge-cut-offs-in-genai-models/"
+    },
+    {
+      "id": "a3e0c6f9-d177-42b2-97d7-9a1355cdc59a",
+      "score": 0.8396422,
+      "title": "Gpt-4.1-mini api knowledge cutoff - Bugs - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/gpt-4-1-mini-api-knowledge-cutoff/1260442"
+    },
+    {
+      "id": "20c6232f-bb34-4b68-b4ad-26862568f261",
+      "score": 0.83225065,
+      "title": "Knowledge Cutoff and ChatGPT: How to Determine the Actual Cutoff",
+      "url": "https://ediscoverytoday.com/2024/06/27/knowledge-cutoff-and-chatgpt-how-to-determine-the-actual-cutoff-artificial-intelligence-best-practices/"
+    },
+    {
+      "id": "d1d34b17-cd3d-45d6-9e07-4b3255c3ccbd",
+      "score": 0.82994765,
+      "title": "GPT-4o (and several others) knowledge cutoff date jump-back - Community - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/gpt-4o-and-several-others-knowledge-cutoff-date-jump-back/877917"
+    },
+    {
+      "id": "acbe0277-eb50-4ca1-850b-fe207a8efff4",
+      "score": 0.8266142,
+      "title": "OpenAI Status. Check if OpenAI is down or having an outage. | StatusGator",
+      "url": "https://statusgator.com/services/openai"
+    },
+    {
+      "id": "7ed48cf5-1fae-4767-98b1-7f88c1006022",
+      "score": 0.8098936,
+      "title": "ChatGPT is unaware of the way Browsing is implemented - Bugs - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/chatgpt-is-unaware-of-the-way-browsing-is-implemented/485728"
+    },
+    {
+      "id": "5bf781f8-ec9b-4647-b339-ab107b6914c1",
+      "score": 0.7728226,
+      "title": "r/ChatGPTPro on Reddit: Why are people saying ChatGPT's cutoff date is in 2023 when it can fetch data from the web from last week / today?",
+      "url": "https://www.reddit.com/r/ChatGPTPro/comments/1e0qya5/why_are_people_saying_chatgpts_cutoff_date_is_in/"
+    },
+    {
+      "id": "dec5b945-c126-46d1-b3b3-dffb4798d66e",
+      "score": 0.7500592,
+      "title": "ChatGPT Free vs Plus in 2025: Features, Models, and Limits",
+      "url": "https://www.datastudios.org/post/chatgpt-free-vs-plus-in-2025-features-models-and-limits"
+    },
+    {
+      "id": "4899e841-73f8-4509-906e-f09119af6cd1",
+      "score": 0.7476348,
+      "title": "r/ChatGPT on Reddit: ChatGPT's Ability To Browse The Web Has Been Disabled!!",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/105eag1/chatgpts_ability_to_browse_the_web_has_been/"
+    },
+    {
+      "id": "ae87df58-e1fd-4fa4-8046-b38c6acc136f",
+      "score": 0.7440808,
+      "title": "How to enable web browsing feature on OpenAI\u2019s ChatGPT",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-chatgpt-browse-with-bing-8960250/"
+    },
+    {
+      "id": "2442ef44-1475-42b2-a609-880425e0ed35",
+      "score": 0.73642004,
+      "title": "ChatGPT Gains Web Browsing Capabilities and Access to Live Data with Latest Plug-ins - Gizmochina",
+      "url": "https://www.gizmochina.com/2023/03/24/openai-chatgpt-browse-web/"
+    },
+    {
+      "id": "bb8efaec-89fc-46fc-866e-0deb7c766985",
+      "score": 0.72395444,
+      "title": "r/OpenAI on Reddit: June 2024 knowledge cutoff for \"4o\" with ChatGPT Pro",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1iptpw5/june_2024_knowledge_cutoff_for_4o_with_chatgpt_pro/"
+    },
+    {
+      "id": "16c464a4-9e96-410e-9426-467df066347d",
+      "score": 0.72325134,
+      "title": "First Hands-On With ChatGPT Browse; What Can It Do?",
+      "url": "https://medium.com/the-generator/first-hands-on-with-chatgpt-browse-what-can-it-do-20ce9205f02e"
+    },
+    {
+      "id": "8b135c63-f4c2-498c-89c5-d80a79fc4f71",
+      "score": 0.72278196,
+      "title": "Gpt-4o web browsing capability where? - API - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/gpt-4o-web-browsing-capability-where/744458"
+    },
+    {
+      "id": "89e8836a-1e01-40ff-9d15-92a035234886",
+      "score": 0.7106489,
+      "title": "How to Enable and Use Browsing Feature on OpenAI\u2019s ChatGPT?",
+      "url": "https://101blockchains.com/enable-chatgpt-browsing/"
+    },
+    {
+      "id": "762681cf-7e47-4fcd-9388-f4457509d7a4",
+      "score": 0.7011614,
+      "title": "ChatGPT can now access up to date information",
+      "url": "https://www.bbc.com/news/technology-66940771"
+    },
+    {
+      "id": "1d50d13e-7969-49df-8bc0-13570f911bef",
+      "score": 0.69820654,
+      "title": "ChatGPT can now browse the internet for updated information | Technology News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2023/9/28/chatgpt-can-now-browse-the-internet-for-updated-information"
+    },
+    {
+      "id": "ab82c334-540b-4e4d-b452-5667e18aa23c",
+      "score": 0.6917478,
+      "title": "ChatGPT is now equipped with a web search feature!",
+      "url": "https://www.reddit.com/r/ChatGPTPro/comments/1300lon/chatgpt_is_now_equipped_with_a_web_search_feature/"
+    },
+    {
+      "id": "82ea988a-12eb-4071-940f-37c54edb4447",
+      "score": 0.6826801,
+      "title": "ChatGPT Enterprise & Edu - Release Notes | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes"
+    },
+    {
+      "id": "0a08dd57-dd2b-4ca7-b7dd-69d689b1b3cd",
+      "score": 0.6821721,
+      "title": "All ChatGPT models in 2025: complete report on GPT-4o, o3, o4-mini, 4.1 and their real capabilities on web and app",
+      "url": "https://www.datastudios.org/post/all-chatgpt-models-in-2025-complete-report-on-gpt-4o-o3-o4-mini-4-1-and-their-real-capabilities"
+    },
+    {
+      "id": "bee0ea48-10cc-4a39-ba59-66a73f2ee470",
+      "score": 0.6793707,
+      "title": "Prompt for GPT-4 web browsing?",
+      "url": "https://community.openai.com/t/prompt-for-gpt-4-web-browsing/479021"
+    },
+    {
+      "id": "6efcf736-a037-4bed-ad9e-85bc6e2ea12f",
+      "score": 0.6659544,
+      "title": "ChatGPT outage live - widespread issues appear to be ...",
+      "url": "https://www.techradar.com/news/live/chatgpt-down-september-3"
+    },
+    {
+      "id": "94df2c81-179b-43e9-becf-3989642e1085",
+      "score": 0.65861565,
+      "title": "ChatGPT's new web browsing feature is a big ...",
+      "url": "https://www.zdnet.com/article/chatgpts-new-web-browsing-feature-is-a-big-disappointment-use-this-plugin-instead/"
+    },
+    {
+      "id": "16f398c4-77b9-4edc-887d-770915fc170b",
+      "score": 0.657561,
+      "title": "r/ChatGPT on Reddit: Lost the mode \"browse with Bing\"",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/17jxsmb/lost_the_mode_browse_with_bing/"
+    },
+    {
+      "id": "ba6c6803-f3e1-49bc-9ed7-565b17d94719",
+      "score": 0.6551821,
+      "title": "ChatGPT Enterprise and Edu - Models & Limits | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits"
+    },
+    {
+      "id": "c1489b9d-8978-418f-9a98-cf468e96215f",
+      "score": 0.6469293,
+      "title": "How to Use ChatGPT Browse With Bing? New Update for Better Experience",
+      "url": "https://profiletree.com/how-to-use-chat-gpt-browse-with-bing/"
+    },
+    {
+      "id": "d46f177b-6d1e-4d26-826f-bdda744238eb",
+      "score": 0.6407488,
+      "title": "Do chatGPT 4o Plus API has web browsing access - API - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/do-chatgpt-4o-plus-api-has-web-browsing-access/814927"
+    },
+    {
+      "id": "a00c08e7-ffc8-47d2-a9fa-bea4265961ee",
+      "score": 0.6216563,
+      "title": "r/OpenAI on Reddit: How to enable web browsing feature in ChatGPT Plus",
+      "url": "https://www.reddit.com/r/OpenAI/comments/17kgr5c/how_to_enable_web_browsing_feature_in_chatgpt_plus/"
+    },
+    {
+      "id": "8cf22d5a-993b-4345-b77f-cc30d7de88f1",
+      "score": 0.6205532,
+      "title": "This morning, ChatGPT 4.0 last the ability to search the Internet live for me, is this happening to anyone else today? - ChatGPT - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/this-morning-chatgpt-4-0-last-the-ability-to-search-the-internet-live-for-me-is-this-happening-to-anyone-else-today/961071"
+    },
+    {
+      "id": "fdbda142-a62a-4297-af6c-9cca1794c886",
+      "score": 0.61779,
+      "title": "What is ChatGPT Plus? | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus"
+    },
+    {
+      "id": "2ae4cb6f-68fe-4014-8ec3-861440f6260e",
+      "score": 0.61251885,
+      "title": "ChatGPT Now Lets You Browse the Internet With Bing",
+      "url": "https://nftnow.com/ai/openai-chatgpt-releases-browse-with-bing-feature/"
+    },
+    {
+      "id": "5be82ad8-0785-44ae-a452-0452b30f451a",
+      "score": 0.60610276,
+      "title": "ChatGPT can now access the live Internet. Can the API? - API - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/chatgpt-can-now-access-the-live-internet-can-the-api/401928"
+    },
+    {
+      "id": "84e88534-4f40-4b3e-a419-b9178af1739d",
+      "score": 0.60498303,
+      "title": "GPT4 not browsing the web or is very reluctant to do so - Prompting - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/gpt4-not-browsing-the-web-or-is-very-reluctant-to-do-so/688884"
+    },
+    {
+      "id": "4b6eb37b-6676-424f-92ad-a413c3ac07b1",
+      "score": 0.60049355,
+      "title": "Microsoft announces new Bing and Edge browser powered by upgraded ChatGPT AI | The Verge",
+      "url": "https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai"
+    },
+    {
+      "id": "de239700-d038-4582-97aa-059cf9f71037",
+      "score": 0.5971152,
+      "title": "How to Use ChatGPT\u2019s \u2018Browse With Bing\u2019 Tool\u2014Plus 6 Starter Prompts | WIRED",
+      "url": "https://www.wired.com/story/chatgpt-browse-with-bing-internet-connected-openai/"
+    },
+    {
+      "id": "b8acdf4c-52cb-476e-b237-cdf673a8e2b5",
+      "score": 0.5874941,
+      "title": "CHATGPT CAN NOW BROWSE!!! #viral #trending #chatgpt #ai #robot #technology",
+      "url": "https://www.youtube.com/watch?v=3AbUkZIrVPA"
+    },
+    {
+      "id": "dcfdad44-eb97-498b-8341-693df1677f22",
+      "score": 0.5803764,
+      "title": "OpenAI Enables ChatGPT Bing Web Browser Plugin After 3 Dark Months",
+      "url": "https://www.cmswire.com/digital-experience/openai-enables-chatgpt-bing-web-browser-plugin-after-3-dark-months/"
+    },
+    {
+      "id": "6445ddc5-8693-4883-918f-18fc6e100ed8",
+      "score": 0.580091,
+      "title": "ChatGPT usage limits explained: free vs plus vs enterprise",
+      "url": "https://northflank.com/blog/chatgpt-usage-limits-free-plus-enterprise"
+    },
+    {
+      "id": "e25051f7-7b2a-4ab5-9617-85fe68fb27af",
+      "score": 0.5568099,
+      "title": "ChatGPT Plus not accessing the internet - ChatGPT - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/chatgpt-plus-not-accessing-the-internet/413744"
+    },
+    {
+      "id": "0188a0a1-a55b-4d87-838e-419e919112ec",
+      "score": 0.5443418,
+      "title": "GPT-5 in ChatGPT | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/11909943-gpt-5-in-chatgpt"
+    },
+    {
+      "id": "aaee60dc-57f7-49d9-9f0e-3754a0f7a109",
+      "score": 0.52203226,
+      "title": "WebChatGPT: ChatGPT with internet access - Chrome Web Store",
+      "url": "https://chromewebstore.google.com/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn"
+    },
+    {
+      "id": "a81b29b8-65e3-4892-8257-0ff54ef592b2",
+      "score": 0.51383984,
+      "title": "EP 112: Browse with Bing - The New ChatGPT Feature You Shouldn't Use",
+      "url": "https://www.youtube.com/watch?v=2eLc6IC_670"
+    },
+    {
+      "id": "6896d9b4-d2fa-488d-aca3-4d7af03ac57a",
+      "score": 0.51105833,
+      "title": "How to use the new Bing with ChatGPT \u2014 and what you can do with it | Tom's Guide",
+      "url": "https://www.tomsguide.com/how-to/how-to-use-the-new-bing-with-chatgpt-and-what-you-can-do-with-it"
+    },
+    {
+      "id": "6a843b86-bc3c-4b3c-8aff-973c4f503576",
+      "score": 0.50564,
+      "title": "ChatGPT for enterprise",
+      "url": "https://openai.com/chatgpt/enterprise/"
+    },
+    {
+      "id": "01f09c59-b225-448a-8fb6-92c745e7600e",
+      "score": 0.49919498,
+      "title": "Browse with Bing: The new ChatGPT feature you shouldn\u2019t use",
+      "url": "https://www.youtube.com/watch?v=0MW57-lnJZg"
+    },
+    {
+      "id": "49ea586f-fcde-4994-b52f-59cc3c96169e",
+      "score": 0.477238,
+      "title": "ChatGPT's new 'Browse with Bing': Watching AIs stalk you ...",
+      "url": "https://www.pluralsight.com/blog/machine-learning/chatgpt-browse-with-bing-feature"
+    },
+    {
+      "id": "bf445301-3e94-4ed5-8b1e-4b3e81614629",
+      "score": 0.464392,
+      "title": "Introducing ChatGPT Plus | OpenAI",
+      "url": "https://openai.com/index/chatgpt-plus/"
+    },
+    {
+      "id": "5acfe03d-000f-4f14-94f7-c328cda074c3",
+      "score": 0.464392,
+      "title": "The dangers of Browse with Bing inside of ChatGPT \u2620\ufe0f",
+      "url": "https://www.youtube.com/watch?v=gaPh4-pf4Ok"
+    },
+    {
+      "id": "29a30835-668c-4e3c-b7a4-acf4ed2799ce",
+      "score": 0.46293488,
+      "title": "ChatGPT Business - Release Notes",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
+    },
+    {
+      "id": "0b8d753e-30f0-4cd3-85ec-7c06677fd3be",
+      "score": 0.45289946,
+      "title": "ChatGPT Not Displaying Responses",
+      "url": "https://status.openai.com/incidents/01K47A0QGE7KMK2AHJZVYSTHXW"
+    },
+    {
+      "id": "9b433bc2-cdee-464f-9093-750e112cc48c",
+      "score": 0.43208793,
+      "title": "Projects in ChatGPT",
+      "url": "https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt"
+    },
+    {
+      "id": "32150558-3c0d-4097-83ad-b729f3af74ff",
+      "score": 0.4250568,
+      "title": "Introducing GPT-5 | OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-5/"
+    },
+    {
+      "id": "439e797d-acf5-4aed-a012-c4cf23cd2adf",
+      "score": 0.42477044,
+      "title": "Is ChatGPT Down? Check Real-Time OpenAI Status & Outages",
+      "url": "https://chatgptdowndetector.com/"
+    },
+    {
+      "id": "f135c08f-d806-43f4-8af5-a3e5658b20f1",
+      "score": 0.40655622,
+      "title": "Pricing",
+      "url": "https://chatgpt.com/pricing/"
+    },
+    {
+      "id": "21428435-bbcf-41e1-8e4e-56020439476f",
+      "score": 0.39880496,
+      "title": "r/ChatGPT on Reddit: What is the Browse with Bing user agent?",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/14dggfp/what_is_the_browse_with_bing_user_agent/"
+    },
+    {
+      "id": "acbfab34-be76-4b57-97a1-b67231bca09b",
+      "score": 0.38908273,
+      "title": "ChatGPT Business - Release Notes | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/11391654-chatgpt-team-release-notes"
+    },
+    {
+      "id": "e29d3a46-51da-4bc8-bf44-34977b9b2027",
+      "score": 0.38574538,
+      "title": "ChatGPT is down: the AI tool doesn't work since 10 am CEST",
+      "url": "https://marketing4ecommerce.net/en/chatgpt-is-down/"
+    },
+    {
+      "id": "d812d1e7-dc79-45d8-a034-0d872290eaee",
+      "score": 0.38151965,
+      "title": "OpenAI tops 3 million paying business users, launches new features for workplace",
+      "url": "https://www.cnbc.com/2025/06/04/openai-chatgpt-enterprise-ai.html"
+    },
+    {
+      "id": "2cf887b6-73fb-4144-a4d1-0b6b03572f54",
+      "score": 0.3574335,
+      "title": "Introducing apps in ChatGPT and the new Apps SDK",
+      "url": "https://openai.com/index/introducing-apps-in-chatgpt/"
+    },
+    {
+      "id": "37c56e43-f482-42f5-9227-c2a584a4b17d",
+      "score": 0.35213548,
+      "title": "OpenAI\u2019s ChatGPT App Introduces Browsing Feature with Bing Integration",
+      "url": "https://www.analyticsvidhya.com/blog/2023/06/openais-chatgpt-app-introduces-browsing-feature-with-bing-integration/"
+    },
+    {
+      "id": "fb58842a-274f-49c8-8605-9113a78ab387",
+      "score": 0.34727195,
+      "title": "GitHub - HaoooWang/llm-knowledge-cutoff-dates: This repository contains a summary of knowledge cut-off dates for various large language models (LLMs), such as GPT, Claude, Gemini, Llama, and more.",
+      "url": "https://github.com/HaoooWang/llm-knowledge-cutoff-dates"
+    },
+    {
+      "id": "90296043-cd4e-432c-a458-caabb4601121",
+      "score": 0.3416489,
+      "title": "ChatGPT elevated error rate - OpenAI Status",
+      "url": "https://status.openai.com/incidents/01K3345Z7Y5D3E05N82RFEFG3P"
+    },
+    {
+      "id": "ced9d3ea-216b-40b4-a545-e2e4aef64d1f",
+      "score": 0.3383618,
+      "title": "ChatGPT can now search the web in real time",
+      "url": "https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing"
+    },
+    {
+      "id": "0002f401-f59d-4a5a-88a1-6be473bf2706",
+      "score": 0.30541807,
+      "title": "I cannot see the Bing search (web browsing) beta feature in GPT 4 UI anymore - ChatGPT - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/i-cannot-see-the-bing-search-web-browsing-beta-feature-in-gpt-4-ui-anymore/464663"
+    },
+    {
+      "id": "6cf1d10b-80c0-4cb0-aab6-c36b26271d15",
+      "score": 0.26552963,
+      "title": "Introducing ChatGPT Pro | OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-pro/"
+    },
+    {
+      "id": "cecc189f-9a2b-427d-a325-dc434f50c581",
+      "score": 0.23469634,
+      "title": "OpenAI Status: check for OpenAI outages and issues - StatusSight",
+      "url": "https://statussight.com/status/openai"
+    },
+    {
+      "id": "2ee48311-e379-4203-96f8-0b889d5f6c5c",
+      "score": 0.23004547,
+      "title": "OpenAI down? Current problems and outages | Downdetector",
+      "url": "https://downdetector.com/status/openai/"
+    },
+    {
+      "id": "9ff025b1-b5dc-486a-8feb-96a7b4c2e1c1",
+      "score": 0.22030927,
+      "title": "OpenAI's ChatGPT Suffers Global Outage, Service Down for ...",
+      "url": "https://www.outlookbusiness.com/artificial-intelligence/openais-chatgpt-suffers-global-outage-service-down-for-hours-browser-mobile-apps-affected-in-india-us-uk-and-eu"
+    },
+    {
+      "id": "df3561b1-74b4-4aab-ac86-f32c3207c2e7",
+      "score": 0.19447523,
+      "title": "r/ChatGPT on Reddit: Why does ChatGPT say so often that it cannot access external websites?",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1fo34vs/why_does_chatgpt_say_so_often_that_it_cannot/"
+    },
+    {
+      "id": "e7387c4f-a1aa-41b8-9233-f1912c067b28",
+      "score": 0.18777262,
+      "title": "ChatGPT Outage Hits Millions as OpenAI Scrambles to Fix ...",
+      "url": "https://sqmagazine.co.uk/chatgpt-down-global-outage-september-2025/"
+    },
+    {
+      "id": "ff2211f2-d5fb-415f-9bcd-69dc41de3ae4",
+      "score": 0.18457669,
+      "title": "57 Best AI Tools to Try in 2024 (Always Up-to-Date)",
+      "url": "https://www.semrush.com/blog/best-ai-tools/"
+    },
+    {
+      "id": "30cf5855-c693-4616-8fdb-a879bdd94c12",
+      "score": 0.17592032,
+      "title": "Why ChatGPT Outage Exposes AI Reliability Risks",
+      "url": "https://telcomagazine.com/news/ai-vulnerability-why-billions-of-people-cant-use-chatgpt"
+    },
+    {
+      "id": "33273311-ce40-4e5c-95e3-9618300eb6b3",
+      "score": 0.16807748,
+      "title": "ChatGPT Pricing | OpenAI",
+      "url": "https://openai.com/chatgpt/pricing/"
+    },
+    {
+      "id": "e029ae60-4c13-43f5-8302-dbed7f95c1f7",
+      "score": 0.15676242,
+      "title": "Uptime, reliability, and safety - ChatGPT - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/uptime-reliability-and-safety/827271"
+    },
+    {
+      "id": "5daad339-eb74-4e16-933c-5c9bfc6d06ff",
+      "score": 0.15376535,
+      "title": "Elevated error rates for APIs, ChatGPT and Sora - June 10th, 2025 - Community - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/elevated-error-rates-for-apis-chatgpt-and-sora-june-10th-2025/1283836"
+    },
+    {
+      "id": "855f78ed-f610-498d-8ad5-2ad8e1e92358",
+      "score": 0.14238712,
+      "title": "The Future of Human Agency",
+      "url": "https://www.elon.edu/u/imagining/surveys/xv2023/the-future-of-human-agency-2035/"
+    },
+    {
+      "id": "5a61fa81-619b-4131-93b7-28c20533af3c",
+      "score": 0.14238712,
+      "title": "Bing Chat | Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge/features/bing-chat?form=MA13FJ"
+    },
+    {
+      "id": "043a5939-17a6-4d36-bfc5-94157660e63f",
+      "score": 0.0909696,
+      "title": "OpenAI Status - Uptime History",
+      "url": "https://status.openai.com/uptime"
+    },
+    {
+      "id": "3b83ba27-51d8-4a25-af1b-6a6b2e21d2a3",
+      "score": 0.06628469,
+      "title": "What is the actual cutoff date for GPT-4? - ChatGPT - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/what-is-the-actual-cutoff-date-for-gpt-4/394750"
+    },
+    {
+      "id": "a82b2689-7a21-4046-8922-d60cffb8ee37",
+      "score": 0.039361045,
+      "title": "Manus and Other AI Agent Systems",
+      "url": "https://www.nextbigfuture.com/2025/03/manus-and-other-ai-agent-systems.html"
+    },
+    {
+      "id": "8d98aeed-3c2a-441c-b6bf-4de4f84ce7b9",
+      "score": 0.016291577,
+      "title": "Chatgpt can no longer access information from the internet - ChatGPT - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/chatgpt-can-no-longer-access-information-from-the-internet/638939"
+    }
+  ]
+}

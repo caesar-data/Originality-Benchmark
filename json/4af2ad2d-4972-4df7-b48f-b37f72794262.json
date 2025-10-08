@@ -1,0 +1,282 @@
+{
+  "id": "4af2ad2d-4972-4df7-b48f-b37f72794262",
+  "status": "completed",
+  "content": "TRUE. The human nose can detect the potent odor of hydrogen sulfide (H\u2082S) in concentrations as low as, and even significantly lower than, 1 part per billion (ppb).\n\n## Analysis of Hydrogen Sulfide Odor Detection Threshold\n\nHydrogen sulfide is a colorless, flammable gas recognized by its characteristic \"rotten egg\" smell[1][2][3][4]. The concentration at which it can be detected by smell, known as the odor threshold, is extremely low, though reported values vary across scientific literature and among different individuals[2][5].\n\n### Official Thresholds and Reported Ranges\n\nGovernmental health and safety agencies have established and reported various odor thresholds for H\u2082S, with many values falling at or below 1 ppb.\n\n*   **Agency for Toxic Substances and Disease Registry (ATSDR):** The ATSDR states that the rotten-egg odor of H\u2082S is detectable at concentrations as low as 0.5 ppb[6]. The agency reports a general odor threshold range of 0.0005 to 0.3 parts per million (ppm), which is equivalent to 0.5 to 300 ppb[7][8][9][10].\n*   **Occupational Safety and Health Administration (OSHA):** OSHA documents an odor threshold range of 0.01 to 1.5 ppm (10 to 1,500 ppb)[11][12][13].\n*   **California Air Resources Board (CARB):** The average odor detection threshold is cited as being around 0.03 to 0.05 ppm (30 to 50 ppb), although it is noted that some individuals can detect H\u2082S at lower levels[14]. The state's one-hour standard for H\u2082S, set for odor control, is 0.03 ppm[14].\n*   **Scientific Literature:** A comprehensive review of 26 different studies found that average odor detection thresholds ranged from 0.00007 ppm to 1.4 ppm (0.07 ppb to 1,400 ppb)[5][15]. Other reviews have cited detection thresholds for pure H\u2082S as low as 0.000013 ppm (0.013 ppb)[5]. One study recorded an odor threshold of 0.00041 ppm (0.41 ppb)[16].\n\n### Sensitivity and Individual Variation\n\nThe ability to detect hydrogen sulfide varies significantly from person to person[5].\n\n*   Some sources report that people can smell H\u2082S at concentrations as low as 0.5 ppb[1][17].\n*   Another source states that most people can smell it at levels as low as 1 to 5 ppb[18].\n*   One study on population response to the odor found that 2% of people recognized H\u2082S at 0.5 ppb, 14% at 2 ppb, 30% at 4 ppb, 50% at 8 ppb, and 83% at 30 ppb[5].\n*   The concentration at which 50% of a population can detect the odor has been recognized as 0.0047 ppm (4.7 ppb)[19].\n\n### Olfactory Fatigue and Health Considerations\n\nWhile the human nose is highly sensitive to H\u2082S at low concentrations, this sense is not a reliable indicator for safety at higher levels[6].\n\n*   **Olfactory Fatigue:** At concentrations around 100 ppm, the sense of smell can quickly become fatigued, causing a loss of odor perception[1][21]. This means a person might incorrectly assume the gas has dissipated when it is actually present at dangerous levels.\n*   **Nerve Paralysis:** At 150 ppm, paralysis of the olfactory nerve can occur[1][21][23].\n*   **Health Effects:** While low-level odor detection below 30 ppb is not expected to cause irritation or respiratory effects for most people, some individuals may be sensitive to the odors[24]. Prolonged exposure at 2-5 ppm may cause nausea, eye tearing, and headaches[11]. Concentrations above 100 ppm can cause severe respiratory irritation, and levels of 500-1,000 ppm can cause rapid unconsciousness and death.",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "050e368c-5879-448d-ab96-2dc78cb5c11b",
+      "score": 0.933534,
+      "title": "7 Hydrogen Sulfide | Review of Submarine Escape Action Levels for Selected Chemicals | The National Academies Press",
+      "url": "https://nap.nationalacademies.org/read/10242/chapter/9",
+      "citation_index": 1
+    },
+    {
+      "id": "ff8c2408-28ed-4cf6-8d31-5cb3ba40115a",
+      "score": 0.8810534,
+      "title": "Hydrogen Sulfide - Emergency and Continuous Exposure Guidance Levels for Selected Submarine Contaminants - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK219913/",
+      "citation_index": 2
+    },
+    {
+      "id": "a4d74b66-aa6d-483d-9598-a1543e597572",
+      "score": 0.8682137,
+      "title": "Sulfur Safety Data Sheet",
+      "url": "https://s204.q4cdn.com/601669363/files/doc_downloads/sdss/2025/Sulfur_SDS_US_072325_FINAL-docx.pdf",
+      "citation_index": 3
+    },
+    {
+      "id": "cae82ed8-98d7-4d5d-91c0-4996ad6bd09a",
+      "score": 0.8877607,
+      "title": "H2S Gas \u2014 What You Need to Know About Hydrogen Sulfide",
+      "url": "https://www.blacklinesafety.com/blog/h2s-gas-need-know",
+      "citation_index": 4
+    },
+    {
+      "id": "539b52fb-49aa-48c3-822c-287c34e31042",
+      "score": 0.82728493,
+      "title": "Low Level Exposure to Hydrogen Sulfide: A Review ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395451/",
+      "citation_index": 5
+    },
+    {
+      "id": "780c62aa-897b-4a57-915e-0f85be6f0d36",
+      "score": 0.79522943,
+      "title": "Hydrogen Sulfide | Medical Management Guidelines | Toxic Substance Portal | ATSDR",
+      "url": "https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=385&toxid=67",
+      "citation_index": 6
+    },
+    {
+      "id": "90346a3c-78cb-4785-aaae-1cb113f397e8",
+      "score": 0.75809944,
+      "title": "(0.01 \uf0a7 General Populations \uf0a7 Contaminated air is the most important",
+      "url": "https://www.atsdr.cdc.gov/toxguides/toxguide-114.pdf",
+      "citation_index": 7
+    },
+    {
+      "id": "8913cb70-b6a3-4d34-a6e8-1bee575e4d4b",
+      "score": 0.90593183,
+      "title": "Air Monitoring for Hydrogen Sulfide",
+      "url": "https://des.sc.gov/community/environmental-sites-projects/new-indy-catawba/air-monitoring-hydrogen-sulfide",
+      "citation_index": 8
+    },
+    {
+      "id": "4f0752db-cad2-4dd7-8320-966d828744f5",
+      "score": 0.5996498,
+      "title": "PUBLIC HEALTH STATEMENT - TOXICOLOGICAL PROFILE FOR HYDROGEN SULFIDE AND CARBONYL SULFIDE - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK591612/",
+      "citation_index": 9
+    },
+    {
+      "id": "c7fbe6ba-ca79-41ea-8155-9c96888203df",
+      "score": 0.27337232,
+      "title": "hydrogen sulfide",
+      "url": "https://www.floridahealth.gov/environmental-health/hazardous-waste-sites/contaminant-facts/_documents/final-faq-hydrogen-sulfide.pdf",
+      "citation_index": 10
+    },
+    {
+      "id": "f3b7bef9-d833-4b69-ae93-fef225d17f39",
+      "score": 0.9134376,
+      "title": "Hydrogen Sulfide - Hazards | Occupational Safety and ...",
+      "url": "http://www.osha.gov/hydrogen-sulfide/hazards",
+      "citation_index": 11
+    },
+    {
+      "id": "e75deeed-6f32-41ab-a8d8-9aafbe852f4a",
+      "score": 0.741169,
+      "title": "Effects of Hydrogen Sulfide H2S PPM EFFECT TIME",
+      "url": "https://www.osha.gov/sites/default/files/2018-12/fy15_sh-27664-sh5_Confined_Space_Handout_Effects_of_H2S.pdf",
+      "citation_index": 12
+    },
+    {
+      "id": "6cb097e5-c625-46d4-8729-b083d37b6bc1",
+      "score": 0.6778372,
+      "title": "Safety and Health Topics | Hydrogen Sulfide - Hazards",
+      "url": "https://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/california_waterfix/exhibits/docs/dd_jardins/part2_surrebuttal/ddj_347.pdf",
+      "citation_index": 13
+    },
+    {
+      "id": "1f0805db-3c80-433f-8d7c-4ff11db9592e",
+      "score": 0.82694983,
+      "title": "Hydrogen Sulfide & Health | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/resources/hydrogen-sulfide-and-health",
+      "citation_index": 14
+    },
+    {
+      "id": "c229a296-65c0-4981-81be-950f1a86dbbf",
+      "score": 0.5948579,
+      "title": "Low Level Exposure to Hydrogen Sulfide",
+      "url": "https://stacks.cdc.gov/view/cdc/131722/cdc_131722_DS1.pdf",
+      "citation_index": 15
+    },
+    {
+      "id": "6bc0d4dd-c633-4b20-82ed-f0f3223fd5c7",
+      "score": 0.74697095,
+      "title": "Odor composition analysis and odor indicator selection during sewage ...",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5062037",
+      "citation_index": 16
+    },
+    {
+      "id": "0c6f52c6-9bb8-4f48-adf6-dec0357d0a92",
+      "score": 0.8415267,
+      "title": "Elevated Hydrogen Sulfide Concentrations in Groundwater",
+      "url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/DWEHD/Water-Well-Construction/elevated-hydrogen-sulfide-concentrations-in-groundwater.pdf",
+      "citation_index": 17
+    },
+    {
+      "id": "8ef90264-fb35-48c7-9924-9455a6631539",
+      "score": 0.7975099,
+      "title": "Air Monitoring Completed at Landfill",
+      "url": "https://www.swalco.org/Archive.aspx?ADID=74",
+      "citation_index": 18
+    },
+    {
+      "id": "f823e145-f036-4b3c-b008-9e6205e60118",
+      "score": 0.82994765,
+      "title": "Hydrogen Sulfide: Toxicity - eSafety Training",
+      "url": "https://esafety.com/hydrogen-sulfide-toxicity-toolbox-talks/",
+      "citation_index": 19
+    },
+    {
+      "id": "b20dde45-edff-4235-bdd2-8ed9915fea1b",
+      "score": 0.8576849,
+      "title": "Hydrogen Sulfide Acute Exposure Guideline Levels - Acute Exposure Guideline Levels for Selected Airborne Chemicals - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK208170/",
+      "citation_index": 21
+    },
+    {
+      "id": "257764a9-f1bf-4578-84cc-7e1e4f735eac",
+      "score": 0.818055,
+      "title": "H | Health & Human Services",
+      "url": "https://hhs.iowa.gov/health-prevention/providers-professionals/toxicology/toxicology-manual/h",
+      "citation_index": 23
+    },
+    {
+      "id": "e6764ef4-9873-4566-9df0-a5bb3d26d2b8",
+      "score": 0.83093774,
+      "title": "Odors in Conimicut: Hydrogen Sulfide (H2S) Background Info",
+      "url": "https://dem.ri.gov/programs/emergencyresponse/conimicut.php",
+      "citation_index": 24
+    },
+    {
+      "id": "017cda05-9964-4325-8e13-7bf43e486fe7",
+      "score": 0.93191636,
+      "title": "Hydrogen sulphide: toxicological overview - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/hydrogen-sulphide-properties-incident-management-and-toxicology/hydrogen-sulphide-toxicological-overview"
+    },
+    {
+      "id": "b2713792-7370-4b49-a62a-6a750c40e518",
+      "score": 0.84215075,
+      "title": "How do you decide safe levels of hydrogen sulfide?",
+      "url": "https://centerforhealthjournalism.org/our-work/reporting/residents-want-know-how-do-you-decide-safe-levels-hydrogen-sulfide"
+    },
+    {
+      "id": "8408f2c2-1721-47cf-bd4d-c048a17177f5",
+      "score": 0.74563974,
+      "title": "Parts-per-billion-level detection of hydrogen sulfide based ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S221359792200101X"
+    },
+    {
+      "id": "609b651f-2103-46b2-b3ac-c5d5a2957068",
+      "score": 0.7395922,
+      "title": "This message is intended for all healthcare providers serving ...",
+      "url": "http://publichealth.lacounty.gov/eprp/lahan/alerts/LAHANHydrogenSulfide101421.pdf"
+    },
+    {
+      "id": "6f4a64e0-e1cd-4077-9374-522c01c35064",
+      "score": 0.73868835,
+      "title": "Odor Thresholds In Safety And Health: Understanding The ...",
+      "url": "https://hetiservices.com/odor-thresholds-in-safety-and-health-understanding-the-complex-world-of-smell-and-its-impact-on-workplace-safety/"
+    },
+    {
+      "id": "c0daca73-d548-44f7-8ffe-88a0b769033a",
+      "score": 0.73138535,
+      "title": "Effects of H2S on the Human Body",
+      "url": "https://www.youtube.com/watch?v=KsJ6YCkZGoM"
+    },
+    {
+      "id": "afa606f9-bdc4-464c-a8ed-b9579f2d39b4",
+      "score": 0.6989468,
+      "title": "Hydrogen sulfide emissions prompt new odor advisory for South Bay communities | KPBS Public Media",
+      "url": "https://www.kpbs.org/news/environment/2024/11/25/hydrogen-sulfide-emissions-prompt-new-odor-advisory-for-south-bay-communities"
+    },
+    {
+      "id": "038b49f7-3093-4cbf-a861-24b066f21149",
+      "score": 0.6533265,
+      "title": "",
+      "url": "https://www.wolframalpha.com/input/?i=hydrogen+sulfide+odor+detection+threshold+ppb"
+    },
+    {
+      "id": "5c8cd870-b235-4a0d-a419-b211465c61a3",
+      "score": 0.62687886,
+      "title": "WHO/SDE/WSH/03.04/07 English only Hydrogen Sulfide in Drinking-water",
+      "url": "https://cdn.who.int/media/docs/default-source/wash-documents/wash-chemicals/hydrogensulfide-bd.pdf?sfvrsn=2f03ad98_4"
+    },
+    {
+      "id": "5fcfd8e2-3b91-4f36-bfba-34bf42b35a13",
+      "score": 0.55391616,
+      "title": "Hydrogen Sulphide Training Overview | OLE",
+      "url": "https://www.youtube.com/watch?v=ayFw-5PJrKs"
+    },
+    {
+      "id": "335395c4-51fd-4313-a8a8-a14be2fd4ef7",
+      "score": 0.5533369,
+      "title": "Hydrogen Sulfide",
+      "url": "https://www.youtube.com/watch?v=kPo1XjeC5Ng"
+    },
+    {
+      "id": "dbc2d8e4-993a-4cee-9555-b4f7e63c0011",
+      "score": 0.54317886,
+      "title": "Updated 11/12/2024 Page 1 of 8 Page 1 of 8 Community Hydrogen Sulfide Guidance",
+      "url": "https://www.sdapcd.org/content/dam/sdapcd/documents/tjrv/Expanded%20H2S%20Threshold%20Guidance_11.12.24.pdf"
+    },
+    {
+      "id": "ff3f9d73-0f7f-40bf-a000-9dc2060ca974",
+      "score": 0.50183165,
+      "title": "Air Monitoring for Hydrogen Sulfide | South Carolina Department of Environmental Services",
+      "url": "https://www.des.sc.gov/community/environmental-sites-projects/new-indy-catawba/air-monitoring-hydrogen-sulfide"
+    },
+    {
+      "id": "3bc7d545-1dc4-402c-9e80-d362d6bbd370",
+      "score": 0.48352703,
+      "title": "September 2019  H2S & Respiratory Safety Video w Audio",
+      "url": "https://www.youtube.com/watch?v=Md_trxhoCLY"
+    },
+    {
+      "id": "1081935e-6e3c-4141-b851-3ebb58ee0ed5",
+      "score": 0.45871297,
+      "title": "EPA/635/R-03/005 www.epa.gov/iris TOXICOLOGICAL REVIEW OF HYDROGEN SULFIDE",
+      "url": "https://iris.epa.gov/static/pdfs/0061tr.pdf"
+    },
+    {
+      "id": "1c28e21d-5122-4332-9e48-6d8784d20556",
+      "score": 0.4450718,
+      "title": "Hydrogen Sulfide - ToxFAQs\u2122.",
+      "url": "https://www.atsdr.cdc.gov/toxfaqs/tfacts114.pdf"
+    },
+    {
+      "id": "afc401d7-9393-4c64-ae4c-02c6586fcb70",
+      "score": 0.39215115,
+      "title": "Hydrogen Sulfide - Hazards | Occupational Safety and Health Administration",
+      "url": "https://www.osha.gov/hydrogen-sulfide/hazards"
+    },
+    {
+      "id": "773a2a89-6210-4f52-8371-e8060328ce6b",
+      "score": 0.29234317,
+      "title": "Hydrogen Sulfide ( H2S ) Saudi Aramco",
+      "url": "https://www.youtube.com/watch?v=BLybbiqGspQ"
+    },
+    {
+      "id": "9458905a-1ade-41c4-a3a5-89b9d034668a",
+      "score": 0.17380677,
+      "title": "Right to Know Hazardous Substance Fact Sheet Common Name: HYDROGEN SULFIDE",
+      "url": "https://nj.gov/health/eoh/rtkweb/documents/fs/1017.pdf"
+    },
+    {
+      "id": "91acd1da-54ca-45fa-ae70-a3a8a9ea6565",
+      "score": 0.16963993,
+      "title": "Odor Threshold Determinations of 53 Odorant Chemicals",
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/00022470.1969.10466465"
+    }
+  ]
+}

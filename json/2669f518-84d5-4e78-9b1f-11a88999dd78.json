@@ -1,0 +1,1145 @@
+{
+  "id": "2669f518-84d5-4e78-9b1f-11a88999dd78",
+  "status": "completed",
+  "content": "**TRUE**: At the time it occurred, July 2023 was unequivocally declared the planet's hottest month on record by a consensus of the world's leading climate monitoring agencies, shattering previous records by a significant margin[1][2][3][4]. Subsequent analysis of 2024 data has created a more complex picture: some datasets now rank July 2024 as marginally warmer, while others show July 2023 retaining the record or the two months being in a statistical tie[5][6][7]. The minor differences between datasets are within the margin of statistical error, and the overarching scientific conclusion is that both months were exceptionally and unprecedentedly hot, reflecting an accelerating long-term warming trend[5].\n\n## July 2023: A Unanimous Record-Shattering Month\n\nIn mid-2023, major global climate authorities\u2014including the Copernicus Climate Change Service (C3S), the U.S. National Oceanic and Atmospheric Administration (NOAA), and the U.S. National Aeronautics and Space Administration (NASA)\u2014all confirmed that July 2023 was the hottest month ever recorded in their respective datasets[9]. The World Meteorological Organization (WMO), which synthesizes these datasets, corroborated this finding[4][10].\n\n### Key Metrics for July 2023\n*   **Copernicus (C3S):** The global average surface air temperature was 16.95\u00b0C[11][12][13]. This was 0.72\u00b0C above the 1991-2020 average for July and a substantial 0.33\u00b0C warmer than the previous record-holder, July 2019[14]. The temperature was estimated to be approximately 1.5\u00b0C warmer than the pre-industrial average (1850-1900)[14][15]. Based on proxy data, scientists suggested the month may have been the warmest in 120,000 years[15][16].\n*   **NOAA:** The global surface temperature was 1.12\u00b0C (2.02\u00b0F) above the 20th-century average, making it the warmest July in NOAA\u2019s 174-year record[2][17]. Since July is climatologically the planet's warmest month of the year, NOAA concluded July 2023 was likely Earth's warmest month on record[18][17].\n*   **NASA:** Analysis from the Goddard Institute for Space Studies (GISS) confirmed July 2023 was hotter than any other month in its record, which dates to 1880[3][19]. The temperature was 1.18\u00b0C (2.12\u00b0F) warmer than the 1951-1980 baseline average for July and 0.24\u00b0C (0.43\u00b0F) warmer than any previous July in NASA's records[20][19][21].\n\nThis record-breaking month was part of a larger trend that led 2023 to be confirmed as the hottest year on record[22][23][24]. July and August 2023 were the two warmest months ever recorded at that time[25][26].\n\n## The Challenge from July 2024: A Statistical Split\n\nThe status of July 2023 as the single hottest month ever was challenged by temperatures recorded in July 2024. However, analyses from different agencies yielded slightly different conclusions, highlighting the nuances of global temperature measurement.\n\n*   **NOAA:** Reported July 2024 as the new warmest July on record, 0.03\u00b0C (0.05\u00b0F) warmer than July 2023[27][5].\n*   **Copernicus (C3S):** Found July 2024 to be the second-warmest July on record, just 0.04\u00b0C cooler than July 2023[5][28].\n*   **NASA:** Initially reported that July 2024 had a \"narrow edge\" over July 2023[6][29]. A subsequent ensemble analysis concluded that the difference between the two months is smaller than the data's uncertainty, rendering them \"effectively tied for hottest\"[6].\n*   **Berkeley Earth:** Concluded that July 2024 and July 2023 are \"tied for the warmest July\" since records began in 1850[7]. Their analysis found a nominal difference of only 0.002\u00b0C, which is statistically insignificant[7].\n\nThe WMO acknowledged these minor discrepancies, stating the differences between the datasets are within the statistical margin of error used for these calculations[5].\n\n## Understanding the Discrepancies\n\nThe small differences in rankings between these \"gold-standard\" datasets stem from distinct methodologies for analyzing global temperature.\n\n*   **Data Models:** Copernicus uses a \"reanalysis\" method based on its ERA5 climate model, which combines forecasts with billions of measurements from satellites, ships, aircraft, and weather stations to create a comprehensive, near real-time picture of the climate[5]. In contrast, NASA and NOAA primarily rely on direct observational data from land and sea-based weather stations, using statistical analysis to fill in gaps[30].\n*   **Ocean Measurements:** The datasets may differ in how they measure temperature over the ocean. Reanalysis data may use air temperatures above the ocean surface, whereas observational datasets often use sea surface temperature readings from the water itself. Water warms and cools more slowly than air, which can introduce slight variations[31].\n*   **Data Gap Infilling:** Agencies use different techniques to estimate temperatures in areas with sparse data coverage, such as the polar regions, which can lead to minor differences in the global average[32].\n\nDespite these methodological differences, all major datasets are in strong agreement on the overall long-term warming trend and the exceptional nature of the heat experienced in both 2023 and 2024[33][34].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "f5319a48-7c7d-4714-bbca-eecccffe35b0",
+      "score": 0.95724994,
+      "title": "July 2023, the warmest month in Earth\u2019s recent history | Copernicus",
+      "url": "https://climate.copernicus.eu/july-2023-warmest-month-earths-recent-history",
+      "citation_index": 1
+    },
+    {
+      "id": "e4e97f38-21d9-4415-88b2-894136c2d923",
+      "score": 0.62358373,
+      "title": "Record shattering: Earth had its hottest July in 174 years | National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/news/record-shattering-earth-had-its-hottest-july-in-174-years",
+      "citation_index": 2
+    },
+    {
+      "id": "a40d0049-6855-496f-a87f-10cb881f06bb",
+      "score": 0.9488842,
+      "title": "NASA Scientific Visualization Studio | NASA Confirms July 2023 is Warmest Month on Record",
+      "url": "https://svs.gsfc.nasa.gov/14396",
+      "citation_index": 3
+    },
+    {
+      "id": "5dc053f6-691b-4ca2-9473-b0cfc53dd1f5",
+      "score": 0.8131201,
+      "title": "July 2023 confirmed as hottest month on record",
+      "url": "https://wmo.int/media/news/july-2023-confirmed-hottest-month-record",
+      "citation_index": 4
+    },
+    {
+      "id": "02b76be5-d1c6-4309-bd5d-879f83f682f6",
+      "score": 0.72559077,
+      "title": "July sets new temperature records",
+      "url": "https://wmo.int/media/news/july-sets-new-temperature-records",
+      "citation_index": 5
+    },
+    {
+      "id": "d5bac906-a48c-47e9-b714-8a9c9e31da62",
+      "score": 0.92005306,
+      "title": "NASA Finds Summer 2024 Hottest to Date - NASA",
+      "url": "https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/",
+      "citation_index": 6
+    },
+    {
+      "id": "f91b9d7c-53a7-4dac-a23a-64db2b5e08da",
+      "score": 0.95912766,
+      "title": "July 2024 Temperature Update - Berkeley Earth",
+      "url": "https://berkeleyearth.org/july-2024-temperature-update/",
+      "citation_index": 7
+    },
+    {
+      "id": "1753120a-a8fa-44c6-a076-a57a3347a3ac",
+      "score": 0.8571119,
+      "title": "July 2023 confirmed as hottest month on record - World",
+      "url": "https://reliefweb.int/report/world/july-2023-confirmed-hottest-month-record",
+      "citation_index": 9
+    },
+    {
+      "id": "3da4e0e5-9e01-4f9f-9b38-9ca1ba326d72",
+      "score": 0.86080295,
+      "title": "Copernicus and WMO: July 2023 is on track to be the hottest month on record | Copernicus",
+      "url": "https://climate.copernicus.eu/copernicus-and-wmo-july-2023-track-be-hottest-month-record",
+      "citation_index": 10
+    },
+    {
+      "id": "3d4c8326-53d4-44bf-9bd4-07d88660d69b",
+      "score": 0.882276,
+      "title": "July 2023 sees multiple global temperature records broken | Copernicus",
+      "url": "https://climate.copernicus.eu/july-2023-sees-multiple-global-temperature-records-broken",
+      "citation_index": 11
+    },
+    {
+      "id": "61b9a9a6-0230-4d9a-abd8-d5a43a2b87e4",
+      "score": 0.9210814,
+      "title": "Climate change: July was world's hottest on record, EU scientists say \u2022 FRANCE 24 English",
+      "url": "https://www.youtube.com/watch?v=So8F2hpZpHE",
+      "citation_index": 12
+    },
+    {
+      "id": "53ef9ab5-2c0e-403f-806a-34051d0367b4",
+      "score": 0.81770587,
+      "title": "July 2023 hottest month ever recorded on Earth | DW News",
+      "url": "https://www.youtube.com/watch?v=mfBfy5U0t2Y",
+      "citation_index": 13
+    },
+    {
+      "id": "055525ff-fdfd-4690-baaf-0b9e5c3327f3",
+      "score": 0.95250803,
+      "title": "July 2023: Global air and ocean temperatures reach new record highs | Copernicus",
+      "url": "https://climate.copernicus.eu/july-2023-global-air-and-ocean-temperatures-reach-new-record-highs",
+      "citation_index": 14
+    },
+    {
+      "id": "523a7a82-2113-4e9a-8446-d6cad8bbdb72",
+      "score": 0.9317675,
+      "title": "It\u2019s official: July 2023 was the warmest month ever recorded | UN News",
+      "url": "https://news.un.org/en/story/2023/08/1139527",
+      "citation_index": 15
+    },
+    {
+      "id": "d02d4eab-737a-41b3-9088-ec7aa8e06fe4",
+      "score": 0.82795376,
+      "title": "'Virtually certain' that 2023 will be warmest year after October record",
+      "url": "https://www.bbc.co.uk/news/science-environment-67332791",
+      "citation_index": 16
+    },
+    {
+      "id": "4722adfe-dd97-4c42-b231-7691d33ac275",
+      "score": 0.85186684,
+      "title": "Global climate summary for July 2023 | NOAA Climate.gov",
+      "url": "https://www.climate.gov/news-features/understanding-climate/global-climate-summary-july-2023",
+      "citation_index": 17
+    },
+    {
+      "id": "8ffff7b2-49be-4f92-b853-ca9a5bf3b699",
+      "score": 0.8914433,
+      "title": "Record shattering: Earth had its hottest July in 174 years",
+      "url": "https://phys.org/news/2023-08-shattering-earth-hottest-july-years.html",
+      "citation_index": 18
+    },
+    {
+      "id": "4efd7792-3f1b-4cc7-9295-dce25821b0df",
+      "score": 0.9377661,
+      "title": "Video: July 2023 Record High Global Temperatures - NASA Science",
+      "url": "https://climate.nasa.gov/climate_resources/348/video-july-2023-record-high-global-temperatures/",
+      "citation_index": 19
+    },
+    {
+      "id": "aa1ff990-8a74-4b4b-93a6-ce0db446245f",
+      "score": 0.94174546,
+      "title": "NASA Confirms July 2023 is Warmest Month on Record",
+      "url": "https://svs.gsfc.nasa.gov/14396/",
+      "citation_index": 20
+    },
+    {
+      "id": "b30565cd-cfd1-44a5-819e-9d5ad3da0994",
+      "score": 0.9123193,
+      "title": "NASA Clocks July 2023 as Hottest Month on Record Ever Since 1880",
+      "url": "https://www.youtube.com/watch?v=NRE70KWL5Uk",
+      "citation_index": 21
+    },
+    {
+      "id": "6c6d0e7e-f466-45b9-bf66-76db832cecef",
+      "score": 0.9237645,
+      "title": "2023 was hottest year on record, new Copernicus report shows | UCP Knowledge Network",
+      "url": "https://civil-protection-knowledge-network.europa.eu/news/2023-was-hottest-year-record-new-copernicus-report-shows",
+      "citation_index": 22
+    },
+    {
+      "id": "aff6ec09-dfc1-4cb8-9041-2a546ec4c3a8",
+      "score": 0.8682137,
+      "title": "State of the Global Climate 2023",
+      "url": "https://wmo.int/publication-series/state-of-global-climate-2023",
+      "citation_index": 23
+    },
+    {
+      "id": "e503cee4-93a5-4a7e-8505-7c395b254bb2",
+      "score": 0.9123193,
+      "title": "NASA Analysis Confirms 2023 as Warmest Year on Record - NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-analysis-confirms-2023-as-warmest-year-on-record/",
+      "citation_index": 24
+    },
+    {
+      "id": "d41f522f-43d3-499e-a788-142a5be8829f",
+      "score": 0.7997713,
+      "title": "Global Climate Highlights 2023 | Copernicus",
+      "url": "https://climate.copernicus.eu/global-climate-highlights-2023",
+      "citation_index": 25
+    },
+    {
+      "id": "bcb8e5d8-d97c-447d-bc6e-1304f4c0e577",
+      "score": 0.8473754,
+      "title": "WMO confirms that 2023 smashes global temperature record",
+      "url": "https://wmo.int/media/news/wmo-confirms-2023-smashes-global-temperature-record",
+      "citation_index": 26
+    },
+    {
+      "id": "48a2c7d6-7799-4198-8a9b-665ad7899e75",
+      "score": 0.52144736,
+      "title": "Global climate summary for July 2024 | NOAA Climate.gov",
+      "url": "https://www.climate.gov/news-features/understanding-climate/global-climate-summary-july-2024",
+      "citation_index": 27
+    },
+    {
+      "id": "3be6cdec-416a-41c2-88be-da2546fd31f2",
+      "score": 0.89720124,
+      "title": "Surface air temperature for July 2024 | Copernicus",
+      "url": "https://climate.copernicus.eu/surface-air-temperature-july-2024",
+      "citation_index": 28
+    },
+    {
+      "id": "daae97bb-6a5d-43e6-82fd-da1b3afc0e04",
+      "score": 0.53196377,
+      "title": "NASA finds summer 2024 hottest to date",
+      "url": "https://phys.org/news/2024-09-nasa-summer-hottest-date.html",
+      "citation_index": 29
+    },
+    {
+      "id": "c4424e92-ac34-47da-8ca6-ede63673e599",
+      "score": 0.32072607,
+      "title": "NASA clocks July 2023 as hottest month on record ever since 1880",
+      "url": "https://phys.org/news/2023-08-nasa-clocks-july-hottest-month.html",
+      "citation_index": 30
+    },
+    {
+      "id": "fb7412ea-6b08-40d5-acbf-ccbd3c577706",
+      "score": 0.53065056,
+      "title": "Was July 2023 or July 2024 the Hottest Month on Record? Yes.",
+      "url": "https://www.insurancejournal.com/news/international/2024/08/14/788318.htm",
+      "citation_index": 31
+    },
+    {
+      "id": "78492d0e-ff16-4965-aa00-093a59cfd6a2",
+      "score": 0.29724598,
+      "title": "Berkeley Earth - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Berkeley_Earth",
+      "citation_index": 32
+    },
+    {
+      "id": "559ba61a-a35f-409b-aba5-9f5abcb23af5",
+      "score": 0.65914243,
+      "title": "About the data and methods | Copernicus",
+      "url": "https://climate.copernicus.eu/about-data-and-methods",
+      "citation_index": 33
+    },
+    {
+      "id": "865edaeb-e14b-4c64-8a8b-41af66a05870",
+      "score": 0.77650476,
+      "title": "2024 now very likely to be warmest year on record",
+      "url": "https://skepticalscience.com/print.php?n=6008",
+      "citation_index": 34
+    },
+    {
+      "id": "69d6eee0-9a87-43e3-a642-b27e5f8a76c0",
+      "score": 0.93338853,
+      "title": "Copernicus: June 2024 marks 12th month of global temperature reaching 1.5\u00b0C above pre-industrial | Copernicus",
+      "url": "https://climate.copernicus.eu/copernicus-june-2024-marks-12th-month-global-temperature-reaching-15degc-above-pre-industrial"
+    },
+    {
+      "id": "b6793bc8-d81b-45d7-ba2c-26c0afcd25ab",
+      "score": 0.92588276,
+      "title": "Summer Heat Pushes 2023 Temperatures Near Record",
+      "url": "https://www.climatecentral.org/climate-matters/summer-heat-pushes-2023-temperatures-near-record"
+    },
+    {
+      "id": "db8724cb-c209-44ea-8db7-791c5d5f53a9",
+      "score": 0.92005306,
+      "title": "Monday Was Hottest Recorded Day on Earth: 'Uncharted Territory'",
+      "url": "https://news.slashdot.org/story/24/07/25/148254/monday-was-hottest-recorded-day-on-earth-uncharted-territory"
+    },
+    {
+      "id": "c164aa0e-2602-4db8-a7dd-c6cfec25a3de",
+      "score": 0.9177831,
+      "title": "July 2023 Record High Global Temperatures",
+      "url": "https://svs.gsfc.nasa.gov/5137/"
+    },
+    {
+      "id": "f3e91003-f1c4-4aad-96fe-f130db91a078",
+      "score": 0.91760606,
+      "title": "This is How Scientists Measure Global Temperature - NASA Science",
+      "url": "https://science.nasa.gov/earth/measuring_global_temperature/"
+    },
+    {
+      "id": "c9521119-c640-4dc0-bd30-d8c25fb6104c",
+      "score": 0.9168945,
+      "title": "NASA Scientific Visualization Studio | Global Temperature Anomalies from 1880 to 2023",
+      "url": "https://svs.gsfc.nasa.gov/5207/"
+    },
+    {
+      "id": "1133b0bf-db67-4084-8a98-963e5583e7f0",
+      "score": 0.9134376,
+      "title": "Copernicus Reports Rising Temperatures in 2023 and 2024 - Climate Adaptation Platform",
+      "url": "https://climateadaptationplatform.com/copernicus-reports-rising-temperatures-in-2023-and-2024/"
+    },
+    {
+      "id": "27197696-c403-4529-9529-fa31f560f48d",
+      "score": 0.9126935,
+      "title": "Global Temperature - Earth Indicator - NASA Science",
+      "url": "https://climate.nasa.gov/vital-signs/global-temperature/"
+    },
+    {
+      "id": "e186bd7f-9846-415a-8cfc-8943d1465525",
+      "score": 0.91023487,
+      "title": "NASA Scientific Visualization Studio | July 2023 Record High Global Temperatures",
+      "url": "https://svs.gsfc.nasa.gov/5137"
+    },
+    {
+      "id": "719267e0-18f4-4c13-90ad-6215d74e799b",
+      "score": 0.90830135,
+      "title": "Press Release: Paris Agreement Target of 1.5\u00b0C Will Be Exceeded as Increased Warming Pushed 2024 to Another All-Time Record - Berkeley Earth",
+      "url": "https://berkeleyearth.org/press-release-2024-sets-another-all-time-temperature-record/"
+    },
+    {
+      "id": "76155cd7-f10a-4827-8ff0-7cb27b8d9081",
+      "score": 0.90771407,
+      "title": "How Climate Change and El Ni\u00f1o Made July 2023 the Hottest Month in History \ud83c\udf21\ufe0f\ud83c\udf0d",
+      "url": "https://www.youtube.com/watch?v=pPusVfel50U"
+    },
+    {
+      "id": "8efe3de2-29b0-49f0-a568-551eb5ea782d",
+      "score": 0.9016528,
+      "title": "NOAA, NASA agree that July 2023 was the hottest month ...",
+      "url": "https://www.ksby.com/noaa-nasa-agree-that-july-2023-was-the-hottest-month-on-record"
+    },
+    {
+      "id": "4d50e316-1eaa-49cf-b37d-e1e7c3f132b3",
+      "score": 0.90039873,
+      "title": "Copernicus: Summer 2024 \u2013 Hottest on record globally and for Europe | Copernicus",
+      "url": "https://climate.copernicus.eu/copernicus-summer-2024-hottest-record-globally-and-europe"
+    },
+    {
+      "id": "6f1e2d1c-694b-499e-b14d-bb50a9185ffc",
+      "score": 0.8993429,
+      "title": "Global Temperature Report for 2024 - Berkeley Earth",
+      "url": "https://berkeleyearth.org/global-temperature-report-for-2024/"
+    },
+    {
+      "id": "4ef9e022-c187-46d0-9b29-a6a05533ec4a",
+      "score": 0.8961153,
+      "title": "Third-Warmest July Puts End to Record Global Heat Streak",
+      "url": "https://earth.org/third-warmest-july-on-record-puts-end-to-recent-record-global-heat-streak/"
+    },
+    {
+      "id": "7ab76ce1-b324-443f-8e04-e80795f16a05",
+      "score": 0.8958969,
+      "title": "NASA Scientific Visualization Studio | NASA Summer 2023 Temperature Media Resources",
+      "url": "https://svs.gsfc.nasa.gov/14407"
+    },
+    {
+      "id": "9fa2f9c9-69c9-47b9-aca9-b81ace4cf529",
+      "score": 0.89166987,
+      "title": "NASA Scientific Visualization Studio | Summer 2023 Record High Global Temperatures",
+      "url": "https://svs.gsfc.nasa.gov/5161/"
+    },
+    {
+      "id": "0cb4dedb-4be2-4d5d-b74d-8fff9964d4ee",
+      "score": 0.8914433,
+      "title": "2023 confirmed as world's hottest year on record",
+      "url": "https://www.bbc.co.uk/news/science-environment-67861954"
+    },
+    {
+      "id": "b375bae1-02f8-4ffa-a406-2370dd6a2b22",
+      "score": 0.8875269,
+      "title": "NASA Clocks July 2023 as Hottest Month on Record Ever Since 1880 \u2013 Climate Change: Vital Signs of the Planet",
+      "url": "https://climate.nasa.gov/news/3279/nasa-clocks-july-2023-as-hottest-month-on-record-ever-since-1880/"
+    },
+    {
+      "id": "3bc3b86c-40dd-41b5-8351-98541875e56f",
+      "score": 0.8858788,
+      "title": "NASA Scientific Visualization Studio | Global Temperature Anomalies from 1880 to 2024",
+      "url": "https://svs.gsfc.nasa.gov/5450/"
+    },
+    {
+      "id": "785c7b53-b6ef-4789-b3ca-d5c2396da6ba",
+      "score": 0.8790744,
+      "title": "What is the degree of uncertainty of C3S\u2019 daily global temperature data? | Copernicus",
+      "url": "https://climate.copernicus.eu/what-degree-uncertainty-c3s-daily-global-temperature-data"
+    },
+    {
+      "id": "ae08d97c-ea54-483f-b075-83c238e5f296",
+      "score": 0.875031,
+      "title": "July 2023 is hottest month on record by far: WMO",
+      "url": "https://www.youtube.com/watch?v=WrV8jRTt3BQ"
+    },
+    {
+      "id": "f5071619-349b-4e6e-8aa4-db1738e93ffd",
+      "score": 0.8747745,
+      "title": "Billion-dollar disasters have been sweeping across the US this year",
+      "url": "https://www.space.com/united-states-severe-weather-events-may"
+    },
+    {
+      "id": "0f6a2794-603a-4733-b919-26b489ba76b8",
+      "score": 0.8742601,
+      "title": "Video: Summer 2023 Record High Global Temperatures - NASA Science",
+      "url": "https://climate.nasa.gov/climate_resources/351/video-summer-2023-record-high-global-temperatures/"
+    },
+    {
+      "id": "aae84d2e-2bb8-4739-b63b-d15063b68292",
+      "score": 0.87166095,
+      "title": "July 2023 Is Hottest Month Ever Recorded on Earth",
+      "url": "https://www.scientificamerican.com/article/july-2023-is-hottest-month-ever-recorded-on-earth/"
+    },
+    {
+      "id": "6333f974-497b-4671-b7ac-7debdc97639b",
+      "score": 0.86981434,
+      "title": "July was the planet's hottest month on record\u2014so far",
+      "url": "https://phys.org/news/2023-08-july-planet-hottest-month-recordso.html"
+    },
+    {
+      "id": "d32eb0ea-8b97-4ed2-8039-ab0bfc5915b5",
+      "score": 0.8684817,
+      "title": "2024 on track to become Earth's warmest year on record ...",
+      "url": "https://abcnews.go.com/US/2024-track-become-earths-warmest-year-record-despite/story?id=112643940"
+    },
+    {
+      "id": "908b4442-6aec-4aa3-809a-774b9101e85d",
+      "score": 0.86713725,
+      "title": "State of the climate: 2024 now very likely to be warmest ...",
+      "url": "https://www.carbonbrief.org/state-of-the-climate-2024-now-very-likely-to-be-warmest-year-on-record/"
+    },
+    {
+      "id": "7e2f0a7b-8cb8-4450-b25f-04c38627c916",
+      "score": 0.8649622,
+      "title": "New record daily global average temperature reached in July 2024 | Copernicus",
+      "url": "https://climate.copernicus.eu/new-record-daily-global-average-temperature-reached-july-2024"
+    },
+    {
+      "id": "5c036882-4efd-4b1e-ba9a-b88362e3757b",
+      "score": 0.86331123,
+      "title": "July 2023 set to be hottest month ever, World Meteorological Organization declares",
+      "url": "https://www.youtube.com/watch?v=_2FOYJpYq9s"
+    },
+    {
+      "id": "b3aed2c3-6163-45b4-9956-78b774229e58",
+      "score": 0.8624794,
+      "title": "Temperatures Rising: NASA Confirms 2024 Warmest Year on Record - NASA",
+      "url": "https://www.nasa.gov/news-release/temperatures-rising-nasa-confirms-2024-warmest-year-on-record/"
+    },
+    {
+      "id": "d2a28cf4-f66c-4560-9aaf-893adc64c394",
+      "score": 0.86108357,
+      "title": "Global Heat Record Falls, Only to Be Broken Again the Next Day",
+      "url": "https://gizmodo.com/global-heat-record-falls-only-to-be-broken-again-the-next-day-2000481158"
+    },
+    {
+      "id": "47cf371e-3d42-455a-b809-3dfaca97cfbe",
+      "score": 0.85421735,
+      "title": "2023 Was the Hottest Year Ever Recorded",
+      "url": "https://www.youtube.com/watch?v=byM6zM4uOaM"
+    },
+    {
+      "id": "2abd3440-df59-458c-93e4-480b05972444",
+      "score": 0.8455478,
+      "title": "WMO confirms 2023 as warmest year on record 'by a huge ...",
+      "url": "https://caribbean.un.org/en/257752-wmo-confirms-2023-warmest-year-record-%E2%80%98-huge-margin%E2%80%99"
+    },
+    {
+      "id": "6ddb3576-894c-450a-a9dc-977be6c18096",
+      "score": 0.8449346,
+      "title": "NASA Confirms July 2023 is Warmest Month on Record, Interview with GISS Director Dr. Gavin Schmidt.",
+      "url": "https://www.youtube.com/watch?v=xsDTfDobzqk"
+    },
+    {
+      "id": "4272a89e-33b1-4ed4-b603-4fb3bf807e18",
+      "score": 0.8446273,
+      "title": "World breaches key 1.5C warming mark for record number of days",
+      "url": "https://www.bbc.co.uk/news/science-environment-66857354"
+    },
+    {
+      "id": "e5634636-7f28-4d22-a396-42113de3d6ba",
+      "score": 0.8430832,
+      "title": "Copernicus: 2024 is the first year to exceed 1.5\u00b0C above pre-industrial level | Copernicus",
+      "url": "https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level"
+    },
+    {
+      "id": "401b2b32-4dd1-41ba-9dbe-96deb53f63c0",
+      "score": 0.84277284,
+      "title": "Summer 2023 was hottest on record, scientists say",
+      "url": "https://www.youtube.com/watch?v=A0jUYdZeALw"
+    },
+    {
+      "id": "06008318-b4b0-41b0-b920-2112a06ad698",
+      "score": 0.83549726,
+      "title": "NASA and NOAA on 2023 global temperature ranking, climate events  (Jan. 12, 2024)",
+      "url": "https://www.youtube.com/watch?v=To4vJ_cazyM"
+    },
+    {
+      "id": "7b3f8ab7-4f64-42e3-acb0-9cf0de16f1a5",
+      "score": 0.8319231,
+      "title": "Assessing the Global Climate in July 2023 | News | National Centers for Environmental Information (NCEI)",
+      "url": "https://www.ncei.noaa.gov/news/global-climate-202307"
+    },
+    {
+      "id": "935cb680-333e-4c36-8e0f-5a57f4c6c7e6",
+      "score": 0.8302782,
+      "title": "July 2023 set to be hottest month on record \u2013 Copernicus and WMO | ECMWF",
+      "url": "https://www.ecmwf.int/en/about/media-centre/focus/2023/july-2023-set-be-hottest-month-record-copernicus-and-wmo"
+    },
+    {
+      "id": "4005253b-23d2-4d53-8d72-0d2b3adb05a0",
+      "score": 0.829285,
+      "title": "June sizzles to 13th straight monthly heat record. String may end soon, but dangerous heat won't",
+      "url": "https://phys.org/news/2024-07-june-sizzles-13th-straight-monthly.html"
+    },
+    {
+      "id": "96ab238d-1c94-4e28-a406-fb723ce50555",
+      "score": 0.82728493,
+      "title": "NASA research  July 2023 as Hottest Month on Record Ever Since 1880",
+      "url": "https://www.youtube.com/watch?v=biME_d4TnTE"
+    },
+    {
+      "id": "ee34a8db-0dfe-4d86-b7ae-83167fde39b2",
+      "score": 0.82728493,
+      "title": "Daily Surface Air Temperature",
+      "url": "https://climatereanalyzer.org/clim/t2_daily/"
+    },
+    {
+      "id": "4e6270e5-fabc-454e-880f-9b63ad88d856",
+      "score": 0.8252664,
+      "title": "July 2023 Set To Be The Hottest Month Ever Recorded - WMO",
+      "url": "https://www.youtube.com/watch?v=Y52wh8DApdE"
+    },
+    {
+      "id": "5339c531-71ea-418b-bf35-8e1f69177c28",
+      "score": 0.8232293,
+      "title": "NASA Declares Summer 2023 the Hottest on Record - CNET",
+      "url": "https://www.cnet.com/science/climate/nasa-declares-summer-2023-the-hottest-on-record/"
+    },
+    {
+      "id": "1876c566-2e2e-4620-8870-9c9cd3b7caeb",
+      "score": 0.8215175,
+      "title": "Science News - Goddard Institute for Space Studies (GISS)",
+      "url": "https://science.gsfc.nasa.gov/earth/giss/pressreleases"
+    },
+    {
+      "id": "e01b2052-b20c-427c-8333-81397fb65731",
+      "score": 0.81418616,
+      "title": "Human-caused global warming at all-time high, new report concludes",
+      "url": "https://www.space.com/human-driven-global-warming-report"
+    },
+    {
+      "id": "5fa6a023-c538-44ae-ad10-0e499bdc065a",
+      "score": 0.8106142,
+      "title": "June 2024 Temperature Update - Berkeley Earth",
+      "url": "https://berkeleyearth.org/june-2024-temperature-update/"
+    },
+    {
+      "id": "30cef619-eb8b-4fd5-88f0-34771ac3160e",
+      "score": 0.8088086,
+      "title": "\u201cExceptional\u201d Global Warming Spike Continued in 2024 - Eos",
+      "url": "https://eos.org/articles/exceptional-global-warming-spike-continued-in-2024"
+    },
+    {
+      "id": "621437c6-4234-4915-b122-809b13810e1d",
+      "score": 0.8047902,
+      "title": "NASA GISS: News and Feature Articles, 1",
+      "url": "https://www.giss.nasa.gov/research/"
+    },
+    {
+      "id": "45362c0e-24db-46ea-b07c-bbc31ced8b39",
+      "score": 0.8003337,
+      "title": "Each of the Past 12 Months Broke Temperature Records",
+      "url": "https://www.wired.com/story/record-temperature-months-full-year/"
+    },
+    {
+      "id": "ea4fc381-883f-4985-bd66-e0d317ace002",
+      "score": 0.79883134,
+      "title": "Climate change indicators reached record levels in 2023: WMO",
+      "url": "https://wmo.int/news/media-centre/climate-change-indicators-reached-record-levels-2023-wmo"
+    },
+    {
+      "id": "1f154456-3835-4ed2-8c4d-4170707e6b47",
+      "score": 0.7961819,
+      "title": "Global Temperature Report for 2023",
+      "url": "https://berkeleyearth.org/global-temperature-report-for-2023/"
+    },
+    {
+      "id": "fc189acf-3bbf-4014-9331-cef1bc3f2134",
+      "score": 0.78788257,
+      "title": "NASA Clocks July 2023 as Hottest Month on Record Ever ...",
+      "url": "https://www.nasa.gov/news-release/nasa-clocks-july-2023-as-hottest-month-on-record-ever-since-1880/"
+    },
+    {
+      "id": "acdd6510-3a9e-4b5b-92ab-609aecf51bd7",
+      "score": 0.7876867,
+      "title": "July 2023 Was the Hottest Month on Record",
+      "url": "https://earthobservatory.nasa.gov/images/151699/july-2023-was-the-hottest-month-on-record"
+    },
+    {
+      "id": "71665fab-a2f4-49eb-8bfe-1c8d3b7f2554",
+      "score": 0.77405477,
+      "title": "Climate change: July to be warmest month on record, scientists say",
+      "url": "https://www.youtube.com/watch?v=Sa4ZUI3caL4"
+    },
+    {
+      "id": "9456a1df-3013-4326-92c1-c4551eac7d48",
+      "score": 0.77364457,
+      "title": "State of the climate: 2024 sets a new record as the first year above 1.5C - Carbon Brief",
+      "url": "https://www.carbonbrief.org/state-of-the-climate-2024-sets-a-new-record-as-the-first-year-above-1-5c/"
+    },
+    {
+      "id": "7f419b21-65e5-4fb3-8ce1-30eab80982d7",
+      "score": 0.7686816,
+      "title": "Summer 2023 Was the Hottest on Record",
+      "url": "https://earthobservatory.nasa.gov/images/151831/summer%20-%202023%20-%20was%20-%20the%20-%20hottest%20-%20on%20-%20record"
+    },
+    {
+      "id": "7967f968-4f81-4727-9d99-a7eba46d507d",
+      "score": 0.7608822,
+      "title": "NASA Scientific Visualization Studio | Shifting Distribution of Land Temperature Anomalies, 1964-2024",
+      "url": "https://svs.gsfc.nasa.gov/5452/"
+    },
+    {
+      "id": "a439e601-7abe-415d-8194-fb80e7ce3264",
+      "score": 0.7596005,
+      "title": "Climate Reports | United Nations",
+      "url": "https://www.un.org/en/climatechange/reports"
+    },
+    {
+      "id": "62d2b155-4528-4f80-858c-cea09cf3d797",
+      "score": 0.7574541,
+      "title": "These were the heat records broken in 2023",
+      "url": "https://abcnews.go.com/US/2023-year-record-heat-temperatures/story?id=105555594"
+    },
+    {
+      "id": "aad6a5fb-fdbc-4fb8-8ac3-23cd9a91e928",
+      "score": 0.751375,
+      "title": "ESSD - Indicators of Global Climate Change 2024: annual update of key indicators of the state of the climate system and human influence",
+      "url": "https://essd.copernicus.org/articles/17/2641/2025/"
+    },
+    {
+      "id": "62d44833-3cb8-43f2-b2c5-1a798318f8cf",
+      "score": 0.750937,
+      "title": "Global climate summary for July 2023 | NOAA Climate.gov",
+      "url": "https://preview.climate.gov/news-features/understanding-climate/global-climate-summary-july-2023"
+    },
+    {
+      "id": "5655b3a7-d9c8-464a-bd10-8fdc278961ee",
+      "score": 0.7491794,
+      "title": "World breaks hottest day record twice in a week",
+      "url": "https://www.bbc.com/news/articles/crg7pen1xj7o"
+    },
+    {
+      "id": "59c57091-2cb9-45f5-93ca-0200455ed655",
+      "score": 0.74697095,
+      "title": "",
+      "url": "https://www.wolframalpha.com/input/?i=World+Meteorological+Organization+July+2023+global+temperature+record"
+    },
+    {
+      "id": "3b4ad333-dce2-412a-a61a-f7baf078a43a",
+      "score": 0.7467494,
+      "title": "World emitting 37.5 billion tonnes of CO2 annually, record warming trend will continue \u2022 FRANCE 24",
+      "url": "https://www.youtube.com/watch?v=kSYX-GHncpM"
+    },
+    {
+      "id": "033cccf5-ce54-40e1-baf9-62098ec33619",
+      "score": 0.7413937,
+      "title": "'The last 12 months have broken records like never before': Earth exceeds 1.5 C warming every month for entire year",
+      "url": "https://www.livescience.com/planet-earth/climate-change/the-last-12-months-have-broken-records-like-never-before-earth-exceeds-15-c-warming-every-month-for-entire-year"
+    },
+    {
+      "id": "c9f1e953-153e-44c3-a738-5de1170e196b",
+      "score": 0.741169,
+      "title": "July Was the World\u2019s Hottest Month on Record by Far, European Scientists Say",
+      "url": "https://time.com/6302519/july-hottest-month-record/"
+    },
+    {
+      "id": "5f1b08cd-34cb-4d37-9872-151d1997dc27",
+      "score": 0.73846215,
+      "title": "NASA finds summer 2024 hottest to date",
+      "url": "https://lakeconews.com/news/79664-nasa-finds-summer-2024-hottest-to-date"
+    },
+    {
+      "id": "a0fa37e3-0408-4e9b-9abe-105d0edf09f9",
+      "score": 0.73846215,
+      "title": "2023 was the hottest year on record, Copernicus data show | ECMWF",
+      "url": "https://www.ecmwf.int/en/about/media-centre/news/2024/2023-was-hottest-year-record-copernicus-data-show"
+    },
+    {
+      "id": "3997cbad-fe8d-489c-9969-ac3d0d2d489a",
+      "score": 0.7382357,
+      "title": "This summer was the hottest on record across the Northern Hemisphere, the U.N. says",
+      "url": "https://www.npr.org/2023/09/06/1197825362/this-summer-was-the-hottest-on-record-across-the-northern-hemisphere-the-u-n-say"
+    },
+    {
+      "id": "9b6a349b-5478-493d-97cc-6440ab7c47ea",
+      "score": 0.734139,
+      "title": "Copernicus: 2024 virtually certain to be the warmest year and first year above 1.5\u00b0C | Copernicus",
+      "url": "https://climate.copernicus.eu/copernicus-2024-virtually-certain-be-warmest-year-and-first-year-above-15degc"
+    },
+    {
+      "id": "7108b705-c709-480e-a574-ebaced18a27f",
+      "score": 0.7171114,
+      "title": "Data.GISS: GISS Surface Temperature Analysis: News, Updates, and Features",
+      "url": "https://data.giss.nasa.gov/gistemp/news/"
+    },
+    {
+      "id": "959e74cb-9b57-4eaa-9a34-44a9fb15e457",
+      "score": 0.71425,
+      "title": "Annual temperature anomalies - Our World in Data",
+      "url": "https://ourworldindata.org/grapher/annual-temperature-anomalies"
+    },
+    {
+      "id": "eeaed0eb-a80e-400f-95a8-c014acebd214",
+      "score": 0.7140107,
+      "title": "NASA GISS: NASA Goddard Institute for Space Studies",
+      "url": "https://www.giss.nasa.gov/"
+    },
+    {
+      "id": "b3d16a3e-b027-4a23-865e-bc8310e2736b",
+      "score": 0.70750624,
+      "title": "August 2024 Temperature Update - Berkeley Earth",
+      "url": "https://berkeleyearth.org/august-2024-temperature-update/"
+    },
+    {
+      "id": "172793c8-f378-42ea-b185-c3127b2c2998",
+      "score": 0.70702106,
+      "title": "2024 was the hottest year on record. The reason remains a science mystery",
+      "url": "https://www.npr.org/2025/01/10/nx-s1-5232139/2024-hottest-year-human-history-global-warming"
+    },
+    {
+      "id": "e5022abc-7df9-4226-9ea0-e2cfa297339f",
+      "score": 0.7036111,
+      "title": "Earth Shattered Global Heat Record In 2023 And There\u2019s More Bad News To Come",
+      "url": "https://www.huffpost.com/entry/hottest-year-2023_n_659d3ff4e4b0bfe5ff64bd02"
+    },
+    {
+      "id": "e489d2c7-ee40-43de-ae3a-e3499c8e72d4",
+      "score": 0.6937432,
+      "title": "El Nino is officially here and may cause temperature spikes and major weather events, scientists warn",
+      "url": "https://www.space.com/el-nino-2023-temperature-spikes-weather-events"
+    },
+    {
+      "id": "f61656cd-739f-4047-bfe2-ade09ac0f8ba",
+      "score": 0.6894943,
+      "title": "July is Earth's Hottest Month on Record. It's Likely Hotter Summers are the Future",
+      "url": "https://www.youtube.com/watch?v=xZ-UNhKpUJA"
+    },
+    {
+      "id": "9f5bed57-ac8b-48b7-9907-cdf090ca6075",
+      "score": 0.6877354,
+      "title": "Highlights from 'State of the Climate in 2023' | NOAA Climate.gov",
+      "url": "https://www.climate.gov/news-features/understanding-climate/highlights-state-climate-2023"
+    },
+    {
+      "id": "1661d4e6-7663-4e16-9ebb-27d3fddf7e1b",
+      "score": 0.68420124,
+      "title": "Was July 2023 or July 2024 hottest month on record? Depends on who you ask",
+      "url": "https://www.business-standard.com/world-news/was-july-2023-or-july-2024-hottest-month-on-record-depends-on-who-you-ask-124081400087_1.html"
+    },
+    {
+      "id": "d60a97a4-1678-481e-9dbd-f24b3182912d",
+      "score": 0.67988104,
+      "title": "Global surface temperature data: GISTEMP: NASA Goddard Institute for Space Studies (GISS) Surface Temperature Analysis | Climate Data Guide",
+      "url": "https://climatedataguide.ucar.edu/climate-data/global-surface-temperature-data-gistemp-nasa-goddard-institute-space-studies-giss"
+    },
+    {
+      "id": "75a3aa38-48b1-409a-9737-96d7bec30874",
+      "score": 0.6721816,
+      "title": "It's official: July 2023 was Earth's hottest month on record",
+      "url": "https://boingboing.net/2023/08/08/its-official-july-2023-was-earths-hottest-month-on-record.html"
+    },
+    {
+      "id": "f94af576-d425-42ab-9687-b7bfccfb6dfe",
+      "score": 0.6688159,
+      "title": "July may be the hottest month ever recorded, scientists say",
+      "url": "https://www.youtube.com/watch?v=R2KuXLZkAq0"
+    },
+    {
+      "id": "f3425919-d8ca-40b4-9235-602c50bafb50",
+      "score": 0.6672566,
+      "title": "Scientists say July may be the hottest month in 120,000 years",
+      "url": "https://www.youtube.com/watch?v=csEZqjmr6uo"
+    },
+    {
+      "id": "dfeddfa4-0c02-4bda-a1f6-537d0974933c",
+      "score": 0.644248,
+      "title": "World records its hottest 3 months ever in human history: EU climate monitor",
+      "url": "https://www.youtube.com/watch?v=tjhHL2wtv0k"
+    },
+    {
+      "id": "05206239-e4d6-49b9-b08d-ec0f4803a905",
+      "score": 0.6429039,
+      "title": "La Ni\u00f1a is likely to arrive this summer. Here's what that means for hurricane season",
+      "url": "https://www.npr.org/2024/06/14/nx-s1-5005924/la-nina-atlantic-hurricane-season-us-winter-weather"
+    },
+    {
+      "id": "2b2525cc-01d8-425b-b907-b25176f6fa92",
+      "score": 0.6353361,
+      "title": "Global Temperature - Earth Indicator - NASA Science",
+      "url": "https://science.nasa.gov/earth/explore/earth-indicators/global-temperature/"
+    },
+    {
+      "id": "59564efc-969f-426d-bc13-9dc53b49ba0b",
+      "score": 0.6347929,
+      "title": "El Ni\u00f1o plus climate change means record-breaking heat",
+      "url": "https://www.npr.org/2023/07/05/1186003959/el-nino-plus-climate-change-means-record-breaking-heat"
+    },
+    {
+      "id": "4d2d6520-f39b-43b5-9410-43fdd4db9c98",
+      "score": 0.63316137,
+      "title": "NASA Scientific Visualization Studio | Slow Reveal Graphs: Twelve consecutive months of global surface temperature records (June 2023 - May 2024)",
+      "url": "https://svs.gsfc.nasa.gov/5327/"
+    },
+    {
+      "id": "d302a846-f142-4337-bcbf-3d321222979a",
+      "score": 0.62934244,
+      "title": "The World Has Just Experienced the Hottest Summer On Record -- By a Significant Margin",
+      "url": "https://news.slashdot.org/story/23/09/06/2155253/the-world-has-just-experienced-the-hottest-summer-on-record----by-a-significant-margin"
+    },
+    {
+      "id": "418e4034-d8ec-4347-9803-74b869acca85",
+      "score": 0.60805947,
+      "title": "July expected to become world's hottest month ever",
+      "url": "https://www.youtube.com/watch?v=I5LnHqTSBh8"
+    },
+    {
+      "id": "442aa5aa-121c-4b6c-9f4a-4c6a4cd10f68",
+      "score": 0.6055431,
+      "title": "EU scientists say last month was world's third-hottest July on record",
+      "url": "https://www.youtube.com/watch?v=8ZjT16EZ69k"
+    },
+    {
+      "id": "c7460062-0c05-468e-9fd5-827a97926474",
+      "score": 0.58465123,
+      "title": "WMO confirms 2023 as warmest year on record \u2018by a huge margin\u2019 | UN News",
+      "url": "https://news.un.org/en/story/2024/01/1145457"
+    },
+    {
+      "id": "bd443d7b-dfa5-481c-a4e9-6b8ea51c2cc7",
+      "score": 0.5798055,
+      "title": "Press - Berkeley Earth",
+      "url": "https://berkeleyearth.org/press/"
+    },
+    {
+      "id": "d69f14db-916b-4cfe-905f-69fe931aed1b",
+      "score": 0.5752307,
+      "title": "It's official: July 2023 was the hottest month on record by far \u2022 FRANCE 24 English",
+      "url": "https://www.youtube.com/watch?v=ZIu4TEUvXKM"
+    },
+    {
+      "id": "69ed9d38-646c-4b02-94d5-41721bbfc6e4",
+      "score": 0.5614318,
+      "title": "July 2023 declared hottest month on record",
+      "url": "https://www.youtube.com/watch?v=LRxIYVqWRmg"
+    },
+    {
+      "id": "5676be55-7bb1-4555-8e8c-46c3af3dbb1e",
+      "score": 0.55565286,
+      "title": "Global temperature records continue to be broken",
+      "url": "https://www.youtube.com/watch?v=TLhYT-i4sPI"
+    },
+    {
+      "id": "ad65b383-49cc-4254-8014-737df7d0bb66",
+      "score": 0.55565286,
+      "title": "Copernicus: 2023 is the hottest year on record, with global temperatures close to the 1.5\u00b0C limit | Copernicus",
+      "url": "https://climate.copernicus.eu/copernicus-2023-hottest-year-record"
+    },
+    {
+      "id": "e9f86de6-67c9-4655-9b56-f1e8e39515af",
+      "score": 0.55420566,
+      "title": "WMO confirms 2023 as warmest year on record \u2018by a huge margin\u2019  03:46",
+      "url": "https://www.youtube.com/watch?v=c6AryGmqX7c"
+    },
+    {
+      "id": "45b656ea-f8f3-4916-85f0-f33b353fa504",
+      "score": 0.54855317,
+      "title": "Copernicus: Third-warmest July marks slight respite from record global temperatures | Copernicus",
+      "url": "https://climate.copernicus.eu/copernicus-third-warmest-july-marks-slight-respite-record-global-temperatures"
+    },
+    {
+      "id": "6a89c498-2917-40f3-a2c9-3d6b1d6cae4e",
+      "score": 0.5457947,
+      "title": "July 2025 Temperature Update",
+      "url": "https://berkeleyearth.org/july-2025-temperature-update/"
+    },
+    {
+      "id": "4133b998-3eb4-4a41-99a3-abad5f52cf0a",
+      "score": 0.5324014,
+      "title": "Climate Bulletins | Copernicus",
+      "url": "https://climate.copernicus.eu/climate-bulletins"
+    },
+    {
+      "id": "c6741e62-03c2-4697-8782-1ed7a9c3b970",
+      "score": 0.5189612,
+      "title": "2024 Was the Warmest Year on Record",
+      "url": "https://earthobservatory.nasa.gov/images/153806/2024-was-the-warmest-year-on-record"
+    },
+    {
+      "id": "f7926598-bb4e-4403-b766-d586f39b4ae4",
+      "score": 0.5185224,
+      "title": "\u2018Era of global boiling has arrived,\u2019 says UN chief as July set to be hottest month on record | Climate science | The Guardian",
+      "url": "https://amp.theguardian.com/science/2023/jul/27/scientists-july-world-hottest-month-record-climate-temperatures"
+    },
+    {
+      "id": "4995d2ae-66c7-404d-9d8c-addfac64f91b",
+      "score": 0.5183761,
+      "title": "Global climate predictions show temperatures expected to remain at or near record levels in coming 5 years",
+      "url": "https://wmo.int/news/media-centre/global-climate-predictions-show-temperatures-expected-remain-or-near-record-levels-coming-5-years"
+    },
+    {
+      "id": "e99a2915-e105-4351-bb58-54b5ba5b4650",
+      "score": 0.50227106,
+      "title": "WMO confirms 2024 as warmest year on record at about 1.55\u00b0C above pre-industrial level",
+      "url": "https://wmo.int/news/media-centre/wmo-confirms-2024-warmest-year-record-about-155degc-above-pre-industrial-level"
+    },
+    {
+      "id": "92fd6f93-7edd-4a81-a728-fcf277400811",
+      "score": 0.5013922,
+      "title": "WMO report documents spiralling weather and climate impacts",
+      "url": "https://wmo.int/news/media-centre/wmo-report-documents-spiralling-weather-and-climate-impacts"
+    },
+    {
+      "id": "ea1a8946-ec23-463f-8662-ead436dbb26c",
+      "score": 0.4893821,
+      "title": "U.N. says August 2023 was 2nd hottest month ever as kids returning to school sweat high temps",
+      "url": "https://www.youtube.com/watch?v=qAt9wWXASMw"
+    },
+    {
+      "id": "8a8534a5-7186-4b7e-af5f-fd53b0455fdf",
+      "score": 0.46104163,
+      "title": "April 2025 Temperature Update - Berkeley Earth",
+      "url": "https://berkeleyearth.org/april-2025-temperature-update/"
+    },
+    {
+      "id": "be6c7ce1-8021-4b2c-8633-fb2618f75100",
+      "score": 0.4574039,
+      "title": "Data.GISS: GISS Surface Temperature Analysis (GISTEMP v4)",
+      "url": "https://data.giss.nasa.gov/gistemp/"
+    },
+    {
+      "id": "4d38a275-693d-4f68-8842-239cb6f8ae09",
+      "score": 0.44015694,
+      "title": "2023 was the world\u2019s warmest year on record, by far | National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/news/2023-was-worlds-warmest-year-on-record-by-far"
+    },
+    {
+      "id": "5750f463-fb12-499a-813d-6a79d55d1bb5",
+      "score": 0.4398682,
+      "title": "Copernicus Climate Change",
+      "url": "https://climate.copernicus.eu/"
+    },
+    {
+      "id": "94cdd66c-073f-466d-b3e0-c6e694185c4f",
+      "score": 0.4362623,
+      "title": "Charting the Exceptional, Unexpected Heat of 2023 and 2024",
+      "url": "https://www.earthobservatory.nasa.gov/images/153588/charting-the-exceptional-unexpected-heat-of-2023-and-2024"
+    },
+    {
+      "id": "b89f0ffd-9aa1-4c38-9d24-0426397453e0",
+      "score": 0.4295017,
+      "title": "'Surprising' warmth above Antarctica is earliest observed on record",
+      "url": "https://www.space.com/nasa-detects-surprising-warmth-above-antarctica-earliest-observed-on-record"
+    },
+    {
+      "id": "31a9474c-514a-49c3-a3ff-5fe200772e05",
+      "score": 0.42691937,
+      "title": "Climate records tumble, leaving Earth in uncharted territory - scientists",
+      "url": "https://www.bbc.co.uk/news/science-environment-66229065"
+    },
+    {
+      "id": "c504708a-b11f-4a99-b569-084281e0b33a",
+      "score": 0.4237686,
+      "title": "The last 3 months were the hottest on record. Was summer 2023 just the beginning?",
+      "url": "https://www.businessinsider.com/last-three-months-on-earth-were-the-hottest-on-record-2023-9"
+    },
+    {
+      "id": "bdbd6273-6968-4bf3-a282-7ee92cd7a4a7",
+      "score": 0.41905406,
+      "title": "Global Temperature Report for 2020 - Berkeley Earth",
+      "url": "https://berkeleyearth.org/global-temperature-report-for-2020/"
+    },
+    {
+      "id": "2f8edc02-d2af-468c-91c8-aa18734c9f73",
+      "score": 0.40938663,
+      "title": "Data.GISS: Data and Images - NASA",
+      "url": "https://data.giss.nasa.gov/"
+    },
+    {
+      "id": "1a7ccdb2-24e7-434b-ae9f-19469661d8af",
+      "score": 0.40627348,
+      "title": "This summer was Earth's hottest on record",
+      "url": "https://www.youtube.com/watch?v=Z6QH70v9lsk"
+    },
+    {
+      "id": "db1e8f8f-7be0-4f0b-9fd2-e7a9b2756b56",
+      "score": 0.39145303,
+      "title": "2024 was the warmest year on record, Copernicus data show | ECMWF",
+      "url": "https://www.ecmwf.int/en/about/media-centre/news/2025/2024-was-warmest-year-record-copernicus-data-show"
+    },
+    {
+      "id": "95301411-f386-4808-9c26-d1e9fed9257b",
+      "score": 0.38172707,
+      "title": "Eco-anxiety Q&A: How the IPCC's vice-chair keeps her head cool on a warming planet",
+      "url": "https://phys.org/news/2024-09-eco-anxiety-qa-ipcc-vice.html"
+    },
+    {
+      "id": "68229cc1-56c0-4551-bd19-a0d13f9155f6",
+      "score": 0.3713423,
+      "title": "June sizzled to a 13th straight monthly heat record, but July might break string",
+      "url": "https://www.npr.org/2024/07/08/nx-s1-5032616/june-13th-straight-monthly-heat-record-climate-warming"
+    },
+    {
+      "id": "43a9bcdb-3977-4b88-b729-921aecacba0a",
+      "score": 0.35561875,
+      "title": "NASA Scientific Visualization Studio | Global Temperature Graph 1880-2024",
+      "url": "https://svs.gsfc.nasa.gov/5191/"
+    },
+    {
+      "id": "a6596324-8423-482f-85ae-2889105af3c3",
+      "score": 0.35246974,
+      "title": "Data.GISS: GISTEMP -- Frequently Asked Questions",
+      "url": "https://data.giss.nasa.gov/gistemp/faq/"
+    },
+    {
+      "id": "1e786acb-2826-4daf-8b49-40899fb9dd0f",
+      "score": 0.34627652,
+      "title": "Monthly Climate Reports | Global Climate Report | Annual 2023",
+      "url": "https://www.ncei.noaa.gov/access/monitoring/monthly-report/global/202313"
+    },
+    {
+      "id": "0b414be6-3bde-4922-b9f5-638fb0324912",
+      "score": 0.34574616,
+      "title": "Global climate summary for June 2023 | NOAA Climate.gov",
+      "url": "https://www.climate.gov/news-features/understanding-climate/global-climate-summary-june-2023"
+    },
+    {
+      "id": "acc5f167-9c52-4ea5-983a-284d57a18f13",
+      "score": 0.34323218,
+      "title": "Global Climate Highlights 2024 | Copernicus",
+      "url": "https://climate.copernicus.eu/global-climate-highlights-2024"
+    },
+    {
+      "id": "2a1849a5-36b8-48e5-9c3e-c300d60361c9",
+      "score": 0.3396091,
+      "title": "NASA Analysis Confirms a Year of Monthly Temperature Records",
+      "url": "https://www.nasa.gov/earth/nasa-analysis-confirms-a-year-of-monthly-temperature-records/"
+    },
+    {
+      "id": "4db295e2-c932-47d9-9212-a30febbb976b",
+      "score": 0.3340466,
+      "title": "NASA Clocks July 2023 As Hottest Month On Record",
+      "url": "https://cleantechnica.com/2023/08/14/nasa-clocks-july-2023-as-hottest-month-on-record/"
+    },
+    {
+      "id": "822fd25a-dfa1-48b7-9124-b9a97094a9da",
+      "score": 0.32267588,
+      "title": "Global temperatures will hit record highs over next 5 years, world meteorological org says",
+      "url": "https://www.youtube.com/watch?v=EFqVY8e-tRo"
+    },
+    {
+      "id": "b53849f3-6e01-430f-bc3c-0d8c2da55bf1",
+      "score": 0.3205665,
+      "title": "How warming oceans are driving the climate juggernaut",
+      "url": "https://www.bbc.co.uk/news/science-environment-66143682"
+    },
+    {
+      "id": "f550df4e-ff6c-4c20-9868-9af086fd8cb3",
+      "score": 0.30600882,
+      "title": "First week of July was the 'hottest on record,' says UN weather agency",
+      "url": "https://www.youtube.com/watch?v=lpXG7enV3dg"
+    },
+    {
+      "id": "80459e71-df12-4426-bb42-3b6f39a504f9",
+      "score": 0.30086932,
+      "title": "Climate change: global temperature | NOAA Climate.gov",
+      "url": "https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature"
+    },
+    {
+      "id": "5a6a5110-9576-46ed-8171-b5102db220ea",
+      "score": 0.3000688,
+      "title": "Monthly Climate Reports | National Climate Report | July 2023",
+      "url": "https://www.ncei.noaa.gov/access/monitoring/monthly-report/national/202307"
+    },
+    {
+      "id": "e15e1531-bd73-4ae3-8198-2ee779bce104",
+      "score": 0.29370874,
+      "title": "Wild Weather Ahead: Here's How 2024 Is Shaping Up After the Hottest Year on Record - CNET",
+      "url": "https://www.cnet.com/science/climate/wild-weather-ahead-heres-how-2024-is-shaping-up-after-the-hottest-year-on-record/"
+    },
+    {
+      "id": "629c119f-5f7c-4dd3-9e06-1249f14e9268",
+      "score": 0.28082883,
+      "title": "Global temperature record reached on July 4",
+      "url": "https://www.youtube.com/watch?v=n7eRxdYjArY"
+    },
+    {
+      "id": "2823322d-f1a6-456a-8b8b-3f6e4831f4d0",
+      "score": 0.28057003,
+      "title": "NASA Scientific Visualization Studio | Twelve consecutive months of global surface temperature records: June 2023 - May 2024",
+      "url": "https://svs.gsfc.nasa.gov/5311/"
+    },
+    {
+      "id": "ffa43027-e52c-47de-b066-b6235a4037db",
+      "score": 0.2679488,
+      "title": "U.S. climate summary for July 2023 | NOAA Climate.gov",
+      "url": "https://preview.climate.gov/news-features/understanding-climate/us-climate-summary-july-2023"
+    },
+    {
+      "id": "707a2dc0-9c9b-4b97-8881-7435504fad64",
+      "score": 0.26457015,
+      "title": "2024 now very likely to be warmest year on record",
+      "url": "https://skepticalscience.com/2024-likely-warmest-year.html"
+    },
+    {
+      "id": "2e9cc47a-adc1-4f2b-bb6b-bd16e30ccd21",
+      "score": 0.21865308,
+      "title": "NASA analysis confirms a year of monthly temperature records",
+      "url": "https://phys.org/news/2024-06-nasa-analysis-year-monthly-temperature.html"
+    },
+    {
+      "id": "1e688208-b640-4d14-b67a-cd320bfa7b38",
+      "score": 0.15460591,
+      "title": "June 2023 Was the World\u2019s Warmest June on Record",
+      "url": "https://www.nakedcapitalism.com/2023/07/june-2023-was-the-worlds-warmest-june-on-record.html"
+    },
+    {
+      "id": "1d853758-8dad-4f11-82f8-efa2fcbd6085",
+      "score": 0.15224668,
+      "title": "Scientists warn a El Ni\u00f1o is likely coming that could scorch Earth. Here's what to know.",
+      "url": "https://www.usatoday.com/story/news/nation/2023/05/13/el-nino-is-likely-coming-what-is-that-will-it-lead-to-heatwaves/70211895007/"
+    },
+    {
+      "id": "72219d7d-ff2b-423f-bc0f-87a1340c43e3",
+      "score": 0.13018611,
+      "title": "GISS Surface Temperature Analysis, GISTEMP/v3",
+      "url": "https://data.giss.nasa.gov/gistemp/index_v3.html"
+    },
+    {
+      "id": "73d53a35-c16f-442b-bdda-11f3b3a71f34",
+      "score": 0.12503357,
+      "title": "Data.GISS: GISS Surface Temperature Analysis (v4): Global Maps",
+      "url": "https://data.giss.nasa.gov/gistemp/maps/"
+    },
+    {
+      "id": "92179ad7-068e-4d91-a55b-cb910e0e880d",
+      "score": 0.11078845,
+      "title": "World of Change: Global Temperatures",
+      "url": "https://earthobservatory.nasa.gov/world-of-change/global-temperatures"
+    },
+    {
+      "id": "a8c3159c-2432-46df-bd7e-41816edf5305",
+      "score": 0.0870737,
+      "title": "Monthly Climate Reports | National Centers for Environmental Information (NCEI)",
+      "url": "https://www.ncei.noaa.gov/access/monitoring/monthly-report/global/202307"
+    },
+    {
+      "id": "b186ed46-5781-4141-a11b-2a753508be2d",
+      "score": 0.07069436,
+      "title": "'Ambitious climate action is more urgent than ever:' 3 Climate records broken in 2024",
+      "url": "https://www.space.com/the-universe/climate-change/ambitious-climate-action-is-more-urgent-than-ever-3-climate-records-broken-in-2024"
+    },
+    {
+      "id": "346ef320-70df-40ae-bc1b-23bbe168b2ad",
+      "score": 0.050410144,
+      "title": "NASA GISS Surface Temperature Analysis",
+      "url": "https://psl.noaa.gov/data/gridded/data.gistemp.html"
+    }
+  ]
+}

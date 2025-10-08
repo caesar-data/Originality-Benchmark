@@ -1,0 +1,579 @@
+{
+  "id": "517191b3-831e-4bf2-88e7-79682e3da205",
+  "status": "completed",
+  "content": "FALSE: While a research project perfectly matching this description exists, it was not developed by researchers at MIT[1]. The technology described appears to be a misattribution of the \"ActiveErgo\" system, which was developed by researchers primarily affiliated with National Taiwan University and Texas A&M University[1].\n\n## Analysis of Relevant Research\n\n### The ActiveErgo Project (Non-MIT)\n\nThe system described in the query aligns precisely with the **ActiveErgo** project, detailed in a 2018 paper presented at the CHI Conference on Human Factors in Computing Systems[2].\n\n*   **Functionality**: ActiveErgo is described as the first active approach to improving ergonomics by combining sensing with the actuation of motorized furniture[2]. The prototype system uses a Microsoft Kinect sensor to perform skeletal sensing and monitoring of the user[3][1].\n*   **Automatic Adjustment**: Based on the skeletal tracking data, the system determines the ideal furniture positions for the specific user and automatically adjusts the computer monitor, desk, and chair to conform to recommended ergonomics guidelines[3]. The system measures seven body dimensions, such as torso, upper arm, and lower leg length, to calculate personalized workspace settings[1].\n*   **Affiliation**: The authors of the \"ActiveErgo\" paper are affiliated with National Taiwan University, the University of Toronto, and Texas A&M University, with no mention of MIT[1].\n\n### Related Furniture and Actuation Research at MIT\n\nResearch conducted at MIT labs, such as the Media Lab and the Computer Science and Artificial Intelligence Laboratory (CSAIL), has explored advanced concepts in furniture and robotics, but none match the specific functionality of posture-based height adjustment for ergonomics.\n\n*   **TRANSFORM (MIT Media Lab)**: This project is a shape-changing desk composed of over 1,000 motorized pins that can move up and down to create dynamic 3D shapes on the tabletop[4][5]. The table's surface can react to hand gestures, creating ripples, or be programmed to display 3D animations[4]. Its purpose is to explore shape-display technology as an interactive medium, not to adjust its overall height for user ergonomics[6].\n*   **Ori Robotic Furniture (MIT Media Lab spin-off)**: Originating from the Media Lab's \"CityHome\" project, Ori is a robotic furniture system designed for micro-apartments[7]. It consists of a single L-shaped unit that can slide along a track to transform a small space into a bedroom, office, or living room[8]. This system reconfigures a room's layout rather than adjusting individual furniture pieces for real-time ergonomic support[7].\n*   **AutoSaw (MIT CSAIL)**: This is a robot-assisted carpentry system that enables non-experts to customize furniture designs via a CAD interface[9]. Once a design for a chair or desk is finalized, robots perform the high-risk cutting tasks[10]. AutoSaw is focused on the custom fabrication of furniture, not the subsequent real-time actuation of completed pieces[11].\n*   **Mediated Atmospheres (MIT Media Lab)**: This smart office project uses biosensors and machine learning to personalize the sensory environment of a workspace, including lighting, sound, and visual projections, to enhance focus or reduce stress[12]. The system adjusts the surrounding atmosphere but does not physically actuate furniture[12].\n\n## Conclusion\n\nThe claim that MIT researchers developed a smart table that automatically adjusts its height based on user posture is false. A system with this exact capability, called ActiveErgo, was developed, but the responsible institutions were National Taiwan University and Texas A&M University. While MIT has conducted extensive research into robotic and adaptive furniture, their notable projects in this area have focused on different applications, such as shape-shifting surfaces, room reconfiguration, and automated construction, rather than real-time ergonomic adjustment based on posture.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "5961466c-2643-4885-8096-3bfb91cf7d9f",
+      "score": 0.8995547,
+      "title": "ActiveErgo: Automatic and Personalized Ergonomics using ...",
+      "url": "https://www.researchgate.net/publication/324663928_ActiveErgo_Automatic_and_Personalized_Ergonomics_using_Self-actuating_Furniture",
+      "citation_index": 1
+    },
+    {
+      "id": "a79eabb5-0cc2-4bd1-a7a9-e5b63323f4ec",
+      "score": 0.92620385,
+      "title": "ActiveErgo: Automatic and Personalized Ergonomics using ...",
+      "url": "https://dl.acm.org/doi/10.1145/3173574.3174132",
+      "citation_index": 2
+    },
+    {
+      "id": "790029ed-eb15-4eb3-b3a5-b5dff7f43e90",
+      "score": 0.9220975,
+      "title": "ActiveErgo \u2013 NTU HCI Lab",
+      "url": "https://ntuhci.org/portfolio/activeergo/",
+      "citation_index": 3
+    },
+    {
+      "id": "8bf9a146-b77d-4fed-8a72-d8ec901c1966",
+      "score": 0.15996428,
+      "title": "Movie: Hiroshi Ishii on MIT Media Lab's Transform shape-shifting table",
+      "url": "https://www.dezeen.com/2014/05/09/movie-hiroshi-ishii-transform-shape-shifting-table-top-mit-media-lab/",
+      "citation_index": 4
+    },
+    {
+      "id": "e06a50ce-4f26-41b6-89b1-85e8f5773ded",
+      "score": 0.20919527,
+      "title": "TRANSFORM - Tangible Media Group",
+      "url": "https://tangible.media.mit.edu/project/transform/",
+      "citation_index": 5
+    },
+    {
+      "id": "fa79f9d8-ae5f-4fed-9f26-422ed445a8e2",
+      "score": 0.15066533,
+      "title": "TRANSFORM as Dynamic and Adaptive Furniture",
+      "url": "https://tangible.media.mit.edu/project/transform-as-dynamic-and-adaptive-furniture/",
+      "citation_index": 6
+    },
+    {
+      "id": "dc72b10f-2e94-48cf-a33a-c9cfc684f865",
+      "score": 0.445506,
+      "title": "Robotic interiors",
+      "url": "https://news.mit.edu/2018/startup-ori-robotic-furniture-0131",
+      "citation_index": 7
+    },
+    {
+      "id": "449d34cd-2526-431d-8162-165966236591",
+      "score": 0.2862595,
+      "title": "Furniture meets robotics: superpower to show/hide what's ...",
+      "url": "https://faircompanies.com/videos/furniture-meets-robotics-superpower-to-showhide-whats-used/",
+      "citation_index": 8
+    },
+    {
+      "id": "1630b18b-1473-434f-8cf4-475873245d84",
+      "score": 0.6601948,
+      "title": "Custom carpentry with help from robots",
+      "url": "https://news.mit.edu/2018/custom-carpentry-help-robots-autosaw-0228",
+      "citation_index": 9
+    },
+    {
+      "id": "dbda9eab-731b-44fe-862e-8083361f7e44",
+      "score": 0.5948579,
+      "title": "Custom carpentry with help from robots | MIT News | Massachusetts Institute of Technology",
+      "url": "https://news.mit.edu/2018/custom-carpentry-help-robots-autosaw-0228?platform=hootsuite",
+      "citation_index": 9
+    },
+    {
+      "id": "f46ce08a-83b0-4bf4-aeec-0546b6111e9e",
+      "score": 0.54564947,
+      "title": "Custom carpentry with help from robots | MIT CSAIL",
+      "url": "https://www.csail.mit.edu/news/custom-carpentry-help-robots",
+      "citation_index": 10
+    },
+    {
+      "id": "2923d844-b182-40ca-8bde-cf22922dbf31",
+      "score": 0.7147281,
+      "title": "AutoSaw Robot Carpenter Eases Pain of Building Furniture",
+      "url": "https://www.therobotreport.com/autosaw-robot-carpenter-building-furniture/",
+      "citation_index": 11
+    },
+    {
+      "id": "c82ef3b9-c79b-4463-97ac-f32ca8c3d89d",
+      "score": 0.3839421,
+      "title": "Smart office enables a personalized workplace atmosphere | MIT News | Massachusetts Institute of Technology",
+      "url": "https://news.mit.edu/2018/mit-media-lab-smart-office-mediated-atmospheres-0713",
+      "citation_index": 12
+    },
+    {
+      "id": "f1257ab6-cd59-406d-ab58-46c8bd177f5a",
+      "score": 0.9125066,
+      "title": "[PDF] ActiveErgo: Automatic and Personalized Ergonomics using Self-actuating Furniture | Semantic Scholar",
+      "url": "https://www.semanticscholar.org/paper/ActiveErgo:-Automatic-and-Personalized-Ergonomics-Wu-Wu/4f8c5031dd959be7ef9e9d3e05cf69db5db2c207"
+    },
+    {
+      "id": "39496453-9299-4647-b6b1-85391c8e0035",
+      "score": 0.91137725,
+      "title": "ActiveErgo | Proceedings of the 2018 CHI Conference on ...",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3173574.3174132"
+    },
+    {
+      "id": "3bd4705a-2f9a-4a66-b057-51fbf363c760",
+      "score": 0.88705814,
+      "title": "Figure 5 from ActiveErgo: Automatic and Personalized Ergonomics using Self-actuating Furniture | Semantic Scholar",
+      "url": "https://www.semanticscholar.org/paper/ActiveErgo:-Automatic-and-Personalized-Ergonomics-Wu-Wu/4f8c5031dd959be7ef9e9d3e05cf69db5db2c207/figure/4"
+    },
+    {
+      "id": "078ca334-70c5-4ab9-8f4c-e893d986b74a",
+      "score": 0.8729662,
+      "title": "(PDF) The Effects of Interruption Timings on Autonomous Height-Adjustable Desks that Respond to Task Changes",
+      "url": "https://www.researchgate.net/publication/332741795_The_Effects_of_Interruption_Timings_on_Autonomous_Height-Adjustable_Desks_that_Respond_to_Task_Changes"
+    },
+    {
+      "id": "50f1b160-190f-4cd5-a827-a8f6c8a05734",
+      "score": 0.87218446,
+      "title": "Recent Ergonomic Interventions and Evaluations on Laptop, Smartphones and Desktop Computer Users | Semantic Scholar",
+      "url": "https://www.semanticscholar.org/paper/Recent-Ergonomic-Interventions-and-Evaluations-on-Sahu-Sundari/0b74331753e51a5dc53851b17577539799483a4e"
+    },
+    {
+      "id": "1cff4832-149f-45c4-9b04-4fae4b7f3edd",
+      "score": 0.8286204,
+      "title": "Paul Taele",
+      "url": "https://scholar.google.com/citations?user=UMgiGwcAAAAJ&hl=en"
+    },
+    {
+      "id": "31e7d5bc-6dbd-42d2-a8bf-ffe0f949f456",
+      "score": 0.7933146,
+      "title": "Te-yen Wu",
+      "url": "https://scholar.google.com/citations?user=TMrlaiUAAAAJ&hl=en"
+    },
+    {
+      "id": "1e6b21d2-f49c-4c5c-af7f-4cb0988505c6",
+      "score": 0.7574541,
+      "title": "Te-YenWu",
+      "url": "https://teyenwu.com/publications/TeYenWu.pdf"
+    },
+    {
+      "id": "f5cf1ee3-fbbb-4155-a771-0d6b89fe9166",
+      "score": 0.7559439,
+      "title": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_lookup?doi=10.1145/3173574.3174132"
+    },
+    {
+      "id": "bc9243ea-184c-4a5f-912c-559807325ad3",
+      "score": 0.7309246,
+      "title": "CiteSeerX",
+      "url": "https://citeseerx.ist.psu.edu/search_result?query=ActiveErgo:+Automatic+and+Personalized+Ergonomics+using+Self-actuating+Furniture."
+    },
+    {
+      "id": "40bc741e-e4c8-4fa8-8154-c14d598d8982",
+      "score": 0.72395444,
+      "title": "Reprogrammable materials selectively self-assemble",
+      "url": "https://news.mit.edu/2022/reprogrammable-materials-selectively-self-assemble-1020"
+    },
+    {
+      "id": "9dcb5d28-0b88-4082-b37b-311daa3ec9a0",
+      "score": 0.6907474,
+      "title": "Materials that can change size and shape by twisting | MIT CSAIL",
+      "url": "https://www.csail.mit.edu/news/materials-can-change-size-and-shape-twisting"
+    },
+    {
+      "id": "e1fa2f82-b7cd-4602-9845-2c242085a798",
+      "score": 0.63615024,
+      "title": "Search CORE",
+      "url": "https://core.ac.uk/search?q=ActiveErgo:+Automatic+and+Personalized+Ergonomics+using+Self-actuating+Furniture."
+    },
+    {
+      "id": "a1f81028-ca91-4c9b-85d6-d3cc2ab8dc1b",
+      "score": 0.59457535,
+      "title": "CSAIL team puts design in your hands | MIT News | Massachusetts Institute of Technology",
+      "url": "https://news.mit.edu/2014/csail-team-puts-design-your-hands"
+    },
+    {
+      "id": "104a3225-ac77-4320-a988-2fb9986cdb43",
+      "score": 0.5634506,
+      "title": "Intelligent Posture Detection System for Improved Ergonomics | IEEE Conference Publication | IEEE Xplore",
+      "url": "https://ieeexplore.ieee.org/document/10957530/;jsessionid=678CF0618A0ADE75C2962408B2C99F7D"
+    },
+    {
+      "id": "1629dbbc-6887-415b-adf2-f14e82536f23",
+      "score": 0.55767727,
+      "title": "Parametric Industrial Products - Parametric House",
+      "url": "https://parametrichouse.com/parametric-industrial-products/"
+    },
+    {
+      "id": "a98fa6d7-c1a5-4e2f-b383-14529ea397eb",
+      "score": 0.5128152,
+      "title": "An automated way to assemble thousands of objects",
+      "url": "https://news.mit.edu/2022/automated-way-assemble-thousands-objects-1207"
+    },
+    {
+      "id": "1083c317-02d4-476d-b6af-4eaf090ee668",
+      "score": 0.5122296,
+      "title": "It's Dangerous When You Build Things You Klutz, but MIT's ...",
+      "url": "https://spectrum.ieee.org/its-dangerous-when-you-build-things-you-klutz-but-mits-robots-will-save-you"
+    },
+    {
+      "id": "4fcbba5f-126c-4cce-bb85-9e980998615e",
+      "score": 0.46978843,
+      "title": "Furniture that disappears - a profile of CSAIL spin-off Rock Paper Robot | MIT CSAIL",
+      "url": "https://www.csail.mit.edu/news/furniture-disappears-profile-csail-spin-rock-paper-robot"
+    },
+    {
+      "id": "a60f4680-9fe1-4bd9-88b8-078ae61e84c4",
+      "score": 0.44594026,
+      "title": "Project Overview \u2039 TRANSFORM: Adaptive and dynamic furniture \u2013 MIT Media Lab",
+      "url": "https://www.media.mit.edu/projects/transform-adaptive-and-dynamic-furniture/overview/"
+    },
+    {
+      "id": "620def0a-ac7f-437e-9a00-c8b03b295ce5",
+      "score": 0.44594026,
+      "title": "Project People \u2039 TRANSFORM: Adaptive and dynamic furniture \u2013 MIT Media Lab",
+      "url": "https://www.media.mit.edu/projects/transform-adaptive-and-dynamic-furniture/people/"
+    },
+    {
+      "id": "ab5f0895-83b2-4de5-9cc5-489f28614baa",
+      "score": 0.44087905,
+      "title": "Distributed Robotics Laboratory | MIT CSAIL",
+      "url": "https://www.csail.mit.edu/research/distributed-robotics-laboratory"
+    },
+    {
+      "id": "6807d0db-1efb-4989-bf16-ae590e9def8b",
+      "score": 0.42835352,
+      "title": "Reprogrammable materials selectively self-assemble",
+      "url": "https://mrl.mit.edu/node/204"
+    },
+    {
+      "id": "5f2d18dd-3c7b-4b65-a1dd-5eb1d14d170a",
+      "score": 0.42605945,
+      "title": "(PDF) A Smart System for Sitting Posture Detection Based on Force Sensors and Mobile Application",
+      "url": "https://www.researchgate.net/publication/347064932_A_Smart_System_for_Sitting_Posture_Detection_Based_on_Force_Sensors_and_Mobile_Application"
+    },
+    {
+      "id": "91035806-f2c2-43de-ba5c-96d47c13c75f",
+      "score": 0.37586737,
+      "title": "DIY design - Fab By Example lets you quickly create thousands of custom designs for furniture, go-carts, and more | MIT CSAIL",
+      "url": "https://www.csail.mit.edu/news/diy-design-fab-example-lets-you-quickly-create-thousands-custom-designs-furniture-go-carts-and"
+    },
+    {
+      "id": "2e161b4e-0df0-4d1d-86db-c0b48489f028",
+      "score": 0.37367067,
+      "title": "Clip The Verge MIT's robot carpenters will saw wood for you, but you have to make the furniture yourself (Feb. 28) | MIT News | Massachusetts Institute of Technology",
+      "url": "https://news.mit.edu/news-clip/verge-29"
+    },
+    {
+      "id": "b723e3d5-5479-4e1d-bd4c-8a6f177e6cba",
+      "score": 0.3655478,
+      "title": "Sitting Posture Identifier using AI | by Jonathan Law | Medium",
+      "url": "https://jonathanlawhh.medium.com/sitting-posture-identifier-using-ai-11b96f8a8da8"
+    },
+    {
+      "id": "3fb02618-bceb-4c46-be92-bcffe997ac74",
+      "score": 0.32280394,
+      "title": "TRANSFORM as Adaptive and Dynamic Furniture",
+      "url": "https://www.media.mit.edu/publications/transform-as-adaptive-and-dynamic-furniture/"
+    },
+    {
+      "id": "6629ac29-9231-495e-82bb-fa912b3ff225",
+      "score": 0.32034323,
+      "title": "Personal Fabrication Research HCI and Graphics",
+      "url": "https://hcie.csail.mit.edu/fabpub/"
+    },
+    {
+      "id": "3a666c68-3bcc-4587-aa14-cb97cfc514d3",
+      "score": 0.317956,
+      "title": "Using artificial intelligence to control digital manufacturing | MIT CSAIL",
+      "url": "https://www.csail.mit.edu/news/using-artificial-intelligence-control-digital-manufacturing"
+    },
+    {
+      "id": "449aa588-ef8b-49ff-bf15-2341b78d76e2",
+      "score": 0.31557825,
+      "title": "Smart Posture Detection and Correction System Using Skeletal Points Extraction | Request PDF",
+      "url": "https://www.researchgate.net/publication/334447003_Smart_Posture_Detection_and_Correction_System_Using_Skeletal_Points_Extraction"
+    },
+    {
+      "id": "d53588ac-81bc-4565-8157-8ef8ae82d551",
+      "score": 0.31000513,
+      "title": "Robot Locomotion Group - MIT",
+      "url": "https://locomotion.csail.mit.edu/"
+    },
+    {
+      "id": "c3add3cc-094f-4658-ba20-0891169f70e9",
+      "score": 0.29518467,
+      "title": "The Effects of Interruption Timings on Autonomous Height ...",
+      "url": "https://dl.acm.org/doi/10.1145/3290605.3300558"
+    },
+    {
+      "id": "574106e5-60a6-482f-8b10-cdfa8665d076",
+      "score": 0.2943625,
+      "title": "Self-Assembly Lab",
+      "url": "https://selfassemblylab.mit.edu"
+    },
+    {
+      "id": "e218a74e-6a31-486c-a4a4-77f9fe427f33",
+      "score": 0.2871882,
+      "title": "Mit",
+      "url": "https://groups.csail.mit.edu/drl/publications/papers/IROS1995.ps.z"
+    },
+    {
+      "id": "ea5bef51-7e86-444e-ae96-255307707c76",
+      "score": 0.28481016,
+      "title": "(PDF) Smart Desks to Promote Comfort, Health, and ...",
+      "url": "https://www.researchgate.net/publication/333730296_Smart_Desks_to_Promote_Comfort_Health_and_Productivity_in_Offices_A_Vision_for_Future_Workplaces"
+    },
+    {
+      "id": "e71f0ce7-d423-4e4f-8906-548f54028b84",
+      "score": 0.28247368,
+      "title": "(PDF) Smart Sleep Posture Monitoring System Using Embedded Sensors and IoT",
+      "url": "https://www.researchgate.net/publication/392020581_Smart_Sleep_Posture_Monitoring_System_Using_Embedded_Sensors_and_IoT"
+    },
+    {
+      "id": "dc166b18-ec21-488d-862a-f14a46b83787",
+      "score": 0.27946258,
+      "title": "Understanding Tech Integration in Office Furniture",
+      "url": "https://bumseating.co.za/blog/understanding-tech-integration-in-office-furniture?srsltid=AfmBOopwUNh7-6SFA2V3h4-kdS1X7kkNf6m_hGob5xYE37J65lbGMlxi"
+    },
+    {
+      "id": "a1efa6b2-252c-4bf6-bdf2-6416ea1b5727",
+      "score": 0.23103294,
+      "title": "A systematic review of research on sitting and working furniture ergonomic from 2012 to 2022: Analysis of assessment approaches - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2405844024044153"
+    },
+    {
+      "id": "14af44fe-2427-4e98-a021-b7da17471ede",
+      "score": 0.19873236,
+      "title": "Project Overview \u2039 Ambient Furniture \u2013 MIT Media Lab",
+      "url": "https://www.media.mit.edu/projects/ambient-furniture/overview/"
+    },
+    {
+      "id": "064d451b-ddf8-48f0-8ea6-c60e0266e7aa",
+      "score": 0.1975222,
+      "title": "System helps smart devices find their position",
+      "url": "https://news.mit.edu/2019/iot-smart-device-position-1003"
+    },
+    {
+      "id": "5f9c17b5-2595-4050-b96f-a887586bd661",
+      "score": 0.18674712,
+      "title": "(PDF) Smart Sensing Chairs for Sitting Posture Detection, Classification, and Monitoring: A Comprehensive Review",
+      "url": "https://www.researchgate.net/publication/380391638_Smart_Sensing_Chairs_for_Sitting_Posture_Detection_Classification_and_Monitoring_A_Comprehensive_Review"
+    },
+    {
+      "id": "ed73c3e5-5e46-43a7-a963-ea59bed2ac20",
+      "score": 0.16918644,
+      "title": "Smart-Cover: A real time sitting posture monitoring system - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0924424720317660"
+    },
+    {
+      "id": "6b0d7780-f5af-4f81-9cb0-70dc27928933",
+      "score": 0.16750476,
+      "title": "Accurate and Efficient Sitting Posture Recognition ...",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202301579"
+    },
+    {
+      "id": "6d32c397-68bc-42c6-acb7-00c19cc1114e",
+      "score": 0.16482572,
+      "title": "Harnessing Computer Vision and Deep Learning Model for Optimal Sitting Posture Detection | SpringerLink",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-97-3851-9_23"
+    },
+    {
+      "id": "2c275678-8b5f-4f6f-a6a4-02115fa08155",
+      "score": 0.156221,
+      "title": "Sitting Posture Recognition and Feedback: A Literature ...",
+      "url": "http://www.medien.ifi.lmu.de/pubdb/publications/pub/krauter2024sittingposture/krauter2024sittingposture.pdf"
+    },
+    {
+      "id": "9fa8e3c3-57ca-404b-aa60-5638615073e9",
+      "score": 0.14724864,
+      "title": "Intelligent systems for sitting posture monitoring and anomaly detection: an overview | Journal of NeuroEngineering and Rehabilitation | Full Text",
+      "url": "https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-024-01322-z"
+    },
+    {
+      "id": "3209b0cf-f1a0-4601-855e-b50b72737a07",
+      "score": 0.14629474,
+      "title": "Smart Desks to Promote Comfort, Health, and Productivity ...",
+      "url": "https://par.nsf.gov/servlets/purl/10104056"
+    },
+    {
+      "id": "f54bf807-002f-411f-93eb-e00518ce36d0",
+      "score": 0.14174438,
+      "title": "(PDF) Social Beliefs and Ergonomics on Traditional Seat of Wooden Furniture Review of Related Literature",
+      "url": "https://www.researchgate.net/publication/345371315_Social_Beliefs_and_Ergonomics_on_Traditional_Seat_of_Wooden_Furniture_Review_of_Related_Literature"
+    },
+    {
+      "id": "aebf166c-156e-4727-8002-462582fb2244",
+      "score": 0.1353123,
+      "title": "Strain Detecting Smart Chair",
+      "url": "https://www.ijraset.com/research-paper/strain-detecting-smart-chair"
+    },
+    {
+      "id": "bb11b128-28a9-46e6-b5a0-118092710994",
+      "score": 0.12580481,
+      "title": "Autonomous Electric Height Adjustable Standing Desks",
+      "url": "https://www.autonomous.ai/standing-desks"
+    },
+    {
+      "id": "c3132295-615c-4248-b784-58337f0f7169",
+      "score": 0.12496949,
+      "title": "Effect of an ergonomic intervention involving workstation adjustments on musculoskeletal pain in office workers\u2014a randomized controlled clinical trial - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8010160/"
+    },
+    {
+      "id": "ee46771e-35b5-4a4d-9ff0-4dd36c56b949",
+      "score": 0.12287034,
+      "title": "Developing and Evaluating a Mixed Sensor Smart Chair System for Real-Time Posture Classification: Combining Pressure and Distance Sensors - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33044937/"
+    },
+    {
+      "id": "3592e8bc-1dd7-48d4-b7fd-0affa09b5165",
+      "score": 0.12224026,
+      "title": "Pose to Seat: Automated design of body-supporting surfaces",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S016783962030042X"
+    },
+    {
+      "id": "8f1f5b02-09ab-451d-947b-d936412c890a",
+      "score": 0.11729908,
+      "title": "Exploring Smart Standing Desks to Foster a Healthier ...",
+      "url": "https://www.researchgate.net/publication/370872212_Exploring_Smart_Standing_Desks_to_Foster_a_Healthier_Workplace"
+    },
+    {
+      "id": "5523c86e-2882-4a42-8e7b-bcc59cccdc26",
+      "score": 0.11603103,
+      "title": "Multimodal data-based deep learning model for sitting posture recognition toward office workers\u2019 health promotion - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0924424722007853"
+    },
+    {
+      "id": "9298f605-28c1-4beb-bc27-c2440d2c8531",
+      "score": 0.10586528,
+      "title": "A systematic review of research on sitting and working furniture ergonomic from 2012 to 2022: Analysis of assessment approaches - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10988004/"
+    },
+    {
+      "id": "ab5c837d-2841-4402-992b-fbb551e6add8",
+      "score": 0.101937786,
+      "title": "(PDF) IOT Driven Smart Chair for Posture and Health Monitoring",
+      "url": "https://www.researchgate.net/publication/390008923_IOT_Driven_Smart_Chair_for_Posture_and_Health_Monitoring"
+    },
+    {
+      "id": "3766e330-44a3-4b36-9996-70050baa3fe8",
+      "score": 0.09038981,
+      "title": "A Sitting Posture Monitoring Instrument to Assess Different Levels of Cognitive Engagement - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6387236/"
+    },
+    {
+      "id": "862a12e1-8c79-4c5d-a7b4-82e69ec4e9ec",
+      "score": 0.08981337,
+      "title": "Smart Software Can Increase Sit\u2013Stand Desk Transitions During Active Computer Use - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6651756/"
+    },
+    {
+      "id": "f0af832f-de25-40e0-a625-6291be5dc3c9",
+      "score": 0.08413856,
+      "title": "Adjustable Height Mechanism - Table Lift System Modern Design",
+      "url": "https://www.alibaba.com/showroom/height-adjustment-mechanism-for-tables.html"
+    },
+    {
+      "id": "48b851b6-8fa7-4656-bf6a-c709be9389d4",
+      "score": 0.08306123,
+      "title": "Sitting Posture Recognition and Feedback: A Literature Review | Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems",
+      "url": "https://dl.acm.org/doi/10.1145/3613904.3642657"
+    },
+    {
+      "id": "abe7bc45-a462-447a-826b-958a5fbb5a72",
+      "score": 0.08007663,
+      "title": "Light-Weight Seated Posture Guidance System with Machine Learning and Computer Vision",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/3529190.3535341"
+    },
+    {
+      "id": "02d513b5-3ac6-49bb-8335-db0ff713f69e",
+      "score": 0.0771068,
+      "title": "Modelling Proper and Improper Sitting Posture of Computer Users Using Machine Vision for a Human\u2013Computer Intelligent Interactive System during COVID-19",
+      "url": "https://www.mdpi.com/2076-3417/13/9/5402"
+    },
+    {
+      "id": "d7295418-e40f-4c2d-a3c7-41f025457cc7",
+      "score": 0.07046373,
+      "title": "(PDF) Adjustadesk \u2014 An Adjustable Height Desk",
+      "url": "https://www.researchgate.net/publication/320285431_Adjustadesk_-_An_Adjustable_Height_Desk"
+    },
+    {
+      "id": "b142f0f2-53a8-4052-a9df-6596a1f14c14",
+      "score": 0.06849401,
+      "title": "Project Overview \u2039 TRANSFORM \u2013 MIT Media Lab",
+      "url": "https://www.media.mit.edu/projects/transform/overview/"
+    },
+    {
+      "id": "7cac6598-00ce-4f7c-9a9d-c81fb5c1adb7",
+      "score": 0.06745462,
+      "title": "Robotic interiors \u2014 MIT Media Lab",
+      "url": "https://www.media.mit.edu/articles/robotic-interiors/"
+    },
+    {
+      "id": "9b355307-5d3c-4b04-b8a8-c810cb7a4284",
+      "score": 0.05323092,
+      "title": "Ch. 1 - Fully-actuated vs Underactuated Systems",
+      "url": "https://underactuated.csail.mit.edu/intro.html"
+    },
+    {
+      "id": "c797db87-f99f-4b22-a0eb-942d110d91cf",
+      "score": 0.050298072,
+      "title": "Designing of smart chair for monitoring of sitting posture using convolutional neural networks | Request PDF",
+      "url": "https://www.researchgate.net/publication/331424756_Designing_of_smart_chair_for_monitoring_of_sitting_posture_using_convolutional_neural_networks"
+    },
+    {
+      "id": "ecb6a147-1e97-4a26-92c3-c6d889f76c17",
+      "score": 0.048212994,
+      "title": "A Smart Chair to Monitor Sitting Posture by Capacitive Textile Sensors",
+      "url": "https://www.mdpi.com/1996-1944/16/13/4838"
+    },
+    {
+      "id": "83b9b77e-ca5d-4118-a410-291d98b47333",
+      "score": 0.041965928,
+      "title": "Research \u2014 MIT Media Lab",
+      "url": "https://www.media.mit.edu/research/?filter=everything&tag=assistive-technology"
+    },
+    {
+      "id": "4976a227-604f-41eb-a071-d6ebf71d8c20",
+      "score": 0.036869973,
+      "title": "A Novel Smart Chair System for Posture Classification and Invisible ECG Monitoring",
+      "url": "https://www.mdpi.com/1424-8220/23/2/719"
+    },
+    {
+      "id": "c1a1031d-4595-4e7c-9208-40bb9fe6e6c3",
+      "score": 0.025959885,
+      "title": "Distributed Robot Garden | MIT CSAIL",
+      "url": "https://www.csail.mit.edu/research/distributed-robot-garden"
+    },
+    {
+      "id": "d85061ce-873e-412f-b42b-b2e4f67c88ea",
+      "score": 0.024687458,
+      "title": "National Robotics Initiative (NRI) Eldercare Research",
+      "url": "https://darbelofflab.mit.edu/nri-eldercare/"
+    },
+    {
+      "id": "4b70769b-86b6-48d6-849c-76ba5de95063",
+      "score": 0.022787457,
+      "title": "MIT Media Lab - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MIT_Media_Lab"
+    },
+    {
+      "id": "62c8cd69-9e27-47ab-8d51-161c2f9e06ae",
+      "score": 0.021030532,
+      "title": "Underactuated Robotics",
+      "url": "https://underactuated.csail.mit.edu/index.html"
+    },
+    {
+      "id": "8f153ec3-78f9-49ac-8113-65525d7d4eeb",
+      "score": 0.021030532,
+      "title": "HCI Engineering Group",
+      "url": "https://hcie.csail.mit.edu/"
+    },
+    {
+      "id": "9c859244-0ff9-4505-b26d-bda7424a6ef4",
+      "score": 0.017864192,
+      "title": "ElectroVoxel: Electromagnetically Actuated Pivoting for Scalable Modular Self-Reconfigurable Robots",
+      "url": "https://hcie.csail.mit.edu/research/Electrovoxel/electrovoxel.html"
+    },
+    {
+      "id": "206e3206-04af-4407-93b2-add261fb44d9",
+      "score": 0.010547045,
+      "title": "Cognitive Load in Pediatric Critical Care Medicine: Tsunamis and a Thousand Cuts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41051276/"
+    },
+    {
+      "id": "1eaccb0e-c766-4309-88f5-e71d14e65765",
+      "score": 0.009070192,
+      "title": "Global WAR-NING: Geoengineering Is Wrecking Our Planet and Humanity",
+      "url": "https://www.globalresearch.ca/global-war-ning-geoengineering-is-wrecking-our-planet-and-humanity/5753754"
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "id": "ef3c4faa-fcfa-429a-bcf4-aa1c4cb6e646",
+  "status": "completed",
+  "content": "FALSE.\n\nThe statement that dinosaurs had three toes is a significant oversimplification and factually incorrect as a generalization for all dinosaurs. While many well-known bipedal dinosaurs, such as theropods and ornithopods, were functionally tridactyl (using three primary toes for walking), their complete anatomy often included four or five toes[1][2]. Furthermore, numerous other major dinosaur clades consistently possessed more than three toes[3][4]. The ancestral condition for dinosaurs was a five-toed foot, with a reduction in functional digits occurring as a later evolutionary specialization in certain lineages[6].\n\n## Analysis of Pedal Digits Across Major Dinosaur Clades\n\nAn examination of the primary dinosaur groups reveals significant variation in the number of toes, refuting the generalized \"three-toed\" claim.\n\n### Theropoda (e.g., *Tyrannosaurus*, *Velociraptor*)\n\nTheropods are the group most commonly associated with a three-toed appearance, largely due to the nature of their fossilized footprints, which typically show three long, slender toe impressions in a V-shape[7][3]. However, anatomically, most theropods had more than three toes.\n\n*   **Anatomical Toe Count**: The majority of theropods possessed four toes on each hind foot[1][8]. Some early theropods had five toes, with the first and fifth digits being reduced[9][10].\n*   **Functional Stance**: They were functionally tridactyl, walking on the three main forward-facing toes (digits II, III, and IV)[10][11]. The first toe, or hallux, was typically a smaller \"dewclaw\" held off the ground[1][8].\n*   **Variations**: Some theropod groups deviated from this pattern. Dromaeosaurids like *Deinonychus* walked on only two toes, holding their sickle-clawed second toe off the ground. *Therizinosaurus* was unusual in having four functional, weight-bearing toes on each foot[13]. Some oviraptorosaurs also had four functional toes[14][15].\n\n### Sauropodomorpha (e.g., *Diplodocus*, *Brontosaurus*)\n\nSauropods provide a clear and definitive counterexample to the three-toed assertion.\n\n*   **Anatomical Toe Count**: Sauropods had five toes on their broad, club-like hind feet[4][16]. Fossil trackways confirm this, revealing five elliptical toe marks[17].\n*   **Claws**: Although they had five toes, typically only the inner three (or sometimes four) bore claws[4][18].\n*   **Specific Examples**: The Australian sauropod *Savannasaurus* had five toes on each foot[19]. Tracks from early sauropodomorphs often show a tetradactyl (four-toed) pes[20][21].\n\n### Ornithischia (e.g., Ornithopods, Ceratopsians, Thyreophorans)\n\nThis diverse group of herbivorous dinosaurs shows considerable variation in toe count, further invalidating the three-toed generalization.\n\n*   **Ornithopods (e.g., *Iguanodon*, *Edmontosaurus*)**: Similar to theropods, their name (\"bird feet\") and common three-toed footprints are misleading[22]. Most possessed four toes, with a reduced inner toe held off the ground[1][2]. Early ornithopods definitively had four toes[23][24].\n*   **Ceratopsians (e.g., *Triceratops*)**: This group had four toes on their hind feet and five fingers on their hands[3].\n*   **Thyreophorans (Armored Dinosaurs)**: This group includes stegosaurs and ankylosaurs.\n    *   **Stegosaurs**: Had five toes on each forefoot and three toes on each hind foot[25][3].\n    *   **Ankylosaurs**: Had three or four toes[3]. Skeletal comparisons suggest some, like *Ankylosaurus*, may have had five[26].\n\n## The Origin of the \"Three-Toed\" Misconception\n\nThe widespread belief that dinosaurs had three toes stems from two primary sources:\n\n1.  **Fossil Footprints**: The most commonly found dinosaur tracks belong to bipedal theropods and ornithopods[7]. Because these animals bore their weight on their three central toes, their footprints typically preserve only these impressions, creating a seemingly three-toed track[3]. The smaller first and fifth digits rarely touched the ground and were thus seldom recorded in trackways[1].\n2.  **Functional Anatomy**: In many lineages, the outer digits (I and V) became reduced over evolutionary time as they were no longer critical for locomotion[27]. This led to a \"functionally tridactyl\" foot that dominated the appearance and biomechanics of many species, even if additional, smaller toes were anatomically present[2].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "0dff54bc-f3f6-4c33-9049-6b8b2442493d",
+      "score": 0.9051298,
+      "title": "Museum Tour - Numbering Dinosaur Toes",
+      "url": "https://dinosaurtracker.com/tour/02a-numbering-toes.php",
+      "citation_index": 1
+    },
+    {
+      "id": "61b5ee72-6b82-4f8a-b056-676e1b58ab3b",
+      "score": 0.8536326,
+      "title": "Dinosaur - Ornithischia, Herbivore, Reptile | Britannica",
+      "url": "https://www.britannica.com/animal/dinosaur/Ornithischia",
+      "citation_index": 2
+    },
+    {
+      "id": "69bb603d-a628-41ca-b90d-0599c68e4076",
+      "score": 0.81524754,
+      "title": "Dinosaur footprints: how do they form and what can ...",
+      "url": "https://www.nhm.ac.uk/discover/dinosaur-footprints.html",
+      "citation_index": 3
+    },
+    {
+      "id": "d30e1405-60f2-4f03-910a-3e2ed78c440a",
+      "score": 0.57322514,
+      "title": "Sauropoda - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sauropoda",
+      "citation_index": 4
+    },
+    {
+      "id": "22295ef8-34cd-4a77-977e-f19fda28604e",
+      "score": 0.48879638,
+      "title": "Limusaurus \u2013 four fingers and a whole mess of homologies | Dave Hone's Archosaur Musings",
+      "url": "https://archosaurmusings.wordpress.com/2009/06/18/limusaurus-%E2%80%93-four-fingers-and-a-whole-mess-of-homologies/",
+      "citation_index": 6
+    },
+    {
+      "id": "a0aeea97-221f-42cf-9fd3-2e2d5bdcae0e",
+      "score": 0.74697095,
+      "title": "PaleoBlog | Paul Sereno - Paleontologist | The University of Chicago",
+      "url": "https://paulsereno.uchicago.edu/journal/on_the_loose_fossils_and_footprints/",
+      "citation_index": 7
+    },
+    {
+      "id": "277a4c6d-f449-44ea-adb9-eef244a23609",
+      "score": 0.8925721,
+      "title": "How could ground based bipedal dinosaurs have been the ancestors of birds, when not one of them had more than three functional digits (toes) on their feet? Most birds have four. - Quora",
+      "url": "https://www.quora.com/How-could-ground-based-bipedal-dinosaurs-have-been-the-ancestors-of-birds-when-not-one-of-them-had-more-than-three-functional-digits-toes-on-their-feet-Most-birds-have-four",
+      "citation_index": 8
+    },
+    {
+      "id": "9f9cb57d-e174-4955-9ad3-9f4f9c1a8c87",
+      "score": 0.8091708,
+      "title": "Theropoda - Students | Britannica Kids | Homework Help",
+      "url": "https://kids.britannica.com/students/article/Theropoda/390696",
+      "citation_index": 9
+    },
+    {
+      "id": "e9ce6bbd-4a0f-4b9e-8f7f-7b716f264562",
+      "score": 0.7348247,
+      "title": "Theropoda",
+      "url": "https://ucmp.berkeley.edu/taxa/verts/dinosauria/theropoda.php",
+      "citation_index": 10
+    },
+    {
+      "id": "394f1781-f911-475f-b83d-2f69c3122987",
+      "score": 0.87681407,
+      "title": "Learn about Theropod Dinosaurs! | Safari Ltd\u00ae",
+      "url": "https://www.safariltd.com/blogs/toys-that-teach/learn-about-theropod-dinosaurs",
+      "citation_index": 11
+    },
+    {
+      "id": "09a4d404-cb9c-4cb1-910f-15de80923876",
+      "score": 0.85157084,
+      "title": "Learn about Theropod Dinosaurs!",
+      "url": "https://www.safariltd.com/blogs/toys-that-teach/learn-about-theropod-dinosaurs?srsltid=AfmBOooDMTVmvTaGE4v1d_Fb6XTNyzBWVMSokDIIa1EcuWGKXYBO-BCg",
+      "citation_index": 11
+    },
+    {
+      "id": "5a59fabc-7fa4-49de-af1a-ceb00193cfdf",
+      "score": 0.26117823,
+      "title": "Therizinosaurus - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Therizinosaurus",
+      "citation_index": 13
+    },
+    {
+      "id": "460615af-800a-445d-a196-e8d41cf8a7e5",
+      "score": 0.8706085,
+      "title": "(Repost) Stubbed Toes and Blood Owies: Footprint Pathologies in Theropod Dinosaurs\ufffc",
+      "url": "https://lisagbuckley.com/2022/01/16/repost-stubbed-toes-and-blood-owies-footprint-pathologies-in-theropod-dinosaurs%EF%BF%BC/",
+      "citation_index": 14
+    },
+    {
+      "id": "466d8769-32db-41c7-b09f-89ca70986252",
+      "score": 0.8679453,
+      "title": "footprints \u2013 Lisa G. Buckley, Ph.D.",
+      "url": "https://lisagbuckley.com/tag/footprints/",
+      "citation_index": 15
+    },
+    {
+      "id": "cf730e9a-23fb-4c31-853b-256fd422a4fd",
+      "score": 0.70823324,
+      "title": "Sauropods had soft foot pads to help support their massive weight - Ars Technica",
+      "url": "https://arstechnica.com/science/2022/08/sauropods-had-soft-foot-pads-to-help-support-their-massive-weight/",
+      "citation_index": 16
+    },
+    {
+      "id": "6723ccea-7856-4413-ad88-7ddd78f2e7d1",
+      "score": 0.73755574,
+      "title": "World's longest sauropod dinosaur trackway brought to light | CNRS",
+      "url": "https://www.cnrs.fr/en/press/worlds-longest-sauropod-dinosaur-trackway-brought-light",
+      "citation_index": 17
+    },
+    {
+      "id": "4bf19bb0-48c2-4ee0-b3fb-5887b198d78a",
+      "score": 0.7971311,
+      "title": "Big Foot | AMNH",
+      "url": "https://www.amnh.org/exhibitions/dinosaurs-ancient-fossils/trackways/big-foot",
+      "citation_index": 18
+    },
+    {
+      "id": "29b7c78b-d385-4cb1-bb4d-ee69c9e65cba",
+      "score": 0.78846955,
+      "title": "Savannasaurus elliottorum",
+      "url": "https://www.australianageofdinosaurs.com/page/53/australian-age-of-dinosaurs-savannasaurus-elliottorum",
+      "citation_index": 19
+    },
+    {
+      "id": "6d0f2307-184b-4e0f-b09a-815f4d6cd96a",
+      "score": 0.1666079,
+      "title": "Crouching Theropod and Navahopus Sauropodomorph ...",
+      "url": "https://bioone.org/journals/acta-palaeontologica-polonica/volume-53/issue-2/app.2008.0203/Crouching-Theropod-and-Navahopus-Sauropodomorph-Tracks-from-the-Early-Jurassic/10.4202/app.2008.0203.full",
+      "citation_index": 20
+    },
+    {
+      "id": "75edcff9-ac37-4f0f-9944-4411d0b14890",
+      "score": 0.3708637,
+      "title": "Softening the steps to gigantism in sauropod dinosaurs through the evolution of a pedal pad | Science Advances",
+      "url": "https://www.science.org/doi/10.1126/sciadv.abm8280",
+      "citation_index": 21
+    },
+    {
+      "id": "c05369dd-d326-4d33-8023-25614b577cf9",
+      "score": 0.65861565,
+      "title": "32.2: Ornithischians - Geosciences LibreTexts",
+      "url": "https://geo.libretexts.org/Bookshelves/Geology/Historical_Geology_(Bentley_et_al.)/32:_(Case_Study)_Dinosaur_classification/32.02:_Ornithischians",
+      "citation_index": 22
+    },
+    {
+      "id": "2d4f0a80-bf1b-433a-a88a-e1e0a6b16112",
+      "score": 0.85967577,
+      "title": "Ornithopod Facts for Kids",
+      "url": "https://kids.kiddle.co/Ornithopod",
+      "citation_index": 23
+    },
+    {
+      "id": "41a0a2c5-3750-457b-97f5-3606eec86420",
+      "score": 0.8533396,
+      "title": "Ornithopod - Simple English Wikipedia, the free encyclopedia",
+      "url": "https://simple.wikipedia.org/wiki/Ornithopod",
+      "citation_index": 24
+    },
+    {
+      "id": "0088a524-a9b4-460a-9fcd-692fdd13ba15",
+      "score": 0.6219319,
+      "title": "Stegosaurus",
+      "url": "https://en.wikipedia.org/wiki/Stegosaurus",
+      "citation_index": 25
+    },
+    {
+      "id": "f06df515-00b9-478a-b978-f009ad331b6b",
+      "score": 0.8170061,
+      "title": "Ankylosaurus | Dinosaur Wiki | Fandom",
+      "url": "https://dino.fandom.com/wiki/Ankylosaurus",
+      "citation_index": 26
+    },
+    {
+      "id": "f777c157-71c5-4298-a231-3c970abb72b7",
+      "score": 0.45202848,
+      "title": "Theropod Dinosaurs",
+      "url": "https://ucmp.berkeley.edu/diapsids/saurischia/theropoda.html",
+      "citation_index": 27
+    },
+    {
+      "id": "466df363-bd6f-4d48-9d9d-7eaf883748e0",
+      "score": 0.8980626,
+      "title": "Museum Tour - Numbering Dinosaur Toes",
+      "url": "https://dinosaurtracker.com/tour/02a-numbering-toes.php/02a-numbering-toes-museum.php"
+    },
+    {
+      "id": "51adf2b8-2002-41ef-8dde-2e16e9433607",
+      "score": 0.88372874,
+      "title": "What are the differences between a sauropod dinosaur foot and a theropod foot? - Quora",
+      "url": "https://www.quora.com/What-are-the-differences-between-a-sauropod-dinosaur-foot-and-a-theropod-foot"
+    },
+    {
+      "id": "cbe0a95d-8cee-4ffe-b770-4b760e9aedfd",
+      "score": 0.8708723,
+      "title": "Ornithopod (Dinosaur) \u2013 PALAEONTOLOGY[online]",
+      "url": "https://www.palaeontologyonline.com/?page_id=3187"
+    },
+    {
+      "id": "717438f8-15ff-4b04-ac91-1b0c26591f3e",
+      "score": 0.8679453,
+      "title": "The dinosaur footprints of Whitby (Part 3): A brief look at the ...",
+      "url": "https://depositsmag.com/2020/09/10/the-dinosaur-footprints-of-whitby-part-3-a-brief-look-at-the-six-footprint-groupings/"
+    },
+    {
+      "id": "dee7885d-69d3-4f6d-b781-d0ed4ce49217",
+      "score": 0.86767644,
+      "title": "[FREE] How many toes does a Tyrannosaurus have on each of its front feet? - brainly.com",
+      "url": "https://brainly.com/question/39390640"
+    },
+    {
+      "id": "8de855e6-90c2-4b14-aa23-1f2b64be3675",
+      "score": 0.8616433,
+      "title": "Largest Dinosaur Footprint Found in Australia",
+      "url": "https://blog.education.nationalgeographic.org/2017/03/28/largest-dinosaur-footprint-found-in-australia/"
+    },
+    {
+      "id": "20c206ed-b0d9-4dd5-a8cb-8225721d52de",
+      "score": 0.8446273,
+      "title": "GEOL 104 Thescelosauridae and Ornithopoda: Beaks, bills & crests",
+      "url": "https://www.geol.umd.edu/~tholtz/G104/lectures/104ornithop.html"
+    },
+    {
+      "id": "4bc13814-921a-4bb0-8d44-5eae3cb90a51",
+      "score": 0.8437023,
+      "title": "Bird Feet: Particular Adaptations with Prehistoric Roots - Alberta Institute For Wildlife Conservation",
+      "url": "https://www.aiwc.ca/blog/bird-feet-particular-adaptations-with-prehistoric-roots/"
+    },
+    {
+      "id": "b191eb05-de7a-4a4e-b0c2-0e3e0d206db5",
+      "score": 0.8377398,
+      "title": "Grallator - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grallator"
+    },
+    {
+      "id": "4d3e8957-7171-4a2b-8ecf-61279fe87eda",
+      "score": 0.83225065,
+      "title": "Ornithopoda \u2013 Dinosaurs Doing Stuff",
+      "url": "https://dinosaursdoingstuff.com/collections/ornithopoda"
+    },
+    {
+      "id": "cccd65df-156e-44b3-ae1e-1e6bbce48d47",
+      "score": 0.826278,
+      "title": "Dinosaur Footprints: How Do They Form? | Dinosaur Universe",
+      "url": "https://www.dinosaur-universe.com/dinosaur-information/dinosaur-footprints/"
+    },
+    {
+      "id": "6eb449d3-11be-4468-88b3-d1d3ba7113fb",
+      "score": 0.82391036,
+      "title": "Dinosaurs | Canon City, CO",
+      "url": "https://canoncity.org/624/Dinosaurs"
+    },
+    {
+      "id": "3a40d79c-bd6c-44b2-85c6-fdb893671cd7",
+      "score": 0.82082915,
+      "title": "Why do birds have 4 toes? : r/evolution",
+      "url": "https://www.reddit.com/r/evolution/comments/1g02d5d/why_do_birds_have_4_toes/"
+    },
+    {
+      "id": "1a62bc73-9fc3-4b4c-9c80-69b9f2481ca3",
+      "score": 0.80771893,
+      "title": "r/Dinosaurs on Reddit: How Many Toes is a Triceratops Supposed to Have?",
+      "url": "https://www.reddit.com/r/Dinosaurs/comments/1agq3nd/how_many_toes_is_a_triceratops_supposed_to_have/"
+    },
+    {
+      "id": "488d0d92-ca2d-466e-a63b-b6a59e0fac86",
+      "score": 0.7890553,
+      "title": "r/Dinosaurs on Reddit: What theropod dinosaurs walked on less or more than three toes?",
+      "url": "https://www.reddit.com/r/Dinosaurs/comments/196tx1q/what_theropod_dinosaurs_walked_on_less_or_more/"
+    },
+    {
+      "id": "ba48e26e-bdca-44c3-a834-bfa3f1321ee5",
+      "score": 0.77994305,
+      "title": "Prehistoric podiatry: How dinosaurs carried their enormous weight - UQ News - The University of Queensland, Australia",
+      "url": "https://www.uq.edu.au/news/article/2022/08/prehistoric-podiatry-how-dinosaurs-carried-their-enormous-weight"
+    },
+    {
+      "id": "13b51e4d-9c68-4994-acf8-0cb0f231e9a4",
+      "score": 0.7797419,
+      "title": "All ornithopods in Prehistoric Planet. Ornithopoda is Greek ...",
+      "url": "https://www.facebook.com/groups/328884522564488/posts/700208922098711/"
+    },
+    {
+      "id": "5a44aac1-922e-49d7-a509-a0d89a0f021d",
+      "score": 0.75723875,
+      "title": "r/jurassicworldevo on Reddit: I never really noticed that herrerasaurus had five toes in jwe...also herrera nest at the end.",
+      "url": "https://www.reddit.com/r/jurassicworldevo/comments/q16o6i/i_never_really_noticed_that_herrerasaurus_had/"
+    },
+    {
+      "id": "4281353c-0408-4580-89ee-cba11cd643de",
+      "score": 0.7520312,
+      "title": "How sauropod feet could have supported such massive bodies",
+      "url": "https://cosmosmagazine.com/history/sauropod-feet-3d-model/"
+    },
+    {
+      "id": "91aed580-6129-43f5-ada4-52529398c29a",
+      "score": 0.7180613,
+      "title": "Ornithopoda | Fossil Wiki | Fandom",
+      "url": "https://fossil.fandom.com/wiki/Ornithopoda"
+    },
+    {
+      "id": "2e9a3ae8-f2ce-429b-b422-f1dd7ca8e087",
+      "score": 0.7152057,
+      "title": "The Life Appearance of Sauropod Dinosaurs \u2014 Tetrapod Zoology",
+      "url": "https://tetzoo.com/blog/2019/1/18/the-life-appearance-of-sauropod-dinosaurs"
+    },
+    {
+      "id": "9e01ba60-c5e7-42c9-a369-837d54bbfb4f",
+      "score": 0.6944897,
+      "title": "Ornithopoda - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ornithopoda"
+    },
+    {
+      "id": "67a4d9c9-31ba-4a83-bc1b-477eccda6df7",
+      "score": 0.6912478,
+      "title": "Sauropod manus and pes prints with impressions of ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0016787824000063"
+    },
+    {
+      "id": "5cd57351-ba68-4f37-a66a-2c63928f7544",
+      "score": 0.6793707,
+      "title": "Dinosaur Identification: Find Dinosaurs By Their Characteristics",
+      "url": "https://www.activewild.com/dinosaur-identification/"
+    },
+    {
+      "id": "4ea8e192-0948-416c-8bac-3b41392ff1cf",
+      "score": 0.6643884,
+      "title": "r/Dinosaurs on Reddit: Sauropod front foot positioning?",
+      "url": "https://www.reddit.com/r/Dinosaurs/comments/1fu0a1y/sauropod_front_foot_positioning/"
+    },
+    {
+      "id": "e53668ab-a395-4436-9305-2dc9ae133bc3",
+      "score": 0.64639384,
+      "title": "Dynamic Locomotor Capabilities Revealed by Early Dinosaur ...",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0007331"
+    },
+    {
+      "id": "b2ed7a3f-7620-498e-83e2-ada108b14b49",
+      "score": 0.64639384,
+      "title": "Dinosaur - Theropods, Extinction, Fossils | Britannica",
+      "url": "https://www.britannica.com/animal/dinosaur/Theropoda"
+    },
+    {
+      "id": "e4a8518b-5014-4cda-8870-8f9b87cd990f",
+      "score": 0.63234437,
+      "title": "What dinosaur is this ? : r/Dinosaurs",
+      "url": "https://www.reddit.com/r/Dinosaurs/comments/1iabcta/what_dinosaur_is_this/"
+    },
+    {
+      "id": "e943cdb5-ac6b-4abe-b9e4-694438cc282f",
+      "score": 0.63125396,
+      "title": "\"Underfoot Ancient Giants: Tracking Sauropod Dinosaurs\"",
+      "url": "https://www.youtube.com/watch?v=qSHq2WVWtM8"
+    },
+    {
+      "id": "d8f6e662-282b-45c2-bf31-6e18a5a76980",
+      "score": 0.62358373,
+      "title": "Foot posture and gait in bipedal dinosaurs \u2014 THECODONTIA",
+      "url": "https://www.thecodontia.com/blog/foot-posture-and-gait-in-bipedal-dinosaurs"
+    },
+    {
+      "id": "98bb7816-8e4e-4d5b-a11c-1871d7fece54",
+      "score": 0.58237284,
+      "title": "Sauropods Had Fleshy Pads on Their Feet - Dinosaur Study",
+      "url": "https://blog.everythingdinosaur.com/blog/_archives/2019/05/18/walking-with-dinosaurs-how.html"
+    },
+    {
+      "id": "15a3f21f-10ff-465c-bdd0-a909fa3720bb",
+      "score": 0.57837737,
+      "title": "Patagopteryx: turning back the genetic clock on pedal digit 1? | The Pterosaur Heresies",
+      "url": "https://pterosaurheresies.wordpress.com/2018/01/04/patagopteryx-turning-back-the-genetic-clock-on-pedal-digit-1/"
+    },
+    {
+      "id": "f42db24c-c021-4b63-bfe4-d3d4607846f4",
+      "score": 0.5758033,
+      "title": "A Dinosaur A Day: For the record, theropod feet and posture looks...",
+      "url": "https://a-dinosaur-a-day.com/post/728308562343985152/for-the-record-theropod-feet-and-posture-looks"
+    },
+    {
+      "id": "ef50b1bb-07ed-4a9f-8017-d642f45ab5f4",
+      "score": 0.5521781,
+      "title": "a tiny pedal ungual of a juvenile Spinosaurus from the ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5984586/"
+    },
+    {
+      "id": "b37364c3-2f39-4eb6-866d-ce3d06b28fa5",
+      "score": 0.54942364,
+      "title": "Theropoda - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theropoda"
+    },
+    {
+      "id": "e6dcc7f1-1b9b-4f44-b784-cdd2b25b15bf",
+      "score": 0.53400564,
+      "title": "Fossil Solves Mystery of Dinosaur Finger Evolution | Live Science",
+      "url": "https://www.livescience.com/3704-fossil-solves-mystery-dinosaur-finger-evolution.html"
+    },
+    {
+      "id": "a61b781d-1e5b-42ca-9e7d-f7fd3e4d9bc7",
+      "score": 0.52670854,
+      "title": "Pedal phalanges of ISMD-VP09. A \u2013 F , left pedal digit II. ...",
+      "url": "https://www.researchgate.net/figure/Pedal-phalanges-of-ISMD-VP09-A-F-left-pedal-digit-II-A-and-D-pedal-ungual-II-in_fig10_241682950"
+    },
+    {
+      "id": "376843dc-cb5f-4736-9a16-4b3c205820cc",
+      "score": 0.52583206,
+      "title": "Polydactyly in stem-tetrapods - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Polydactyly_in_stem-tetrapods"
+    },
+    {
+      "id": "31493fd2-3ead-44c4-84e6-a6f7b5abdbbd",
+      "score": 0.48703963,
+      "title": "Polydactyly in the earliest known tetrapod limbs | Nature",
+      "url": "https://www.nature.com/articles/347066a0"
+    },
+    {
+      "id": "b5f55591-d5c4-4529-978a-83dea55ab26b",
+      "score": 0.48381975,
+      "title": "Pedal Proportions of Poposaurus gracilis: Convergence and ...",
+      "url": "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.22863"
+    },
+    {
+      "id": "74798ffa-6832-4bb7-9b57-7955fb34fe81",
+      "score": 0.47139415,
+      "title": "Rethinking dinosaur origins: oldest known ... - Oxford Academic",
+      "url": "https://academic.oup.com/zoolinnean/article/203/1/zlae153/7942678"
+    },
+    {
+      "id": "a92a29c7-1486-432a-8d0f-8968605c3b1c",
+      "score": 0.4689128,
+      "title": "r/Dinosaurs on Reddit: T.rex had 3 toes right, but did it have a shorter toe like humans?",
+      "url": "https://www.reddit.com/r/Dinosaurs/comments/1858epe/trex_had_3_toes_right_but_did_it_have_a_shorter/"
+    },
+    {
+      "id": "4fe87a96-18d0-4783-836e-a1fd22178257",
+      "score": 0.45551404,
+      "title": "Therizinosaur | Therizinosaurus, Gigantoraptor, Herbivore | Britannica",
+      "url": "https://www.britannica.com/animal/therizinosaur"
+    },
+    {
+      "id": "739f3376-e867-459e-b451-d076068860cc",
+      "score": 0.45217365,
+      "title": "\"Sauropod Dinosaurs: Long Neck and Peculiar Claws\"",
+      "url": "https://www.youtube.com/watch?v=442r6ocCI_0"
+    },
+    {
+      "id": "eb7ab6d3-2469-4b7c-8854-a259ae87321f",
+      "score": 0.44261298,
+      "title": "Scientists find new conclusions for how sauropod claws were used",
+      "url": "https://phys.org/news/2016-11-scientists-conclusions-sauropod-claws.html"
+    },
+    {
+      "id": "8b12f7f2-e886-423f-a78c-d5616e6dd201",
+      "score": 0.43352634,
+      "title": "Digit (anatomy) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digit_(anatomy)"
+    },
+    {
+      "id": "8b9d187e-9b96-47d0-b000-33ee922a6355",
+      "score": 0.43194416,
+      "title": "Evidence against tetrapod-wide digit identities and for a limited frame shift in bird wings | Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-019-11215-8"
+    },
+    {
+      "id": "b7688422-260c-4975-8496-dffa90e60f7d",
+      "score": 0.40471974,
+      "title": "Pictures and Profiles of Ornithopod Dinosaurs",
+      "url": "https://www.thoughtco.com/ornithopod-dinosaur-pictures-and-profiles-4043320"
+    },
+    {
+      "id": "de08268b-778c-4182-af3b-d0f41d45027d",
+      "score": 0.38984904,
+      "title": "A new transitional sauropodomorph dinosaur from the ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2842739/"
+    },
+    {
+      "id": "8f3bc75a-6e0a-44ab-8b2a-c8668de9787d",
+      "score": 0.38553715,
+      "title": "Theropod dinosaur ichnofossil with fat pads",
+      "url": "https://www.facebook.com/groups/2417144643/posts/10162636163219644/"
+    },
+    {
+      "id": "38a6e934-a5cd-4abe-9f8a-2aa4f81083f3",
+      "score": 0.36466494,
+      "title": "New dinosaur species discovered in Brazil balanced on single toes | National Geographic",
+      "url": "https://www.nationalgeographic.com/science/article/new-dinosaur-brazil-balanced-single-toes"
+    },
+    {
+      "id": "0b12274e-9fd7-49cd-8ecf-fff6c0cfef93",
+      "score": 0.334177,
+      "title": "How big were the biggest sauropod trackmakers?",
+      "url": "https://svpow.com/2009/10/13/how-big-were-the-biggest-sauropod-trackmakers/"
+    },
+    {
+      "id": "3e6e4f49-dd78-480d-9d69-a6c4aa135e58",
+      "score": 0.324664,
+      "title": "Sauropod Dinosaurs Had Weird Feet | Escape Pod",
+      "url": "https://escapepod.org/2010/12/21/sauropod-dinosaurs-had-weird-feet/"
+    },
+    {
+      "id": "ad37ac90-9dd7-436b-af84-705953dde123",
+      "score": 0.3197694,
+      "title": "(PDF) Softening the steps to gigantism in sauropod dinosaurs through the evolution of a pedal pad",
+      "url": "https://www.researchgate.net/publication/362631458_Softening_the_steps_to_gigantism_in_sauropod_dinosaurs_through_the_evolution_of_a_pedal_pad"
+    },
+    {
+      "id": "55f7a632-aef3-451b-9e99-92d6b78ef3ab",
+      "score": 0.29726127,
+      "title": "A gigantic new dinosaur from Argentina and the evolution of the sauropod hind foot | Scientific Reports",
+      "url": "https://www.nature.com/articles/srep19165"
+    },
+    {
+      "id": "97845f24-f547-4ba3-98b9-5b2648b4fdf1",
+      "score": 0.27804157,
+      "title": "-Theropod Pedal Digit \u2013 Pierson Fossil Company LLC",
+      "url": "https://pfossilco.com/products/theropod-digit-copy"
+    },
+    {
+      "id": "c7a33aae-edbb-4386-acf9-71c536bc8d9b",
+      "score": 0.27167708,
+      "title": "A key feature contributed to sauropods getting so enormous, new dino foot study reveals",
+      "url": "https://theconversation.com/a-key-feature-contributed-to-sauropods-getting-so-enormous-new-dino-foot-study-reveals-188462"
+    },
+    {
+      "id": "ddea4c02-d791-4925-a2e1-0dc4148b52c2",
+      "score": 0.25336233,
+      "title": "Dinosaur Feet: LSED 107",
+      "url": "https://www.youtube.com/watch?v=TiJ9er-z66A"
+    },
+    {
+      "id": "e8706ab2-3aac-4986-9ac3-ca199093d8ca",
+      "score": 0.23524933,
+      "title": "How Sauropod Dinosaurs Became the Biggest Land ...",
+      "url": "https://www.scientificamerican.com/article/how-sauropod-dinosaurs-became-the-biggest-land-animals-again-and-again/"
+    },
+    {
+      "id": "ed0b763a-9182-49cf-9838-8def210c52f4",
+      "score": 0.2241832,
+      "title": "Dinosaur Tracks: Examining Sauropod Fossil Footprints",
+      "url": "https://www.youtube.com/watch?v=k6i-68-kN8M"
+    },
+    {
+      "id": "dffd31c8-8103-4414-8cf2-a99873ee6d9a",
+      "score": 0.22129218,
+      "title": "Deinonychus - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deinonychus"
+    },
+    {
+      "id": "67f9a85d-7123-49ff-9e72-85a5b36a0765",
+      "score": 0.21581353,
+      "title": "New theropod dinosaur from the Lower Cretaceous of ...",
+      "url": "https://www.nature.com/articles/s41598-023-40804-3"
+    },
+    {
+      "id": "16bd179f-3a52-46ad-aed1-d7deda5dd90f",
+      "score": 0.18929654,
+      "title": "Strongest Dinosaur | The Dinosaurs Song For Kids | FunForKidsTV - Nursery Rhymes & Baby Songs",
+      "url": "https://www.youtube.com/watch?v=H0XtYA7JFAw"
+    },
+    {
+      "id": "9cab511c-67b1-48da-b009-94a117395660",
+      "score": 0.16265947,
+      "title": "The hands of sauropods: horseshoes, spiky columns, stumps and banana shapes | ScienceBlogs",
+      "url": "https://scienceblogs.com/tetrapodzoology/2008/10/29/the-hands-of-sauropods"
+    },
+    {
+      "id": "dc3dc38f-0bbf-469a-ad19-2b5f6dd8afcb",
+      "score": 0.15839584,
+      "title": "Dinosaur's digits show how birds got wings | Nature",
+      "url": "https://www.nature.com/articles/news.2009.577"
+    },
+    {
+      "id": "416ce263-62a6-4989-bdc4-79199dc9f076",
+      "score": 0.14339177,
+      "title": "Pedal Skeletal Proportions of Bipedal and Potentially Bipedal Dinosaurs and Other Archosaurs: Interpreting the Makers of Early Mesozoic Footprints",
+      "url": "https://bioone.org/journals/bulletin-of-the-peabody-museum-of-natural-history/volume-63/issue-2/014.063.0201/Pedal-Skeletal-Proportions-of-Bipedal-and-Potentially-Bipedal-Dinosaurs-and/10.3374/014.063.0201.short"
+    },
+    {
+      "id": "2ddc1d6c-24b7-40f9-81fc-56ecebe0a262",
+      "score": 0.042439613,
+      "title": "Ornithopod | Herbivorous, Bipedal Dinosaur | Britannica",
+      "url": "https://www.britannica.com/animal/ornithopod"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "8b8b7da8-5e66-4a39-9aed-d99bf0c634bf",
+  "status": "completed",
+  "content": "**FALSE**\n\nThe statement that NOAA's Altius-600 flew for a record 102 minutes inside the eye of a category 5 hurricane is false. While the drone, duration, and record status are correct, the flight occurred within Hurricane Ian on September 28, 2022, which was officially classified as a Category 4 hurricane at the time, not a Category 5[1][2].\n\n## Detailed Claim Analysis\n\nThe assertion contains four key elements: the drone's identity, the flight's duration, its record status, and the hurricane's strength. A comprehensive analysis of these components reveals a critical factual inaccuracy regarding the storm's classification.\n\n### The Record-Setting Flight\n\nOn September 28, 2022, the National Oceanic and Atmospheric Administration (NOAA) deployed an Altius-600 uncrewed aircraft system (UAS) from a WP-3D Orion \"Hurricane Hunter\" aircraft into Hurricane Ian[3][4]. The drone, built by Area-I, a subsidiary of Anduril, weighed 27 pounds and had an 8-foot wingspan[3][5].\n\nThe mission's duration was a record-setting 102 minutes[6][7][5]. Other reports approximate this as \"two hours\" or \"nearly two hours\"[8][9][10]. This achievement was officially recognized in the 2024 edition of the Guinness World Records for the \"longest endurance flight inside a tropical cyclone by an uncrewed aircraft\"[11][12].\n\nDuring its flight, the Altius-600 gathered critical data, recording wind speeds up to 216 mph at altitudes as low as 200 feet above the sea surface[6][13][10]. It successfully transmitted this data in near-real-time to the manned P-3 aircraft from distances up to 135 miles away[5][14].\n\n### Hurricane Ian's Official Classification\n\nThe central inaccuracy in the user's query is the classification of the hurricane. While several press releases and news reports celebrating the Guinness World Record describe the flight as taking place inside a \"Category 5 Hurricane Ian,\" official NOAA data clarifies the storm's actual strength[6][7][5].\n\n*   **Official NHC Data**: The NOAA National Hurricane Center's (NHC) official \"Best Track\" data for Hurricane Ian explicitly states it was a **Category 4 hurricane** when it made landfall in Florida on September 28, 2022, the same day as the drone flight[1].\n*   **Detailed NOAA Reports**: A report from NOAA's National Environmental Satellite, Data, and Information Service (NESDIS) provides further detail, noting that on the morning of September 28, Ian intensified into a Category 4 hurricane with maximum sustained winds of 155 mph, which is \"just shy of a Category 5 storm\"[2]. The threshold for a Category 5 hurricane on the Saffir-Simpson scale is maximum sustained winds of 157 mph or higher[15].\n*   **Mission-Specific Reports**: NOAA's Atlantic Oceanographic and Meteorological Laboratory (AOML) also confirmed that its Hurricane Hunters \"transected Category 4 Hurricane Ian\" when they launched the drone[10].\n\nThe Altius-600 was launched into the storm as it underwent rapid intensification, but according to the definitive meteorological records from NOAA, it did not reach Category 5 status at the time of the flight[10][2].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "41716017-7b4c-4c3f-9d27-59c2ad5a2e8e",
+      "score": 0.9527197,
+      "title": "Hurricane Ian Track",
+      "url": "https://noaa.hub.arcgis.com/maps/20d971f4472e4037af0f260f6454e7ab",
+      "citation_index": 1
+    },
+    {
+      "id": "db8b8f83-bf4b-4bd4-9773-e25c6c220274",
+      "score": 0.7917732,
+      "title": "Hurricane Ian\u2019s Path of Destruction | NESDIS | National Environmental Satellite, Data, and Information Service",
+      "url": "https://www.nesdis.noaa.gov/news/hurricane-ians-path-of-destruction",
+      "citation_index": 2
+    },
+    {
+      "id": "e17cc5db-0cf4-44d8-bfe4-8dc03bbc23c3",
+      "score": 0.78393924,
+      "title": "NOAA deploys new Altius drone into the eye of Hurricane Ian | Office of Marine and Aviation Operations",
+      "url": "https://www.omao.noaa.gov/uncrewed-systems/news-media/article/noaa-deploys-new-altius-drone-eye-hurricane-ian",
+      "citation_index": 3
+    },
+    {
+      "id": "5de88109-4d0d-45dc-9f6e-e2e9cffe52e9",
+      "score": 0.69249696,
+      "title": "NOAA launches first of its kind drone in Hurricane Ian to research areas unsafe for Hurricane Hunters | Fox Weather",
+      "url": "https://www.foxweather.com/extreme-weather/hurricane-drone-research-hurricane-hunter",
+      "citation_index": 4
+    },
+    {
+      "id": "deb67b2a-6209-4a6f-9373-b8b693b18ac7",
+      "score": 0.8351749,
+      "title": "WPO Is a Part of History as NOAA and Partners Set Two New World Records in the Hurricane Observing Mission - NOAA Weather Program Office",
+      "url": "https://wpo.noaa.gov/wpo-is-a-part-of-history-as-noaa-sets-two-new-world-records-in-its-hurricane-observing-mission/",
+      "citation_index": 5
+    },
+    {
+      "id": "89b045d1-0bd2-4e17-b3b2-7b8e3a23c450",
+      "score": 0.8747745,
+      "title": "NOAA's Hurricane Monitoring Technology Flies Straight into the Guinness World Records Book - HSToday",
+      "url": "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/noaas-hurricane-monitoring-technology-flies-straight-into-the-guinness-world-records-book/",
+      "citation_index": 6
+    },
+    {
+      "id": "434097b8-743c-4ff3-880f-9cd7c021312a",
+      "score": 0.8386933,
+      "title": "Uncrewed Surface Vehicles; NOAA and Saildrone Guiness ...",
+      "url": "https://www.guiceoffshore.com/noaa-hurricane-hunters-set-guiness-world-records-for-uncrewed-aircraft-saildrone-uncrewed-surfaces-vehicles/",
+      "citation_index": 7
+    },
+    {
+      "id": "04a1d1cd-3986-4de7-bd4a-d5f274987051",
+      "score": 0.7440808,
+      "title": "Launched into Hurricane Ian, the first ever drone ALTIUS-600 sent data from most dangerous parts of the storm",
+      "url": "https://interestingengineering.com/innovation/launched-into-hurricane-ian-the-first-ever-drone-sent-data-from-the-eye",
+      "citation_index": 8
+    },
+    {
+      "id": "0d75ddf3-b99a-406e-a090-fdf9964e580b",
+      "score": 0.7913865,
+      "title": "ALTIUS 600 UAS Prepares for More Hurricane Flights This Year - Inside Unmanned Systems",
+      "url": "https://insideunmannedsystems.com/altius-600-uas-prepares-for-more-hurricane-flights-this-year/",
+      "citation_index": 9
+    },
+    {
+      "id": "92090387-322d-4b5e-abd2-b082077075df",
+      "score": 0.53225553,
+      "title": "NOAA deploys new Altius drone into the eye of Hurricane Ian - NOAA/AOML",
+      "url": "https://www.aoml.noaa.gov/altius-drone-flies-hurricane-ian/",
+      "citation_index": 10
+    },
+    {
+      "id": "b5dd54f1-53c2-47d6-a0cb-19376824d21e",
+      "score": 0.86928266,
+      "title": "NOAA flies straight into the Guinness World Records book",
+      "url": "https://www.legistorm.com/stormfeed/view_rss/4151847/organization/136331/title/noaa-flies-straight-into-the-guinness-world-recordsnbspbook.html",
+      "citation_index": 11
+    },
+    {
+      "id": "527b236a-63db-4e0f-b838-2ab0e037af92",
+      "score": 0.79080546,
+      "title": "NOAA flies straight into the Guinness World Records book",
+      "url": "https://www.aoml.noaa.gov/hurricane_blog/noaa-flies-straight-into-the-guinness-world-records-book/",
+      "citation_index": 12
+    },
+    {
+      "id": "f0b39114-77c0-4899-a30b-68777aeec9c2",
+      "score": 0.6002124,
+      "title": "NOAA Hurricane Hunters provide critical data during busy 2022 Atlantic hurricane season | Office of Marine and Aviation Operations",
+      "url": "https://www.omao.noaa.gov/aircraft-operations/news-media/article/noaa-hurricane-hunters-provide-critical-data-during-busy-2022-atlantic-hurricane-season",
+      "citation_index": 13
+    },
+    {
+      "id": "e8f9d863-8bc8-40af-b78a-495935d87a2b",
+      "score": 0.81665546,
+      "title": "NOAA flies straight into the Guinness World Records book | National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/news/noaa-flies-straight-into-guinness-world-records-book",
+      "citation_index": 14
+    },
+    {
+      "id": "4b184314-055f-4f3d-8309-8d9f0aff5580",
+      "score": 0.725824,
+      "title": "Why is there no such thing as a category 6 or higher ...",
+      "url": "https://cbsaustin.com/news/nation-world/why-is-there-no-such-thing-as-a-category-6-or-higher-hurricane-saffir-simpson-scale-lee-rating",
+      "citation_index": 15
+    },
+    {
+      "id": "d09fd41c-892f-4587-8fbf-3fc6b857fd54",
+      "score": 0.8800674,
+      "title": "Storm Surge Overview (text)",
+      "url": "https://nhc.noaa.gov/surge/index.php?text="
+    },
+    {
+      "id": "ee41314d-a62e-4497-a560-6613cfc843a6",
+      "score": 0.784336,
+      "title": "What are the chances that Hurricane Lee will strengthen ...",
+      "url": "https://www.quora.com/What-are-the-chances-that-Hurricane-Lee-will-strengthen-into-a-Category-3-hurricane"
+    },
+    {
+      "id": "266f5093-0ad6-4b6a-a5da-f67e59cb0a28",
+      "score": 0.783542,
+      "title": "Hurricane hunters await new aircraft for fleet upgrade",
+      "url": "https://www.orlandosentinel.com/weather/hurricane/os-ne-hurricane-hunters-aircraft-noaa-hurricane-season-20211123-kx5mwxm2njavpg5covwve3m5da-story.html"
+    },
+    {
+      "id": "51324767-e4ae-40d4-9c25-fb694f2567a3",
+      "score": 0.77137923,
+      "title": "Hurricane LEE",
+      "url": "https://www.nhc.noaa.gov/archive/2023/al13/al132023.public.025.shtml?"
+    },
+    {
+      "id": "4851227a-6734-4d24-9cce-10e6784f36c6",
+      "score": 0.7578844,
+      "title": "Hurricane Lee, a Category 1, could pose threat to New ...",
+      "url": "https://www.cbsnews.com/news/hurricane-lee-strengthens-atlantic-forecast/"
+    },
+    {
+      "id": "97807bdf-d87a-43a8-938e-11e5a58f5c7b",
+      "score": 0.7014069,
+      "title": "Drones that hunt hurricanes? NOAA puts some to the test | National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/stories/drones-hunt-hurricanes-noaa-puts-some-to-test"
+    },
+    {
+      "id": "ada04534-dd81-406c-938f-5d42b615ff65",
+      "score": 0.68874115,
+      "title": "NOAA Deploys New Altius Drone into the Eye of Hurricane Ian \u2013 UAS VISION",
+      "url": "https://www.uasvision.com/2022/10/03/noaa-deploys-new-altius-drone-into-the-eye-of-hurricane-ian/"
+    },
+    {
+      "id": "ed12124b-c0df-41e5-8b64-e9172014ca4a",
+      "score": 0.6729558,
+      "title": "Hurricane Lee PM Update from the NHC in Miami, FL (September 14, 2023)",
+      "url": "https://www.youtube.com/watch?v=D4w6I8kmIvY"
+    },
+    {
+      "id": "fa32d3f5-e243-4d72-a8af-f0f974d640a8",
+      "score": 0.6415577,
+      "title": "Atlantic Hurricane Season of 2011 in - AMS Journals",
+      "url": "https://journals.ametsoc.org/view/journals/mwre/141/8/mwr-d-12-00230.1.xml"
+    },
+    {
+      "id": "8a4a63a7-f8db-4960-bda5-c13b03eeb56b",
+      "score": 0.6260562,
+      "title": "Hurricane Lee Intensifies Into Category 5 Storm, Could Reach Peak Winds Of 180 mph",
+      "url": "https://www.youtube.com/watch?v=wJLZ8G0X9Rk"
+    },
+    {
+      "id": "a9e323bb-044d-4e0d-a552-3fa4538ef3b4",
+      "score": 0.62523276,
+      "title": "News - NOAA/AOML",
+      "url": "https://www.aoml.noaa.gov/news/"
+    },
+    {
+      "id": "dbebabfb-7591-42a6-9865-ad464fb7147a",
+      "score": 0.6186197,
+      "title": "NOAA Measures Hurricane Tammy from Satellites through the Sea",
+      "url": "https://www.aoml.noaa.gov/noaa-altius-saildrone-mission-into-tammy/"
+    },
+    {
+      "id": "75990ff7-15ad-48fe-9a5b-728020fce2a0",
+      "score": 0.6010557,
+      "title": "How drones are helping NOAA improve hurricane track, intensity forecasts",
+      "url": "https://www.youtube.com/watch?v=EUpTC0whAj8"
+    },
+    {
+      "id": "92e2194e-3fd5-449f-89a5-13554a1b3bbb",
+      "score": 0.5760895,
+      "title": "Climate change has amped up hurricane wind speeds by 29 kph on average",
+      "url": "https://www.sciencenews.org/article/climate-change-hurricane-wind-speeds"
+    },
+    {
+      "id": "aca54f71-147b-492e-8891-460c6c3e0b92",
+      "score": 0.57035583,
+      "title": "Hurricane #lee is forecasted to be the strongest #hurricane of the year #shorts",
+      "url": "https://www.youtube.com/watch?v=dN3uw4Cv_Nw"
+    },
+    {
+      "id": "8c1c69c8-eb3b-4e8b-8e85-919efe668944",
+      "score": 0.5582553,
+      "title": "Altius-600: The Drone That Hunts From 276 Miles Away\ud83d\ude80",
+      "url": "https://www.youtube.com/watch?v=bj7XgJy5X7M"
+    },
+    {
+      "id": "38fd0353-7880-4a36-9d2b-7b53d2539d29",
+      "score": 0.5081298,
+      "title": "A new era in hurricane tracking: how AI drones like ALTIUS are changing the game | UNDRR",
+      "url": "https://www.youtube.com/watch?v=MatKrPBLOsg"
+    },
+    {
+      "id": "0e092549-31eb-4591-be4d-30bed6d9227a",
+      "score": 0.48440504,
+      "title": "Hurricane Lee PM Update from the NHC in Miami, FL (September 15, 2023)",
+      "url": "https://www.youtube.com/watch?v=Rg5qhQQ7gq8"
+    },
+    {
+      "id": "c1054441-8a59-4447-a9fb-d54e96a28661",
+      "score": 0.3985943,
+      "title": "Tracking Hurricane Lee: Storm reaches Category 5 status with 165 mph winds over Atlantic Ocean",
+      "url": "https://www.youtube.com/watch?v=U2EF39t0Grs"
+    },
+    {
+      "id": "c898e4ca-1233-4236-86a3-ec6a384462d7",
+      "score": 0.37236878,
+      "title": "Hurricane Lee",
+      "url": "https://www.nhc.noaa.gov/data/tcr/AL142017_Lee.pdf"
+    },
+    {
+      "id": "485d995e-c3ed-4c11-a58c-3a03ba8bea47",
+      "score": 0.3365932,
+      "title": "NOAA deploys drones in the ocean and atmosphere to advance hurricane forecasting - NOAA Research",
+      "url": "https://research.noaa.gov/2023/06/28/noaa-deploys-drones-in-the-ocean-and-atmosphere-to-advance-hurricane-forecasting/"
+    },
+    {
+      "id": "551b5016-c9e6-4e71-9b18-dd085c204dd6",
+      "score": 0.20396146,
+      "title": "Hurricane #Lee forecast latest: Could become Category 5 | Brad Panovich 9/7/2023 update",
+      "url": "https://www.youtube.com/watch?v=-EEJXQs9LLs"
+    },
+    {
+      "id": "0803ecd6-f9ca-4faf-9fa2-28a4024b9199",
+      "score": 0.18648028,
+      "title": "Category 5 Hurricane Lee Could See Further Strengthening, NHC Says",
+      "url": "https://www.youtube.com/watch?v=bevwsGt65To"
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "id": "1307e183-2fcc-4d38-8790-d3944a257244",
+  "status": "completed",
+  "content": "TRUE.\n\nDogs possess the physiological and genetic capacity to taste sweetness. This ability is rooted in the presence of functional sweet taste receptor genes, confirmed by anatomical studies showing the expression of these receptors in the oral cavity, and supported by behavioral studies demonstrating a clear preference for sweet-tasting substances. While some popular sources present conflicting information, the overwhelming body of scientific evidence affirms that dogs can perceive sweet tastes.\n\n## Genetic and Molecular Basis of Canine Sweet Taste\n\nThe perception of sweet taste in mammals is primarily mediated by a heterodimeric G protein-coupled receptor (GPCR) composed of two protein subunits: Taste 1 Receptor Member 2 (TAS1R2) and Taste 1 Receptor Member 3 (TAS1R3)[1][2][3]. This receptor complex, often denoted as TAS1R2/TAS1R3 or T1R2/T1R3, is responsible for detecting a wide array of sweet compounds, including natural sugars and various artificial sweeteners[2][4].\n\nGenetic research confirms that domestic dogs (*Canis familiaris*) possess intact, functional versions of the genes that encode these proteins: `TAS1R2` and `TAS1R3`[5][6]. The discovery and sequencing of these canine genes have been documented, and their protein products are predicted to form the typical seven-transmembrane domain structure characteristic of taste receptors[5]. The canine `TAS1R2` and `TAS1R3` genes are listed in genetic databases as orthologs to the human genes responsible for sweet taste, with accession numbers AY916758 and AY916759, respectively[7][4][8].\n\nThe functionality of the canine sweet taste receptor stands in stark contrast to that of obligate carnivores like domestic cats. Cats are largely indifferent to sweeteners because their `Tas1r2` gene is a non-functional \"pseudogene\" due to a deletion of 247 base pairs[9][10][11]. Dogs, being omnivores, have retained a functional `Tas1r2` gene, which reflects their more flexible dietary habits that can include fruits and other carbohydrate sources[6][12]. The intact dog `Tas1r2` gene is often used as a functional reference in comparative studies that document the loss of this gene in other carnivorous species[13][14].\n\n## Anatomical Distribution of Sweet Taste Receptors\n\nWhile it is established that dogs have the necessary genetic hardware for sweet taste, there are conflicting reports regarding the precise location of the highest concentration of these receptors on the tongue.\n*   **Popular Accounts:** Several sources suggest sweet taste buds are located toward the front of the tongue[15]. In contrast, at least one source claims the rear of the tongue is most sensitive to sweets[17]. This mirrors a debunked \"tongue map\" myth in humans, as all taste qualities can be perceived across all areas of the tongue where taste buds are present, though sensitivity may vary[18][19].\n*   **Scientific Expression Studies:** A study on the canine oral cavity found that the genes `TAS1R2` and `TAS1R3` were co-expressed in taste buds located in the fungiform papillae on the rostral (front) part of the tongue and on the palate[20]. This provides direct anatomical evidence for sweet receptor presence at the front of the dog's mouth. However, broader mammalian studies, particularly in rats, have found that cells expressing the `T1R2`+`T1R3` combination are concentrated in circumvallate and foliate papillae near the back of the tongue and palate[21][22][23].\n\nIn addition to the tongue, dogs possess taste buds on the roof of their mouths and in the back of their throats, contributing to their overall taste perception[24][17].\n\n## Behavioral Evidence for Sweet Preference\n\nNumerous behavioral studies corroborate the genetic and anatomical data, demonstrating that dogs not only detect but often prefer sweet tastes.\n*   **Preference Tests:** Two-bowl choice tests have repeatedly shown that dogs exhibit a preference for various sugars[25]. One study found that beagle dogs prefer lactose, fructose, and sucrose, while being less accepting of maltose[26][27]. Another study noted dogs have a strong preference for a 10% sucrose solution[28].\n*   **Dietary Influence:** The presence of sweet flavors can significantly influence a dog's food choices. When a food is sweetened with sucrose, dogs' selections can be biased toward a higher-sugar, lower-protein diet, overriding their typical preference for protein and fat[29][30]. Domestication is thought to have created adaptive physiological changes that led to preferences for simple carbohydrates like sucrose[31][32].\n*   **Taste vs. Smell:** Olfaction plays a key role in canine food selection, but the preference for sweetness is taste-driven. A study on anosmic dogs (those with no sense of smell) found that they still showed the same preference as intact dogs for a sucrose-containing diet over a non-sucrose diet[28].\n\nWhile dogs clearly prefer sweet flavors, their sensitivity may be lower than that of humans, which is partially attributed to having significantly fewer taste buds\u2014approximately 1,700 compared to 9,000 in humans[33][34][35].\n\n## Analysis of Atypical and Contradictory Claims\n\nDespite the robust scientific consensus, some non-scientific sources present inaccurate or unsubstantiated claims.\n*   **Contradictory Sources:** One online blog is internally contradictory, first stating that dogs have sweet taste buds at the front of their tongue and later claiming in a \"debunking\" section that dogs \"lack the special taste receptors that enable them to taste sweet flavors\"[15]. This latter claim is factually incorrect and is refuted by the extensive genetic and behavioral data available[5][36][27].\n*   **The Furaneol Claim:** A few popular articles and videos claim that the sweet taste buds in dogs respond to a chemical called furaneol, which is found in fruits and tomatoes[33][37][38]. However, detailed biochemical studies of the TAS1R2/TAS1R3 receptor list a wide range of ligands including natural sugars (sucrose, fructose, glucose), amino acids, and artificial sweeteners, but do not mention furaneol[39][2]. The provided scientific literature does not contain evidence that furaneol is a direct agonist for the known canine sweet taste receptor.",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "abd4030e-ada3-487e-a612-3bc1fd3f59d9",
+      "score": 0.8524574,
+      "title": "Evolution of the Sweet Taste Receptor Gene Tas1r2 in Bats | Molecular Biology and Evolution | Oxford Academic",
+      "url": "https://academic.oup.com/mbe/article/27/11/2642/1125986",
+      "citation_index": 1
+    },
+    {
+      "id": "a7697725-01cb-4739-a479-72fb4ac2d415",
+      "score": 0.54956865,
+      "title": "TAS1R2 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TAS1R2",
+      "citation_index": 2
+    },
+    {
+      "id": "ad3de5e8-6931-4ea2-924a-2bb2cb823304",
+      "score": 0.66203266,
+      "title": "TAS1R3 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TAS1R3",
+      "citation_index": 3
+    },
+    {
+      "id": "1ab6b18c-d43d-4476-8ad4-0743b568e416",
+      "score": 0.8443195,
+      "title": "TAS1R3 Gene - GeneCards | TS1R3 Protein | TS1R3 Antibody",
+      "url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TAS1R3",
+      "citation_index": 4
+    },
+    {
+      "id": "997d72cd-18aa-4b4a-b212-d89ea586c121",
+      "score": 0.846159,
+      "title": "Taste receptors of the T1R family from domestic dog",
+      "url": "https://patents.google.com/patent/US8168395B2/en",
+      "citation_index": 5
+    },
+    {
+      "id": "67570d0b-7f9e-4fa1-af24-2e4f5e3f5ead",
+      "score": 0.5180835,
+      "title": "Analyses of Sweet Receptor Gene (Tas1r2) and Preference for Sweet Stimuli in Species of Carnivora - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3307064/",
+      "citation_index": 6
+    },
+    {
+      "id": "a8c1756f-0efb-4322-bf6d-3883af77068f",
+      "score": 0.8003337,
+      "title": "TAS1R2 Gene - GeneCards | TS1R2 Protein | TS1R2 Antibody",
+      "url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TAS1R2",
+      "citation_index": 7
+    },
+    {
+      "id": "0f76e27f-1405-4493-a5dc-4782b0684e08",
+      "score": 0.094518974,
+      "title": "Cats lack a sweet taste receptor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16772462/",
+      "citation_index": 8
+    },
+    {
+      "id": "9b51682a-d75c-4d1f-b1e3-3dfa8757ec02",
+      "score": 0.8571119,
+      "title": "Why your cat is a pickier eater than your dog",
+      "url": "https://www.nationalgeographic.com/premium/article/cats-dogs-taste-genetics-umami-sweet",
+      "citation_index": 9
+    },
+    {
+      "id": "69bec1a8-d325-41ef-9822-d73038f7a481",
+      "score": 0.46249792,
+      "title": "Diverse tastes: Genetics of sweet and bitter perception - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1698869/",
+      "citation_index": 10
+    },
+    {
+      "id": "be3cce73-e6ad-4e38-bfa2-b920846dc3c9",
+      "score": 0.5726516,
+      "title": "Entry - *606226 - TASTE RECEPTOR TYPE 1, MEMBER 2; TAS1R2 - OMIM - (OMIM.ORG)",
+      "url": "https://omim.org/entry/606226",
+      "citation_index": 11
+    },
+    {
+      "id": "1d0567d6-29fa-4d2b-bc37-83d4401cd140",
+      "score": 0.55420566,
+      "title": "Can Dogs Taste? \u2013 American Kennel Club",
+      "url": "https://www.akc.org/expert-advice/lifestyle/can-dogs-taste/",
+      "citation_index": 12
+    },
+    {
+      "id": "21e8618c-8ed3-4d4d-9c9b-4ec37ecbdc19",
+      "score": 0.8025714,
+      "title": "Major taste loss in carnivorous mammals",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1118360109",
+      "citation_index": 13
+    },
+    {
+      "id": "a14c7d4c-9739-44bc-812f-1ab619bab51a",
+      "score": 0.54361504,
+      "title": "Major taste loss in carnivorous mammals - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3324019/",
+      "citation_index": 14
+    },
+    {
+      "id": "869f6d78-8771-4261-83b7-fe8c5a0854f2",
+      "score": 0.8839694,
+      "title": "The Science Behind Dogs' Taste Buds",
+      "url": "https://woofcrate.ca/blogs/woofpost-blog/the-science-behind-dogs-taste-buds",
+      "citation_index": 15
+    },
+    {
+      "id": "c31f6ff1-dffe-43ff-856c-4d1a3b5fb0ef",
+      "score": 0.8573986,
+      "title": "The Science Behind Dogs' Taste Buds",
+      "url": "https://woofcrate.ca/blogs/woofpost-blog/the-science-behind-dogs-taste-buds?srsltid=AfmBOoofbHJ-FHH4LOWuL2Tx3QKS758n7jx5RGGaQbISGvHnCMCDpGQp",
+      "citation_index": 15
+    },
+    {
+      "id": "28de5363-eeb4-434a-ae24-6d89d7752697",
+      "score": 0.6615081,
+      "title": "The Science Behind Dogs' Taste Buds",
+      "url": "https://woofcrate.ca/blogs/woofpost-blog/the-science-behind-dogs-taste-buds?srsltid=AfmBOopOuQSsQ28B6qlqxCB_o6Rb6tMTr3wPvOUhz0JMLEeYcJxWqc8u",
+      "citation_index": 15
+    },
+    {
+      "id": "914e73d2-2303-4257-bf70-f10322ea556d",
+      "score": 0.7050753,
+      "title": "Accounting for Taste: What Do Dogs Find Most Delicious? \u2013 American Kennel Club",
+      "url": "https://www.akc.org/expert-advice/nutrition/accounting-taste-probing-mysteries-dogs-find-delicious/",
+      "citation_index": 17
+    },
+    {
+      "id": "b2ff34d0-0e1e-4108-a88a-1b2fbc5d3416",
+      "score": 0.19567129,
+      "title": "Tongue map - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tongue_map",
+      "citation_index": 18
+    },
+    {
+      "id": "4080fed2-f9ec-4329-aa58-a07eb26b07e0",
+      "score": 0.38588423,
+      "title": "The Taste Map of the Tongue You Learned in School Is All Wrong",
+      "url": "https://www.smithsonianmag.com/science-nature/neat-and-tidy-map-tastes-tongue-you-learned-school-all-wrong-180963407/",
+      "citation_index": 19
+    },
+    {
+      "id": "b435d5d1-6bc6-44db-951e-d768dd0c2a24",
+      "score": 0.8652358,
+      "title": "Lineage-Specific Loss of Function of Taste Receptor ...",
+      "url": "https://www.scienceopen.com/document_file/7b8ae60a-b5e0-4d30-8696-95e3e31b75e9/PubMedCentral/7b8ae60a-b5e0-4d30-8696-95e3e31b75e9.pdf",
+      "citation_index": 20
+    },
+    {
+      "id": "99ce2a5a-dce0-41f6-aac9-2d47b26e389c",
+      "score": 0.61251885,
+      "title": "Taste receptor - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taste_receptor",
+      "citation_index": 21
+    },
+    {
+      "id": "e11d3af5-f4bb-4569-ae09-b761652e9008",
+      "score": 0.7485182,
+      "title": "Mammalian Sweet Taste Receptors",
+      "url": "https://www.cell.com/fulltext/S0092-8674(01)00451-2",
+      "citation_index": 22
+    },
+    {
+      "id": "31aa5250-b0a6-4109-a425-47a8f58534e1",
+      "score": 0.3829032,
+      "title": "Mammalian Sweet Taste Receptors: Cell",
+      "url": "https://www.cell.com/AJHG/fulltext/S0092-8674(01)00451-2",
+      "citation_index": 23
+    },
+    {
+      "id": "465d06d5-d124-430f-b332-7cfca70dfe5d",
+      "score": 0.9284155,
+      "title": "Can Dogs Taste Sweet? Do They Like It? About Dog Tastebuds.",
+      "url": "https://blog.tryfi.com/can-dogs-taste-sweet/",
+      "citation_index": 24
+    },
+    {
+      "id": "7441a77f-c822-4931-90f4-722d63adc9e1",
+      "score": 0.6002124,
+      "title": "Preference for sugars and nonnutritive sweeteners in ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0149763484900411",
+      "citation_index": 25
+    },
+    {
+      "id": "a7273bd4-81fd-45a2-9ba1-8e7fc6e2c66f",
+      "score": 0.7380092,
+      "title": "Measuring palatability of pet food products: Sensory components, evaluations, challenges, and opportunities - Calder\u00f3n - 2024 - Journal of Food Science - Wiley Online Library",
+      "url": "https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.17511?af=R",
+      "citation_index": 26
+    },
+    {
+      "id": "9dd40e6d-a709-4e2d-a01d-5df254285dd9",
+      "score": 0.60498303,
+      "title": "Measuring palatability of pet food products: Sensory ...",
+      "url": "https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.17511",
+      "citation_index": 26
+    },
+    {
+      "id": "5847ebfb-ad0e-4cec-bb62-66ba75005014",
+      "score": 0.72254705,
+      "title": "Measuring palatability of pet food products: Sensory components, evaluations, challenges, and opportunities - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11673441/",
+      "citation_index": 27
+    },
+    {
+      "id": "878ca7a4-8edb-44a1-bcde-4ae8d33a36e3",
+      "score": 0.61668247,
+      "title": "The role of olfaction in canine food preferences",
+      "url": "https://www.researchgate.net/publication/31274761_The_role_of_olfaction_in_canine_food_preferences",
+      "citation_index": 28
+    },
+    {
+      "id": "e1904d52-6fbd-45c9-9a34-52e2b0ad3c3e",
+      "score": 0.70726365,
+      "title": "Food and Food-Odor Preferences in Dogs: A Pilot Study - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5863557/",
+      "citation_index": 29
+    },
+    {
+      "id": "165b9a40-24c2-4a70-aa82-2611d9f3d934",
+      "score": 0.70726365,
+      "title": "Food and Food-Odor Preferences in Dogs: A Pilot Study | Chemical Senses | Oxford Academic",
+      "url": "https://academic.oup.com/chemse/article/42/4/361/3069135",
+      "citation_index": 30
+    },
+    {
+      "id": "f9dc068d-8e7b-456f-a863-990a1c6f770d",
+      "score": 0.7038554,
+      "title": "Food Preferences in Dogs: Effect of Dietary Composition ...",
+      "url": "https://www.mdpi.com/2076-2615/9/5/219",
+      "citation_index": 31
+    },
+    {
+      "id": "bd4cbd88-a959-4dec-8498-0314b265147f",
+      "score": 0.5271467,
+      "title": "Food Preferences in Dogs: Effect of Dietary Composition and Intrinsic Variables on Diet Selection - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6562821/",
+      "citation_index": 32
+    },
+    {
+      "id": "1a973765-67ef-4657-9a94-fb50cdef83b3",
+      "score": 0.7304634,
+      "title": "Can Dogs Taste Sweet? - Wag!",
+      "url": "https://wagwalking.com/sense/can-dogs-taste-sweet",
+      "citation_index": 33
+    },
+    {
+      "id": "53de3fee-e6bc-4e4e-88ad-6652c2611cc3",
+      "score": 0.75831425,
+      "title": "Do Dogs Have Taste Buds? - Whole Dog Journal",
+      "url": "https://www.whole-dog-journal.com/food/do-dogs-have-taste-buds/",
+      "citation_index": 34
+    },
+    {
+      "id": "3c4d3b9c-5ffd-41bf-ac44-abc000089a36",
+      "score": 0.74273956,
+      "title": "Does Flavor Matter to Dogs? | NutriSource Pet Foods",
+      "url": "https://nutrisourcepetfoods.com/blog/pet-parents/curious-about-canines-does-flavor-matter-to-dogs/",
+      "citation_index": 35
+    },
+    {
+      "id": "70d249a3-a0b5-43a1-a207-5745baf20a7d",
+      "score": 0.49948794,
+      "title": "Cats Lack a Sweet Taste Receptor - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2063449/",
+      "citation_index": 36
+    },
+    {
+      "id": "8e6d37bc-e30a-4d21-aea3-868b633f4db2",
+      "score": 0.2282601,
+      "title": "How Good Is Your Dog's Sense of Taste? | Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/canine-corner/201104/how-good-is-your-dogs-sense-of-taste",
+      "citation_index": 37
+    },
+    {
+      "id": "d26cf683-4229-4b81-9561-0588985771d1",
+      "score": 0.756376,
+      "title": "How Many Taste Buds Do  Dogs Have?",
+      "url": "https://www.youtube.com/watch?v=7kOaloAMxdc",
+      "citation_index": 38
+    },
+    {
+      "id": "2617f0d2-4715-4520-a525-62f51099b586",
+      "score": 0.52422476,
+      "title": "TAS1R2/TAS1R3 Single-Nucleotide Polymorphisms Affect Sweet Taste Receptor Activation by Sweeteners: The SWEET Project - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11945486/",
+      "citation_index": 39
+    },
+    {
+      "id": "fda74e7d-42b0-43f7-bc32-89164c90ec22",
+      "score": 0.86928266,
+      "title": "Understanding Your Dog's Sweet Tooth: How Dogs Taste Sweetness - Our Culture",
+      "url": "https://ourculturemag.com/2023/12/18/understanding-your-dogs-sweet-tooth-how-dogs-taste-sweetness/"
+    },
+    {
+      "id": "61675334-79a4-456c-900e-d5ca83a8b1ac",
+      "score": 0.82186085,
+      "title": "Taste | Positively.com",
+      "url": "https://positively.com/dog-training/article/dog-science-taste"
+    },
+    {
+      "id": "3f27cda7-b90a-4aa5-b0d3-691f47d4ab7e",
+      "score": 0.8033131,
+      "title": "Unveiling the Fascinating World of Umami: Can Dogs ...",
+      "url": "https://www.masterbowie.com/2023/06/unveiling-the-fascinating-world-of-umami-can-dogs-taste-it.html"
+    },
+    {
+      "id": "6735b725-7e66-4f0c-a8e0-5735f96a8928",
+      "score": 0.7982658,
+      "title": "Can Dogs Taste Sugar? \u00b7 Kinship",
+      "url": "https://www.kinship.com/dog-nutrition/can-dogs-taste-sugar"
+    },
+    {
+      "id": "86b93e35-4b4c-4ece-b718-c5fdbe8b5adc",
+      "score": 0.7935067,
+      "title": "(PDF) Food and Food-Odor Preferences in Dogs: A Pilot Study",
+      "url": "https://www.researchgate.net/publication/315001183_Food_and_Food-Odor_Preferences_in_Dogs_A_Pilot_Study"
+    },
+    {
+      "id": "3f34d226-3a29-425e-8b01-0cda342ff80f",
+      "score": 0.77792513,
+      "title": "Understanding your dog's tastebuds | Lyka Blog",
+      "url": "https://lyka.com.au/blog/tastebuds-guide"
+    },
+    {
+      "id": "3eca5a23-19fc-47e1-b915-b1bb0609059f",
+      "score": 0.7746691,
+      "title": "Do Dogs Care What Their Food Tastes Like? | Chicken Soup for the Soul Pet Food",
+      "url": "https://chickensouppets.com/blog/do-dogs-care-what-their-food-tastes-like"
+    },
+    {
+      "id": "fc03b101-891f-4c4d-8028-0f031df930cb",
+      "score": 0.76512027,
+      "title": "Can Dogs Taste Sweetness? Explained",
+      "url": "https://www.youtube.com/watch?v=1turElwRWA0"
+    },
+    {
+      "id": "a770e171-ac45-44b8-a87d-47d217b1f9af",
+      "score": 0.7491794,
+      "title": "How Dog Behavior Influences Pet Owner\u2019s Perceptions of Dog Preference for Dental Chews - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10295224/"
+    },
+    {
+      "id": "515698e4-db61-4930-95ed-07b6ea1f87c1",
+      "score": 0.74385756,
+      "title": "Role of feeding specialization in taste receptor loss: insights from sweet and umami receptor evolution in Carnivora.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36433799/"
+    },
+    {
+      "id": "9efa06be-e588-4866-b478-2f1e95d7cafd",
+      "score": 0.7140107,
+      "title": "How Good Is Your Dog's Sense of Taste? | Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/canine-corner/201104/how-good-is-your-dogs-sense-taste"
+    },
+    {
+      "id": "9f4144c4-e6c1-458d-8013-aea4fb466552",
+      "score": 0.7116118,
+      "title": "Do Dogs Have Taste Buds? | Broad Ripple Animal Clinic",
+      "url": "https://bracpet.com/blog/dogs-have-taste-buds/"
+    },
+    {
+      "id": "32e83025-0914-4373-ba10-4f4b76d0f38a",
+      "score": 0.7106489,
+      "title": "Sweetness characterization of recombinant human lysozyme.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26027787/"
+    },
+    {
+      "id": "35f59e6a-0d00-41aa-92f6-9115e4b25acd",
+      "score": 0.70263255,
+      "title": "Value found in both traditional, new pet food palatability analysis | PetfoodIndustry",
+      "url": "https://www.petfoodindustry.com/nutrition/research-notes/article/15740199/value-found-in-both-traditional-new-pet-food-palatability-analysis"
+    },
+    {
+      "id": "c37c2c8a-3be7-49c1-a59c-e32b2b3aa563",
+      "score": 0.6862234,
+      "title": "Putative Mammalian Taste Receptors: Cell",
+      "url": "https://www.cell.com/fulltext/S0092-8674(00)80658-3"
+    },
+    {
+      "id": "aa5280c6-7001-4cb4-bb0d-3f2799c07f2a",
+      "score": 0.6693348,
+      "title": "Canine Culinary Preferences: Unveiling Canine Taste ...",
+      "url": "https://felicitails.com/blogs/about-dog-nutrition/the-science-of-canine-taste-how-dogs-perceive-flavors-and-their-nutritional-preferences?srsltid=AfmBOoqwXVP6T16LrMQJfpV-7155arla65OYCVo9QShyekQQxmxand4B"
+    },
+    {
+      "id": "7676bdd0-bd5e-4607-84a5-021737e67ab0",
+      "score": 0.65252984,
+      "title": "TAS1R2 - Taste receptor type 1 member 2 - Canis lupus ...",
+      "url": "https://www.uniprot.org/uniprotkb/Q49HI0/entry"
+    },
+    {
+      "id": "82bcb675-04c1-4012-91d6-0c0d5e70ee45",
+      "score": 0.64344186,
+      "title": "Do Dogs Have Taste Buds? | PetMD",
+      "url": "https://www.petmd.com/dog/general-health/do-dogs-have-taste-buds"
+    },
+    {
+      "id": "e3ecbfcb-8ddc-4084-a75f-7df1493c9e35",
+      "score": 0.6420965,
+      "title": "Do Dogs Have Taste Buds? Tongue & Flavor Facts - PetLab Co",
+      "url": "https://thepetlabco.com/learn/dog/health-wellness/do-dogs-have-taste-buds"
+    },
+    {
+      "id": "e42710e2-a592-42db-965c-e6948de91be6",
+      "score": 0.63179934,
+      "title": "Can Puppy Training Methods Be Used for Weight Loss?",
+      "url": "https://www.psychologytoday.com/ca/blog/the-antidepressant-diet/202008/can-puppy-training-methods-be-used-weight-loss"
+    },
+    {
+      "id": "9c8c60b6-fa9b-44a0-81b2-ec9715686044",
+      "score": 0.60498303,
+      "title": "Entry - *605865 - TASTE RECEPTOR TYPE 1, MEMBER 3; TAS1R3 - OMIM - (OMIM.ORG)",
+      "url": "https://omim.org/entry/605865"
+    },
+    {
+      "id": "317da61d-c451-437e-b7c3-95ef5ccd4bce",
+      "score": 0.6021791,
+      "title": "A vertebrate-wide catalogue of T1R receptors reveals diversity in taste perception | Nature Ecology & Evolution",
+      "url": "https://www.nature.com/articles/s41559-023-02258-8"
+    },
+    {
+      "id": "d9ece01b-3fe8-4024-b8cd-d3d0e3a7ca61",
+      "score": 0.6016175,
+      "title": "Tongue Detectives: How Dogs' Taste Buds Differ from Ours",
+      "url": "https://www.youtube.com/watch?v=PT99eWXX8Kw"
+    },
+    {
+      "id": "4027dd1f-83a9-4f9b-b868-7146348e0043",
+      "score": 0.59880555,
+      "title": "The active ion transport properties of canine lingual epithelia in vitro. Implications for gustatory transduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6330275/"
+    },
+    {
+      "id": "6a5dac0b-a96e-4393-973c-875f11adfa41",
+      "score": 0.5863576,
+      "title": "Tooth Decay: Genetic and Epigenetic Insights Driving the ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12385391/"
+    },
+    {
+      "id": "ec649259-1144-4930-8a9d-e58158095942",
+      "score": 0.5786631,
+      "title": "A Matter of Taste: Why Dogs Love Sweets - The Animal Medical Center",
+      "url": "https://www.amcny.org/blog/2012/04/06/a-matter-of-taste-why-dogs-love-sweets/"
+    },
+    {
+      "id": "32a1c0a4-0269-4826-af43-9f26355f3ea1",
+      "score": 0.57293844,
+      "title": "TAS1R1 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TAS1R1"
+    },
+    {
+      "id": "becf3e76-7f08-4b34-a20e-849b0c4b8e5a",
+      "score": 0.56661874,
+      "title": "Principles Of Pet Food Palatability: Evaluation \u2014 Simmons Pet Food",
+      "url": "https://simmonspetfood.com/whitepapers/2021/6/30/principles-of-pet-food-palatability-evaluation"
+    },
+    {
+      "id": "907d507e-ff92-4138-a7ea-f09725de7cd4",
+      "score": 0.5631623,
+      "title": "Pet Food Palatability Evaluation: A Review of Standard Assay Techniques and Interpretation of Results with a Primary Focus on Limitations - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4494336/"
+    },
+    {
+      "id": "0bef0f4f-1610-4aea-a8be-3042ba3dae61",
+      "score": 0.56200886,
+      "title": "Characterization of the Sweet Taste Receptor Tas1r2 from an Old World Monkey Species Rhesus Monkey and Species-Dependent Activation of the Monomeric Receptor by an Intense Sweetener Perillartine - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27479072/"
+    },
+    {
+      "id": "05592928-c548-4ee4-aa9b-4363a6081a26",
+      "score": 0.5608546,
+      "title": "Frontiers | Sweet Taste Receptor Serves to Activate Glucose- and Leptin-Responsive Neurons in the Hypothalamic Arcuate Nucleus and Participates in Glucose Responsiveness",
+      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2016.00502/full"
+    },
+    {
+      "id": "595ea39e-6414-413a-b58e-4a57420144c9",
+      "score": 0.5510187,
+      "title": "TAS1R3 - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/neuroscience/tas1r3"
+    },
+    {
+      "id": "1970f012-9508-4583-baf1-5d60beaa1025",
+      "score": 0.5446325,
+      "title": "Do Dogs Have Taste Buds? 7 Flavor Facts | Nylabone",
+      "url": "https://www.nylabone.com/dog101/do-dogs-have-taste-buds"
+    },
+    {
+      "id": "48d3f85d-187d-43a5-bbd0-23e5bbf61aab",
+      "score": 0.54303354,
+      "title": "Taste Receptors beyond Taste Buds",
+      "url": "https://www.mdpi.com/1422-0067/23/17/9677"
+    },
+    {
+      "id": "f1bfd1b7-22b0-4cf3-a7ea-c7ea4391578b",
+      "score": 0.5409972,
+      "title": "Owners' perception of food flavor preferences of pet dogs in relation to measured preferences of laboratory dogs - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/030437628390113X"
+    },
+    {
+      "id": "c928d787-56c3-4374-88d9-82f70e077497",
+      "score": 0.53692055,
+      "title": "A Class of Taste-Specific GPCRs with Distinct Topographic ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0092867400806583"
+    },
+    {
+      "id": "08ae1b22-637b-4765-bf8c-942b0b47e60e",
+      "score": 0.53415143,
+      "title": "taste receptors of the t1r family from domestic dog",
+      "url": "https://patentscope.wipo.int/search/en/WO2005116069"
+    },
+    {
+      "id": "e2d738f9-d305-40dc-a39d-9964333c33d8",
+      "score": 0.53181785,
+      "title": "Structural and functional studies uncover the mechanism ...",
+      "url": "https://www.stjude.org/media-resources/news-releases/2025-medicine-science-news/structural-and-functional-studies-uncover-mechanism-behind-sweet-taste.html"
+    },
+    {
+      "id": "a9b08bb3-a500-4cc1-9e49-f911139fea03",
+      "score": 0.52583206,
+      "title": "TAS1R1 - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/tas1r1"
+    },
+    {
+      "id": "5357fcf2-0d6b-4865-8668-9b34aab4927e",
+      "score": 0.5215936,
+      "title": "Genomic structure of swine taste receptor family 1 member 3, TAS1R3, and its expression in tissues - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16974084/"
+    },
+    {
+      "id": "dfd697c6-0a7e-425c-b4c0-c8b1cfbf5af8",
+      "score": 0.5021246,
+      "title": "Food Preference Tests in Our Own Homes",
+      "url": "https://www.patriciamcconnell.com/theotherendoftheleash/food-preference-tests-in-our-own-homes/"
+    },
+    {
+      "id": "7d8e3b20-9b36-4e04-8508-a4d832bad0e7",
+      "score": 0.49948794,
+      "title": "Taste Receptor Signaling-- From Tongues to Lungs - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3704337/"
+    },
+    {
+      "id": "107ee927-a9ad-4a08-ab69-2a0474b1178c",
+      "score": 0.4905535,
+      "title": "BMC Oral Health",
+      "url": "https://d-nb.info/1109081456/34"
+    },
+    {
+      "id": "3e579472-9e62-4fea-8991-962bc43e733c",
+      "score": 0.47066417,
+      "title": "TAS1R2 - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/neuroscience/tas1r2"
+    },
+    {
+      "id": "7a2a0ae1-a925-452c-8439-e8f214769175",
+      "score": 0.45333505,
+      "title": "TAS1R2 - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/tas1r2"
+    },
+    {
+      "id": "5f90cba4-7f32-448f-9061-bbb36e333a6e",
+      "score": 0.44941738,
+      "title": "Frontiers | Sweet Taste Is Complex: Signaling Cascades and Circuits Involved in Sweet Sensation",
+      "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.667709/full"
+    },
+    {
+      "id": "69113274-2109-42a6-b31a-3082805b05a9",
+      "score": 0.44608507,
+      "title": "Canine Food Preference Assessment of Animal and ...",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2017.00154/pdf"
+    },
+    {
+      "id": "fc00897e-20c9-45a5-8d54-74612e18cc47",
+      "score": 0.44521654,
+      "title": "Drivers of Palatability for Cats and Dogs\u2014What It Means for Pet Food Development - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10093350/"
+    },
+    {
+      "id": "009d745e-bc01-4729-a786-959092d20fa4",
+      "score": 0.4387136,
+      "title": "Taste Receptors \u2013 Swallowing and its Disorders Across the Lifespan",
+      "url": "https://nmoer.pressbooks.pub/swallowingdisorders/chapter/taste-receptors/"
+    },
+    {
+      "id": "c0a4364b-c2d9-49be-8bee-1374b6e91d0e",
+      "score": 0.43165663,
+      "title": "Characterization of the Sweet Taste Receptor Tas1r2 from ...",
+      "url": "https://www.researchgate.net/publication/305786128_Characterization_of_the_Sweet_Taste_Receptor_Tas1r2_from_an_Old_World_Monkey_Species_Rhesus_Monkey_and_Species-Dependent_Activation_of_the_Monomeric_Receptor_by_an_Intense_Sweetener_Perillartine"
+    },
+    {
+      "id": "4b0d1ee4-f2cc-414e-8bbf-f9bc43221744",
+      "score": 0.42978892,
+      "title": "Total Distribution of Taste Buds on the Tongue of the Pup",
+      "url": "https://kb.osu.edu/server/api/core/bitstreams/4e692fc6-c950-574c-bc05-a05610c2407b/content"
+    },
+    {
+      "id": "ab44166a-8f67-49f6-9fa5-ff2711fa3710",
+      "score": 0.4191967,
+      "title": "Tasty Genes: Diverse Receptors Mediate Distinct Taste Modalities",
+      "url": "https://www.lakeforest.edu/news/tasty-genes-diverse-receptors-mediate-distinct-taste-modalities"
+    },
+    {
+      "id": "d6aad2aa-1859-41b6-aa3e-a04a9a7ddced",
+      "score": 0.40373197,
+      "title": "r/AskScienceDiscussion on Reddit: Do dogs taste food the same way we taste food?",
+      "url": "https://www.reddit.com/r/AskScienceDiscussion/comments/o7yly1/do_dogs_taste_food_the_same_way_we_taste_food/"
+    },
+    {
+      "id": "1cd68d6e-66f4-4de6-b3ce-b4f23cc82530",
+      "score": 0.3971905,
+      "title": "Assessing Food Preferences in Dogs and Cats: A Review of the Current Methods",
+      "url": "https://www.mdpi.com/2076-2615/5/1/126"
+    },
+    {
+      "id": "a767647d-d158-4787-9b3b-f80827a9b2c2",
+      "score": 0.35851082,
+      "title": "RCSB PDB - 9NOT: Human sweet taste receptor (TAS1R2 + TAS1R3) from the sucralose dataset",
+      "url": "https://www.rcsb.org/structure/9NOT"
+    },
+    {
+      "id": "d1e7d021-cae1-4d7e-a599-8cb9db162aa5",
+      "score": 0.3578373,
+      "title": "Analyses of Sweet Receptor Gene ( Tas1r2 ) and Preference for Sweet ...",
+      "url": "https://academic.oup.com/jhered/article/100/suppl_1/S90/889353"
+    },
+    {
+      "id": "0293d9ed-417a-4139-b382-e50f35932c4a",
+      "score": 0.3564248,
+      "title": "RCSB PDB - 9NOU: Human sweet taste receptor (TAS1R2 + TAS1R3) VFT domains from the combined datasets",
+      "url": "https://www.rcsb.org/structure/9NOU"
+    },
+    {
+      "id": "8ce87391-b943-4355-9d49-44282f5cd956",
+      "score": 0.35407615,
+      "title": "RCSB PDB - 9UTB: The full-length human sweet taste receptor TAS1R2 and TAS1R3 in the sucralose-bound state",
+      "url": "https://www.rcsb.org/structure/9UTB"
+    },
+    {
+      "id": "90b7fbe1-406e-4cfa-bf83-142b5d80096d",
+      "score": 0.34481892,
+      "title": "Bitter taste sensitivity in domestic dogs (Canis familiaris) and its relevance to bitter deterrents of ingestion - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9710775/"
+    },
+    {
+      "id": "79f211c1-6133-470b-b1e8-f709964f6102",
+      "score": 0.34362856,
+      "title": "TAS1R2 taste 1 receptor member 2 [Homo sapiens (human)] - Gene - NCBI",
+      "url": "https://www.ncbi.nlm.nih.gov/gene/80834"
+    },
+    {
+      "id": "87f7180b-6120-45c5-b909-eaef941c2f4b",
+      "score": 0.34329823,
+      "title": "10 Ways Your Cat Is Weirder Than You Think",
+      "url": "https://listverse.com/2024/02/15/10-ways-your-cat-is-weirder-than-you-think/"
+    },
+    {
+      "id": "34ebdb49-98e9-4b47-a57b-3f09e0f6972b",
+      "score": 0.34270403,
+      "title": "TAS1R1 - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/neuroscience/tas1r1"
+    },
+    {
+      "id": "b7fc838c-ea8a-404b-b098-07f4778404b6",
+      "score": 0.33980626,
+      "title": "9NOR: Human sweet taste receptor composed of TAS1R2 ...",
+      "url": "https://www.rcsb.org/structure/9NOR"
+    },
+    {
+      "id": "ea9bee81-df56-4e0c-a005-308c4c4f388f",
+      "score": 0.33137986,
+      "title": "Do Dogs Have Taste Buds? You Must Be Surprised \ud83e\udd2b\ud83e\udd14 #doglover #shorts #viraldogshorts",
+      "url": "https://www.youtube.com/watch?v=yk46qJQwIRs"
+    },
+    {
+      "id": "3bad94d3-d195-4162-8942-2fe29f0cef9a",
+      "score": 0.33050412,
+      "title": "Characterization and phylogeny of bitter taste receptor ...",
+      "url": "https://www.researchgate.net/publication/331557526_Characterization_and_phylogeny_of_bitter_taste_receptor_genes_Tas2r_in_Squamata"
+    },
+    {
+      "id": "56e11591-0cc7-41ee-a611-1c798248b8be",
+      "score": 0.3142825,
+      "title": "TAS1R2/ TAS1R3 Single-Nucleotide Polymorphisms Affect Sweet Taste Receptor Activation by Sweeteners: The SWEET Project - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40289963/"
+    },
+    {
+      "id": "769ff66e-9c33-4da3-81ea-4574d05ab0cb",
+      "score": 0.3011467,
+      "title": "Canine Food Preference Assessment of Animal and Vegetable Ingredient-Based Diets Using Single-Pan Tests and Behavioral Observation - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5632351/"
+    },
+    {
+      "id": "d3f79f82-f4af-4bcf-bae2-dd09801d43e2",
+      "score": 0.286499,
+      "title": "(DOC) Dog's preference to sweet or salty?",
+      "url": "https://www.academia.edu/18612306/Dog_s_preference_to_sweet_or_salty"
+    },
+    {
+      "id": "ac256f13-8339-4402-8a63-e798776a4b92",
+      "score": 0.27446848,
+      "title": "Why do we like sweet taste: A bitter tale? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5003684/"
+    },
+    {
+      "id": "d6c3784d-ad17-4e8d-a583-86e3bc97ea1f",
+      "score": 0.2598167,
+      "title": "Pseudogenization of a Sweet-Receptor Gene",
+      "url": "https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pgen.0010003"
+    },
+    {
+      "id": "9b904d20-98e2-44aa-9af2-b8ba665f9047",
+      "score": 0.25311303,
+      "title": "Contrasting Modes of Evolution Between Vertebrate Sweet ...",
+      "url": "https://academic.oup.com/mbe/article/23/2/292/1118810"
+    },
+    {
+      "id": "dad81e0a-bacf-46e3-a80e-15b20a5db56a",
+      "score": 0.2519241,
+      "title": "The Canine Senses Part 2 \ud83d\udc36\ud83c\udf56 Dogs sense of taste is different from ours. They might not enjoy",
+      "url": "https://www.youtube.com/watch?v=A3OoMpGqcjY"
+    },
+    {
+      "id": "5bf76361-c469-4a8c-8f08-aebf9bacd911",
+      "score": 0.22712669,
+      "title": "Understanding Your Dog's Food Preferences",
+      "url": "https://www.youtube.com/watch?v=bagKBQUX1nk"
+    },
+    {
+      "id": "0c3e7b60-4383-4379-a723-09315a1e70e2",
+      "score": 0.22377585,
+      "title": "Oligomerization of TAS2R bitter taste receptors - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20212011/"
+    },
+    {
+      "id": "665c0c2b-c200-4ec0-a7e5-e2dc1fc4f77e",
+      "score": 0.21678194,
+      "title": "What Flavors Do Dogs Like? Find Your Dog\u2019s Favorite Food",
+      "url": "https://cutepetbakery.com/blog/dogs-food-flavor-preference/"
+    },
+    {
+      "id": "be406cb5-b961-4d8b-bac2-5ec0c0cc70f5",
+      "score": 0.2160119,
+      "title": "Taste: Anatomy and Physiology, Animation",
+      "url": "https://www.youtube.com/watch?v=K9JSBzEEA0o"
+    },
+    {
+      "id": "ad68c8dd-f29b-4866-9c67-35d251e77ea8",
+      "score": 0.2118245,
+      "title": "Taste Perception: How sweet it is (To be transcribed by you) - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2877383/"
+    },
+    {
+      "id": "d89073fb-0aa6-45a6-87f7-def0c123653b",
+      "score": 0.17647314,
+      "title": "Genomic and genetic evidence for the loss of umami taste in bats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22117084/"
+    },
+    {
+      "id": "6a67fd74-8ede-493f-9d21-cecd8f21ddcf",
+      "score": 0.17389092,
+      "title": "Tongue Topography",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-642-65245-5_1"
+    },
+    {
+      "id": "f6de680a-524d-4d8e-ad75-b76159a236b6",
+      "score": 0.16474508,
+      "title": "Taste Receptor - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/taste-receptor"
+    },
+    {
+      "id": "47e30c72-0143-4cec-b586-91bc85fa1830",
+      "score": 0.14578325,
+      "title": "Perceptual and neural responses to sweet taste in humans and rodents - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4572743/"
+    },
+    {
+      "id": "7677dbe7-60ce-480f-9495-6ebc30e83758",
+      "score": 0.14110407,
+      "title": "The influence of previous experience on the taste behavior of dogs toward sucrose and saccharin - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/003193846990153X"
+    },
+    {
+      "id": "11f925ac-d13a-436c-8c7c-7b57268b9c8e",
+      "score": 0.13620602,
+      "title": "Dogs Taste Buds",
+      "url": "https://www.youtube.com/watch?v=tKYf1P3Wbr4"
+    },
+    {
+      "id": "c0ffa979-2142-435c-b319-aaecd2ce3304",
+      "score": 0.13476478,
+      "title": "Topographical differences in sweetness sensitivity in the peripheral gustatory system of adults and children - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0165380694901708"
+    },
+    {
+      "id": "a2480558-fe76-463c-bac6-2b248db36b65",
+      "score": 0.1284707,
+      "title": "The tongue map and the spatial modulation of taste perception - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2665927122000314"
+    },
+    {
+      "id": "32cc8841-9844-428a-b486-a7662bfdf208",
+      "score": 0.103776075,
+      "title": "A New Theory of Obesity",
+      "url": "https://www.scientificamerican.com/article/a-new-theory-of-obesity/"
+    },
+    {
+      "id": "ca429420-1b68-495b-a711-e583adc0181c",
+      "score": 0.07504766,
+      "title": "Food hardness preference reveals multisensory contributions of fly larval gustatory organs in behaviour and physiology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002730"
+    },
+    {
+      "id": "e8fff9ca-86bd-48fb-9a1c-dd8a7c031c41",
+      "score": 0.07280148,
+      "title": "Positive Allosteric Modulation of the Calcium-sensing Receptor by Physiological Concentrations of Glucose.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27613866/"
+    },
+    {
+      "id": "39fef5b7-8ace-46b0-a942-1032bdfa94eb",
+      "score": 0.05925935,
+      "title": "How Content Marketing Can Fuel Your Email Marketing",
+      "url": "https://www.campaignmonitor.com/blog/email-marketing/2019/01/how-content-marketing-can-fuel-your-email-marketing/"
+    },
+    {
+      "id": "aa68bf3d-7c13-482c-8658-d93a60772a90",
+      "score": 0.03900808,
+      "title": "Can Dogs Taste Their Food? - The Dog Blog | Expert Advice for Pet Parents",
+      "url": "https://www.bil-jac.com/the-dog-blog/posts/can-dogs-taste-their-food/"
+    },
+    {
+      "id": "83a7b1e5-de6c-4dd1-962f-d03d19763874",
+      "score": 0.028116787,
+      "title": "20,000 Startup Ideas",
+      "url": "https://unawaz.github.io/stochastic-hill-climbing/tasks/"
+    },
+    {
+      "id": "02957f54-c05a-4156-a1b0-b83ad962704e",
+      "score": 0.01135916,
+      "title": "Good Immigrant Novels",
+      "url": "https://www.thedriftmag.com/good-immigrant-novels/"
+    }
+  ]
+}

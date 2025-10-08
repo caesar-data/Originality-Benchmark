@@ -1,0 +1,532 @@
+{
+  "id": "2535e2bc-24a3-4501-81cc-c5800203538f",
+  "status": "completed",
+  "content": "**FALSE**: The statement contains multiple inaccuracies regarding the drone model, flight duration, record status, and the hurricane's classification.\n\nA detailed analysis of the claim's core components reveals the following discrepancies:\n\n### Drone Model and Agency\n\nThe National Oceanic and Atmospheric Administration (NOAA) does utilize uncrewed aircraft systems (UAS), commonly known as drones, for hurricane reconnaissance[1][2]. However, the specific model deployed for these missions is the **Altius-600**, not the Altius-400[4][5]. The Altius-600 is a 27-pound UAS with an eight-foot wingspan, designed by Area-I (now part of Anduril Industries) in collaboration with NOAA to gather data in environments too dangerous for crewed aircraft[1][6][4].\n\n### Flight Duration and Record Status\n\nThe claim of a \"record 75 minutes\" is incorrect on two counts. First, the flight duration was significantly longer, and second, the record has since been surpassed by a different drone.\n\n*   **Altius-600 Flight Duration in Hurricane Ian**: On September 28, 2022, an Altius-600 drone launched from a NOAA WP-3D Orion \"Hurricane Hunter\" aircraft flew for approximately two hours (120 minutes) inside Hurricane Ian[2][7][8]. This specific flight set what was then a Guinness World Record for the longest endurance flight inside a tropical cyclone at **102 minutes**[9][10][11].\n*   **Current World Record**: The record set by the Altius-600 has been broken. On September 25, 2024, a Black Swift S0 drone flew for **105 minutes** inside Hurricane Helene, establishing the new official Guinness World Record[12][14].\n\n### Hurricane Category Reassessment\n\nThe statement that the flight occurred in a \"category 4 hurricane\" is misleading. The Altius-600 mission took place in Hurricane Ian on September 28, 2022[15].\n\n*   **Operational vs. Post-Analysis Classification**: At the time of the flight, Hurricane Ian was operationally classified as a high-end Category 4 storm[16][17]. It made landfall near Cayo Costa, Florida, with maximum sustained winds of 150 mph, consistent with a Category 4 rating[18][19].\n*   **Official Upgrade to Category 5**: A post-storm reanalysis conducted by the National Hurricane Center (NHC) concluded that Hurricane Ian had briefly reached **Category 5** intensity, with peak winds of 160 mph, at 12:00 UTC on September 28, 2022, while over the Gulf of Mexico[20][21][22]. The storm weakened slightly back to a high-end Category 4 before making landfall later that day[21]. Therefore, the drone flew through a storm system that was a Category 5 at its peak intensity on that day[11].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "c4c4a28c-ed45-4cae-a96b-61d0cd37ab3b",
+      "score": 0.8396422,
+      "title": "This tiny, high-tech drone can fly inside hurricanes and measure their intensity",
+      "url": "https://www.thecooldown.com/green-tech/saildrone-hurrican-storms-altius-noaa/",
+      "citation_index": 1
+    },
+    {
+      "id": "75c6bfc1-a631-4ca1-9bc1-a4220ec2de6b",
+      "score": 0.7327644,
+      "title": "Inside Ian: ALTIUS Launched into the Eye of Hurricane",
+      "url": "https://blog.anduril.com/inside-ian-altius-launched-into-the-eye-of-hurricane-727f7259633",
+      "citation_index": 2
+    },
+    {
+      "id": "a0769c16-9345-47f3-b66b-a1ba5f92e2d2",
+      "score": 0.4864541,
+      "title": "NOAA launches first of its kind drone in Hurricane Ian to research areas unsafe for Hurricane Hunters | Fox Weather",
+      "url": "https://www.foxweather.com/extreme-weather/hurricane-drone-research-hurricane-hunter",
+      "citation_index": 4
+    },
+    {
+      "id": "1289bda5-66bd-4cbf-ad47-287e46ecd3f4",
+      "score": 0.45289946,
+      "title": "Drones that hunt hurricanes? NOAA puts some to the test - NOAA/AOML",
+      "url": "https://www.aoml.noaa.gov/drones-that-hunt-hurricanes-noaa-puts-some-to-the-test/",
+      "citation_index": 5
+    },
+    {
+      "id": "71013520-ba5e-45f3-8874-ce1f5a080d71",
+      "score": 0.6133529,
+      "title": "ALTIUS Drone Hurricane Flight Demonstrates New Way of Measuring Storms - Inside Unmanned Systems",
+      "url": "https://insideunmannedsystems.com/altius-drone-hurricane-flight-demonstrates-new-way-of-measuring-storms/",
+      "citation_index": 6
+    },
+    {
+      "id": "4a197a15-b380-4b8f-8a2e-4bf35852ddc5",
+      "score": 0.7190094,
+      "title": "How hurricane hunters fly into the eye of a storm",
+      "url": "https://www.reuters.com/graphics/STORM-IAN/RECONNAISSANCE/xmvjozyqxpr/",
+      "citation_index": 7
+    },
+    {
+      "id": "a4abcd6d-43db-4cde-b9be-79fb6a19c048",
+      "score": 0.69049704,
+      "title": "NOAA deploys new Altius drone into the eye of Hurricane Ian - NOAA/AOML",
+      "url": "https://www.aoml.noaa.gov/altius-drone-flies-hurricane-ian/",
+      "citation_index": 8
+    },
+    {
+      "id": "f6fd1cdb-ac7b-40ab-8d5d-444f0d0bf92c",
+      "score": 0.85097736,
+      "title": "NOAA flies straight into the Guinness World Records book | National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/news/noaa-flies-straight-into-guinness-world-records-book",
+      "citation_index": 9
+    },
+    {
+      "id": "5f97304f-2151-449b-8ffe-84c5365b6ace",
+      "score": 0.8437023,
+      "title": "NOAA broke 3 Guinness World Records with hurricane ...",
+      "url": "https://www.kcra.com/article/noaa-hurricane-hunter-drones-broke-3-world-records/45161083",
+      "citation_index": 10
+    },
+    {
+      "id": "38bbdc28-eb5a-4747-ac3d-4ca5b4eb233d",
+      "score": 0.23646374,
+      "title": "WPO Is a Part of History as NOAA and Partners Set Two ...",
+      "url": "https://wpo.noaa.gov/wpo-is-a-part-of-history-as-noaa-sets-two-new-world-records-in-its-hurricane-observing-mission/",
+      "citation_index": 11
+    },
+    {
+      "id": "f6f1a909-6c1c-4fcb-92a8-b4d57fa4c5d9",
+      "score": 0.8055255,
+      "title": "Longest endurance inside a tropical cyclone by an uncrewed aircraft | Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/733500-longest-edurance-inside-a-tropical-cyclone-by-an-uncrewed-aircraft",
+      "citation_index": 12
+    },
+    {
+      "id": "c6c79274-ed53-4b4d-8064-d2a175449ed1",
+      "score": 0.81133276,
+      "title": "Hurricane Helene drone flight breaks records for data collection and flying time",
+      "url": "https://phys.org/news/2024-10-hurricane-helene-drone-flight-flying.html",
+      "citation_index": 14
+    },
+    {
+      "id": "7358e68e-6e89-40e6-bde8-60640a814afb",
+      "score": 0.40161797,
+      "title": "NOAA deploys new Altius drone into the eye of Hurricane Ian | Office of Marine and Aviation Operations",
+      "url": "https://www.omao.noaa.gov/uncrewed-systems/news-media/article/noaa-deploys-new-altius-drone-eye-hurricane-ian",
+      "citation_index": 15
+    },
+    {
+      "id": "08d653f4-cd9a-417d-885b-c70560fce03f",
+      "score": 0.82186085,
+      "title": "Hurricane Ian\u2019s Path of Destruction | NESDIS | National Environmental Satellite, Data, and Information Service",
+      "url": "https://www.nesdis.noaa.gov/news/hurricane-ians-path-of-destruction",
+      "citation_index": 16
+    },
+    {
+      "id": "02e458ba-9795-40de-a8b2-dc9a7adfdd35",
+      "score": 0.846159,
+      "title": "Hurricane Ian Update - Sept. 28, 2022",
+      "url": "https://nbaa.org/aircraft-operations/airspace/hurricane/hurricane-ian-2022/hurricane-ian-update-sept-28-2022-2300z-update/",
+      "citation_index": 17
+    },
+    {
+      "id": "88795089-902a-4101-8b18-f5945c4ddf97",
+      "score": 0.8991304,
+      "title": "Live Event: Hurricane Ian Causes Impacts Across Florida",
+      "url": "https://www.guycarp.com/insights/2022/09/Hurricane-Ian-9-29/Hurricane-Ian-9-29.html",
+      "citation_index": 18
+    },
+    {
+      "id": "37798e8c-9de0-47c3-901c-055d79c3bd91",
+      "score": 0.87981987,
+      "title": "Hurricane Ian was briefly a Category 5 storm, National ...",
+      "url": "https://yaleclimateconnections.org/2023/04/hurricane-ian-was-briefly-a-category-5-storm-national-hurricane-center-announces/",
+      "citation_index": 19
+    },
+    {
+      "id": "e18bccc5-a583-4c36-af79-8e185f36ebd1",
+      "score": 0.93206495,
+      "title": "Hurricane Ian reached Category 5 status over Gulf, NHC post-storm study finds",
+      "url": "https://www.accuweather.com/en/hurricane/hurricane-ian-reached-category-5-strength-in-gulf-of-mexico/1507626",
+      "citation_index": 20
+    },
+    {
+      "id": "33ee1aaa-8aa1-4c38-919e-29c6cc3a79cf",
+      "score": 0.8805613,
+      "title": "Final Report: National Hurricane Center Says \"Ian\" was a CAT 5 Briefly Before Florida Landfall - WeatherNation",
+      "url": "https://www.weathernationtv.com/news/final-report-national-hurricane-center-says-ian-was-a-cat-5-briefly-before-florida-landfall",
+      "citation_index": 21
+    },
+    {
+      "id": "e33ab9b2-f6cb-47e4-9c1c-2da071ad950d",
+      "score": 0.86981434,
+      "title": "Hurricane Ian",
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Ian",
+      "citation_index": 22
+    },
+    {
+      "id": "ddb9ac3c-31c9-4035-846a-b04f9eda11e1",
+      "score": 0.86303437,
+      "title": "Hurricane IAN",
+      "url": "https://www.nhc.noaa.gov/archive/2022/al09/al092022.public.023.shtml"
+    },
+    {
+      "id": "bf00f8c3-bf76-4627-99d1-650d5e63f6eb",
+      "score": 0.85538095,
+      "title": "Normal and reverse storm surges along the coast of Florida ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1463500323000914"
+    },
+    {
+      "id": "7346e167-9413-4ac9-9fa4-5675454a7f25",
+      "score": 0.81770587,
+      "title": "Record breaking drone flight in Hurricane Ernesto - NOAA/AOML",
+      "url": "https://www.aoml.noaa.gov/record-breaking-drone-flight-gathers-critical-data-inside-hurricane-ernesto/"
+    },
+    {
+      "id": "861818ff-63ca-460a-849a-7380778be7e2",
+      "score": 0.81418616,
+      "title": "Ocean drone viewing inside Category 4 Hurricane Sam",
+      "url": "https://weartv.com/news/local/ocean-drone-viewing-inside-category-4-hurricane-sam"
+    },
+    {
+      "id": "2e2f3329-c996-4213-8239-1578c0147e8a",
+      "score": 0.80625874,
+      "title": "Live Updates on Hurricane Ian",
+      "url": "https://gradickcommunications.com/hurricaneian/"
+    },
+    {
+      "id": "2cd21785-f327-44f6-a64a-ca1567761350",
+      "score": 0.80405265,
+      "title": "Hurricane IAN",
+      "url": "https://www.nhc.noaa.gov/archive/2022/al09/al092022.public.024.shtml"
+    },
+    {
+      "id": "9ce96ec6-dd01-430c-8cb8-27d9eaf52281",
+      "score": 0.7969415,
+      "title": "Plane That Flew Into Hurricane Helene Provides Update",
+      "url": "https://www.newsweek.com/plane-hurricane-helene-florida-update-1960193"
+    },
+    {
+      "id": "1636264a-aa64-4708-a909-7f4a1fb22d96",
+      "score": 0.79293,
+      "title": "Longest endurance inside a tropical cyclone by an uncrewed ...",
+      "url": "https://www.guinnessworldrecords.es/world-records/733500-longest-edurance-inside-a-tropical-cyclone-by-an-uncrewed-aircraft"
+    },
+    {
+      "id": "885c6141-0580-405e-b52d-f1439db7c35f",
+      "score": 0.7913865,
+      "title": "Longest endurance inside a tropical cyclone by an ...",
+      "url": "https://guinnessworldrecords.com/world-records/733500-longest-edurance-inside-a-tropical-cyclone-by-an-uncrewed-aircraft"
+    },
+    {
+      "id": "3ca3667b-60e8-428b-b177-a8dbbbad0935",
+      "score": 0.78944516,
+      "title": "Ocean Drone Sails into Category 4 Hurricane Sam - NOAA/AOML",
+      "url": "https://www.aoml.noaa.gov/ocean-drone-sails-into-category-4-hurricane-sam/"
+    },
+    {
+      "id": "d63dac65-1703-43d8-b023-9d293df802f2",
+      "score": 0.7785319,
+      "title": "Drones Are Helping to Answer Critical Questions About Hurricanes",
+      "url": "https://www.govtech.com/public-safety/drones-are-helping-to-answer-critical-questions-about-hurricanes"
+    },
+    {
+      "id": "73bb581c-6544-4974-94ac-ad3de5877e2e",
+      "score": 0.7711725,
+      "title": "The drones looking inside explosively intensifying hurricanes",
+      "url": "https://www.bbc.com/future/article/20231026-the-mystery-of-why-hurricanes-suddenly-intensify"
+    },
+    {
+      "id": "4a602928-60ed-4179-b5f2-4f3c8e9d2d10",
+      "score": 0.7707586,
+      "title": "Hurricane IAN",
+      "url": "https://www.nhc.noaa.gov/archive/2022/al09/al092022.public_a.023.shtml"
+    },
+    {
+      "id": "12d89926-2151-4756-882e-10d6026e532c",
+      "score": 0.7552947,
+      "title": "A sea-going drone zipped through a hurricane's eyewall and into the Guinness Book of World Records | WGCU PBS & NPR for Southwest Florida",
+      "url": "https://www.wgcu.org/section/science/2023-09-16/a-sea-going-drone-zipped-through-a-hurricanes-eyewall-and-into-the-guinness-book-of-world-records"
+    },
+    {
+      "id": "e7b00e3c-837c-41b2-a777-8e856dcd028c",
+      "score": 0.7366474,
+      "title": "Hurricane Ian | Date, Death Toll, Path, Damage, & Facts | Britannica",
+      "url": "https://www.britannica.com/event/Hurricane-Ian-2022"
+    },
+    {
+      "id": "64c25f9b-6680-4384-b4c8-a97fd1f7ecba",
+      "score": 0.70580584,
+      "title": "World First: Ocean Drone Captures Video from Inside a Category 4 Hurricane \u2013 Sep 30, 2021",
+      "url": "https://www.saildrone.com/media-room/press-releases/ocean-drone-captures-video-inside-category-4-hurricane"
+    },
+    {
+      "id": "2b4c7ec3-126b-4f6a-bbaa-113080d13001",
+      "score": 0.7036111,
+      "title": "Flying Into Hurricanes: NOAA Sets Two Drone World Records | Commercial UAV News",
+      "url": "https://www.commercialuavnews.com/public-safety/flying-into-hurricanes-noaa-sets-two-drone-world-records"
+    },
+    {
+      "id": "9c942d6d-d0b5-4f97-bf50-5dbc661f734f",
+      "score": 0.6852132,
+      "title": "Anduril, NOAA Deploy ALTIUS Drone to Collect Hurricane Data - ExecutiveBiz",
+      "url": "https://executivebiz.com/2022/09/anduril-noaa-deploy-altius-drone-to-collect-hurricane-data/"
+    },
+    {
+      "id": "73f58762-2c59-4578-93ac-99190b44786e",
+      "score": 0.6803909,
+      "title": "NOAA deploys new Altius drone into the eye of Hurricane Ian - NOAA's Atlantic Oceanographic and Meteorological Laboratory",
+      "url": "https://www.aoml.noaa.gov/hurricane_blog/noaa-deploys-new-altius-drone-into-the-eye-of-hurricane-ian/"
+    },
+    {
+      "id": "30813e47-e9f2-4eb1-bfac-fc42ad47cff8",
+      "score": 0.67885995,
+      "title": "NOAA Uncrewed Surface Vehicle Hurricane Observations",
+      "url": "https://www.pmel.noaa.gov/usv-hurricane/"
+    },
+    {
+      "id": "675b04a6-a317-482c-835c-c08e6f632598",
+      "score": 0.6711479,
+      "title": "Uncrewed Surface Vehicles; NOAA and Saildrone Guiness ...",
+      "url": "https://www.guiceoffshore.com/noaa-hurricane-hunters-set-guiness-world-records-for-uncrewed-aircraft-saildrone-uncrewed-surfaces-vehicles/"
+    },
+    {
+      "id": "99f5ec29-b306-4e40-bc39-ac9378ec7b60",
+      "score": 0.6609831,
+      "title": "How hurricanes are rated by the Saffir-Simpson Hurricane Wind Scale | Fox Weather",
+      "url": "https://www.foxweather.com/learn/saffir-simpson-hurricane-wind-scale-hurricane-ratings.amp"
+    },
+    {
+      "id": "37a0484f-2913-4a67-84cc-e469f80dd869",
+      "score": 0.65146625,
+      "title": "NOAA Uncrewed Surface Vehicle Hurricane Observations",
+      "url": "https://www.pmel.noaa.gov/saildrone-hurricane/"
+    },
+    {
+      "id": "6a85721f-9429-4144-936b-a133dee801f0",
+      "score": 0.6429039,
+      "title": "Historic NOAA - Saildrone mission is helping scientists improve hurricane forecasts - NOAA Research",
+      "url": "https://research.noaa.gov/2024/01/23/historic-noaa-saildrone-mission-did-more-than-set-records-its-helping-scientists-improve-hurricane-forecasts/"
+    },
+    {
+      "id": "f0fb45c7-b5df-4ae6-9519-a7dfe7b90e62",
+      "score": 0.6147415,
+      "title": "Embry-Riddle Drone Teams Measure Least Known Parts of Atmosphere Most Violent Features of Hurricanes",
+      "url": "https://news.erau.edu/headlines/embry-riddle-drone-teams-measure-least-known-parts-of-atmosphere-most-violent-features-of-hurricanes"
+    },
+    {
+      "id": "b28c6a0e-ede1-41eb-883b-95133cfaf4f8",
+      "score": 0.6139086,
+      "title": "Sailing into the Eye of the Hurricane \u2013 Saildrone",
+      "url": "https://www.saildrone.com/news/tropical-atlantic-hurricane-mission-launch"
+    },
+    {
+      "id": "cedc4ae4-3f15-4da7-ad4e-ade48c8646e0",
+      "score": 0.5976789,
+      "title": "Historic NOAA - Saildrone mission is helping scientists ...",
+      "url": "https://research.noaa.gov/historic-noaa-saildrone-mission-did-more-than-set-records-its-helping-scientists-improve-hurricane-forecasts/"
+    },
+    {
+      "id": "4334cd82-74c2-4674-9e46-d62c9349c9b4",
+      "score": 0.5948579,
+      "title": "September 28, 2022 Hurricane Ian updates | CNN",
+      "url": "https://www.cnn.com/us/live-news/hurricane-ian-florida-updates-09-28-22/index.html"
+    },
+    {
+      "id": "28d7e9f5-7f35-4496-9af4-98c6312723be",
+      "score": 0.585789,
+      "title": "Uncrewed systems integrated into hurricane season research",
+      "url": "https://www.omao.noaa.gov/omao/news-media/article/uncrewed-systems-integrated-hurricane-season-research"
+    },
+    {
+      "id": "a26f8444-1ac9-49ff-b024-35af3ec3bac0",
+      "score": 0.58465123,
+      "title": "Tyndall Air Force Base Suffered \u2018Catastrophic\u2019 Damage in Hurricane Michael",
+      "url": "https://www.thedailybeast.com/tyndall-air-force-base-suffered-catastrophic-damage-in-hurricane-michael"
+    },
+    {
+      "id": "8f4d692b-b611-4811-8dd2-27fb817ab338",
+      "score": 0.575517,
+      "title": "NOAA sailed a drone into Hurricane Sam, the strongest storm on Earth, and captured video",
+      "url": "https://www.axios.com/2021/09/30/noaa-drone-ship-hurricane-sam-video"
+    },
+    {
+      "id": "fb043b06-6da3-4835-87fe-b30c986f5e5e",
+      "score": 0.51866865,
+      "title": "National Oceanic and Atmospheric Administration to survey hurricanes with drones",
+      "url": "https://www.youtube.com/watch?v=Mlyb7WBay4g"
+    },
+    {
+      "id": "e076f08b-5100-46a1-ba28-b7ce428ee762",
+      "score": 0.5120832,
+      "title": "High tech giving NOAA more help with hurricanes",
+      "url": "https://www.youtube.com/watch?v=t0u2JH0WIME"
+    },
+    {
+      "id": "b4d4a5d0-42f9-4925-aecd-db2671fbfe99",
+      "score": 0.51193684,
+      "title": "NOAA Hurricane Hunters - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/NOAA_Hurricane_Hunters"
+    },
+    {
+      "id": "b2a32e0a-ad2e-4646-9248-fabe9b4fde13",
+      "score": 0.5063723,
+      "title": "Hurricane Ian: September 30, 2022",
+      "url": "https://www.weather.gov/ilm/hurricaneian"
+    },
+    {
+      "id": "2743fd47-c846-45aa-97a7-9ebb3e22136e",
+      "score": 0.49978086,
+      "title": "FIRST ALERT: NOAA adding more saildrones to its fleet to intercept hurricanes",
+      "url": "https://www.youtube.com/watch?v=l1zwUo3gp6c"
+    },
+    {
+      "id": "14b2dba4-c3da-4136-b230-557214e549d5",
+      "score": 0.4767995,
+      "title": "\u201cHurricane Sam\u201d Ocean Drone Sails Back into the Eye of the Storm \u2013 Saildrone",
+      "url": "https://www.saildrone.com/news/hurricane-sam-saildrone-sails-back-into-eye-storm"
+    },
+    {
+      "id": "6f82c2e3-247a-4097-90d0-c7e26cc50a8f",
+      "score": 0.46774563,
+      "title": "Hurricane hunters are flying through Ian's powerful winds to forecast intensity \u2013 here's what happens when the plane plunges into the eyewall of a storm",
+      "url": "https://theconversation.com/hurricane-hunters-are-flying-through-ians-powerful-winds-to-forecast-intensity-heres-what-happens-when-the-plane-plunges-into-the-eyewall-of-a-storm-187234"
+    },
+    {
+      "id": "2df579ac-395a-4018-b992-473dffa7ad63",
+      "score": 0.46410054,
+      "title": "Hurricane-ravaged Florida, Carolinas face daunting recovery",
+      "url": "https://www.fxempire.com/news/article/hurricane-ravaged-florida-carolinas-face-daunting-recovery-1147221"
+    },
+    {
+      "id": "faf51c57-613c-49d1-9b13-6543f910e9da",
+      "score": 0.46380913,
+      "title": "Hurricane hunters are flying through Ian's powerful winds to forecast intensity \u2013 here's what happens when the plane plunges into the eyewall of a storm",
+      "url": "https://news.yahoo.com/hurricane-hunters-flying-ians-powerful-122912101.html"
+    },
+    {
+      "id": "ca58d4ae-2e39-4ac5-9f10-3c2608877232",
+      "score": 0.43194416,
+      "title": "NOAA Deploys Drones in the Ocean and Atmosphere to Advance Hurricane Forecasting - NOAA/AOML",
+      "url": "https://www.aoml.noaa.gov/noaa-deploys-drone-in-ocean-and-atmosphere-to-advance-hurricane-forecasting/"
+    },
+    {
+      "id": "2289083c-653e-4400-999f-f2952b01782f",
+      "score": 0.4295017,
+      "title": "Drone set to help with hurricane research",
+      "url": "https://www.youtube.com/watch?v=aQo3NEYGSLw"
+    },
+    {
+      "id": "14247f41-bc29-46d3-a400-608358079777",
+      "score": 0.42620277,
+      "title": "NOAA deploys drones in the ocean and atmosphere to ...",
+      "url": "https://research.noaa.gov/noaa-deploys-drones-in-the-ocean-and-atmosphere-to-advance-hurricane-forecasting/"
+    },
+    {
+      "id": "df1826d4-87e1-47dc-9bf5-ab5452e2900e",
+      "score": 0.42620277,
+      "title": "NOAA deploys drones in the ocean and atmosphere to advance hurricane forecasting - NOAA Research",
+      "url": "https://research.noaa.gov/2023/06/28/noaa-deploys-drones-in-the-ocean-and-atmosphere-to-advance-hurricane-forecasting/"
+    },
+    {
+      "id": "b790b25f-a0d7-430e-a222-328b4da795ca",
+      "score": 0.42348245,
+      "title": "NOAA drones will fly into the eye of hurricanes | Rush Hour",
+      "url": "https://www.youtube.com/watch?v=1rup-P5Pkm0"
+    },
+    {
+      "id": "a7230543-0937-41a8-9004-428f5b4064bb",
+      "score": 0.41734326,
+      "title": "NOAA deploys new Altius drone into the eye of Hurricane Ian | NOAA Climate.gov",
+      "url": "https://www.climate.gov/news-features/feed/noaa-deploys-new-altius-drone-eye-hurricane-ian"
+    },
+    {
+      "id": "822f4b73-d154-4aa7-a326-f15f306d39b8",
+      "score": 0.4169159,
+      "title": "Hurricane Hunters Fly Through Ian\u2019s Powerful Winds To Get the Forecasts You Rely on \u2013 Here\u2019s What Happens When the Plane Plunges into the Eyewall of a Storm",
+      "url": "https://www.snopes.com/news/2022/09/27/hurricane-hunters-flying-through-ians-powerful-winds/"
+    },
+    {
+      "id": "c37dc9f4-f523-4d05-ab3f-0ca43cfe7825",
+      "score": 0.4013364,
+      "title": "University scientist deploys new drone to study hurricane intensification",
+      "url": "https://news.miami.edu/stories/2022/10/university-scientist-deploys-new-drone-that-may-help-explain-hurricane-intensification.html"
+    },
+    {
+      "id": "e3d875eb-07b1-49c3-a689-7f91d6355a4f",
+      "score": 0.3935487,
+      "title": "Drones that hunt hurricanes? NOAA puts some to the test | National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/stories/drones-hunt-hurricanes-noaa-puts-some-to-test"
+    },
+    {
+      "id": "59136855-5efc-4fe2-9169-0d197830cdf9",
+      "score": 0.39075536,
+      "title": "Into the eye of a hurricane: How NOAA uses drones penetrate monster storms",
+      "url": "https://www.usatoday.com/story/graphics/2023/08/23/noaa-hurricane-hunters-drone-technology/70373262007/"
+    },
+    {
+      "id": "0222e953-eba4-4f67-bf61-7d16074375b3",
+      "score": 0.38567597,
+      "title": "How NOAA Uses Drones to Study Everything from Seals to Hurricanes | FedTech Magazine",
+      "url": "https://fedtechmagazine.com/article/2021/09/how-noaa-uses-drones-study-everything-seals-hurricanes"
+    },
+    {
+      "id": "e2ed8d16-e117-452d-bddc-cb5d449ecc6c",
+      "score": 0.38055226,
+      "title": "NOAA Hurricane Hunters | Office of Marine and Aviation Operations",
+      "url": "https://www.omao.noaa.gov/aircraft-operations/noaa-hurricane-hunters"
+    },
+    {
+      "id": "3053e36d-d71c-48b6-b279-646a146a2e40",
+      "score": 0.3597245,
+      "title": "Hurricane-ravaged Florida, Carolinas Face Daunting Recovery",
+      "url": "https://www.ibtimes.com/hurricane-ravaged-florida-carolinas-face-daunting-recovery-3619290"
+    },
+    {
+      "id": "128a9164-ca9d-446c-8b32-e5499b35e917",
+      "score": 0.3554845,
+      "title": "How drones are helping NOAA improve hurricane track, intensity forecasts",
+      "url": "https://www.youtube.com/watch?v=EUpTC0whAj8"
+    },
+    {
+      "id": "8ccce3e8-cc32-44f7-af5a-db1afd1830f5",
+      "score": 0.34145126,
+      "title": "NOAA Measures Hurricane Tammy from Satellites through the Sea",
+      "url": "https://www.aoml.noaa.gov/noaa-altius-saildrone-mission-into-tammy/"
+    },
+    {
+      "id": "fa022e11-c2e9-4f90-be31-b9bb96eaf8bc",
+      "score": 0.32882085,
+      "title": "New Hurricane Drone Breaks Records During Ernesto Flights",
+      "url": "https://www.youtube.com/watch?v=8tNKZncd-4k"
+    },
+    {
+      "id": "02fa28cc-a330-4cd9-82da-0500536da74c",
+      "score": 0.32328448,
+      "title": "NOAA's Saildrone Observations of Atlantic Hurricanes for Improved Intensity Forecasts - 2024 Mission Blog",
+      "url": "https://www.pmel.noaa.gov/saildrone-hurricane/2024/mission-blog-2024.html"
+    },
+    {
+      "id": "6c19b174-4db1-4709-8462-83e5c2950707",
+      "score": 0.2888403,
+      "title": "Rescue, Research, and Recovery: Drones Play Essential Roles Following Hurricane Helene and Hurricane Milton | Commercial UAV News",
+      "url": "https://www.commercialuavnews.com/rescue-research-and-recovery-drones-play-essential-roles-following-hurricane-helene-and-hurricane-milton"
+    },
+    {
+      "id": "5b0de1b6-444e-40c1-9aa9-22116d56aea7",
+      "score": 0.2817765,
+      "title": "NOAA and Saildrone launch seven hurricane-tracking surface drones | Office of Marine and Aviation Operations",
+      "url": "https://www.omao.noaa.gov/uncrewed-systems/news-media/article/noaa-and-saildrone-launch-seven-hurricane-tracking-surface-drones"
+    },
+    {
+      "id": "077a8e9f-18a7-420a-af23-d4b3cabf02ff",
+      "score": 0.27841663,
+      "title": "The Saffir-Simpson Hurricane Wind Scale",
+      "url": "https://www.nhc.noaa.gov/pdf/sshws.pdf.pre20210528"
+    },
+    {
+      "id": "87918f47-1b34-4d26-af53-a983c492af1a",
+      "score": 0.16856964,
+      "title": "Global Hawk: Eye in the Sky | Ocean Today",
+      "url": "https://oceantoday.noaa.gov/globalhawk/"
+    },
+    {
+      "id": "76398e41-3708-4e1b-8cca-be81e0ef0cc7",
+      "score": 0.15468249,
+      "title": "Watch: Flying in the eye of Hurricane Beryl",
+      "url": "https://www.bbc.com/news/videos/cd1r00r7ljlo"
+    },
+    {
+      "id": "6b932251-1f7e-4763-a384-77d032a80493",
+      "score": 0.09502164,
+      "title": "2024 NOAA-Saildrone Atlantic Hurricane Mission",
+      "url": "https://www.pmel.noaa.gov/saildrone-hurricane/2024/index.html"
+    },
+    {
+      "id": "a5a1fb30-1907-4cfa-a68a-aab5a7b3b6fb",
+      "score": 0.087915756,
+      "title": "A world first: Ocean drone captures video from inside a hurricane | National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/news-release/world-first-ocean-drone-captures-video-from-inside-hurricane"
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "id": "d2b1825f-f89a-43bc-939e-de2c0074e33a",
+  "status": "completed",
+  "content": "**TRUE**: The statement that at least 1 in 4 adults has a low vitamin D level is factual. Global and national data consistently show that prevalence rates for vitamin D deficiency or insufficiency meet or significantly exceed the 25% threshold when using standard clinical and public health definitions for \"low\" levels. A large-scale global analysis found that 47.9% of the population has serum vitamin D levels below 20 ng/mL (50 nmol/L), a common cutoff for deficiency[1][2][3].\n\n## Defining \"Low\" Vitamin D\n\nThe term \"low vitamin D\" is not standardized and its clinical definition varies among health organizations, often encompassing both \"deficiency\" and \"insufficiency\"[4]. The scientific consensus on precise thresholds continues to evolve, but prevalence data is typically reported using established cutoffs measured by serum 25-hydroxyvitamin D [25(OH)D] levels.\n\n*   **Deficiency:** The 2011 Endocrine Society Clinical Practice Guideline, widely cited in research, defines vitamin D deficiency as a 25(OH)D level below 20 ng/mL (50 nmol/L)[5][6]. Many authorities and studies use this threshold[7][8].\n*   **Insufficiency:** The 2011 Endocrine Society guideline defines insufficiency as a 25(OH)D level between 21 and 29 ng/mL[5][9]. A combined \"low\" status (deficiency plus insufficiency) is therefore often considered any level below 30 ng/mL (75 nmol/L)[10][11].\n*   **Risk of Deficiency/Inadequacy (CDC/IOM):** The U.S. Centers for Disease Control and Prevention (CDC), referencing the Institute of Medicine (IOM, now the National Academy of Medicine), defines risk of deficiency as levels below 12 ng/mL (30 nmol/L) and risk of inadequacy as levels between 12 and 19 ng/mL (30\u201349 nmol/L)[12]. Under this framework, levels sufficient for bone health are considered to be at or above 20 ng/mL (50 nmol/L)[12].\n*   **Evolving Guidelines:** In 2024, the Endocrine Society updated its guideline, noting that clinical trial evidence was insufficient to establish specific 25(OH)D thresholds for disease prevention in the general population[13][14]. It no longer endorses its previously proposed definitions for \"sufficiency\" or \"insufficiency\" as actionable designations for otherwise healthy individuals[13]. However, the vast body of existing epidemiological research relies on the earlier, widely adopted thresholds.\n\n## Global Prevalence\n\nVitamin D deficiency is recognized as a global public health issue affecting approximately 1 billion people worldwide[15][16]. A comprehensive pooled analysis of 7.9 million participants from 60 countries between 2000 and 2022 provides the most robust global estimates based on different thresholds[1][2][3]:\n\n*   **Levels < 30 nmol/L (~12 ng/mL):** The global prevalence is **15.7%**. This is below the 25% threshold but represents severe deficiency.\n*   **Levels < 50 nmol/L (~20 ng/mL):** The global prevalence is **47.9%**. This is nearly double the \"1 in 4\" (25%) threshold and aligns with a common definition of deficiency.\n*   **Levels < 75 nmol/L (~30 ng/mL):** The global prevalence is **76.6%**. This figure, representing combined deficiency and insufficiency, means more than 3 in 4 adults fall below this level.\n\nPrevalence varies significantly by region, with some of the highest rates in the Middle East and South Asia[17][18]. In Pakistan, India, and Bangladesh, more than 80% of adults experience deficiency[15]. In Europe, approximately 40% of the population has levels below 50 nmol/L[7][19].\n\n## Prevalence in the United States\n\nData from the U.S. National Health and Nutrition Examination Survey (NHANES) consistently supports the claim that at least 1 in 4 adults has a low vitamin D level.\n\n*   **NHANES 2005\u20132006:** The overall prevalence of vitamin D deficiency (defined as \u226420 ng/mL or 50 nmol/L) among U.S. adults was **41.6%**[20].\n*   **NHANES 2011\u20132012:** An analysis found that **39.92%** of participants were vitamin D deficient, using a threshold of <50 nmol/L (~20 ng/mL)[21].\n*   **NHANES 2001\u20132010:** A study of over 26,000 adults found the prevalence of deficiency (<50 nmol/L) was **28.9%**, while an additional **41.4%** had insufficiency (50 to <75 nmol/L)[22]. This means over 70% of U.S. adults had levels below 75 nmol/L (~30 ng/mL).\n*   **NHANES 2001\u20132018:** The most recent comprehensive analysis of 71,685 participants found that a combined **24.6%** of the U.S. population had vitamin D deficiency (2.6% severe at <25 nmol/L and 22.0% moderate at 25\u201350 nmol/L)[23][24]. An additional **40.9%** had insufficiency (50\u201375 nmol/L)[23][24].\n\nThese figures demonstrate that depending on the study period and precise definition, the prevalence of deficiency (<20 ng/mL or 50 nmol/L) in the U.S. hovers right at or well above the 25% mark. If \"low\" includes insufficiency (<30 ng/mL), the prevalence is substantially higher.",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "9a973469-0c2f-4036-b853-c02b59e74aa8",
+      "score": 0.8765607,
+      "title": "Global and regional prevalence of vitamin D deficiency in population-based studies from 2000 to 2022: A pooled analysis of 7.9 million participants - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37006940/",
+      "citation_index": 1
+    },
+    {
+      "id": "102f945a-073f-4e1a-a839-f04ea41c18db",
+      "score": 0.77913743,
+      "title": "Global and regional prevalence of vitamin D deficiency in population-based studies from 2000 to 2022: A pooled analysis of 7.9 million participants - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10064807/",
+      "citation_index": 2
+    },
+    {
+      "id": "16255497-0627-46e8-b47e-b9e10c27f734",
+      "score": 0.7593865,
+      "title": "Frontiers | Global and regional prevalence of vitamin D deficiency in population-based studies from 2000 to 2022: A pooled analysis of 7.9 million participants",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2023.1070808/full",
+      "citation_index": 3
+    },
+    {
+      "id": "36d165d0-c764-426c-ad63-3a2514da47d6",
+      "score": 0.36779293,
+      "title": "Vitamin D: What's the \"right\" level? - Harvard Health",
+      "url": "https://www.health.harvard.edu/blog/vitamin-d-whats-right-level-2016121910893",
+      "citation_index": 4
+    },
+    {
+      "id": "f247f453-d61c-4818-bc7d-5502721f5218",
+      "score": 0.6685563,
+      "title": "Evaluation, Treatment, and Prevention of Vitamin D Deficiency: an Endocrine Society Clinical Practice Guideline | The Journal of Clinical Endocrinology & Metabolism | Oxford Academic",
+      "url": "https://academic.oup.com/jcem/article/96/7/1911/2833671",
+      "citation_index": 5
+    },
+    {
+      "id": "d9a7aa1b-605f-4e31-98aa-7d3baccca054",
+      "score": 0.90452427,
+      "title": "(PDF) Evaluation, Treatment, and Prevention of Vitamin D Deficiency: an Endocrine Society Clinical Practice Guideline",
+      "url": "https://www.researchgate.net/publication/51196545_Evaluation_Treatment_and_Prevention_of_Vitamin_D_Deficiency_an_Endocrine_Society_Clinical_Practice_Guideline",
+      "citation_index": 6
+    },
+    {
+      "id": "bc277e7b-2cdd-4d93-9b79-89f8b96d179c",
+      "score": 0.79080546,
+      "title": "Vitamin D deficiency 2.0: an update on the current status worldwide - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7091696/",
+      "citation_index": 7
+    },
+    {
+      "id": "c7d207b8-d319-42aa-b670-7ec08bab6208",
+      "score": 0.32946774,
+      "title": "Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline | The Journal of Clinical Endocrinology & Metabolism | Oxford Academic",
+      "url": "https://academic.oup.com/jcem/article/109/8/1907/7685305",
+      "citation_index": 8
+    },
+    {
+      "id": "0208c2d5-6ff3-43bf-a143-cc3eaa59d744",
+      "score": 0.8512743,
+      "title": "Endocrine Society publishes clinical practice guidelines for vitamin D deficiency",
+      "url": "https://www.healio.com/news/endocrinology/20131127/endocrine-society-publishes-clinical-practice-guidelines-for-vitamin-d-deficiency",
+      "citation_index": 9
+    },
+    {
+      "id": "77fec5cf-8261-42e2-a11c-1646c5cdf003",
+      "score": 0.9263638,
+      "title": "Vitamin D supplementation: Pearls for practicing clinicians | Cleveland Clinic Journal of Medicine",
+      "url": "https://www.ccjm.org/content/89/3/154",
+      "citation_index": 10
+    },
+    {
+      "id": "25a2228f-f280-4172-81c9-4aca75f3c936",
+      "score": 0.8674071,
+      "title": "Vitamin D - StatPearls - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK441912/",
+      "citation_index": 11
+    },
+    {
+      "id": "822dbcbc-c69f-4ec5-b945-e75fd61cd2f1",
+      "score": 0.61695945,
+      "title": "Vitamin D Status: United States, 2001\u20132006.",
+      "url": "https://www.cdc.gov/nchs/products/databriefs/db59.htm",
+      "citation_index": 12
+    },
+    {
+      "id": "89c4aea7-17a5-4871-95f4-9873e5e310a3",
+      "score": 0.9274752,
+      "title": "Vitamin D Insufficiency and Epistemic Humility: An Endocrine Society Guideline Communication | The Journal of Clinical Endocrinology & Metabolism | Oxford Academic",
+      "url": "https://academic.oup.com/jcem/article/109/8/1948/7685309",
+      "citation_index": 13
+    },
+    {
+      "id": "ad2679f7-95b9-4333-9c18-65f0237cd6af",
+      "score": 0.3493335,
+      "title": "Vitamin D for the Prevention of Disease | Endocrine Society",
+      "url": "https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease",
+      "citation_index": 14
+    },
+    {
+      "id": "d39151fc-5481-4051-be39-6ccabea2a2f0",
+      "score": 0.9067276,
+      "title": "Vitamin D Deficiency - StatPearls - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532266/",
+      "citation_index": 15
+    },
+    {
+      "id": "1e63d262-600e-4e2d-97c5-84a9ebff2588",
+      "score": 0.90593183,
+      "title": "High prevalence of vitamin D deficiency among the South Asian adults: a systematic review and meta-analysis | BMC Public Health | Full Text",
+      "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11888-1",
+      "citation_index": 16
+    },
+    {
+      "id": "e8ca42ef-0e6f-4be4-88d3-5c61ca9a036b",
+      "score": 0.86441374,
+      "title": "Trends in Vitamin D Status Around the World - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8674774/",
+      "citation_index": 17
+    },
+    {
+      "id": "60b6bcc4-5eee-462e-8997-9c11cebe174f",
+      "score": 0.84277284,
+      "title": "THE GLOBAL EPIDEMIOLOGY OF VITAMIN D STATUS \u2022 JARLIFE",
+      "url": "https://www.jarlife.net/703-the-global-epidemiology-of-vitamin-d-status.html",
+      "citation_index": 18
+    },
+    {
+      "id": "48cec5b4-226b-46dc-952b-9d8a6482539e",
+      "score": 0.8106142,
+      "title": "Prevalence of vitamin D deficiency in Africa: a systematic review and meta-analysis - The Lancet Global Health",
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30457-7/fulltext",
+      "citation_index": 19
+    },
+    {
+      "id": "55f93aa9-a426-40c3-b148-a57688a5b656",
+      "score": 0.9443876,
+      "title": "Prevalence and correlates of vitamin D deficiency in US adults - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21310306/",
+      "citation_index": 20
+    },
+    {
+      "id": "26019a8d-f0ee-4264-bcf9-cf7436525ca0",
+      "score": 0.93610436,
+      "title": "Prevalence of Vitamin D Deficiency and Associated Risk Factors in the US Population (2011-2012) - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6075634/",
+      "citation_index": 21
+    },
+    {
+      "id": "56f86384-7285-4031-8029-87826a18ff5d",
+      "score": 0.93844646,
+      "title": "Vitamin D deficiency and insufficiency among US adults: prevalence, predictors and clinical implications | British Journal of Nutrition | Cambridge Core",
+      "url": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/vitamin-d-deficiency-and-insufficiency-among-us-adults-prevalence-predictors-and-clinical-implications/44E436843510FE6BDE856D5BCB9C651F",
+      "citation_index": 22
+    },
+    {
+      "id": "ad2d3e76-bdc8-4265-a6c9-e81b9d3006cf",
+      "score": 0.915091,
+      "title": "Prevalence, trend, and predictor analyses of vitamin D deficiency in the US population, 2001\u20132018 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9573946/",
+      "citation_index": 23
+    },
+    {
+      "id": "78cc2bfc-3576-4b51-9f6b-a487e524c5de",
+      "score": 0.9314689,
+      "title": "Prevalence, trend, and predictor analyses of vitamin D deficiency in the US population, 2001-2018 - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36263304/",
+      "citation_index": 24
+    },
+    {
+      "id": "e529c104-0d45-453e-bdec-948fd8716db3",
+      "score": 0.9381752,
+      "title": "The Prevalence and Determinants of Vitamin D Inadequacy among U.S. Older Adults: National Health and Nutrition Examination Survey 2007-2014 - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6768617/"
+    },
+    {
+      "id": "9c2fa22b-fcfe-4cb6-9e85-70270854c778",
+      "score": 0.9353998,
+      "title": "Frontiers | Prevalence of vitamin D deficiency and associated risk of all-cause and cause-specific mortality among middle-aged and older adults in the United States",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2023.1163737/full"
+    },
+    {
+      "id": "0b19d7f3-8a76-40c4-9d3f-218c2dc97bc9",
+      "score": 0.9336793,
+      "title": "Vitamin D status in the United States, 2011\u20132014 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7263437/"
+    },
+    {
+      "id": "4dd557c0-e7be-47b8-bf3b-393a298290f8",
+      "score": 0.93338853,
+      "title": "Vitamin D status in the United States, 2011-2014 - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31076739/"
+    },
+    {
+      "id": "826d696c-9266-407a-8332-fc169b067b20",
+      "score": 0.9302622,
+      "title": "The Association Between Vitamin D Deficiency and Nondiabetic Retinopathy in the American Population: National Health and Nutrition Examination Survey 2005-2008.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41031262/"
+    },
+    {
+      "id": "a5eab9b7-441e-4a41-a2b3-d5bee5ba0527",
+      "score": 0.9301101,
+      "title": "Serum 25(OH)D levels and mortality risk among middle-aged and elderly populations in the U.S.: A prospective cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40705722/"
+    },
+    {
+      "id": "071d85de-dfba-4b4b-9695-7489d8b410e1",
+      "score": 0.9170729,
+      "title": "Serum 25-hydroxyvitamin D status of adolescents and adults in two seasonal subpopulations from NHANES III - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11996918/"
+    },
+    {
+      "id": "d1345397-4880-4b12-9b1f-0bd8ab28ba3c",
+      "score": 0.9161773,
+      "title": "Prevalence, trend, and predictor analyses of vitamin D ...",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.965376/full"
+    },
+    {
+      "id": "131a99a9-be2c-49b9-a98e-6b3527968061",
+      "score": 0.91175514,
+      "title": "Vitamin D deficiency and insufficiency among US adults: prevalence, predictors and clinical implications - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29644951/"
+    },
+    {
+      "id": "69e9b80d-7adb-4edf-b32f-822cc58b8b96",
+      "score": 0.90633047,
+      "title": "Guidelines for Preventing and Treating Vitamin D Deficiency",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9920487/"
+    },
+    {
+      "id": "e0741d5a-49f7-4b10-a46d-0e3fb45559ff",
+      "score": 0.90432173,
+      "title": "Demographic Differences and Trends of Vitamin D Insufficiency in the US Population, 1988-2004 | Nutrition | JAMA Internal Medicine | JAMA Network",
+      "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414878"
+    },
+    {
+      "id": "54133d4e-c8e4-4373-a451-0a1046ae892c",
+      "score": 0.8963332,
+      "title": "Recognition and Management of Vitamin D Deficiency | AAFP",
+      "url": "https://www.aafp.org/pubs/afp/issues/2009/1015/p841.html"
+    },
+    {
+      "id": "475db73b-dc96-40ff-b9c0-53c65ff2859c",
+      "score": 0.8898454,
+      "title": "Micronutrient Inadequacies in the US Population: an Overview",
+      "url": "https://lpi.oregonstate.edu/mic/micronutrient-inadequacies/overview"
+    },
+    {
+      "id": "de961c61-5b84-462c-8fc6-e57a255b4ed1",
+      "score": 0.8886914,
+      "title": "To D or Not To D? What Questions Does the Latest Endocrine Society Guideline Answer About Vitamin D Supplements? - Endocrine News",
+      "url": "https://endocrinenews.endocrine.org/to-d-or-not-to-d-what-questions-does-the-latest-endocrine-society-guideline-answer-about-vitamin-d-supplements/"
+    },
+    {
+      "id": "c5ca3588-3e5d-4019-b408-bdf3efd032f2",
+      "score": 0.8834878,
+      "title": "Comparing 2011 & 2024 Vitamin D Guidelines",
+      "url": "https://www.pharmacy.umn.edu/vitamin-d-dilemma-comparing-2011-2024-vitamin-d-guidelines"
+    },
+    {
+      "id": "4099fee6-2ec0-470c-aadf-fc89e265673c",
+      "score": 0.8775715,
+      "title": "The prevalence of hypovitaminosis D among US adults: data from the NHANES III - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16315387/"
+    },
+    {
+      "id": "8e89d25c-f1f0-41e1-8dd5-6783b6ee67d5",
+      "score": 0.8763069,
+      "title": "Frontiers | Trends of serum 25(OH) vitamin D and association with cardiovascular disease and all-cause mortality: from NHANES survey cycles 2001\u20132018",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1328136/full"
+    },
+    {
+      "id": "29ea6d4c-6c4c-43de-ae05-8eea6fe68cdc",
+      "score": 0.87139857,
+      "title": "Consensus Statement on Vitamin D Status Assessment and Supplementation: Whys, Whens, and Hows | Endocrine Reviews | Oxford Academic",
+      "url": "https://academic.oup.com/edrv/article/45/5/625/7659127"
+    },
+    {
+      "id": "a7f79b7e-e6cd-4ebf-82cf-ff9eceb0cc19",
+      "score": 0.8446273,
+      "title": "HealthMatch - 42% Of Americans Are Deficient In Vitamin D. Are You At Risk? If So, What Can You Do About It?",
+      "url": "https://healthmatch.io/blog/42-of-americans-are-deficient-in-vitamin-d-are-you-at-risk-if-so-what-can"
+    },
+    {
+      "id": "239c8988-92e7-4469-8ffe-5f504cd541e0",
+      "score": 0.82254606,
+      "title": "100 YEARS OF VITAMIN D: Global differences in vitamin D status and dietary intake: a review of the data in: Endocrine Connections Volume 11 Issue 1 (2022)",
+      "url": "https://ec.bioscientifica.com/view/journals/ec/11/1/EC-21-0282.xml"
+    },
+    {
+      "id": "d0bcca8b-3d52-4034-bbae-aa39b05f9722",
+      "score": 0.82048416,
+      "title": "Secular trends of vitamin D and calcium intake and their circulating levels in US adults from 2007 to 2018.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40177183/"
+    },
+    {
+      "id": "c8385f52-1079-4f6c-9c99-d9202f510b0d",
+      "score": 0.8116913,
+      "title": "Vitamin D Levels in the United States: Temporal Trends (2011-2018) and Contemporary Associations with Sociodemographic Characteristics (2017-2018) - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39408379/"
+    },
+    {
+      "id": "2fcb9f34-56ed-4dcc-afde-8ef47b70bcab",
+      "score": 0.80844593,
+      "title": "Determinants of Vitamin D Status in Healthy Young Adults from Mexico City.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38368779/"
+    },
+    {
+      "id": "fa440cc3-eebc-416d-933e-53b3ff75ebc0",
+      "score": 0.8033131,
+      "title": "Vitamin D Deficiency: Symptoms, Treatments, and Causes",
+      "url": "https://www.healthline.com/nutrition/vitamin-d-deficiency-symptoms"
+    },
+    {
+      "id": "ee1dd2f8-4311-4b11-9d9d-6c813373cc51",
+      "score": 0.78314424,
+      "title": "Non-linear association between serum 25-hydroxyvitamin D levels and cardiovascular outcomes: Evidence from NHANES and mendelian randomization analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40610291/"
+    },
+    {
+      "id": "805b2631-a54d-441e-9edd-fa36363953f7",
+      "score": 0.7730283,
+      "title": "Addressing the global burden of vitamin D deficiency",
+      "url": "https://link.springer.com/article/10.1007/s00198-024-07285-0"
+    },
+    {
+      "id": "8e04c46c-8fee-445f-87f3-724212dd370b",
+      "score": 0.77179235,
+      "title": "Exploring the association between serum vitamin D levels and type 2 diabetes risk in US adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40551563/"
+    },
+    {
+      "id": "91d2f4e3-c40b-485c-a706-a08c3beb90c0",
+      "score": 0.767638,
+      "title": "Vitamin D testing and treatment: a narrative review of current evidence in: Endocrine Connections Volume 8 Issue 2 (2019)",
+      "url": "https://ec.bioscientifica.com/view/journals/ec/8/2/EC-18-0432.xml"
+    },
+    {
+      "id": "13ee2dfa-7167-48c0-ac73-c3a35c84786a",
+      "score": 0.7608822,
+      "title": "Vitamin D Intake and Factors Associated With Self-Reported Vitamin D Deficiency Among US Adults: A 2021 Cross-Sectional Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35634404/"
+    },
+    {
+      "id": "41818691-6862-44b1-8cbe-fdab866471fd",
+      "score": 0.7596005,
+      "title": "Call for Education and Research Into Vitamin D Deficiency ...",
+      "url": "https://www.apha.org/policy-and-advocacy/public-health-policy-briefs/policy-database/2014/07/07/18/10/call-for-education-and-research-into-vitamin-d-deficiency-insufficiency"
+    },
+    {
+      "id": "667edf59-7e20-4d3a-bca9-c41b6c93eb89",
+      "score": 0.7539928,
+      "title": "Vitamin D Insufficiency, Deficiency, and Bone Health - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2902062/"
+    },
+    {
+      "id": "07b098b2-792f-4078-9ec0-7e7cfb909415",
+      "score": 0.73981786,
+      "title": "Clinical Practice in the Prevention, Diagnosis and Treatment of Vitamin D Deficiency: A Central and Eastern European Expert Consensus Statement - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9002638/"
+    },
+    {
+      "id": "279f4bd0-4bed-4754-a6c4-577b091073bf",
+      "score": 0.7373288,
+      "title": "Fat Distribution as a Determinant of Vitamin D Status: A Cross-Sectional Study of Adults in the United States.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40134250/"
+    },
+    {
+      "id": "2a8e1c71-b1a1-49a0-a6e1-f405656a0b2d",
+      "score": 0.72465646,
+      "title": "Frontiers | Vitamin D for the prevention of diseases in children: A rebuttal to the 2024 Endocrine Society Clinical Practice Guideline",
+      "url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1578609/full"
+    },
+    {
+      "id": "bf7306b5-55e9-4505-afb3-6780ad790e04",
+      "score": 0.7244226,
+      "title": "Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low- and middle-income countries",
+      "url": "https://stacks.cdc.gov/view/cdc/89677"
+    },
+    {
+      "id": "105b8800-4c39-4545-84e9-f82c8e4306b8",
+      "score": 0.72395444,
+      "title": "Trends in Vitamin D Status in the United States, 2007 ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0002916525005994"
+    },
+    {
+      "id": "60921986-8008-446c-ae00-9bc91e938c20",
+      "score": 0.6959795,
+      "title": "WMA - The World Medical Association-WMA Statement on Vitamin D Insufficiency",
+      "url": "https://www.wma.net/policies-post/wma-statement-on-vitamin-d-insufficiency/"
+    },
+    {
+      "id": "af071731-cb43-46bc-85d5-9906ba91c609",
+      "score": 0.6889923,
+      "title": "Prevalence and correlates of vitamin D deficiency in US adults - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0271531710002599"
+    },
+    {
+      "id": "2f80dcf7-333f-431c-82f4-b9e3f8a1f829",
+      "score": 0.68496037,
+      "title": "Prevalence of vitamin D deficiency in seniors",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2405457723005387"
+    },
+    {
+      "id": "75e28c05-db6a-4641-863a-95605b5eb8cd",
+      "score": 0.6824261,
+      "title": "Vitamin D deficiency: a worldwide problem with health consequences1 - The American Journal of Clinical Nutrition",
+      "url": "https://ajcn.nutrition.org/article/S0002-9165(23)23593-5/fulltext"
+    },
+    {
+      "id": "890814ca-59d5-439b-9792-0b81aed8bd64",
+      "score": 0.657033,
+      "title": "Vitamin D and Chronic Diseases - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5440113/"
+    },
+    {
+      "id": "20fce43f-89fd-4a54-b7ee-f6b9a98b3b41",
+      "score": 0.6554468,
+      "title": "The Global Prevalence of Vitamin D Deficiency and Insufficiency in Patients with Multiple Myeloma: A Systematic Review and Meta-Analysis",
+      "url": "https://www.mdpi.com/2072-6643/15/14/3227"
+    },
+    {
+      "id": "70a87f0f-0e6a-4abe-9635-d982f9f51a7e",
+      "score": 0.6501347,
+      "title": "Intake and contribution of food groups to vitamin D intake in a representative sample of adult Greek population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31918051/"
+    },
+    {
+      "id": "da02cc47-5c0e-4a61-a10c-f82a8168ae2b",
+      "score": 0.64047897,
+      "title": "Serum klotho concentration, vitamin D concentration and cardiovascular diseases risk: Evidence from the NHANES database 2007-2016.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40199712/"
+    },
+    {
+      "id": "dcf1c3e0-5cb7-4424-92f6-33c14119e08c",
+      "score": 0.6356076,
+      "title": "Vitamin D Deficiency in Adults: When to Test and How to Treat - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2912737/"
+    },
+    {
+      "id": "df0ea475-2bf3-42c5-9164-9938e2764c96",
+      "score": 0.6175132,
+      "title": "Assessing the vitamin D status of the US population",
+      "url": "https://ajcn.nutrition.org/article/S0002-9165(23)24113-1/pdf"
+    },
+    {
+      "id": "fb717049-4189-4ffd-a6a0-d8b7ccd76ba2",
+      "score": 0.604703,
+      "title": "Vitamin D Deficiency and Related Disorders Treatment & Management: Approach Considerations, Sun Exposure, Diet",
+      "url": "https://emedicine.medscape.com/article/128762-treatment"
+    },
+    {
+      "id": "b4095edb-7071-47d4-9921-0da10890945a",
+      "score": 0.598524,
+      "title": "Vitamin D deficiency 2.0: an update on the current status ...",
+      "url": "https://www.nature.com/articles/s41430-020-0558-y"
+    },
+    {
+      "id": "aa91d206-cebb-4a8a-8714-81ca01486553",
+      "score": 0.5614318,
+      "title": "Cdc",
+      "url": "https://www.cdc.gov/nchs/data/nhsr/nhsr183.pdf"
+    },
+    {
+      "id": "28194b2f-0431-424f-9647-b6e546e48d4e",
+      "score": 0.559411,
+      "title": "Vitamin D, rickets and child abuse: controversies and evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33999242/"
+    },
+    {
+      "id": "b57aa3f4-54e0-4806-812f-fc3659458d1c",
+      "score": 0.55449516,
+      "title": "Normal vitamin D levels by age, sources, and toxicity",
+      "url": "https://www.medicalnewstoday.com/articles/normal-vitamin-d-levels"
+    },
+    {
+      "id": "c9435934-8582-4e8f-99dc-9f9313bef3ac",
+      "score": 0.4928966,
+      "title": "Vitamin D dose response is underestimated by Endocrine ...",
+      "url": "https://ec.bioscientifica.com/view/journals/ec/2/2/87.xml"
+    },
+    {
+      "id": "57992e13-becc-46c8-9f9c-64465fa3d466",
+      "score": 0.486015,
+      "title": "Vitamin D for Preventing Disease: A New Guideline",
+      "url": "https://www.jwatch.org/na57804/2024/08/14/vitamin-d-preventing-disease-new-guideline"
+    },
+    {
+      "id": "39d92cb3-8b1b-4ed2-82dd-04429ac78263",
+      "score": 0.467308,
+      "title": "Associations of Obesity, Vitamin D, Adjusted Total Calcium, and Parathyroid Hormone in US from NHANES.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40578598/"
+    },
+    {
+      "id": "491afcea-a9ca-4d85-8f75-fdb29ac1aed0",
+      "score": 0.44637465,
+      "title": "Revisiting Vitamin D Guidelines: A Critical Appraisal of the Literature - Endocrine Practice",
+      "url": "https://www.endocrinepractice.org/article/S1530-891X(24)00804-8/abstract"
+    },
+    {
+      "id": "b24ddf50-9d8c-44b9-aace-03b40ec9d619",
+      "score": 0.43755972,
+      "title": "Prevalence of Vitamin D Insufficiency and Deficiency in Young, Female Patients With Lower Extremity Musculoskeletal Complaints.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33301353/"
+    },
+    {
+      "id": "66296fd0-5da9-43bb-9184-582fa6b79171",
+      "score": 0.4342459,
+      "title": "Endocrine Society Guideline recommends healthy adults under the age of 75 take the recommended daily allowance of vitamin D | Endocrine Society",
+      "url": "https://www.endocrine.org/news-and-advocacy/news-room/2024/endocrine-society-recommends-healthy-adults-take-the-recommended-daily-allowance-of-vitamin-d"
+    },
+    {
+      "id": "e4f566a4-8b00-41b8-a596-10891f49bf0b",
+      "score": 0.39159262,
+      "title": "Vitamin D deficiency in adults: Definition, clinical ...",
+      "url": "https://www.uptodate.com/contents/vitamin-d-deficiency-in-adults-definition-clinical-manifestations-and-treatment"
+    },
+    {
+      "id": "26afcee1-9944-483c-a15d-b6650e31003f",
+      "score": 0.37827587,
+      "title": "Endocrine Society guideline: Most adults do not benefit from additional daily vitamin D",
+      "url": "https://www.healio.com/news/endocrinology/20240604/endocrine-society-guideline-most-adults-do-not-benefit-from-additional-daily-vitamin-d"
+    },
+    {
+      "id": "deba724e-1e87-4b1a-9222-03742aa6c0ed",
+      "score": 0.36276656,
+      "title": "A high weekly dose of cholecalciferol and calcium supplement enhances weight loss and improves health biomarkers in obese women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30442233/"
+    },
+    {
+      "id": "453e20c1-a012-4627-86cf-adc5ae64af5b",
+      "score": 0.349933,
+      "title": "Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21646368/"
+    },
+    {
+      "id": "ad821877-2358-4179-bf64-a553148d0e91",
+      "score": 0.2276929,
+      "title": "Associations of a metal mixture and vitamin D with sleep duration among adolescents and young adults from the 2011-2018 NHANES cycles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39864260/"
+    },
+    {
+      "id": "462ba15f-f220-4d93-b027-5eefda54b0d4",
+      "score": 0.20596655,
+      "title": "Vitamin D Deficiency: Symptoms, Causes, and Health Risks",
+      "url": "https://www.webmd.com/diet/vitamin-d-deficiency"
+    },
+    {
+      "id": "1aad4bd3-4aa6-4c48-aef9-3049a860028e",
+      "score": 0.19465888,
+      "title": "Vitamin D deficiency - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vitamin_D_deficiency"
+    },
+    {
+      "id": "40154a45-9f07-45f7-bcbf-a18ecc7c1b28",
+      "score": 0.17405933,
+      "title": "Biochemical parameters after cholecalciferol repletion in hemodialysis: results From the VitaDial randomized trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24856872/"
+    },
+    {
+      "id": "ca31a494-c118-4733-a672-18994c13f29e",
+      "score": 0.16091137,
+      "title": "Vitamin D status in the United States, 2011\u20132014 - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0002916522011613"
+    },
+    {
+      "id": "aeed4e0d-bacc-4448-bd28-920194c2180c",
+      "score": 0.1585521,
+      "title": "Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38828931/"
+    },
+    {
+      "id": "41add0d2-b656-4b4d-bc88-08e7ec52cb75",
+      "score": 0.15270098,
+      "title": "The independent and interactive effects of heavy metal pollution and vitamin D deficiency on early kidney injury indicators: analysis of the National Health and Nutrition Examination Survey 2001-2004.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39984925/"
+    },
+    {
+      "id": "18315b41-f5d9-473a-9545-928d0924d861",
+      "score": 0.05841575,
+      "title": "Prevalence of Isolated Irritable Bowel Syndrome Among Adults in the Kingdom of Bahrain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38618475/"
+    }
+  ]
+}

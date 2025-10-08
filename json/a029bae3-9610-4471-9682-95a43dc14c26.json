@@ -1,0 +1,525 @@
+{
+  "id": "a029bae3-9610-4471-9682-95a43dc14c26",
+  "status": "completed",
+  "content": "FALSE. Scientific research overwhelmingly indicates that hunger does not decrease negative emotions; rather, it is strongly associated with an increase in negative emotions like anger and irritability. Furthermore, the evidence regarding hunger's effect on positive emotions is mixed, with the majority of studies showing that hunger decreases positive affect or has no significant effect.\n\n## Comprehensive Analysis of Hunger and Emotional States\n\nThe relationship between hunger and emotion is complex, involving psychological responses, physiological states, and hormonal regulation. Extensive research has focused on the colloquial concept of being \"hangry\"\u2014irritable or angry due to hunger\u2014and has largely substantiated this experience, directly contradicting the user's query [1][2].\n\n### Impact on Negative Emotions: The 'Hangry' Phenomenon\n\nThe claim that hunger decreases negative emotions is unsupported by the provided evidence. In contrast, multiple studies demonstrate a robust positive correlation between hunger and negative emotional states.\n\n*   **Increased Anger and Irritability**: A field-based study published in *PLOS ONE* is the first to examine the \"hangry\" effect in a day-to-day environment [1][3]. Researchers collected 9,142 responses from 64 adults over a 21-day period and found that greater levels of self-reported hunger were significantly associated with more intense feelings of anger and irritability [4][2]. The effects were substantial, with hunger accounting for 34% of the variance in anger and 37% of the variance in irritability [1][3][5]. These associations remained significant even after controlling for demographic factors such as age, sex, BMI, and personality traits [6][2].\n*   **Broader Negative Affect**: Other studies corroborate these findings. A 2022 study by Ackermans et al. randomly assigned women to either a 14-hour fasting condition or a satiated condition and found that hungry women reported significantly higher overall negative emotions, including increased tension, anger, fatigue, and confusion [7][8]. Similarly, research on early adolescents revealed that missing meals was linked to increased negative affect; specifically, missing breakfast was associated with a 0.36-point increase and missing lunch with a 0.52-point increase in negative affect scores [9].\n*   **Psychological Mechanisms**: Hunger can induce a negative context that influences perceptions [10]. Research from the University of North Carolina found that hungry participants were more likely to interpret ambiguous stimuli as negative, but only after being primed with a negative image [10]. Hungry individuals also reported greater feelings of stress and hatefulness when they were not explicitly focused on their emotions [10][11]. The release of stress hormones like cortisol and adrenaline due to low blood sugar can also contribute to irritability and aggression [12][13].\n\n### Impact on Positive Emotions: Contradictory and Nuanced Findings\n\nThe claim that hunger increases positive emotions is also largely contradicted by scientific literature, although a few studies suggest a more complex relationship.\n\n*   **Decreased Positive Affect**: The majority of studies show a negative correlation. The widely-cited *PLOS ONE* study found that hunger was associated with lower ratings of pleasure, accounting for 38% of the variance in this measure [14][1]. The Ackermans et al. study similarly found that hungry women reported lower positive emotions, specifically lower vigor and marginally lower esteem-related affect, compared to satiated women [7][15]. The study on adolescents found that missing lunch was related to a 0.80-point decrease in positive affect [9].\n*   **Evidence for Increased Positive States**: Some research offers a contrary perspective. A large-scale Ecological Momentary Assessment (EMA) study found that greater hunger intensity was prospectively associated with an increase in feeling \"active\" (coefficient 0.029) and \"lively\" (coefficient 0.019) [16]. The authors concluded that in a community-based sample, hunger may lead toward some positive psychological states [16]. Another study noted that \"feelings of reward and achievement\" increased with greater fasting time in normal-weight women [17].\n*   **Contextual Factors**: The relationship may be moderated by underlying conditions. One study noted that women with symptoms of eating disorders experienced more positive feelings when hungry than women without such symptoms, suggesting a \"relearned\" association of hunger as a positive experience in this specific group [15]. This highlights that any positive association is not universal and may be linked to psychopathology.\n\n### Physiological Mechanisms: The Complex Role of Ghrelin\n\nGhrelin, known as the \"hunger hormone,\" is central to the physiological regulation of appetite and has been investigated for its role in mood, though findings are inconsistent [18][19].\n\n*   **Antidepressant and Anxiolytic Potential**: Some animal studies suggest that ghrelin has mood-buffering properties. Research has found that elevated ghrelin levels, which can be induced by stress or calorie restriction, produce antidepressant-like and anxiolytic-like behavioral adaptations in mice [18][19][20]. Exogenous ghrelin injections have also demonstrated these effects [21]. This suggests a potential mechanism where the hormone ghrelin, released during hunger, could help individuals cope with stress [22].\n*   **Contradictory and Pro-Anxiety Evidence**: The scientific literature on ghrelin's mood effects is far from settled. Several studies have found that ghrelin can have anxiogenic (anxiety-promoting) effects [19][18]. For instance, one study found that chronic central nervous system exposure to ghrelin increased anxiety- and depression-like behavior in rats [23]. This has led researchers to propose two opposing models: one where rising ghrelin contributes to stress-induced depression and anxiety, and another where it helps minimize these effects [24][20]. Overall, the evidence from human studies remains sparse and inconclusive [25]. The complex and often contradictory findings on ghrelin do not support a simple conclusion that hunger decreases negative emotions.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "5ee07c30-aa0c-4f94-8fb4-71ba9e160f46",
+      "score": 0.9293445,
+      "title": "Hunger associated with stronger feelings of anger and irritability",
+      "url": "https://www.news-medical.net/news/20220706/Hunger-associated-with-stronger-feelings-of-anger-and-irritability.aspx",
+      "citation_index": 1
+    },
+    {
+      "id": "5dcee1e3-7a03-4051-ab39-9be5202564fe",
+      "score": 0.9168945,
+      "title": "\u201cHanger\u201d Is an Actual Thing",
+      "url": "https://www.psychologytoday.com/us/blog/some-assembly-required/202207/hanger-is-an-actual-thing",
+      "citation_index": 2
+    },
+    {
+      "id": "94f59a16-b95b-4880-a4bf-e270ef20c34f",
+      "score": 0.9065293,
+      "title": "Hunger really can make us feel \u2018hangry\u2019 \u2013 study | EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/957699",
+      "citation_index": 3
+    },
+    {
+      "id": "42ce025a-de63-4afa-b614-1ea779c726ea",
+      "score": 0.90830135,
+      "title": "Hangry in the field: An experience sampling study on the impact of hunger on anger, irritability, and affect - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35793289/",
+      "citation_index": 4
+    },
+    {
+      "id": "752f1441-1f50-4ba3-bc48-a89e0b8c143d",
+      "score": 0.8624794,
+      "title": "The hangry brain: Can hunger shape our mood?",
+      "url": "https://www.youtube.com/watch?v=eCWFyhruaZM",
+      "citation_index": 5
+    },
+    {
+      "id": "521c3363-593e-432b-8453-9ee570be2972",
+      "score": 0.9183121,
+      "title": "Hangry in the field: An experience sampling study on ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9258883/",
+      "citation_index": 6
+    },
+    {
+      "id": "53e4e18f-3c90-433f-8744-2ee9d474cf6c",
+      "score": 0.6914979,
+      "title": "Hunger increases negative and decreases positive emotions in women with a healthy weight - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34637770/",
+      "citation_index": 7
+    },
+    {
+      "id": "8ebcb564-350a-4ab6-a531-c707df7b6d43",
+      "score": 0.10415817,
+      "title": "Hunger increases negative and decreases positive emotions in women with a healthy weight - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S019566632100653X",
+      "citation_index": 8
+    },
+    {
+      "id": "56b5d53f-13cc-4f35-8d58-c838609f318b",
+      "score": 0.7578844,
+      "title": "Food and Mood: Daily Associations Between Missed Meals and Affect Among Early Adolescents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35882067/",
+      "citation_index": 9
+    },
+    {
+      "id": "8e8b8165-e256-4f02-a042-b40eade0df3b",
+      "score": 0.46293488,
+      "title": "Are you really you when you're hungry?",
+      "url": "https://www.apa.org/news/press/releases/2018/06/hungry",
+      "citation_index": 10
+    },
+    {
+      "id": "e58cbeb5-cb41-4771-b886-00db6a212f08",
+      "score": 0.8266142,
+      "title": "Feeling hangry? The connection between hunger and your mood and how to master it",
+      "url": "https://happiful.com/feeling-hangry-the-connection-between-hunger-and-your-mood-and-how-to-master-it",
+      "citation_index": 11
+    },
+    {
+      "id": "1718df31-92ae-4bdb-b0bb-f0eb0e2d2ac3",
+      "score": 0.70799106,
+      "title": "Is Being \u2018Hangry\u2019 Really a Thing \u2015 or Just an Excuse?",
+      "url": "https://health.clevelandclinic.org/is-being-hangry-really-a-thing-or-just-an-excuse",
+      "citation_index": 12
+    },
+    {
+      "id": "cd7faca3-fac9-4538-968b-c6eb3051694b",
+      "score": 0.8479807,
+      "title": "What Happens in Your Brain When You\u2019re Hangry?",
+      "url": "https://www.verywellmind.com/what-happens-in-your-brain-when-you-re-hangry-8778638",
+      "citation_index": 13
+    },
+    {
+      "id": "6dc7f2f1-99d7-4643-a392-6ff935656032",
+      "score": 0.45333505,
+      "title": "Hangry in the field: An experience sampling study on the impact of hunger on anger, irritability, and affect | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269629",
+      "citation_index": 14
+    },
+    {
+      "id": "3e3660e4-a768-4136-8f94-2abf91e57050",
+      "score": 0.599087,
+      "title": "How hunger can warp our minds",
+      "url": "https://www.bbc.com/future/article/20230822-how-hunger-can-warp-our-minds",
+      "citation_index": 15
+    },
+    {
+      "id": "518e8ca1-e56d-48c8-9b56-d6504983541f",
+      "score": 0.8409005,
+      "title": "Associations between Hunger and Psychological Outcomes: A Large-Scale Ecological Momentary Assessment Study - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9736756/",
+      "citation_index": 16
+    },
+    {
+      "id": "7d47c99c-5141-443d-9230-542fd0fcc4b2",
+      "score": 0.49040702,
+      "title": "Effects of hunger on mood and affect reactivity to monetary reward ...",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC7237012",
+      "citation_index": 17
+    },
+    {
+      "id": "29d0cf62-d311-4163-9bb8-71b8f33f2679",
+      "score": 0.8443195,
+      "title": "Ghrelin's Roles in Stress, Mood, and Anxiety Regulation",
+      "url": "https://www.hindawi.com/journals/ijpep/2010/460549/",
+      "citation_index": 18
+    },
+    {
+      "id": "24191585-eee7-4012-9b8c-487ff46aa110",
+      "score": 0.79939574,
+      "title": "Ghrelin's Roles in Stress, Mood, and Anxiety Regulation - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2915752/",
+      "citation_index": 19
+    },
+    {
+      "id": "8fa6c520-2285-4076-809a-f2b3ac4e6ad2",
+      "score": 0.6972179,
+      "title": "(PDF) Ghrelin's Roles in Stress, Mood, and Anxiety Regulation",
+      "url": "https://www.researchgate.net/publication/45709330_Ghrelin's_Roles_in_Stress_Mood_and_Anxiety_Regulation",
+      "citation_index": 20
+    },
+    {
+      "id": "48b88af5-86bc-4e19-974c-01e9cd36409b",
+      "score": 0.8660535,
+      "title": "Ghrelin as a Biomarker of \u201cImmunometabolic Depression\u201d and Its Connection with Dysbiosis",
+      "url": "https://www.mdpi.com/2072-6643/15/18/3960",
+      "citation_index": 21
+    },
+    {
+      "id": "970a4abc-8927-4886-abec-8ca1e185b343",
+      "score": 0.81133276,
+      "title": "Mood disorders: A potential link between ghrelin and leptin on human body? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4436933/",
+      "citation_index": 22
+    },
+    {
+      "id": "ab98d410-5cbc-4b7f-b177-e7f347942bd2",
+      "score": 0.7992077,
+      "title": "Central administration of ghrelin alters emotional responses in rats: behavioural, electrophysiological and molecular evidence - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21303683/",
+      "citation_index": 23
+    },
+    {
+      "id": "214a1e9a-32b7-4730-8a16-0e4a60c4cfb9",
+      "score": 0.69820654,
+      "title": "Ghrelin's Roles in Stress, Mood, and Anxiety Regulation - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20721341/",
+      "citation_index": 24
+    },
+    {
+      "id": "5fa6af64-8663-41e9-b89c-a63cf65a0c2a",
+      "score": 0.5837973,
+      "title": "Frontiers | The Good, the Bad and the Unknown Aspects of Ghrelin in Stress Coping and Stress-Related Psychiatric Disorders",
+      "url": "https://www.frontiersin.org/journals/synaptic-neuroscience/articles/10.3389/fnsyn.2020.594484/full",
+      "citation_index": 25
+    },
+    {
+      "id": "4346a294-f2dd-43a8-9a40-4fc17df123af",
+      "score": 0.9358233,
+      "title": "New research finds hunger is associated with increased anger, irritability",
+      "url": "https://www.youtube.com/watch?v=9Fl6ZqN70eM"
+    },
+    {
+      "id": "5688ab61-1f7c-4d5a-a5d1-635ac3078ccb",
+      "score": 0.8559598,
+      "title": "\u2018Hangry is a real thing\u2019: psychologists find link between hunger and emotions | Psychology | The Guardian",
+      "url": "https://www.theguardian.com/science/2022/jul/06/being-hangry-is-a-real-thing-psychologists-find-link-between-hunger-and-emotions"
+    },
+    {
+      "id": "b09960fd-97b0-4cf5-b250-26ca090e3955",
+      "score": 0.85538095,
+      "title": "r/science on Reddit: New research shows hunger is associated with stronger feelings of anger and irritability, as well as lower ratings of pleasure, and the effects were substantial, even after taking into account demographic factors such as age and sex, body mass index, dietary behaviour",
+      "url": "https://www.reddit.com/r/science/comments/vtca7v/new_research_shows_hunger_is_associated_with/"
+    },
+    {
+      "id": "3fd5f348-ac38-497b-82da-9ec50b50c878",
+      "score": 0.8512743,
+      "title": "Physiological Effect of Ghrelin on Body Systems - Akalu - 2020 - International Journal of Endocrinology - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1155/2020/1385138"
+    },
+    {
+      "id": "65501b78-b83a-4295-ac3a-ea2f6e324139",
+      "score": 0.8437023,
+      "title": "Study Says That Hunger Leads To Stronger Feelings Of Anger, Irritability",
+      "url": "https://www.youtube.com/watch?v=3lK-exx4O9E"
+    },
+    {
+      "id": "dec876d9-2ad9-4a6f-b1a5-708ac7184a2e",
+      "score": 0.84215075,
+      "title": "Why You Get Angry When You're Hungry?",
+      "url": "https://www.youtube.com/watch?v=yu-hrbmdzPQ"
+    },
+    {
+      "id": "e1774d1b-b75c-4628-928c-dc5e4cfb6299",
+      "score": 0.8351749,
+      "title": "Feeling Hangry? The Connection Between Anger and Hunger",
+      "url": "https://www.verywellhealth.com/hangry-7499808"
+    },
+    {
+      "id": "b64ed409-1502-49ac-92d4-b9b210249cea",
+      "score": 0.82694983,
+      "title": "Ecological momentary assessment of mood regulation eating expectancies in eating disorders: Convergent and predictive validity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37337314/"
+    },
+    {
+      "id": "2e83a373-c729-44e5-b81c-e1acfa11da13",
+      "score": 0.8131201,
+      "title": "Hangry is a real emotion #shorts #hangry #trending",
+      "url": "https://www.youtube.com/watch?v=QKUyEscLx0g"
+    },
+    {
+      "id": "cd55a347-9c90-4ebb-841d-418d6ab0809b",
+      "score": 0.80844593,
+      "title": "Hunger shifts attention and attribute weighting in dietary ...",
+      "url": "https://elifesciences.org/articles/103736"
+    },
+    {
+      "id": "5aa84146-29bb-4742-a015-5975c5cf174e",
+      "score": 0.78493005,
+      "title": "Can Ghrelin And Leptin Affect Mood? - Sleep Wellness Workshop",
+      "url": "https://www.youtube.com/watch?v=AODGa1bvgr4"
+    },
+    {
+      "id": "3524d7b3-b8b3-44cd-93f1-9292de91f516",
+      "score": 0.7845341,
+      "title": "Ghrelin, Neuroinflammation, Oxidative Stress, and Mood Disorders: What Are the Connections? - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39041263/"
+    },
+    {
+      "id": "922b8b90-5186-43e8-9040-447b46141cf4",
+      "score": 0.78314424,
+      "title": "Does Ghrelin Affect Mood? - Sleep Wellness Workshop",
+      "url": "https://www.youtube.com/watch?v=-EVbRxOB80w"
+    },
+    {
+      "id": "24704ed3-381b-4369-adbd-3342bba0c184",
+      "score": 0.7811474,
+      "title": "Ghrelin\u2032s Roles in Stress, Mood, and Anxiety Regulation - Chuang - 2010 - International Journal of Peptides - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1155/2010/460549"
+    },
+    {
+      "id": "15a07d36-f7a1-4dd7-9555-869ea0005b4d",
+      "score": 0.76617163,
+      "title": "Ghrelin's Role in the Hypothalamic-Pituitary-Adrenal Axis Stress Response: Implications for Mood Disorders - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25534754/"
+    },
+    {
+      "id": "22892842-5b44-4b7d-a48c-6904b83f98be",
+      "score": 0.76617163,
+      "title": "A link between ghrelin and major depressive disorder: a mini review - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10965711/"
+    },
+    {
+      "id": "c9c1a07c-9a72-4e5f-82d7-7ed81a4f4cc8",
+      "score": 0.6864757,
+      "title": "Physiological Effect of Ghrelin on Body Systems - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7267865/"
+    },
+    {
+      "id": "7b116deb-b226-44b5-bffa-350aebed8947",
+      "score": 0.6862234,
+      "title": "Frontiers | A link between ghrelin and major depressive disorder: a mini review",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1367523/full"
+    },
+    {
+      "id": "b85e0657-dd4b-43c2-9cd7-51da0ce16dc4",
+      "score": 0.6844544,
+      "title": "Ghrelin mediated regulation of neurosynaptic transmitters ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2590257122000335"
+    },
+    {
+      "id": "c9b5301a-724f-421b-b10a-ce76ac28559f",
+      "score": 0.67321366,
+      "title": "Ghrelin is associated with an elevated mood after ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022395624002590"
+    },
+    {
+      "id": "9c9e1866-06a8-43e8-b463-bfed258843ee",
+      "score": 0.65966886,
+      "title": "Ghrelin \u2013 Physiological Functions and Regulation - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5819073/"
+    },
+    {
+      "id": "a70ca5e7-5e4f-4c8a-adc3-b35e6ac32ce8",
+      "score": 0.6420965,
+      "title": "Ghrelin Modulates Sympathetic Nervous System Activity ...",
+      "url": "https://www.ahajournals.org/doi/10.1161/hypertensionaha.111.171025"
+    },
+    {
+      "id": "e9e98960-f525-46f1-88a0-1dcf43f29f23",
+      "score": 0.64182705,
+      "title": "Influence of CrossFit and Deep End Fitness training on mental health and coping in athletes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37849685/"
+    },
+    {
+      "id": "0757d4ec-7c7f-403c-b74f-9daa7ba83677",
+      "score": 0.62000114,
+      "title": "\ud83d\ude21 How Hunger Affects Your Mood #mindfulness #emotionalintelligence",
+      "url": "https://www.youtube.com/watch?v=60g5O7dhv_w"
+    },
+    {
+      "id": "83f1752a-ae43-4a75-98d5-cad930cb388c",
+      "score": 0.61112726,
+      "title": "Feasibility and Links Between Emotions, Physical States, and Eating Behavior in Patients After Metabolic Bariatric Surgery: Experience Sampling Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40053719/"
+    },
+    {
+      "id": "9e3d0d5e-cf92-45bb-bf04-9f540ed5ae6b",
+      "score": 0.6077801,
+      "title": "Feeling h-angry? The surprising study linking hunger and anger | Today Show Australia",
+      "url": "https://www.youtube.com/watch?v=WwyL6-PfZMs"
+    },
+    {
+      "id": "b1daf6fa-e181-4d36-9883-4918670a9166",
+      "score": 0.5889134,
+      "title": "Frontiers | The Effect of Hunger and Satiety on Mood-Related Food Craving",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.568908/full"
+    },
+    {
+      "id": "fc2fbeca-9b73-4381-b080-8d26c1e660e9",
+      "score": 0.5863576,
+      "title": "How to Deal With Being HANGRY: Managing Hunger & Anger",
+      "url": "https://www.youtube.com/watch?v=qsf-of6ZrnU"
+    },
+    {
+      "id": "16f505d4-f9ba-47b4-a0de-2ff368e02363",
+      "score": 0.5860734,
+      "title": "Serum Ghrelin and Leptin Levels in Patients with ...",
+      "url": "https://www.psychiatryinvestigation.org/m/journal/view.php?doi=10.4306/pi.2014.11.2.167"
+    },
+    {
+      "id": "0f68c38b-a1ea-45e9-af97-8521d731ae31",
+      "score": 0.5760895,
+      "title": "\"I'm so dumb and worthless \": factors associated with heightened momentary self-criticism in daily life.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38241697/"
+    },
+    {
+      "id": "3802a5aa-8743-446c-94c3-7da61faee91c",
+      "score": 0.55998856,
+      "title": "No Effect of Hunger on the Memory of Food Images and Prices | Adaptive Human Behavior and Physiology",
+      "url": "https://link.springer.com/article/10.1007/s40750-024-00247-0"
+    },
+    {
+      "id": "d2263f46-7382-47f1-82d1-2b14de5ff387",
+      "score": 0.5533369,
+      "title": "Ghrelin - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghrelin"
+    },
+    {
+      "id": "975659e3-12ca-456a-839b-ed3907dbc82f",
+      "score": 0.54971373,
+      "title": "Ghrelin and Depression",
+      "url": "https://www.news-medical.net/health/Ghrelin-and-Depression.aspx"
+    },
+    {
+      "id": "368d5b40-b3ef-4adc-9292-e5dfb5dbc95a",
+      "score": 0.5404151,
+      "title": "Serum ghrelin levels and the effects of antidepressants in major depressive disorder and panic disorder - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22948519/"
+    },
+    {
+      "id": "e77ce06a-5597-4e45-84fb-89d5875df004",
+      "score": 0.43438992,
+      "title": "Hangry: Is the Concept of Food and Mood Connection Real?",
+      "url": "https://www.nutritional-psychology.org/food-and-mood-is-the-concept-of-hangry-real/"
+    },
+    {
+      "id": "f3a8a37d-ef9e-4aa6-b794-6a9be260f1a3",
+      "score": 0.40063268,
+      "title": "Frontiers | The impact of hunger on indulgent food choices is moderated by healthy eating concerns",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1377120/full"
+    },
+    {
+      "id": "eb427cc1-b84c-44e2-b45e-914081b2eaea",
+      "score": 0.39522812,
+      "title": "Why Are We Always Hangry? Emotions connected to Hunger and\u00a0Irritability",
+      "url": "https://www.youtube.com/watch?v=7Vsz8MxTIl8"
+    },
+    {
+      "id": "ecbcf7b5-88b1-4247-a983-0a64a3849641",
+      "score": 0.38623142,
+      "title": "Sudden Onset Disordered Eating Behaviors and Appetite Issues in a Local Clinical Cohort of Children With Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40165330/"
+    },
+    {
+      "id": "59f5c610-4f7e-4b3a-ac4d-462662b643f7",
+      "score": 0.37972388,
+      "title": "Sensation of time passing during meals and risks of eating disorders: A pilot study in a non-clinical sample.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40614779/"
+    },
+    {
+      "id": "bfd202ed-9e82-498b-a633-1ab2eef9b5c6",
+      "score": 0.37476835,
+      "title": "Effects of Hunger on Emotional Arousal Responses and Attention/Memory Biases - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7781156/"
+    },
+    {
+      "id": "71d572ed-5899-4e63-bad7-e2ea0e0824a9",
+      "score": 0.3645971,
+      "title": "Effects of Hunger on the Body & Child Development l No Kid Hungry",
+      "url": "https://www.nokidhungry.org/blog/effects-of-hunger-on-the-body"
+    },
+    {
+      "id": "59faa9c7-a468-470d-b321-de76619ef6a0",
+      "score": 0.3618866,
+      "title": "Positive emotions and their upregulation increase ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0195666322005116"
+    },
+    {
+      "id": "787529dd-3a04-4aec-ab64-dd95594596c3",
+      "score": 0.32485673,
+      "title": "Reliability and validity of the Turkish version of the Salzburg emotional eating scale: a psychometric study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40890869/"
+    },
+    {
+      "id": "b2a6b8f3-4485-46ea-a3e9-83e2aba67d48",
+      "score": 0.32072607,
+      "title": "The Psychobiology of Hunger \u2013 A Scientific Perspective | Topoi",
+      "url": "https://link.springer.com/article/10.1007/s11245-020-09724-z"
+    },
+    {
+      "id": "853ecb3c-f750-4ee2-9faf-678c3203fc69",
+      "score": 0.31088316,
+      "title": "Psychosocial factors influencing dietary management in patients with type 2 diabetes and healthy adults: an ecological momentary assessment approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39839927/"
+    },
+    {
+      "id": "6432c5ac-f1dd-41ac-9b84-b8230ed0ac30",
+      "score": 0.30219588,
+      "title": "Boredom proneness, interoception, and emotional eating.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35843373/"
+    },
+    {
+      "id": "2a41970e-c797-454d-bb86-1afdac4d4274",
+      "score": 0.25408348,
+      "title": "Towards developing a \"baby translator\" - An exploration of how infant appetite cues are understood.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39798930/"
+    },
+    {
+      "id": "30d9ce43-6dac-43be-82fd-0dbafc32ac43",
+      "score": 0.2430989,
+      "title": "Hunger (physiology) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hunger_(physiology)"
+    },
+    {
+      "id": "a61d912d-9e74-4312-87e5-8bcef6ee1f56",
+      "score": 0.21143347,
+      "title": "Momentary Associations Across Specific Affective States and Dysregulated Eating Experiences Among Children and Adolescents With Loss of Control Eating Symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39690879/"
+    },
+    {
+      "id": "a24ce070-f4a4-4471-9c15-789bb564c452",
+      "score": 0.20760037,
+      "title": "Food Insecurity and Psychological Distress: A Review of the Recent Literature - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7282962/"
+    },
+    {
+      "id": "e7b7153a-d10d-427e-a8cc-cc565e911a63",
+      "score": 0.18947643,
+      "title": "Why stress causes people to overeat - Harvard Health",
+      "url": "https://www.health.harvard.edu/staying-healthy/why-stress-causes-people-to-overeat"
+    },
+    {
+      "id": "265c73ee-60c4-4434-9007-2666287ac4d3",
+      "score": 0.17955965,
+      "title": "Forget Angry: Here\u2019s How Hunger Makes You Impulsive",
+      "url": "https://www.youtube.com/watch?v=MOtrHV-vTn8"
+    },
+    {
+      "id": "39b8038a-0a94-4a82-882a-337bba4ec9d5",
+      "score": 0.13205522,
+      "title": "When Hunger Leads To Anger #shorts",
+      "url": "https://www.youtube.com/watch?v=9AQfPw5RmKE"
+    },
+    {
+      "id": "caa28eb9-b431-435c-abbf-d7268b05d1ea",
+      "score": 0.12853633,
+      "title": "The Physical, Mental, and Social Effects of Hunger (Chapter 4) - The Atrocity of Hunger",
+      "url": "https://www.cambridge.org/core/books/atrocity-of-hunger/physical-mental-and-social-effects-of-hunger/4A88695415E9416F6615A0FB6FF071CD"
+    },
+    {
+      "id": "ad4656d8-cfe7-4026-9ad4-47c6cd811535",
+      "score": 0.09272903,
+      "title": "From childhood to adolescence: Development of binge eating and the prospective role of self-regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40619418/"
+    },
+    {
+      "id": "692de5c6-1522-458d-95cc-db98996f1cdd",
+      "score": 0.057647057,
+      "title": "Dyspepsia-Is the Stomach Half Empty?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40249457/"
+    },
+    {
+      "id": "66873c22-02b9-4f43-b809-6eaa05175388",
+      "score": 0.05217782,
+      "title": "Long-Term Impact of COVID-19 on Disorders of Gut-Brain Interaction: Incidence, Symptom Burden, and Psychological Comorbidities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40119532/"
+    }
+  ]
+}

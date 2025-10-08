@@ -1,0 +1,326 @@
+{
+  "id": "b0a7f04a-5b79-4b32-852e-6d1eb14ded09",
+  "status": "completed",
+  "content": "TRUE: The claim that 331,360 acres of land burned in California in 2022 is factually accurate, with a negligible variance of two acres from the official figure reported by the California Department of Forestry and Fire Protection (CAL FIRE).\n\n## Detailed Analysis of 2022 Wildfire Acreage\n\nOfficial statistics from CAL FIRE's 2022 Incident Archive confirm that a total of 331,358 acres were burned in 7,477 separate wildfire incidents during that year[1][2][3]. The two-acre difference between this official number and the queried figure of 331,360 is statistically insignificant and likely attributable to rounding or a minor reporting variance.\n\n### Conflicting Data and Jurisdictional Reporting\n\nWhile CAL FIRE's primary public-facing statistics consistently report the 331,358-acre figure, other sources report a higher total of 362,455 acres burned from 7,490 fires[5][6]. A rounded figure of 362,000 acres is also cited elsewhere[7].\n\nThis common discrepancy in wildfire statistics typically stems from differences in data collection between state and federal agencies and reporting based on jurisdictional responsibility. CAL FIRE's figures may focus on lands within its direct protection responsibility, while the higher number likely represents a combined total that includes fires on federal lands, as compiled by sources like the National Interagency Fire Center (NIFC)[5]. CAL FIRE's comprehensive annual \"Redbook\" reports provide detailed breakdowns by jurisdiction that reconcile these figures[8][9].\n\n### The 2022 California Wildfire Season in Context\n\nThe 2022 wildfire season was notably mild in terms of total acreage burned, especially when compared to recent preceding years and historical averages[10].\n\n*   **Comparison to Averages**: The total acreage burned in 2022 was well below the state's five-year average of more than 2.3 million acres[1].\n*   **Comparison to Prior Years**: The acreage was significantly lower than the 2.5 million acres burned in 2021 and the record-breaking 4.3 million acres burned in 2020[10].\n*   **National Context**: Across the United States, 68,988 wildfires burned a total of 7.6 million acres in 2022[11]. Over 40% of this national total was in Alaska alone (3.1 million acres)[11].\n\n### Major Incidents of the 2022 Season\n\nDespite the lower overall acreage, California experienced several significant fires in 2022. The largest fires of the year were[1][3]:\n\n*   **Mosquito Fire**: Started in September in Placer and El Dorado counties, burning 76,788 acres.\n*   **McKinney Fire**: Started in July in Siskiyou County, burning 60,138 acres.\n*   **Fairview Fire**: Started in September in Riverside County, burning 28,098 acres.\n\nThese top three fires alone accounted for more than half of the total acreage reported in CAL FIRE's primary statistics for the year[3].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "691611b9-9ff6-4731-9c5c-590db623f42a",
+      "score": 0.91175514,
+      "title": "2022 Fire Season Incident Archive | CAL FIRE",
+      "url": "https://www.fire.ca.gov/incidents/2022",
+      "citation_index": 1
+    },
+    {
+      "id": "51f0510b-f755-4cbf-b046-407001257d0d",
+      "score": 0.80844593,
+      "title": "2022 Incident Archive - Cal Fire - CA.gov",
+      "url": "https://www.fire.ca.gov/incidents/2022/-",
+      "citation_index": 2
+    },
+    {
+      "id": "0e5c2c1c-dcc6-46cc-9341-8c631914798a",
+      "score": 0.9377661,
+      "title": "Here's how the Park Fire compares to California's largest fires over the past three years",
+      "url": "https://www.abc10.com/article/news/local/wildfire/park-fire-california-largest-wildfire-since-2021/103-e4ce7e78-b988-4e1c-8a39-37ff96d12d8b",
+      "citation_index": 3
+    },
+    {
+      "id": "62550d07-196f-44b9-b176-851f5063a644",
+      "score": 0.767429,
+      "title": "List of California wildfires - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_California_wildfires",
+      "citation_index": 5
+    },
+    {
+      "id": "a798c7e5-f1c9-485d-b617-b34af9164112",
+      "score": 0.7644879,
+      "title": "California Wildfires History & Statistics | Frontline Wildfire Defense",
+      "url": "https://www.frontlinewildfire.com/wildfire-news-and-resources/california-wildfires-history-statistics/",
+      "citation_index": 6
+    },
+    {
+      "id": "a42453a9-b9bd-4fab-9dbf-d3e22d48a296",
+      "score": 0.95838624,
+      "title": "2022 North American Wildfires",
+      "url": "https://disasterphilanthropy.org/disasters/2022-north-american-wildfires/",
+      "citation_index": 7
+    },
+    {
+      "id": "bc74dd30-80c6-4a75-9d03-b9d6d6e69ef7",
+      "score": 0.70336664,
+      "title": "Statistics | CAL FIRE",
+      "url": "https://www.fire.ca.gov/our-impact/statistics",
+      "citation_index": 8
+    },
+    {
+      "id": "04370d0f-0bad-4d03-ab84-c58fa7128a26",
+      "score": 0.15460591,
+      "title": "Statistics | CAL FIRE - CA.gov",
+      "url": "https://www.fire.ca.gov/our-impact/statistics?os=vb&ref=app",
+      "citation_index": 8
+    },
+    {
+      "id": "69b732dc-97ea-46aa-8835-8b215ac0c14f",
+      "score": 0.15460591,
+      "title": "Statistics | CAL FIRE - CA.gov",
+      "url": "https://www.fire.ca.gov/our-impact/statistics?os=v&ref=app",
+      "citation_index": 8
+    },
+    {
+      "id": "1dce1dfa-3dab-4305-badd-a1e72ca54928",
+      "score": 0.83742094,
+      "title": "Fire Map: Track California Wildfires 2025 - CalMatters",
+      "url": "https://calmatters.org/california-wildfire-map-tracker/",
+      "citation_index": 9
+    },
+    {
+      "id": "1b402f51-859a-4b1b-8b64-35fa3da4b88b",
+      "score": 0.76321954,
+      "title": "By the numbers: California\u2019s mild 2022 wildfire season - CalMatters",
+      "url": "https://calmatters.org/environment/wildfires/2022/12/california-wildfires-2022/",
+      "citation_index": 10
+    },
+    {
+      "id": "c8ac9e7d-f634-4bc5-a12c-5f5877826e10",
+      "score": 0.9047265,
+      "title": "Untitled",
+      "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF10244.web.html",
+      "citation_index": 11
+    },
+    {
+      "id": "da105ced-4f21-4a7e-8131-3b177b1ba754",
+      "score": 0.93666285,
+      "title": "Report: Humans have caused 96% of wildfires in the U.S. in 2022 | abc10.com",
+      "url": "https://www.abc10.com/article/news/local/wildfire/wildfires-human-caused-california/103-4ffb82f9-bc8d-48b7-a6cb-ad4d56ff7196"
+    },
+    {
+      "id": "5a0d438b-54ca-416c-acc6-3bb71f4b783f",
+      "score": 0.9323611,
+      "title": "2022 California wildfires - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2022_California_wildfires"
+    },
+    {
+      "id": "14382b2e-0485-4756-9f22-a34c5a130a7c",
+      "score": 0.8963332,
+      "title": "2022 Arizona wildfires - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2022_Arizona_wildfires"
+    },
+    {
+      "id": "2e96cb76-72aa-4755-a329-251f18ef4628",
+      "score": 0.8943568,
+      "title": "Facts + Statistics: Wildfires | III",
+      "url": "https://www.iii.org/fact-statistic/facts-statistics-wildfires"
+    },
+    {
+      "id": "2f1b0725-dffc-4233-be47-48476dea0996",
+      "score": 0.8775715,
+      "title": "",
+      "url": "https://www.wolframalpha.com/input/?i=California+wildfire+statistics+2022"
+    },
+    {
+      "id": "fd0846a0-c30d-4fcf-ab4e-2109002098e3",
+      "score": 0.87218446,
+      "title": "Search Results | CAL FIRE",
+      "url": "https://www.fire.ca.gov/Search-Results?search=redbook%202012&type=all"
+    },
+    {
+      "id": "e6634ca5-f234-4e89-88bd-dd30afefa5c3",
+      "score": 0.87113565,
+      "title": "California: largest wildfires by number of acres burned 2022 | Statista",
+      "url": "https://www.statista.com/statistics/943237/leading-california-wildfires-number-acres-burned/"
+    },
+    {
+      "id": "94cf7143-1711-410e-9d6a-a242865aafc7",
+      "score": 0.8593928,
+      "title": "California: largest wildfires by acres burned 1932-2022 | Statista",
+      "url": "https://www.statista.com/statistics/942842/largest-california-wildfires-acres-burned/"
+    },
+    {
+      "id": "ebb92364-c54d-46c0-9717-08b5afb9c905",
+      "score": 0.8455478,
+      "title": "Live California Fire Map and Tracker",
+      "url": "https://www.frontlinewildfire.com/california-wildfire-map/"
+    },
+    {
+      "id": "5a2cf1c6-1fbc-47d0-80c6-48b4dc46215c",
+      "score": 0.83932644,
+      "title": "October 17, 2022 - CAL FIRE Report",
+      "url": "https://www.youtube.com/watch?v=LawekCJ0LPs"
+    },
+    {
+      "id": "880b4dc1-5d36-4176-8dcf-bb164cb0d4cd",
+      "score": 0.8190992,
+      "title": "Wildfire Statistics | Congress.gov | Library of Congress",
+      "url": "https://www.congress.gov/crs-product/IF10244"
+    },
+    {
+      "id": "2d56d9f0-c500-4fa0-84c0-ebe42fbc889a",
+      "score": 0.80771893,
+      "title": "Statistics | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/statistics"
+    },
+    {
+      "id": "db8f3666-450b-4a5a-a1c7-a06701b08d7b",
+      "score": 0.79939574,
+      "title": "Incident Management Situation Report Tuesday, October 7, 2025 \u2013 0730 MDT",
+      "url": "https://www.nifc.gov/nicc-files/sitreprt.pdf"
+    },
+    {
+      "id": "c763b5d9-c5af-4021-b81d-0a34b8b354c1",
+      "score": 0.79119295,
+      "title": "Climate Change Indicators: Wildfires | US EPA",
+      "url": "https://www.epa.gov/climate-indicators/climate-change-indicators-wildfires"
+    },
+    {
+      "id": "f5dd9139-e6e6-4d92-93c0-2f83a6c30966",
+      "score": 0.78963995,
+      "title": "National Fire News | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/nfn"
+    },
+    {
+      "id": "15da038c-7c8d-4365-9853-ae4afcd8db67",
+      "score": 0.78493005,
+      "title": "National Interagency Fire Center",
+      "url": "https://www.facebook.com/photo.php?fbid=511570707753980&id=100067031662172&set=a.189195166658204"
+    },
+    {
+      "id": "26b37175-30a1-44b3-9563-c9cbffedbfe2",
+      "score": 0.78314424,
+      "title": "November 7, 2022 - CAL FIRE Report",
+      "url": "https://www.youtube.com/watch?v=77-P8AclYok"
+    },
+    {
+      "id": "0a448ead-b22a-4031-a49c-e199a24647da",
+      "score": 0.74363416,
+      "title": "Ca",
+      "url": "https://oehha.ca.gov/climate-change/epic-2022/impacts-vegetation-and-wildlife/wildfires"
+    },
+    {
+      "id": "2c656d50-2d67-40e4-b324-94b1c784c574",
+      "score": 0.741169,
+      "title": "August 22, 2022 - CAL FIRE Report",
+      "url": "https://www.youtube.com/watch?v=I2kI9sOTcgw"
+    },
+    {
+      "id": "0fb8328a-f432-4371-a715-c16038447619",
+      "score": 0.71496695,
+      "title": "Incidents | CAL FIRE",
+      "url": "https://www.fire.ca.gov/incidents"
+    },
+    {
+      "id": "414cdf18-43bf-45d8-bc45-d9fc2cb38add",
+      "score": 0.7067782,
+      "title": "statistics Archives - Wildfire Today",
+      "url": "https://wildfiretoday.com/tag/statistics/"
+    },
+    {
+      "id": "a17b6f80-14bc-4f24-a70b-826f9db23c15",
+      "score": 0.68697983,
+      "title": "National Interagency Coordination Center | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/nicc"
+    },
+    {
+      "id": "ad4f6637-b52c-467d-91e6-e446833e657f",
+      "score": 0.6847074,
+      "title": "2018 Wildfire Activity Statistics",
+      "url": "http://large.stanford.edu/courses/2022/ph240/chunduru1/docs/redbook-2018.pdf"
+    },
+    {
+      "id": "985047cd-c6ea-4914-9ef3-b92c0e0a6869",
+      "score": 0.6768127,
+      "title": "Fire Information | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information"
+    },
+    {
+      "id": "9170f416-3a21-4b1a-b0b8-1653dfb76d23",
+      "score": 0.6407488,
+      "title": "2020 Wildfire Activity Statistics",
+      "url": "http://large.stanford.edu/courses/2022/ph240/chunduru1/docs/redbook-2020.pdf"
+    },
+    {
+      "id": "074ae51e-a9c0-4025-b20a-d247c27e0b37",
+      "score": 0.63750535,
+      "title": "September 19, 2022 - CAL FIRE Report",
+      "url": "https://www.youtube.com/watch?v=S-VRw9Yonms"
+    },
+    {
+      "id": "fcde4934-718a-40dd-a35c-faf22aa2663c",
+      "score": 0.56200886,
+      "title": "California Department of Forestry and Fire Protection | CAL FIRE",
+      "url": "https://www.fire.ca.gov/"
+    },
+    {
+      "id": "fc062662-4b1f-44e9-8e31-9eadc622641a",
+      "score": 0.5518883,
+      "title": "October 24, 2022 - CAL FIRE Report",
+      "url": "https://www.youtube.com/watch?v=v5TvZEOkw7w"
+    },
+    {
+      "id": "19661391-2633-477a-ac7a-519d42077b3c",
+      "score": 0.5373576,
+      "title": "California Incident Data and Statistics Program | OSFM - CA.gov",
+      "url": "https://osfm.fire.ca.gov/resources/california-incident-data-and-statistics-program"
+    },
+    {
+      "id": "a62681ed-5a8a-44f0-a823-ebe98a02e4dc",
+      "score": 0.5363378,
+      "title": "Spatial and temporal pattern of wildfires in California from 2000 to 2019 | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-021-88131-9"
+    },
+    {
+      "id": "c9b250ab-4860-4132-b9ce-5a8ed0fd7abb",
+      "score": 0.48982134,
+      "title": "Wildfires and Acres | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/statistics/wildfires"
+    },
+    {
+      "id": "132bd3c2-46a4-474a-8076-34de8bca56cd",
+      "score": 0.48982134,
+      "title": "Human-caused wildfires | National Interagency Fire Center",
+      "url": "https://www.nifc.gov/fire-information/statistics/human-caused"
+    },
+    {
+      "id": "3b891b76-fb45-4fee-8a72-f7a24bc3bd7c",
+      "score": 0.47300056,
+      "title": "2025 Fire Season Incident Archive | CAL FIRE",
+      "url": "https://www.fire.ca.gov/incidents/2025"
+    },
+    {
+      "id": "ef9dbae7-3b62-467c-a885-2408618162f3",
+      "score": 0.41948205,
+      "title": "Wildland Fire Open Data | Drought.gov",
+      "url": "https://www.drought.gov/data-maps-tools/wildland-fire-open-data"
+    },
+    {
+      "id": "9a3f8455-4e2e-4e92-a79f-1a6ef0af9955",
+      "score": 0.36636353,
+      "title": "Statistics",
+      "url": "https://www.usfa.fema.gov/statistics/"
+    },
+    {
+      "id": "6c87198f-acf1-4dca-8811-c3ed15bcc93b",
+      "score": 0.34395897,
+      "title": "2022 Wildfire Activity Statistics",
+      "url": "https://srp-prod-public-pdfs.s3-us-west-2.amazonaws.com/7ccede02-647d-5c59-aaa2-2d4b20d28eca"
+    },
+    {
+      "id": "761f5a94-1593-4a4f-b8ae-e40781343678",
+      "score": 0.18203293,
+      "title": "Nifc",
+      "url": "https://gacc.nifc.gov/sacc/predictive/intelligence/NationalYTDbyStateandAgency.pdf"
+    },
+    {
+      "id": "9531d17d-d156-4842-931e-f7d7f48bfe35",
+      "score": 0.16321887,
+      "title": "National Interagency Fire Center",
+      "url": "https://data-nifc.opendata.arcgis.com/"
+    },
+    {
+      "id": "4acbc485-46e5-4572-96ca-397fb3d407f9",
+      "score": 0.11177354,
+      "title": "Research & Publications",
+      "url": "https://www.cafirescience.org/research-publications"
+    }
+  ]
+}

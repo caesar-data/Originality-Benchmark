@@ -1,0 +1,679 @@
+{
+  "id": "fcabf8a7-8866-404d-942e-12bae2576c7d",
+  "status": "completed",
+  "content": "FALSE. The assertion that machine learning (ML) models universally require extensive training to understand basic equations is not factual. While some data-driven approaches like traditional deep learning may rely on large datasets, numerous ML paradigms and specialized models are designed to be data-efficient, particularly for the task of discovering or interpreting mathematical equations from limited information [1][2].\n\nThe field of symbolic regression (SR), which specifically aims to find mathematical expressions that best fit a dataset, contains multiple methods that challenge the premise of required extensive training [3][4]. Furthermore, Large Language Models (LLMs) can solve grade-school level math problems with no task-specific examples (zero-shot), and specialized neural networks can rediscover fundamental laws of physics from modest datasets [5][6].\n\n## Symbolic Regression and Genetic Programming\n\nSymbolic Regression (SR) is an ML technique designed to discover both the structure and parameters of a mathematical model from data, distinguishing it from traditional regression that fits data to a predefined equation [7][8]. Genetic Programming (GP), a primary method for SR, uses evolutionary algorithms to evolve mathematical expressions and is noted to be particularly effective when working with a small number of observations, in contrast to deep neural networks that often require extensive data [2][9].\n\nKey points regarding the data efficiency of GP include:\n*   **Active Learning Integration**: Research demonstrates that applying Active Learning (AL) strategies to GP can dramatically reduce data requirements. AL guides the selection of the most informative data points for training, and one study found it could reduce the necessary training set size to 1/30th of the original while achieving the same performance [10]. This is particularly useful where data collection is expensive [10].\n*   **Efficiency Focus**: A significant area of SR research is dedicated to improving the computational efficiency of GP, addressing issues like the repeated evaluation of equivalent expressions to make the search process faster and more effective [11][12]. For example, the Operon C++ framework is a high-performance GP implementation designed to be orders of magnitude faster than popular alternatives [13].\n*   **Scalability for Small Datasets**: Symbolic regression has been shown to be more generalizable than neural networks when data is limited. It can find the true underlying relationship from a small dataset, whereas a neural network may overfit [14].\n\n## Physics-Informed and Specialized Neural Networks\n\nA class of models known as Physics-Informed Neural Networks (PINNs) is explicitly designed to work with sparse or limited data by embedding known physical laws directly into the model's training process [15][16]. This approach reduces the dependency on large datasets by using the governing differential equations as a form of regularization [17][18].\n\nExamples of neural networks learning equations from small datasets include:\n*   **Parameter Discovery**: A PINN was able to determine the unknown cooling rate parameter in a differential equation using only 10 data points, demonstrating its ability to solve inverse problems with minimal data [19].\n*   **Rediscovering Physical Laws**:\n    *   Researchers at Emory University developed a neural network engineered to be trained with a small amount of data to discover new physical laws governing dusty plasma, achieving over 99% accuracy in describing non-reciprocal forces [20].\n    *   A study using Parsimonious Neural Networks (PNNs) rediscovered Newton's second law (in the form of a Verlet integrator) from a \"modest dataset\" of particle trajectories [6]. The same method discovered established melting laws for materials from a small experimental dataset of 218 samples [6].\n    *   A two-part algorithm first trained a graph neural network on 30 years of solar system data and then used symbolic regression to distill the learned dynamics into Newton's law of universal gravitation, demonstrating that a complex black-box model could be simplified into a basic, interpretable equation [21][22].\n\n## Large Language Models in Few-Shot and Zero-Shot Settings\n\nWhile Large Language Models (LLMs) undergo extensive *pre-training* on trillions of tokens of general data, this is distinct from requiring extensive training *for a specific task* like solving math problems [23]. LLMs have demonstrated strong capabilities in understanding and applying basic equations with minimal or no task-specific examples, a concept known as few-shot and zero-shot learning [24][25].\n\n*   **Zero-Shot Performance on GSM8K**: The Grade School Math 8K (GSM8K) benchmark is a standard test for mathematical reasoning [26]. LLMs can achieve high accuracy in a \"zero-shot\" setting, meaning they are not provided with any examples [27].\n    *   A technique called Zero-shot Chain-of-Thought (CoT), which involves adding the simple phrase \"Let's think step by step\" to the prompt, dramatically improves performance [28]. For the PaLM 540B model, this prompt increased GSM8K accuracy from 12.5% to 43.0% [5]. For InstructGPT, it increased accuracy from 10.4% to 40.7% [29].\n    *   State-of-the-art models show even higher zero-shot performance. GPT-4 reached 94.6% accuracy with Zero-shot CoT, and a newer method called DUP (Deeply Understanding the Problems) achieved 97.1% on GSM8K, also in a zero-shot setting [30][31].\n*   **Hybrid LLM-SR Approaches**: The LaSR algorithm combines symbolic regression with an LLM, using *zero-shot* queries to the LLM to guide the evolutionary search for equations [32]. This method solved more equations in the Feynman physics benchmark than previous state-of-the-art methods, demonstrating that LLMs can assist in equation discovery with high data efficiency [33][34].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "ef145832-48f8-4430-a355-aa0f27336f34",
+      "score": 0.12503357,
+      "title": "Physics-Guided AI for Learning Spatiotemporal Dynamics - Rose Yu",
+      "url": "https://www.youtube.com/watch?v=vo346wdn1AI",
+      "citation_index": 1
+    },
+    {
+      "id": "0c7a3c2a-0f0e-4c2c-a97b-42e15acc49c9",
+      "score": 0.588062,
+      "title": "GECCO2021 - pap333 - GP - Zoetrope Genetic Programming for regression",
+      "url": "https://www.youtube.com/watch?v=L7XbUn8SRUY",
+      "citation_index": 2
+    },
+    {
+      "id": "cd445e97-6c52-45b9-89ac-93bbc8fae952",
+      "score": 0.5201313,
+      "title": "Interactive Symbolic Regression through Offline Reinforcement Learning: A Co-Design Framework",
+      "url": "https://arxiv.org/html/2402.05306v2",
+      "citation_index": 3
+    },
+    {
+      "id": "f65ac15b-ee7b-4b66-a268-dc2732c4da77",
+      "score": 0.44825777,
+      "title": "A framework based on symbolic regression coupled with eXtended Physics-Informed Neural Networks for gray-box learning of equations of motion from data - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0045782523003821",
+      "citation_index": 4
+    },
+    {
+      "id": "a54eaa7f-06f7-494e-af86-2f08deb607ff",
+      "score": 0.8934678,
+      "title": "Large Language Models are Zero-Shot Reasoners",
+      "url": "https://openreview.net/forum?id=e2TBb5y0yFf",
+      "citation_index": 5
+    },
+    {
+      "id": "49d16301-f42a-441b-bd18-634e686107c9",
+      "score": 0.580091,
+      "title": "MR-GSM8K: A Meta-Reasoning Benchmark for Large ...",
+      "url": "https://openreview.net/forum?id=br4H61LOoI",
+      "citation_index": 5
+    },
+    {
+      "id": "9a3e3e7f-5ece-45b3-95dd-0cdae0be08a1",
+      "score": 0.7418428,
+      "title": "Parsimonious neural networks learn interpretable physical laws | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-021-92278-w",
+      "citation_index": 6
+    },
+    {
+      "id": "3395f50f-8395-408d-8e33-febb9c25ae6c",
+      "score": 0.36758858,
+      "title": "Contemporary Symbolic Regression Methods and their Relative Performance - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11074949/",
+      "citation_index": 7
+    },
+    {
+      "id": "e5900fa6-772c-47ae-a8e9-04845c5da60f",
+      "score": 0.82728493,
+      "title": "Genetic Programming for Symbolic Regression on Incomplete Data",
+      "url": "https://openaccess.wgtn.ac.nz/articles/thesis/Genetic_Programming_for_Symbolic_Regression_on_Incomplete_Data/17150609",
+      "citation_index": 8
+    },
+    {
+      "id": "918316a7-6e14-4e85-ae6e-7f03b4d01b7f",
+      "score": 0.6222074,
+      "title": "Interactive symbolic regression with co-design mechanism through offline reinforcement learning | Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-025-59288-y",
+      "citation_index": 9
+    },
+    {
+      "id": "b68954d3-ac83-482c-9e13-a5d6149ece74",
+      "score": 0.7817479,
+      "title": "Guiding Efficient Data Collection for Symbolic Regression",
+      "url": "https://ieeexplore.ieee.org/document/10700803/",
+      "citation_index": 10
+    },
+    {
+      "id": "cfd2ab8f-7cd7-4711-9c14-d44184441c7a",
+      "score": 0.6450534,
+      "title": "Improving Genetic Programming for Symbolic Regression with Equality Graphs",
+      "url": "https://arxiv.org/html/2501.17848v1",
+      "citation_index": 11
+    },
+    {
+      "id": "55da653b-c3c9-4659-aa86-10f4e08cd664",
+      "score": 0.7971311,
+      "title": "[PDF] The Inefficiency of Genetic Programming for Symbolic Regression ...",
+      "url": "https://www.semanticscholar.org/paper/f441b269976e95371520f03338d63cb9685f576f",
+      "citation_index": 12
+    },
+    {
+      "id": "724c961f-6996-4a33-a57c-362eb7272149",
+      "score": 0.3227079,
+      "title": "(PDF) Contemporary Symbolic Regression Methods and their Relative Performance",
+      "url": "https://www.researchgate.net/publication/353635365_Contemporary_Symbolic_Regression_Methods_and_their_Relative_Performance",
+      "citation_index": 13
+    },
+    {
+      "id": "b808c289-2cc9-4bd8-9a72-1c75e3601941",
+      "score": 0.13648199,
+      "title": "Making an AI Discover Laws of Physics via Symbolic Regression",
+      "url": "https://www.youtube.com/watch?v=enOomJaeM7s",
+      "citation_index": 14
+    },
+    {
+      "id": "5346ad59-3d5a-4dd8-9f30-31a06534725d",
+      "score": 0.5215936,
+      "title": "Physics-informed neural networks - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Physics-informed_neural_networks",
+      "citation_index": 15
+    },
+    {
+      "id": "f9d03460-7b86-4bad-af02-93bfc026cb18",
+      "score": 0.46147847,
+      "title": "What Are Physics-Informed Neural Networks (PINNs)? - MATLAB & Simulink",
+      "url": "https://www.mathworks.com/discovery/physics-informed-neural-networks.html",
+      "citation_index": 16
+    },
+    {
+      "id": "86cea043-1b2d-4150-8a9f-8af7b121750f",
+      "score": 0.26900432,
+      "title": "Understanding Physics-Informed Neural Networks: Techniques, Applications, Trends, and Challenges",
+      "url": "https://www.mdpi.com/2673-2688/5/3/74",
+      "citation_index": 17
+    },
+    {
+      "id": "e2beb64d-46e8-42c3-b2db-604fb2b1da16",
+      "score": 0.2881187,
+      "title": "Physics Informed Neural Networks The AI Behind Google\u2019s Singularity Discovery",
+      "url": "https://www.youtube.com/watch?v=gCbk-Zse6V8",
+      "citation_index": 18
+    },
+    {
+      "id": "eb2cd7e2-c5fb-470a-9439-81052f8208fa",
+      "score": 0.53269315,
+      "title": "Physics-informed Neural Networks: a simple tutorial with ...",
+      "url": "https://medium.com/@theo.wolf/physics-informed-neural-networks-a-simple-tutorial-with-pytorch-f28a890b874a",
+      "citation_index": 19
+    },
+    {
+      "id": "9dfa788b-a5b0-4d22-bdc2-e5da93028b0d",
+      "score": 0.78493005,
+      "title": "Scientists used an AI program to discover new laws of ...",
+      "url": "https://www.yahoo.com/news/articles/scientists-used-ai-program-discover-154258099.html",
+      "citation_index": 20
+    },
+    {
+      "id": "1dfb0c6a-49f3-4318-a49a-f3ec98af60ad",
+      "score": 0.23768249,
+      "title": "Rediscovering Orbital Mechanics with Machine Learning | Sussex Data Science",
+      "url": "https://www.youtube.com/watch?v=AhJVeOxYUxs",
+      "citation_index": 21
+    },
+    {
+      "id": "0df82db3-15de-4b38-b4c9-80572fb11cc4",
+      "score": 0.15498921,
+      "title": "'Machine Scientists' Distill the Laws of Physics From Raw ...",
+      "url": "https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/",
+      "citation_index": 22
+    },
+    {
+      "id": "a6e35bfa-eae3-4b52-9442-a529ec6bc84c",
+      "score": 0.8868231,
+      "title": "MR-GSM8K: A Meta-Reasoning Revolution in Large Language Model Evaluation",
+      "url": "https://arxiv.org/html/2312.17080v2",
+      "citation_index": 23
+    },
+    {
+      "id": "bcafe69e-cbf0-4017-867c-2c14ba289bde",
+      "score": 0.42978892,
+      "title": "Few-Shot Learning: Methods & Applications",
+      "url": "https://research.aimultiple.com/few-shot-learning/",
+      "citation_index": 24
+    },
+    {
+      "id": "35dfdee4-dfa1-41df-b5cc-4541c47864c8",
+      "score": 0.6894943,
+      "title": "Llama 3's Performance Benchmark Values Explained | by Ingrid Stevens | Medium",
+      "url": "https://medium.com/@ingridwickstevens/more-llm-acronyms-an-explainer-on-llama-3s-performance-benchmark-values-36722c6dcabb",
+      "citation_index": 25
+    },
+    {
+      "id": "7131fec0-f5ce-4507-b61a-aaecaa12d83a",
+      "score": 0.19420002,
+      "title": "Language model benchmark - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Language_model_benchmark",
+      "citation_index": 26
+    },
+    {
+      "id": "865e0b5c-0410-4bbe-a730-3708bd1e8506",
+      "score": 0.8974172,
+      "title": "MR-GSM8K: A Meta-Reasoning Benchmark for Large Language Model Evaluation",
+      "url": "https://arxiv.org/html/2312.17080v4",
+      "citation_index": 27
+    },
+    {
+      "id": "8feb6f46-e366-4938-a459-ef6ca47951ea",
+      "score": 0.586926,
+      "title": "Large Language Models are Zero-Shot Reasoners",
+      "url": "https://www.ai-supremacy.com/p/large-language-models-are-zero-shot",
+      "citation_index": 28
+    },
+    {
+      "id": "7d29a7a8-b7cb-49fb-92d8-90c8e107fa96",
+      "score": 0.88420963,
+      "title": "[2205.11916] Large Language Models are Zero-Shot Reasoners",
+      "url": "https://arxiv.org/abs/2205.11916",
+      "citation_index": 29
+    },
+    {
+      "id": "8267c45e-3630-4f90-a16b-ab026ac1f2ef",
+      "score": 0.81025416,
+      "title": "Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Better Solvers for Math Word Problems",
+      "url": "https://arxiv.org/html/2404.14963v3",
+      "citation_index": 30
+    },
+    {
+      "id": "6e3f7b3f-e1a5-4002-ac1e-1dcb680b9320",
+      "score": 0.80014634,
+      "title": "[2404.14963v5] Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Better Solvers for Math Word Problems",
+      "url": "https://arxiv.org/abs/2404.14963v5",
+      "citation_index": 31
+    },
+    {
+      "id": "0fda39e9-f713-42b4-8091-a56e6db21007",
+      "score": 0.57637566,
+      "title": "Symbolic Regression with a Learned Concept Library",
+      "url": "https://arxiv.org/html/2409.09359v1",
+      "citation_index": 32
+    },
+    {
+      "id": "125b891a-e194-49b7-848d-94e27bcdcdad",
+      "score": 0.40627348,
+      "title": "Symbolic Regression with a Learned Concept Library",
+      "url": "https://arxiv.org/html/2409.09359v3",
+      "citation_index": 33
+    },
+    {
+      "id": "9376db29-e0a2-44c2-9daf-1522ed97e62a",
+      "score": 0.73642004,
+      "title": "Symbolic Regression with a Learned Concept Library",
+      "url": "https://openreview.net/forum?id=B7S4jJGlvl&referrer=%5Bthe%20profile%20of%20Arya%20Grayeli%5D(%2Fprofile%3Fid%3D~Arya_Grayeli1)",
+      "citation_index": 34
+    },
+    {
+      "id": "e612388d-d069-41dc-941e-317e559505c3",
+      "score": 0.87113565,
+      "title": "An Efficient Federated Genetic Programming Framework ...",
+      "url": "https://ieeexplore.ieee.org/document/9881543/"
+    },
+    {
+      "id": "d825b657-a726-48b4-85b4-00557c00ca26",
+      "score": 0.85421735,
+      "title": "[2404.17292] The Inefficiency of Genetic Programming for Symbolic Regression -- Extended Version",
+      "url": "https://arxiv.org/abs/2404.17292"
+    },
+    {
+      "id": "cb801b19-b7bc-47f6-8c17-eb65e37329ad",
+      "score": 0.826278,
+      "title": "Symbolic regression via genetic programming | IEEE Conference Publication | IEEE Xplore",
+      "url": "https://ieeexplore.ieee.org/document/889734"
+    },
+    {
+      "id": "94379d44-c0b3-4a9d-9619-469371523fc7",
+      "score": 0.8088086,
+      "title": "Zero-shot Pass@1 results for varying paradigm orders on ...",
+      "url": "https://www.researchgate.net/figure/Zero-shot-Pass1-results-for-varying-paradigm-orders-on-the-MATH-and-GSM8k-benchmarks_tbl3_388232039"
+    },
+    {
+      "id": "93d0881e-b19b-4072-add6-e96a608db248",
+      "score": 0.80698997,
+      "title": "Large language models are zero-shot reasoners | Proceedings of the 36th International Conference on Neural Information Processing Systems",
+      "url": "https://dl.acm.org/doi/10.5555/3600270.3601883"
+    },
+    {
+      "id": "2cec7cd0-58e7-4936-96c5-a2f2d0169377",
+      "score": 0.80442166,
+      "title": "Can AI Discover Entirely New Laws of Physics?",
+      "url": "https://www.webpronews.com/can-ai-discover-entirely-laws-of-physics/"
+    },
+    {
+      "id": "eca643a2-ac55-4ce3-93c2-a744fad21675",
+      "score": 0.79484755,
+      "title": "An Efficient Federated Genetic Programming Framework for Symbolic Regression | Request PDF",
+      "url": "https://www.researchgate.net/publication/363387760_An_Efficient_Federated_Genetic_Programming_Framework_for_Symbolic_Regression"
+    },
+    {
+      "id": "4fb3d42e-6181-4715-989d-808d74c6f205",
+      "score": 0.7900289,
+      "title": "[2501.17848] Improving Genetic Programming for Symbolic Regression with Equality Graphs",
+      "url": "https://arxiv.org/abs/2501.17848"
+    },
+    {
+      "id": "f98eade4-ef06-4a5b-b549-63e079d345a2",
+      "score": 0.7756902,
+      "title": "A Comparison of Recent Algorithms for Symbolic Regression to Genetic Programming | Request PDF",
+      "url": "https://www.researchgate.net/publication/391066900_A_Comparison_of_Recent_Algorithms_for_Symbolic_Regression_to_Genetic_Programming"
+    },
+    {
+      "id": "d1bcbff5-cf6c-4b35-a1d2-8a848f972929",
+      "score": 0.7634314,
+      "title": "A Careful Examination of Large Language Model Performance on Grade School Arithmetic",
+      "url": "https://arxiv.org/html/2405.00332v1"
+    },
+    {
+      "id": "f6513e26-5ed7-4341-85e5-ada968a022b2",
+      "score": 0.73914057,
+      "title": "[2302.03175] Genetic Programming Based Symbolic Regression for Analytical Solutions to Differential Equations",
+      "url": "https://arxiv.org/abs/2302.03175"
+    },
+    {
+      "id": "933aee39-9171-4ffc-b572-8d9dbed47187",
+      "score": 0.7159213,
+      "title": "Papers with Code - GSM8K",
+      "url": "https://paperswithcode.com/task/gsm8k?page=3"
+    },
+    {
+      "id": "7301d68c-641b-4819-bd11-8fc78378093b",
+      "score": 0.7125728,
+      "title": "The Inefficiency of Genetic Programming for Symbolic Regression \u2013 Extended VersionThis is an extended version of the article submitted to Parallel Problem Solving from Nature (PPSN) Conference 2024.",
+      "url": "https://arxiv.org/html/2404.17292v1"
+    },
+    {
+      "id": "39d0521e-fd8e-4d78-9b35-6ccfeebe0294",
+      "score": 0.7116118,
+      "title": "(PDF) Model-Based Problem Solving through Symbolic Regression via Pareto Genetic Programming",
+      "url": "https://www.researchgate.net/publication/46432703_Model-Based_Problem_Solving_through_Symbolic_Regression_via_Pareto_Genetic_Programming"
+    },
+    {
+      "id": "3896138e-d3e7-45e6-a361-1dbb6c99296b",
+      "score": 0.7023877,
+      "title": "GSM8K Benchmark \u2014 Klu",
+      "url": "https://klu.ai/glossary/GSM8K-eval"
+    },
+    {
+      "id": "a150bc22-9e55-444e-a6cf-a9e5fd852cda",
+      "score": 0.683948,
+      "title": "[2406.03585] A Comparison of Recent Algorithms for Symbolic Regression to Genetic Programming",
+      "url": "https://arxiv.org/abs/2406.03585"
+    },
+    {
+      "id": "89356712-8e1b-4116-a89d-a601e42865b1",
+      "score": 0.6643884,
+      "title": "FC2023: Symbolic Regression Using Genetic Programming with Chaotic Method-based Probability Mappings",
+      "url": "https://www.youtube.com/watch?v=qeby-RWQeks"
+    },
+    {
+      "id": "4d9a1451-8bcb-498f-9dbe-7af7a91c8347",
+      "score": 0.6479992,
+      "title": "[2111.10329] Physics-enhanced Neural Networks in the Small Data Regime",
+      "url": "https://arxiv.org/abs/2111.10329"
+    },
+    {
+      "id": "e3aaf2eb-03e5-44a0-9446-3e414d4df40e",
+      "score": 0.61196244,
+      "title": "Symbolic Regression. Video 32.",
+      "url": "https://www.youtube.com/watch?v=eMcBMvy_tlk"
+    },
+    {
+      "id": "20a26826-af90-4fb1-abd2-2c41452426f1",
+      "score": 0.59401023,
+      "title": "(PDF) Semantic Linear Genetic Programming for Symbolic Regression",
+      "url": "https://www.researchgate.net/publication/361626018_Semantic_Linear_Genetic_Programming_for_Symbolic_Regression"
+    },
+    {
+      "id": "18819f2c-953f-4b47-a693-5137e6af9541",
+      "score": 0.59033114,
+      "title": "Daily Papers",
+      "url": "https://huggingface.co/papers?q=deep%20symbolic%20regression"
+    },
+    {
+      "id": "b2693e8a-7e08-435a-9ab2-f094d6c23f84",
+      "score": 0.5585443,
+      "title": "[ANN] SymbolicRegression.jl - distributed symbolic ...",
+      "url": "https://discourse.julialang.org/t/ann-symbolicregression-jl-distributed-symbolic-regression/54853"
+    },
+    {
+      "id": "662d51c7-42c3-477d-a609-105ef61b61bb",
+      "score": 0.54855317,
+      "title": "Symbolic Regression via Genetic Programming",
+      "url": "https://www.youtube.com/watch?v=Zd9AZvs8mYA"
+    },
+    {
+      "id": "6291c052-3786-41ce-8c8f-f8c470b38a40",
+      "score": 0.5439058,
+      "title": "Discovering Symbolic Differential Equations with Symmetry Invariants",
+      "url": "https://arxiv.org/html/2505.12083"
+    },
+    {
+      "id": "1f4c5c63-ff46-4bf7-a98a-573779f587d6",
+      "score": 0.5385227,
+      "title": "A computational framework for physics-informed symbolic regression with straightforward integration of domain knowledge | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-023-28328-2"
+    },
+    {
+      "id": "9e07180b-1ea4-4bb8-b3c2-9ce094a42530",
+      "score": 0.53079647,
+      "title": "Physics Informed Neural Networks (PINNs) [Physics Informed Machine Learning]",
+      "url": "https://www.youtube.com/watch?v=-zrY7P2dVC4"
+    },
+    {
+      "id": "6c3c9147-a4ae-4d4a-859f-4b0b4953effd",
+      "score": 0.5114976,
+      "title": "[2110.14168] Training Verifiers to Solve Math Word Problems",
+      "url": "https://arxiv.org/abs/2110.14168"
+    },
+    {
+      "id": "b066eabc-a1be-443f-b873-d3b8e1add7ea",
+      "score": 0.50022036,
+      "title": "GSM8K-Platinum: Revealing Performance Gaps in Frontier LLMs \u2013 gradient science",
+      "url": "https://gradientscience.org/gsm8k-platinum/"
+    },
+    {
+      "id": "b437e125-d81d-4697-9c0c-9738d4824107",
+      "score": 0.49113917,
+      "title": "Symbolic Regression with a Learned Concept Library Arya Grayeli\u2217",
+      "url": "https://www.arxiv.org/pdf/2409.09359v1"
+    },
+    {
+      "id": "7c9adff4-077c-4afb-a651-a3d167d9edd6",
+      "score": 0.48499045,
+      "title": "GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models - Apple Machine Learning Research",
+      "url": "https://machinelearning.apple.com/research/gsm-symbolic"
+    },
+    {
+      "id": "180b28fa-eeb7-4476-939c-31eca8b22f83",
+      "score": 0.46060488,
+      "title": "WizardMath: EMPOWERING MATHEMATICAL REASON",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/7c04aea54c2a60a632a47bd451cd2849-Paper-Conference.pdf"
+    },
+    {
+      "id": "cb1b0d2b-2ee3-49d3-8ca6-8787a1c5271e",
+      "score": 0.45638612,
+      "title": "Introduction to Equation Discovery - Comparing Symbolic Regression Methods \u2014 Learning Machine Learning with Lorenz-96",
+      "url": "https://m2lines.github.io/L96_demo/notebooks/symbolic_methods_comparison.html"
+    },
+    {
+      "id": "b3e82d73-f9a5-4bd4-9f6c-c8a91367b43b",
+      "score": 0.4431913,
+      "title": "Symbolic Regression and Equation Learning | Autonomous Learning \u2013 Max Planck Institute for Intelligent Systems",
+      "url": "https://is.mpg.de/al/research_projects/symbolic-regression-and-equation-learning"
+    },
+    {
+      "id": "aa2471e0-43b3-4b62-98bb-3cf6bb71b51c",
+      "score": 0.4423239,
+      "title": "Exploring the Possibility of a Recovery of Physics Process Properties from a Neural Network Model - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597324/"
+    },
+    {
+      "id": "44a58db8-6f38-4353-b608-a2f5496d00e6",
+      "score": 0.4237686,
+      "title": "Novel deep learning framework for symbolic regression | Lawrence Livermore National Laboratory",
+      "url": "https://www.llnl.gov/article/47396/novel-deep-learning-framework-symbolic-regression"
+    },
+    {
+      "id": "aeaa1d3b-93b7-4a7d-a9b9-f0bf42b8aa2f",
+      "score": 0.4199102,
+      "title": "Intersection Of Physics and AI-Parth patwa",
+      "url": "https://www.youtube.com/watch?v=TwUj1Qz4IWI"
+    },
+    {
+      "id": "335fa295-f6f4-4ef7-8b89-d89a42873b55",
+      "score": 0.40924495,
+      "title": "Interpretable Machine Learning with SymbolicRegression.jl | Miles Cranmer | JuliaCon 2023",
+      "url": "https://www.youtube.com/watch?v=QLiQJDNwt4o"
+    },
+    {
+      "id": "fbfda04d-e5a0-4505-8276-a2f6a40cddb3",
+      "score": 0.40782914,
+      "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0021999118307125"
+    },
+    {
+      "id": "3fc6bdff-d507-43b8-b83e-c7817db3ccb1",
+      "score": 0.39803258,
+      "title": "Physics-informed neural networks for PDE problems: a comprehensive review | Artificial Intelligence Review",
+      "url": "https://link.springer.com/article/10.1007/s10462-025-11322-7"
+    },
+    {
+      "id": "bf48d4ff-5404-4f0b-81f1-1bf44004d883",
+      "score": 0.3963491,
+      "title": "Discovery of Physics From Data: Universal Laws and ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7861345/"
+    },
+    {
+      "id": "1fc0b520-1bd3-496b-9e8c-80f7180f6fca",
+      "score": 0.3924305,
+      "title": "(PDF) Active Learning in Symbolic Regression Performance with Physical Constraints",
+      "url": "https://www.researchgate.net/publication/370842534_Active_Learning_in_Symbolic_Regression_Performance_with_Physical_Constraints"
+    },
+    {
+      "id": "1c04cb59-f532-4e6c-9b3e-a7f70b951136",
+      "score": 0.38650924,
+      "title": "Contemporary Symbolic Regression Methods and their Relative Performance | DeepAI",
+      "url": "https://deepai.org/publication/contemporary-symbolic-regression-methods-and-their-relative-performance"
+    },
+    {
+      "id": "4468b67e-c3e8-4621-ac12-80a20903a3bf",
+      "score": 0.38311088,
+      "title": "Patrick Riley - Symbolic Regression for Discovery of a DFT Functional - IPAM at UCLA",
+      "url": "https://www.youtube.com/watch?v=9Y6d4CEGAUU"
+    },
+    {
+      "id": "d0394267-485b-487f-9258-583435ce4106",
+      "score": 0.38075948,
+      "title": "GSM8K | DeepEval - The Open-Source LLM Evaluation Framework",
+      "url": "https://deepeval.com/docs/benchmarks-gsm8k"
+    },
+    {
+      "id": "9f028f47-16b9-4ba1-aac4-27157376ece9",
+      "score": 0.36148077,
+      "title": "Improving Generalization of Genetic Programming for High ...",
+      "url": "https://link.springer.com/article/10.1007/s41019-024-00270-x"
+    },
+    {
+      "id": "d0be56f8-c1a6-4d32-9b2f-9115e07045f1",
+      "score": 0.35233605,
+      "title": "Data-driven discovery of dimensionless numbers and governing laws from scarce measurements - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9729234/"
+    },
+    {
+      "id": "893da0cf-de5c-475f-ba34-c000d525819b",
+      "score": 0.34343034,
+      "title": "r/MachineLearning on Reddit: [R] A Careful Examination of Large Language Model Performance on Grade School Arithmetic",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ckkf5f/r_a_careful_examination_of_large_language_model/"
+    },
+    {
+      "id": "f884d3e6-c332-4bae-ab09-a0622ed9823d",
+      "score": 0.33108783,
+      "title": "Mohannad Elhamod - CoPhy-PGNN: Learning Physics-guided Neural Networks with Competing Loss Functions",
+      "url": "https://www.youtube.com/watch?v=J3-uNQxd0D8"
+    },
+    {
+      "id": "7bcc70e5-137a-4091-9e64-651f66e0ce3c",
+      "score": 0.30647564,
+      "title": "Application of conservation laws to the learning of physics-informed neural networks - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877050922017215"
+    },
+    {
+      "id": "87274196-8021-4a23-a42a-6f7a20e2e242",
+      "score": 0.30430052,
+      "title": "[\u041f\u0435\u0440\u0435\u0432\u043e\u0434] KAN 2.0: Kolmogorov-Arnold Networks Meet Science",
+      "url": "https://habr.com/ru/articles/860738/#post-content-body"
+    },
+    {
+      "id": "aec6c14c-a77e-4104-941f-1ca5bef0714c",
+      "score": 0.28708324,
+      "title": "GitHub - MilesCranmer/PySR: High-Performance Symbolic Regression in Python and Julia",
+      "url": "https://github.com/MilesCranmer/PySR"
+    },
+    {
+      "id": "28f7bc84-cf4a-41fe-9fd9-8ad92a7a7d40",
+      "score": 0.2723533,
+      "title": "What exactly is a Physics Informed Neural Network (PINN)? #ml #ai #neuralnetworks",
+      "url": "https://www.youtube.com/watch?v=6crtWJXgvy8"
+    },
+    {
+      "id": "38491b41-fe83-4b81-9836-705e5300514e",
+      "score": 0.27025914,
+      "title": "Symbolic Regression with a Learned Concept Library",
+      "url": "https://atharvas.net/static/lasr.pdf"
+    },
+    {
+      "id": "7e487e9b-28ef-4f78-aa81-28cd908ede7f",
+      "score": 0.25597593,
+      "title": "Physics-Informed Neural Network Approaches for Sparse Data Flow Reconstruction of Unsteady Flow Around Complex Geometries",
+      "url": "https://arxiv.org/html/2508.01314"
+    },
+    {
+      "id": "b18516c7-81c3-45b5-8983-77ee75864004",
+      "score": 0.24851635,
+      "title": "Application of physics encoded neural networks to improve predictability of properties of complex multi-scale systems | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-024-65304-w"
+    },
+    {
+      "id": "5fc4e8f9-e8f7-418b-bb42-a205e9792821",
+      "score": 0.24697393,
+      "title": "\ud83c\udf21\ufe0f Variational Neural Networks for Observable Thermodynamics. V-NOTS",
+      "url": "https://www.youtube.com/watch?v=VBKI1XBJITs"
+    },
+    {
+      "id": "0d1e8e9e-5ff5-4142-a829-6218c696442b",
+      "score": 0.2457908,
+      "title": "[1903.09688] Symbolic Regression Methods for Reinforcement Learning",
+      "url": "https://arxiv.org/abs/1903.09688"
+    },
+    {
+      "id": "8d65ceb4-9b44-40c5-a725-4e419cc61e61",
+      "score": 0.24336854,
+      "title": "Symbolic Regression",
+      "url": "https://www.youtube.com/watch?v=sb-SLYIeW6I"
+    },
+    {
+      "id": "651fa277-43e9-4420-a9d2-8507d613c606",
+      "score": 0.20606238,
+      "title": "My research methodology",
+      "url": "https://www.lesswrong.com/posts/EF5M6CmKRd6qZk27Z/my-research-methodology"
+    },
+    {
+      "id": "bc299868-d74e-4e69-bc00-5dbd247219f6",
+      "score": 0.20135777,
+      "title": "Physics-enhanced Neural Networks in the Small Data Regime",
+      "url": "https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_77.pdf"
+    },
+    {
+      "id": "e70676ef-33c8-4d3e-8921-ca4a05ee01eb",
+      "score": 0.18382828,
+      "title": "Four ways to develop a Physics-Informed Machine Learning Model #machinelearning #physcis #algorithm",
+      "url": "https://www.youtube.com/watch?v=Ug7gQioBiBg"
+    },
+    {
+      "id": "4d43bc50-6d5b-424a-8c5b-c58ab59bf302",
+      "score": 0.17271566,
+      "title": "r/MachineLearning on Reddit: [D] What is the point of physics-informed neural networks if you need to know the actual physics?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/12lzzv6/d_what_is_the_point_of_physicsinformed_neural/"
+    },
+    {
+      "id": "9532228f-c6a6-4031-9d92-95a71f5a9879",
+      "score": 0.108557194,
+      "title": "r/MachineLearning on Reddit: [D] I don\u2019t understand why Physics Informed Neural Networks (PINNs) are an area of Research",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/18mnl9f/d_i_dont_understand_why_physics_informed_neural/"
+    },
+    {
+      "id": "31c1b16f-9bd2-45f4-af4f-497972d7b0d7",
+      "score": 0.10714773,
+      "title": "Frontiers | A Physics-Aware Neural Network Approach for Flow Data ...",
+      "url": "https://www.frontiersin.org/articles/10.3389/fclim.2021.656505/full"
+    },
+    {
+      "id": "9d84b239-5ba5-4a2d-aaa7-648b853df792",
+      "score": 0.10018122,
+      "title": "Discovering Physical Concepts with Neural Networks",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevLett.124.010508"
+    },
+    {
+      "id": "960cec7e-9c50-4dad-84fc-fa11f31bb63f",
+      "score": 0.09674864,
+      "title": "GSM8K Dataset | Papers With Code",
+      "url": "https://paperswithcode.com/dataset/gsm8k"
+    },
+    {
+      "id": "4adbedf8-5f53-4a8c-a446-fa43ca37bc07",
+      "score": 0.07391672,
+      "title": "GSM8K Benchmark (Arithmetic Reasoning)",
+      "url": "https://paperswithcode.com/sota/arithmetic-reasoning-on-gsm8k"
+    },
+    {
+      "id": "8ac1b955-98d6-4fd5-9dc2-b7cf0d56781f",
+      "score": 0.058674112,
+      "title": "Linear Regression in Machine learning - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/"
+    },
+    {
+      "id": "e75a5b40-7e4f-4c13-8608-0fc71e5facb7",
+      "score": 0.04864503,
+      "title": "Improving Genetic Programming for Symbolic Regression with ...",
+      "url": "https://folivetti.github.io/files/egraphGP.pdf"
+    },
+    {
+      "id": "76ef13a1-444b-4506-9378-b48b3f11a12c",
+      "score": 0.04039294,
+      "title": "TRANSPORTABLE CIRCUITS FOR FEW-SHOT LEARNING",
+      "url": "https://causalai.net/r133.pdf"
+    },
+    {
+      "id": "d4fe58e8-cd16-42d7-b184-ea2731818e79",
+      "score": 0.02850362,
+      "title": "A physicochemical model of odor sampling",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009054"
+    }
+  ]
+}

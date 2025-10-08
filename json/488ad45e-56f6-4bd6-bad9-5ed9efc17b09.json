@@ -1,0 +1,329 @@
+{
+  "id": "488ad45e-56f6-4bd6-bad9-5ed9efc17b09",
+  "status": "completed",
+  "content": "FALSE. While German psychiatrist Hans Berger was the first to record brain waves in a human, which he accomplished in the 1920s, the first-ever recording of brain waves occurred nearly 50 years earlier in animal subjects.\n\n## Analysis of the Claim\n\nThe statement \"Brain waves were first recorded in the 1920s by Hans Berger\" is inaccurate because it omits the crucial qualifier of \"human\" brain waves. The initial discovery and recording of electrical activity in the brain predates Hans Berger's work significantly. The historical record credits Richard Caton with the first discovery in 1875 using animal subjects, whereas Berger's pioneering achievement was the successful application of this principle to humans in 1924[1][2].\n\n### Hans Berger and the First Human Electroencephalogram (EEG)\n\nHans Berger, a German psychiatrist, is correctly credited with inventing electroencephalography (EEG) and performing the first recording of electrical activity from a human brain[3][4][5]. This milestone event took place at the University Hospital of Jena, Germany[6][7].\n\n*   **Date of First Recording**: Berger himself retrospectively dated the first successful and reliable recording to July 6, 1924[7][6][8][9][10][11]. This places his work squarely within the 1920s, as the user's query suggests[12][13].\n*   **The Subject**: The first recording was performed on a 17-year-old boy who had undergone neurosurgery for a suspected brain tumor, leaving a defect in his skull that facilitated the process[6][7][9][14]. One source indicates the neurosurgeon was Nikolai Guleke[15].\n*   **Publication and Terminology**: Filled with self-doubt and a fear of criticism, Berger waited five years before publishing his findings[7][3][17]. His first paper, \"\u00dcber das Elektrenkephalogramm des Menschen\" (\"On the Electroencephalogram of Man\"), appeared in 1929[8][5]. Berger coined the term \"electroencephalogram\" and was the first to describe different brainwave patterns, such as the alpha and beta waves[3][18].\n\n### Richard Caton's Pioneering Discovery in Animals\n\nThe true \"first\" recording of brain waves was accomplished by Richard Caton, a British physician and scientist from Liverpool, in 1875[1][19][2][20].\n\n*   **Date and Publication**: Caton presented his findings on the electrical phenomena of the exposed cerebral hemispheres of rabbits and monkeys to the British Medical Association on August 4, 1875, and an abstract was published in the *British Medical Journal* that same year[21][22][23].\n*   **Methodology and Findings**: Using a sensitive galvanometer, Caton detected spontaneous electrical currents from the surface of the animals' brains[24][20]. He observed that these electrical currents fluctuated, increased during sleep, and ceased after death[2][22]. He also noted that sensory stimulation, such as light shone in an animal's eye, produced a negative variation in the electrical activity of specific brain areas[25][26].\n*   **Legacy**: Caton's work laid the foundation for Berger's later success[27]. Berger himself was aware of and cited Caton's experiments with animals[28][22]. It is now generally accepted that Caton's short note from 1875 contains the first description of the electroencephalogram[21].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "4fec142a-f23e-462d-a790-0be387643452",
+      "score": 0.8719229,
+      "title": "Changes of the brain\u2019s bioelectrical activity in cognition, consciousness, and some mental disorders - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5804435/",
+      "citation_index": 1
+    },
+    {
+      "id": "cd042910-d112-4232-a392-b993df042e39",
+      "score": 0.79958355,
+      "title": "Appendix 6. A Brief History of EEG - Electroencephalography (EEG): An Introductory Text and Atlas of Normal and Abnormal Findings in Adults, Children, and Infants - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK390348/",
+      "citation_index": 2
+    },
+    {
+      "id": "bace2604-f961-4fb2-ab8c-95c632a1b149",
+      "score": 0.8565368,
+      "title": "Hans Berger - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hans_Berger",
+      "citation_index": 3
+    },
+    {
+      "id": "0a2b9b47-7bd1-47bc-8f97-17ba4e9e3afe",
+      "score": 0.8088086,
+      "title": "Electroencephalography - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electroencephalography",
+      "citation_index": 4
+    },
+    {
+      "id": "9ad112a0-462c-4443-b5a9-5be7a1714b26",
+      "score": 0.7769112,
+      "title": "How Hans Berger\u2019s quest for telepathy spurred modern brain science",
+      "url": "https://www.sciencenews.org/article/hans-berger-telepathy-neuroscience-brain-eeg",
+      "citation_index": 5
+    },
+    {
+      "id": "3878aeb9-d15e-4eb8-8c03-24a50fee787c",
+      "score": 0.9088853,
+      "title": "Hans Berger (1873\u20131941): the German psychiatrist who recorded the first electrical brain signal in humans 100 years ago | Advances in Physiology Education | American Physiological Society",
+      "url": "https://journals.physiology.org/doi/full/10.1152/advan.00119.2024",
+      "citation_index": 6
+    },
+    {
+      "id": "5695b9cc-78d3-456c-8498-2b00d371b1cb",
+      "score": 0.93131906,
+      "title": "Hans Berger und 100 Jahre Elektroenzephalogramm | Clinical Epileptology",
+      "url": "https://link.springer.com/article/10.1007/s10309-024-00664-x",
+      "citation_index": 7
+    },
+    {
+      "id": "2480a074-8f30-45ba-a431-5336360a2de9",
+      "score": 0.921929,
+      "title": "100 years of EEG: How Tracking Brain Activity Has Shaped ...",
+      "url": "https://www.neurocaregroup.com/news-insights/100-years-of-eeg-how-tracking-brain-activity-has-shaped-mental-health-care",
+      "citation_index": 8
+    },
+    {
+      "id": "5bf9ee07-051f-4108-811e-afc876df77bd",
+      "score": 0.78670514,
+      "title": "An appraisal to Hans Berger by the time of his 150 th birthday: the human EEG and tales of blood flow, heat and brain waves - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10756801/",
+      "citation_index": 9
+    },
+    {
+      "id": "926a7cdb-c7bb-41d3-9600-d4fb60854445",
+      "score": 0.7293082,
+      "title": "The inventor of electroencephalography (EEG): Hans Berger (1873\u20131941) | Child's Nervous System",
+      "url": "https://link.springer.com/article/10.1007/s00381-020-04564-z",
+      "citation_index": 10
+    },
+    {
+      "id": "e139fb0f-39d1-4ed3-958e-4ad4125bbea5",
+      "score": 0.6546525,
+      "title": "1924\u20132024: First centennial of EEG - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1388245724003778",
+      "citation_index": 11
+    },
+    {
+      "id": "f790ede9-e337-4357-a092-3e247f81a695",
+      "score": 0.91490877,
+      "title": "Hans Berger and the Electroencephalogram (P1-1.016) | Neurology",
+      "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000205921",
+      "citation_index": 12
+    },
+    {
+      "id": "e219d384-70bb-427f-a86a-08e52e578dd8",
+      "score": 0.8989177,
+      "title": "Berger and the Breakthrough: A Centennial Celebration of the Human Electroencephalogram.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38772013/",
+      "citation_index": 13
+    },
+    {
+      "id": "44ee0c4e-b643-49d0-99e0-e3fccfb8ef15",
+      "score": 0.8467682,
+      "title": "Berger Studies the Human Electroencephalogram | Research Starters | EBSCO Research",
+      "url": "https://www.ebsco.com/research-starters/history/berger-studies-human-electroencephalogram",
+      "citation_index": 14
+    },
+    {
+      "id": "acc84d61-dff4-46d5-aa1c-7a3ad9338868",
+      "score": 0.846159,
+      "title": "[Hans Berger (1873-1941)--the history of electroencephalography] - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16334737/",
+      "citation_index": 15
+    },
+    {
+      "id": "e073e2e3-b5db-480a-bd31-2ac37a3793db",
+      "score": 0.8173562,
+      "title": "Hans Berger: Lights and Shadows of the Inventor of Electroence...",
+      "url": "https://www.neuroelectrics.com/blog/2014/12/18/hans-berger-lights-and-shadows-of-the-inventor-of-electroencephalography/",
+      "citation_index": 17
+    },
+    {
+      "id": "cc0775d4-9384-4207-aa0d-78dc4ac533ee",
+      "score": 0.66203266,
+      "title": "History and Evolution of the Electroencephalogram - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11379424/",
+      "citation_index": 18
+    },
+    {
+      "id": "a3f45776-05e2-4bf1-8813-177d07478877",
+      "score": 0.8690161,
+      "title": "Pioneers in studying electrical brain activity. From left to right:... | Download Scientific Diagram",
+      "url": "https://www.researchgate.net/figure/Pioneers-in-studying-electrical-brain-activity-From-left-to-right-Richard-Caton_fig3_260612086",
+      "citation_index": 19
+    },
+    {
+      "id": "6fc20d19-7c80-4440-b32c-9f5eae56932c",
+      "score": 0.78074646,
+      "title": "Historical Overview of Electroencephalography: from Antiquity to the Beginning of the 21st Century",
+      "url": "https://escientificpublishers.com/historical-overview-of-electroencephalography-from-antiquity-to-the-beginning-of-the-21st-century-JBND-03-0020",
+      "citation_index": 20
+    },
+    {
+      "id": "8386ac40-7680-40d3-b04b-4b7f32a5fe3d",
+      "score": 0.83710164,
+      "title": "Adolf Beck: A pioneer in electroencephalography in between Richard Caton and Hans Berger - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3902832/",
+      "citation_index": 21
+    },
+    {
+      "id": "730ff1f7-f7be-41e7-8518-5fbe30a557b2",
+      "score": 0.6485337,
+      "title": "Richard Caton - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Richard_Caton",
+      "citation_index": 22
+    },
+    {
+      "id": "1c463301-259c-4ae7-98d4-f75a811257c6",
+      "score": 0.73755574,
+      "title": "Electrical Activity of the Brain | SpringerLink",
+      "url": "https://link.springer.com/chapter/10.1007/978-1-349-16995-5_14",
+      "citation_index": 23
+    },
+    {
+      "id": "8e8fab18-2350-4886-af3e-d386f1bb047c",
+      "score": 0.7393665,
+      "title": "Electroencephalograph EEG History, Hans Berger, Jena, Richard Caton - Biocybernaut Institute",
+      "url": "http://www.edumed.org.br/cursos/neurociencia/cdrom/Biblioteca/EEGHistory.htm",
+      "citation_index": 24
+    },
+    {
+      "id": "21aaf362-5f26-4240-9592-290bcb088e4f",
+      "score": 0.7393665,
+      "title": "Richard Caton | Portraits of European Neuroscientists",
+      "url": "https://neuroportraits.uk/portrait/richard-caton.html",
+      "citation_index": 25
+    },
+    {
+      "id": "159aa947-1fff-424d-aad1-5707be343b43",
+      "score": 0.70287734,
+      "title": "Evoked brain potentials: how far have we come since 1875? | SpringerLink",
+      "url": "https://link.springer.com/chapter/10.1007/978-94-011-6645-4_1",
+      "citation_index": 26
+    },
+    {
+      "id": "0f20b3d2-0e80-4881-9d61-6d9cfa1fda19",
+      "score": 0.82254606,
+      "title": "Hans Berger (1873\u20131941), Richard Caton (1842\u20131926), and electroencephalography",
+      "url": "https://www.researchgate.net/publication/10987705_Hans_Berger_1873-1941_Richard_Caton_1842-1926_and_electroencephalography",
+      "citation_index": 27
+    },
+    {
+      "id": "b8df0528-49e0-4faa-9835-dcefecc77b75",
+      "score": 0.86331123,
+      "title": "(PDF) Hans berger (1873-1941) - The history of electroencephalography",
+      "url": "https://www.researchgate.net/publication/7434381_Hans_berger_1873-1941_-_The_history_of_electroencephalography",
+      "citation_index": 28
+    },
+    {
+      "id": "f02a5173-cb77-4247-be2f-a296294faada",
+      "score": 0.92343384,
+      "title": "Hans Berger (1873\u20131941): the German psychiatrist who ...",
+      "url": "https://journals.physiology.org/doi/abs/10.1152/advan.00119.2024"
+    },
+    {
+      "id": "8736d778-ddb5-45f1-811a-4fa99b8ea4c2",
+      "score": 0.92343384,
+      "title": "Polysomnography: understanding this technology's past might guide future developments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25437471/"
+    },
+    {
+      "id": "45b5f0ab-b4ad-4422-b2ae-3bfe0a478a60",
+      "score": 0.8868231,
+      "title": "Hans Berger (1873-1941): the German psychiatrist who recorded the first electrical brain signal in humans 100 years ago - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39236103/"
+    },
+    {
+      "id": "335b90b4-5738-4ea6-9876-459d01fd4654",
+      "score": 0.8740022,
+      "title": "The Forgotten History of the Discovery of Human Brainwaves",
+      "url": "https://www.scientificamerican.com/article/the-human-brainwaves-centennial-exposes-a-darker-science-history/"
+    },
+    {
+      "id": "f638c969-cdb0-4846-a2a5-4d11e7c71349",
+      "score": 0.826278,
+      "title": "The Forgotten History of the Discovery of Human Brainwaves",
+      "url": "https://rdouglasfields.com/2024/12/24/the-forgotten-history-of-the-discovery-of-human-brainwaves/"
+    },
+    {
+      "id": "81e7614d-07cd-43dc-a5db-a858a44cc4a1",
+      "score": 0.8232293,
+      "title": "the German psychiatrist who recorded the first electrical brain ...",
+      "url": "https://journals.physiology.org/doi/pdf/10.1152/advan.00119.2024"
+    },
+    {
+      "id": "8f1700a0-da46-4fa4-a92f-829aab63cc9c",
+      "score": 0.7756902,
+      "title": "Hans Berger: Lights and Shadows of the Inventor of Electroencephalography",
+      "url": "https://www.neuroelectrics.com/blog/hans-berger-lights-and-shadows-of-the-inventor-of-electroencephalography"
+    },
+    {
+      "id": "2960e294-65cd-492c-aebc-0d4ca750f31b",
+      "score": 0.7686816,
+      "title": "The Evolution of EEG: A Journey Through Time",
+      "url": "https://www.neuroelectrics.com/blog/the-evolution-of-eeg-a-journey-through-time"
+    },
+    {
+      "id": "c5d48b91-d638-49a3-a6a0-7231e49cb291",
+      "score": 0.7680558,
+      "title": "Adolf Beck: Pioneer of Electroencephalography",
+      "url": "https://esmed.org/adolf-beck-pioneer-of-electroencephalography/"
+    },
+    {
+      "id": "c6f3d918-97b9-498c-92a2-951d41263a9a",
+      "score": 0.7657514,
+      "title": "Introduction - Electroencephalography (EEG): An Introductory Text and Atlas of Normal and Abnormal Findings in Adults, Children, and Infants - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK390346/"
+    },
+    {
+      "id": "575151de-75c3-403c-ad6e-884fb5d9f4db",
+      "score": 0.7640656,
+      "title": "The Erratic History of Electroencephalography",
+      "url": "https://esmed.org/MRA/mra/article/download/5351/99193548068/"
+    },
+    {
+      "id": "01b6737b-7052-4594-a9fa-0b079efdec8d",
+      "score": 0.7511561,
+      "title": "History of EEG \u2013 EMG v EEG",
+      "url": "https://publish.illinois.edu/bmesemgveeg/history-of-the-eeg/"
+    },
+    {
+      "id": "0c525d1d-605a-46f9-8a9e-2aea7b82302e",
+      "score": 0.7371019,
+      "title": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33085442/"
+    },
+    {
+      "id": "3994061c-870d-4026-980d-d9aa5ee97ec5",
+      "score": 0.735737,
+      "title": "Pioneers of the EEG",
+      "url": "https://brainclinics.com/research/articles/pioneers-of-the-eeg"
+    },
+    {
+      "id": "dfffe081-08d1-4daa-ad57-49a23efc79ee",
+      "score": 0.7336813,
+      "title": "The Conversation: A century after the EEG was discovered, it remains a crucial tool for understanding the brain News | University of Florida",
+      "url": "https://news.ufl.edu/2024/04/conversation-eeg-discovery/"
+    },
+    {
+      "id": "d016cfcb-1af1-4df6-96a8-cd2472b61bcd",
+      "score": 0.72489023,
+      "title": "Richard Caton (1842-1926). | Download Scientific Diagram",
+      "url": "https://www.researchgate.net/figure/Richard-Caton-1842-1926_fig1_342241644"
+    },
+    {
+      "id": "591d23e6-fbba-4aae-b5f9-13380faf0ef2",
+      "score": 0.6479992,
+      "title": "Richard Caton (1842-1926): pioneer electrophysiologist and cardiologist - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16435031/"
+    },
+    {
+      "id": "fc8b6444-a3f4-47db-991a-23fedde46f3e",
+      "score": 0.6083387,
+      "title": "Adolf Beck: A pioneer in electroencephalography in ...",
+      "url": "https://ac-psych.org/en/download-pdf/volume/9/issue/4/id/148"
+    },
+    {
+      "id": "7f192448-4d13-43f4-b777-0a09272a0c4b",
+      "score": 0.54274267,
+      "title": "Episode 1: Pioneers Of The EEG",
+      "url": "https://www.youtube.com/watch?v=RlODae5pD1s"
+    },
+    {
+      "id": "0872f422-0f6b-425d-9d06-6cfef4c869b4",
+      "score": 0.4671622,
+      "title": "Richard Caton and the electrical activity of the brain - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4601183/"
+    },
+    {
+      "id": "4e766ea0-8d31-4fa6-a377-e386ce8206c2",
+      "score": 0.34000343,
+      "title": "The Fascinating History of EEG From Physics to Signal Analysis",
+      "url": "https://www.youtube.com/watch?v=yIqGTP1FY2w"
+    },
+    {
+      "id": "5b04914d-48d7-4a10-a4ea-8bceced7b382",
+      "score": 0.23524933,
+      "title": "INVITED REVIEW Early History of Electroencephalography and Establishment of the",
+      "url": "https://www.aset.org/wp-content/uploads/2021/12/Early_History_of_Electroencephalography_and_2.pdf"
+    }
+  ]
+}

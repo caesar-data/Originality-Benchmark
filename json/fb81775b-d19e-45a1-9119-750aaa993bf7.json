@@ -1,0 +1,456 @@
+{
+  "id": "fb81775b-d19e-45a1-9119-750aaa993bf7",
+  "status": "completed",
+  "content": "**FALSE**\n\n## Summary Assessment\n\nThe statement that India is the largest robot market in the world, followed by Japan, Germany, and the United States, is factually incorrect. Based on the latest data from the International Federation of Robotics (IFR), China is by far the world's largest market for industrial robots in terms of annual installations and operational stock[1][2]. The subsequent ranking of Japan, Germany, and the United States is also inaccurate, as the United States consistently ranks higher than Germany, and the Republic of Korea is also a larger market than Germany[2][3].\n\n## Global Market Ranking by Annual Installations\n\nData from the International Federation of Robotics' annual *World Robotics* reports provides a clear ranking of the top industrial robot markets. China's market is substantially larger than all others combined.\n\n### 2024 Market Data (from *World Robotics 2025 Report*)\n\nThe most recent data, covering installations in 2024, establishes the following top five markets[2]:\n1.  **China**: 295,000 units installed, representing 54% of global deployments[2].\n2.  **Japan**: 44,500 units installed[2].\n3.  **United States**: 34,200 units installed[2].\n4.  **Republic of Korea**: 30,600 units installed[2].\n5.  **Germany**: 26,982 units installed[2].\n\nThese top five countries account for 80% of global robot installations[4].\n\n### 2023 Market Data (from *World Robotics 2024 Report*)\n\nThe previous year's data shows a similar and consistent ranking, further refuting the user's claim[3][5]:\n1.  **China**: 276,288 units installed, accounting for 51% of global installations[1][6].\n2.  **Japan**: 46,106 units installed[1].\n3.  **United States**: 37,587 units installed[1].\n4.  **Republic of Korea**: 31,444 units installed[1].\n5.  **Germany**: 28,355 units installed[1].\n\n## India's Market Position\n\nIndia is a rapidly growing market for industrial robotics but does not rank first globally[8].\n*   In 2023, India installed a record 8,510 industrial robots, a 59% increase from the previous year, securing the position as the 7th largest market for annual installations worldwide[9][8][10].\n*   In 2024, installations grew another 7% to a new record of 9,120 units, moving India up to the sixth-largest installer worldwide, behind Germany, the Republic of Korea, the US, Japan, and China[11][12][13].\n*   Despite this growth, India's operational stock of 52,570 robots in 2024 ranks it 10th worldwide, demonstrating significant potential for future growth when compared to the top five countries, whose operational stocks range from approximately 300,000 to over two million robots[12][13].\n\n## Market Size and Regional Dominance\n\nThe Asia-Pacific region is the undisputed leader in the industrial robotics market, a position largely driven by China[14][15].\n*   In 2024, Asia accounted for 74% of all new robot deployments[16][2]. Europe followed with 16% and the Americas with 9%[16][2].\n*   The global industrial robots market was valued at USD 19.89 billion in 2024, with the Asia-Pacific region holding a 48.72% share[17]. China alone captured a market value of USD 6.93 billion in 2024[17].\n*   China's operational stock of industrial robots approached 1.8 million units in 2023, making it the first country to reach such a large stock[1][6]. This stock grew to over 2 million in 2024[2].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "a574ad5b-d643-4213-88e1-d84bcbd321f2",
+      "score": 0.94989765,
+      "title": "Record of 4 Million Robots in Factories Worldwide - International Federation of Robotics",
+      "url": "https://ifr.org/ifr-press-releases/news/record-of-4-million-robots-working-in-factories-worldwide",
+      "citation_index": 1
+    },
+    {
+      "id": "54e0ec66-9b0f-4265-9627-fc981425c796",
+      "score": 0.81665546,
+      "title": "Global Robot Demand in Factories Doubles Over 10 Years - International Federation of Robotics",
+      "url": "https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles-over-10-years",
+      "citation_index": 2
+    },
+    {
+      "id": "9c611b3e-65a9-43ed-b1ef-2bede4c2673d",
+      "score": 0.74318707,
+      "title": "World Robotics 2024 - Industrial Robots - Press Conference",
+      "url": "https://www.youtube.com/watch?v=Eu8qZRtjoDg",
+      "citation_index": 3
+    },
+    {
+      "id": "7a43a359-f83f-40f2-bcb8-3ec79254ab91",
+      "score": 0.5917474,
+      "title": "Germany is Europe's Leading Robotics Nation",
+      "url": "https://www.prnewswire.com/news-releases/germany-is-europes-leading-robotics-nation-302568295.html",
+      "citation_index": 4
+    },
+    {
+      "id": "b01fca20-09ac-4457-8fa1-a82bc34c6f9e",
+      "score": 0.7101667,
+      "title": "Charted: The Growth of Industrial Robots by Country",
+      "url": "https://www.visualcapitalist.com/the-growth-of-industrial-robots-by-country/",
+      "citation_index": 5
+    },
+    {
+      "id": "99be6dd7-84de-4aba-b4a2-e866bdf63cc3",
+      "score": 0.91118777,
+      "title": "Record 4 Million Robots in Factories Worldwide",
+      "url": "https://www.automation.com/en-us/articles/september-2024/record-4-million-robots-factories-worldwide",
+      "citation_index": 6
+    },
+    {
+      "id": "02875bfd-4f24-4c80-b4a4-e3d1db7770b4",
+      "score": 0.93086797,
+      "title": "India Ranks 7th in Annual Robot Installations Worldwide \u2013 IFR reports",
+      "url": "https://www.businesswire.com/news/home/20240924894593/en/India-Ranks-7th-in-Annual-Robot-Installations-Worldwide-IFR-reports",
+      "citation_index": 8
+    },
+    {
+      "id": "f89b11b0-7b23-4beb-b350-7ce0fd1e5003",
+      "score": 0.923268,
+      "title": "Global Robotics Market Surges: Comprehensive Analysis of IFR World Robotics Report 2024",
+      "url": "https://statzon.com/insights/global-robotics-market-surges-comprehensive-analysis-of-ifr-world-robotics-report-2024",
+      "citation_index": 9
+    },
+    {
+      "id": "f4b0cfd6-f3d5-4e98-9f83-4b817de4d8b3",
+      "score": 0.8921218,
+      "title": "India Ranks 7th in Annual Robot Installations Worldwide \u2013 IFR reports | RoboticsTomorrow",
+      "url": "https://www.roboticstomorrow.com/news/2024/09/24/india-ranks-7th-in-annual-robot-installations-worldwide-%E2%80%93-ifr-reports/23208",
+      "citation_index": 10
+    },
+    {
+      "id": "2050b3dd-1d02-4f1a-a947-c2d0827443ca",
+      "score": 0.95921934,
+      "title": "India Overtakes Rivals in Robot Installations\u2014Racing Ahead as Sixth-Largest Robot Nation!",
+      "url": "https://makersmuse.in/news/india-overtakes-rivals-in-robot-installations/",
+      "citation_index": 11
+    },
+    {
+      "id": "c1eb80a9-801c-428a-bdc2-b20fca3c6c1c",
+      "score": 0.9229352,
+      "title": "India Rises to Sixth in Global Factory Robot Installations",
+      "url": "https://www.ptinews.com/press-release/india-rises-to-sixth-in-global-factory-robot-installations/2950571",
+      "citation_index": 12
+    },
+    {
+      "id": "5ecfd407-84a2-4f99-a009-8396b6b45bbf",
+      "score": 0.9191869,
+      "title": "India Rises to Sixth in Global Factory Robot Installations - The Wire",
+      "url": "https://m.thewire.in/article/ptiprnews/india-rises-to-sixth-in-global-factory-robot-installations/amp?utm=relatedarticles",
+      "citation_index": 13
+    },
+    {
+      "id": "854c3e6e-e015-4c64-8607-fa2cad49c586",
+      "score": 0.6829338,
+      "title": "Global Industrial Robot Market",
+      "url": "https://statzon.com/insights/global-industrial-robot-market",
+      "citation_index": 14
+    },
+    {
+      "id": "5a89bf14-207e-4a21-8886-87d4513959dd",
+      "score": 0.56575525,
+      "title": "Industrial Robotics Market Size, Share | CAGR of 11.5%",
+      "url": "https://market.us/report/industrial-robotics-market/",
+      "citation_index": 15
+    },
+    {
+      "id": "f44407e1-46d9-490b-aaf4-fc0150a3cb12",
+      "score": 0.8591094,
+      "title": "International Federation of Robotics",
+      "url": "https://ifr.org/",
+      "citation_index": 16
+    },
+    {
+      "id": "8bc2e9b6-5efa-447d-bc55-2a870f8453f2",
+      "score": 0.9138076,
+      "title": "Industrial Robots Market Size, Share, Industry Growth, 2032",
+      "url": "https://www.fortunebusinessinsights.com/industry-reports/industrial-robots-market-100360",
+      "citation_index": 17
+    },
+    {
+      "id": "c46ce0ce-94d8-4da2-b55d-b6e12c71198d",
+      "score": 0.9449999,
+      "title": "India's Robot Installations Surge 7% in 2024, Automotive ...",
+      "url": "https://www.industrialautomationindia.in/news/india-industrial-robotics-installations-2024-automotive-sector-leads-surge"
+    },
+    {
+      "id": "adca2e5e-f343-442c-a137-ce12174864a3",
+      "score": 0.9291904,
+      "title": "Global Robotic Simulator Market to Reach US$ 146.9 Billion by 2033 | Astute Analytica",
+      "url": "https://www.globenewswire.com/news-release/2025/10/06/3162004/0/en/Global-Robotic-Simulator-Market-to-Reach-US-146-9-Billion-by-2033-Astute-Analytica.html"
+    },
+    {
+      "id": "c669689d-b9d4-44be-8eec-db0d307ea761",
+      "score": 0.91988057,
+      "title": "Top Industrial Robots Exporters 2024",
+      "url": "https://www.worldstopexports.com/top-industrial-robots-exporters/"
+    },
+    {
+      "id": "e61d746f-8f99-438a-96f8-d3f6493ebe18",
+      "score": 0.90810597,
+      "title": "Global factory robot demand doubles in 10 years, says IFR report",
+      "url": "https://roboticsandautomationnews.com/2025/09/26/global-robot-demand-in-factories-doubles-over-10-years-according-to-new-report/94863/"
+    },
+    {
+      "id": "6da1a8ad-b824-4559-937a-8b5f6bb2501d",
+      "score": 0.9006087,
+      "title": "IFR: industrial robot deployments have doubled in 10 years",
+      "url": "https://www.therobotreport.com/ifr-industrial-robot-deployments-have-doubled-in-10-years/"
+    },
+    {
+      "id": "1ac7cee9-2bcf-429a-83a2-4cf3cb30c186",
+      "score": 0.8914433,
+      "title": "Global Robot Density in Factories Doubled in Seven Years - International Federation of Robotics",
+      "url": "https://ifr.org/ifr-press-releases/news/global-robot-density-in-factories-doubled-in-seven-years"
+    },
+    {
+      "id": "a1813463-4d86-4f04-a0d5-f2496505581a",
+      "score": 0.8909888,
+      "title": "Which Countries Have the Most Industrial Robots?",
+      "url": "https://www.visualcapitalist.com/which-countries-have-the-most-industrial-robots/"
+    },
+    {
+      "id": "ba8b8a28-1791-4fe5-9068-75b03908079e",
+      "score": 0.8898454,
+      "title": "China Overtakes Germany and Japan in Robot Density \u2013 IFR reports",
+      "url": "https://www.businesswire.com/news/home/20241120789594/en/China-Overtakes-Germany-and-Japan-in-Robot-Density-IFR-reports"
+    },
+    {
+      "id": "3c970b73-db95-4735-81c8-da46774bc28b",
+      "score": 0.8729662,
+      "title": "In just seven years, the global robot density in factories has doubled, IFR finds - The Robot Report",
+      "url": "https://www.therobotreport.com/in-just-seven-years-global-robot-density-factories-has-doubled-ifr-finds/"
+    },
+    {
+      "id": "77d75d34-2f5c-4265-a496-1c510654e983",
+      "score": 0.8668671,
+      "title": "100+ Must-Know Robotics Statistics 2025",
+      "url": "https://www.aiprm.com/robotics-statistics/"
+    },
+    {
+      "id": "cfe1b35a-1095-4a19-8aaa-a6ae6313219d",
+      "score": 0.86303437,
+      "title": "Sales of Service Robots up 30% Worldwide \u2013 IFR Reports",
+      "url": "https://www.businesswire.com/news/home/20241008943565/en/Sales-of-Service-Robots-up-30-Worldwide-IFR-Reports"
+    },
+    {
+      "id": "2bb4b484-bda2-46b9-a4b8-a5ef939399eb",
+      "score": 0.8619225,
+      "title": "Industrial Revolution: 500000+ Robots Installed in 2024",
+      "url": "https://www.dcvelocity.com/material-handling/robotics/2024-factories-installed-more-than-500000-robots-for-the-fourth-straight-year"
+    },
+    {
+      "id": "ecae44f4-a790-4896-a3f3-cd96fe89eb35",
+      "score": 0.85538095,
+      "title": "Global Robotics Race: Korea, Singapore and Germany in the Lead - International Federation of Robotics",
+      "url": "https://ifr.org/ifr-press-releases/news/global-robotics-race-korea-singapore-and-germany-in-the-lead"
+    },
+    {
+      "id": "fe1c95fe-b0d9-4034-8e7f-35daedc438e0",
+      "score": 0.85538095,
+      "title": "35 + Amazing Robotics Industry Statistics to Understand in 2023",
+      "url": "https://www.strategicmarketresearch.com/blogs/robotics-industry-statistics"
+    },
+    {
+      "id": "d1e18931-a417-4d72-b52c-c6f39c3f0fbf",
+      "score": 0.8464638,
+      "title": "Industrial Robotics Market Size, Industry Report 2024-2034",
+      "url": "https://www.precedenceresearch.com/industrial-robotics-market"
+    },
+    {
+      "id": "5672d8dc-2459-4517-8c47-d6d1dbfee07f",
+      "score": 0.8361405,
+      "title": "Robotics Industry Doubles since 2015",
+      "url": "https://www.wipo.int/en/web/global-innovation-index/w/blogs/2024/robotics-industry"
+    },
+    {
+      "id": "ae1b1c37-c907-4c0f-a7a8-df9fc4efcc8e",
+      "score": 0.77893573,
+      "title": "Top Robotics Market Size share trends Top Industrial Robotics, Top Service Robotics, 2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/top-robotic-market-552191.html"
+    },
+    {
+      "id": "339118b8-66ed-4601-a0c1-eeefcbd10081",
+      "score": 0.7606688,
+      "title": "World Robotics 2023 Report: Asia ahead of Europe and the Americas - International Federation of Robotics",
+      "url": "https://ifr.org/ifr-press-releases/news/world-robotics-2023-report-asia-ahead-of-europe-and-the-americas"
+    },
+    {
+      "id": "5e79d4d3-a556-48ae-a06e-1fd8645fe5d4",
+      "score": 0.74541736,
+      "title": "Worldwide Robot End-Effector Market Outlook 2019-2024: Increasing Adoption of Collaborative Robots Drives Growth",
+      "url": "https://www.prnewswire.com/news-releases/worldwide-robot-end-effector-market-outlook-2019-2024-increasing-adoption-of-collaborative-robots-drives-growth-300847958.html"
+    },
+    {
+      "id": "e38acdd2-f3f4-40f5-8291-6462ee4803a7",
+      "score": 0.74385756,
+      "title": "Chart: The Giants of Industrial Robotics | Statista",
+      "url": "https://www.statista.com/chart/32239/global-market-share-of-industrial-robotics-companies/"
+    },
+    {
+      "id": "3e87219e-eb1e-43b1-b66f-173e1dafe3dd",
+      "score": 0.72977066,
+      "title": "Chart: The Giants of Industrial Robotics",
+      "url": "https://www.statista.com/chart/32239/global-market-share-of-industrial-robotics-companies/?srsltid=AfmBOooqPAfSmEjpWJfQYM_jR403ULKsXUsJyuT1NzQ2p9sw76hl4rTT"
+    },
+    {
+      "id": "5d9b7ea4-c043-497c-9687-7237000a1bb7",
+      "score": 0.70871735,
+      "title": "2024: Over 500000 Robots Installed in Factory Automation",
+      "url": "https://www.thescxchange.com/move/produce/2024-factories-installed-more-than-500000-robots-for-the-fourth-straight-year"
+    },
+    {
+      "id": "2bbcc1b6-e6cc-492e-95f9-71f20e73182d",
+      "score": 0.70871735,
+      "title": "The World\u2019s Top Industrial Robotics Companies by Market Share",
+      "url": "https://www.visualcapitalist.com/the-worlds-top-industrial-robotics-companies-by-market-share/"
+    },
+    {
+      "id": "cb8236ac-7fe5-4b5e-8bb9-8fbcae758da8",
+      "score": 0.69399214,
+      "title": "World Robotics Report 2023 Shows Ongoing Global Growth in Installations, Finds IFR - Robotics 24/7",
+      "url": "https://www.robotics247.com/article/world_robotics_report_2023_shows_ongoing_global_growth_installations_finds_ifr"
+    },
+    {
+      "id": "6d52dcd0-6bf2-4c66-a731-a63c9e4cfefe",
+      "score": 0.6934942,
+      "title": "Robots And Our Productivity Salvation",
+      "url": "https://www.forbes.com/sites/kevinomarah/2024/02/22/robots-and-our-productivity-salvation/"
+    },
+    {
+      "id": "82fbfdf8-a3ee-4c53-b817-135370ffb88d",
+      "score": 0.6867278,
+      "title": "15 largest industrial robotics markets in 2022 - The Robot Report",
+      "url": "https://www.therobotreport.com/15-largest-industrial-robotics-markets-in-2022/"
+    },
+    {
+      "id": "ab3cb5c0-3367-4c06-9506-1372177ed100",
+      "score": 0.6821721,
+      "title": "Leading countries in robotics 2025 \u2013 Top 10 Industrial ...",
+      "url": "https://xpert.digital/en/robotics-company/"
+    },
+    {
+      "id": "eca1ae8c-e6e8-483d-b215-3b39c68f0fc4",
+      "score": 0.6693348,
+      "title": "India ranks 7th in annual robot installations worldwide",
+      "url": "https://ifr.org/downloads/press2018/2024-SEP-24_IFR_press_release_World_Robotics_2024_-_India.pdf"
+    },
+    {
+      "id": "c364d6b1-589f-4a8b-b976-55e4909a72ca",
+      "score": 0.65597594,
+      "title": "Robotics #robot #robotics #robotic #roboticseducation #robotdog #robotek #robotech #roboter #dog",
+      "url": "https://www.youtube.com/watch?v=1SyHanW9f2I"
+    },
+    {
+      "id": "84bbaaa0-b5a1-4183-bee7-85b9e1d5bee1",
+      "score": 0.64585793,
+      "title": "Robotics research: How Asia, Europe and America invest \u2013 Global Report 2023",
+      "url": "https://robohub.org/robotics-research-how-asia-europe-and-america-invest-global-report-2023/"
+    },
+    {
+      "id": "f76d4c8a-25fe-4577-b82c-607146b4a2c4",
+      "score": 0.6194488,
+      "title": "World Robotics 2024 - Service Robots - Press Conference",
+      "url": "https://www.youtube.com/watch?v=RA-XCEaCGNY"
+    },
+    {
+      "id": "16308a1b-a6d3-443a-99cc-bb3957375355",
+      "score": 0.60805947,
+      "title": "India Rises To Sixth In Global Factory Robot Installations \u2013 Kashmir Observer",
+      "url": "https://kashmirobserver.net/2025/09/26/india-rises-to-sixth-in-global-factory-robot-installations/"
+    },
+    {
+      "id": "c30a3cf9-5ea1-422f-817f-a5f6243e10f7",
+      "score": 0.5780915,
+      "title": "India\u00b4s Robot Boom Hits All-Time High - International Federation of Robotics",
+      "url": "https://ifr.org/ifr-press-releases/news/indias-robot-boom-hits-all-time-high"
+    },
+    {
+      "id": "23e5193f-b68a-4591-ac84-86c15b90a60d",
+      "score": 0.5697814,
+      "title": "India Now in the Global Top Ten for Robot Installations - Engineering.com",
+      "url": "https://www.engineering.com/india-now-in-the-global-top-ten-for-robot-installations/"
+    },
+    {
+      "id": "b4ff6714-1804-4b27-9145-27374e410f12",
+      "score": 0.5441965,
+      "title": "Peter T.'s Post",
+      "url": "https://www.linkedin.com/posts/petertkac_the-world-robotics-2024-report-reveals-that-activity-7275076100882403328-LAYt"
+    },
+    {
+      "id": "216de3b0-d8df-405a-9fa7-6559b0ecf3db",
+      "score": 0.5227632,
+      "title": "Industrial Robotics Market Size, Share, Forecast 2024-2032",
+      "url": "https://www.inkwoodresearch.com/reports/industrial-robotics-market/"
+    },
+    {
+      "id": "2a000409-4592-4c3d-ab69-58e4c2be6adf",
+      "score": 0.5062259,
+      "title": "Robot Statistics and Facts (2025)",
+      "url": "https://scoop.market.us/robot-statistics/"
+    },
+    {
+      "id": "1b2b1540-ec39-4fda-bb01-8a29f527d791",
+      "score": 0.48879638,
+      "title": "Autodesk, Inc. (ADSK): You Should Pay Attention To This Cheap Robotic Stock Now",
+      "url": "https://finance.yahoo.com/news/autodesk-inc-adsk-pay-attention-022821166.html"
+    },
+    {
+      "id": "60dde0aa-d806-474e-a1df-be17f46b1cf2",
+      "score": 0.48762518,
+      "title": "India Joins Global Top 10 for Robot Installations: Automotive, Rubber, and Metal Sectors Drive Growth",
+      "url": "https://www.angelone.in/news/market-updates/india-joins-global-top-10-for-robot-installations-automotive-rubber-and-metal-sectors-drive-growth"
+    },
+    {
+      "id": "a712142c-6c99-4514-96c8-60c3a87a928e",
+      "score": 0.48177138,
+      "title": "Are Hedge Funds Bullish on ServiceNow, Inc. (NOW) Right Now?",
+      "url": "https://finance.yahoo.com/news/hedge-funds-bullish-servicenow-inc-023116233.html"
+    },
+    {
+      "id": "26c789ba-806c-44b2-9c5c-e3d94259e213",
+      "score": 0.48177138,
+      "title": "Teradyne, Inc. (TER): Is It The Best Cheap Robotics Stock to Buy According to Analysts?",
+      "url": "https://finance.yahoo.com/news/teradyne-inc-ter-best-cheap-022102362.html"
+    },
+    {
+      "id": "4d309a98-1e16-4e82-9215-986de6b15119",
+      "score": 0.4797236,
+      "title": "IFR World Robotics report says 4M robots are operating in factories globally - The Robot Report",
+      "url": "https://www.therobotreport.com/ifr-4-million-robots-operating-globally-world-robotics-report/"
+    },
+    {
+      "id": "3d65f532-54d9-44de-827e-3bf8193670f3",
+      "score": 0.47943115,
+      "title": "Microchip Technology Incorporated (MCHP): Why Are Hedge Funds Bullish On This Cheap Robotics Stock Right Now?",
+      "url": "https://finance.yahoo.com/news/microchip-technology-incorporated-mchp-why-020930167.html"
+    },
+    {
+      "id": "534e2714-81a4-4276-853b-1ee7e72c44e1",
+      "score": 0.47154015,
+      "title": "PTC Inc. (PTC): Should You Invest In This Cheap Robotic Stock Right Now?",
+      "url": "https://finance.yahoo.com/news/ptc-inc-ptc-invest-cheap-021751103.html"
+    },
+    {
+      "id": "0138afa7-b439-4968-921a-d65d38d4a7d1",
+      "score": 0.46920466,
+      "title": "Robotics in 2023: What the Latest World Robotics Report Tells Us",
+      "url": "https://blog.robotiq.com/robotics-in-2023-what-the-latest-world-robotics-report-tells-us"
+    },
+    {
+      "id": "bbd6ff64-6f7e-45e5-9897-4fe7d57c7587",
+      "score": 0.44956237,
+      "title": "2024 - Global Robotics Market and Industry Overview: Current State and Future Perspectives",
+      "url": "https://statzon.com/insights/2024-global-robotics-market-and-industry-overview-current-state-and-future-perspectives"
+    },
+    {
+      "id": "491713d8-1bb8-4042-95e6-c7a61340402c",
+      "score": 0.44709876,
+      "title": "India's rise of the robots: Country among top 10 markets in installations | IBEF",
+      "url": "https://ibef.org/news/india-s-rise-of-the-robots-country-among-top-10-markets-in-installations"
+    },
+    {
+      "id": "35d39d5b-163a-49d0-8dd6-fa284aedc9ef",
+      "score": 0.42548645,
+      "title": "India Rises to Sixth in Global Factory Robot Installations - The Tribune",
+      "url": "https://www.tribuneindia.com/news/business/india-rises-to-sixth-in-global-factory-robot-installations/"
+    },
+    {
+      "id": "faaa6fa0-f708-4512-b0b8-6e4432b24ad4",
+      "score": 0.3620219,
+      "title": "Annual industrial robots installed in top five countries - Our World in Data",
+      "url": "https://ourworldindata.org/grapher/annual-industrial-robots-installed"
+    },
+    {
+      "id": "e106141d-c580-4c63-a00a-9367eaf109b5",
+      "score": 0.36181894,
+      "title": "Industrial Robotics Market worth $30.47 Billion by 2030 - Exclusive Report by The Insight Partners",
+      "url": "https://www.globenewswire.com/news-release/2023/08/21/2728678/0/en/Industrial-Robotics-Market-worth-30-47-Billion-by-2030-Exclusive-Report-by-The-Insight-Partners.html"
+    },
+    {
+      "id": "6bb6d64e-6a5e-43bc-bf72-e5ae804f7479",
+      "score": 0.35233605,
+      "title": "Robot Installations Top 500,000 a Year; China Dominates",
+      "url": "https://www.iotworldtoday.com/robotics/robot-installations-top-500-000-a-year-china-dominates"
+    },
+    {
+      "id": "29488d3f-efe0-4ebb-94f7-efda0ff1346f",
+      "score": 0.27183107,
+      "title": "[Latest] Global Machinery and Industrial Automation Market Size/Share Worth USD 407.4 Billion by 2032 at a 8.2% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
+      "url": "https://www.globenewswire.com/news-release/2024/01/30/2820446/0/en/Latest-Global-Machinery-and-Industrial-Automation-Market-Size-Share-Worth-USD-407-4-Billion-by-2032-at-a-8-2-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Fore.html"
+    },
+    {
+      "id": "ac639753-1da4-4079-bdf7-a19ac2b0264c",
+      "score": 0.23501225,
+      "title": "World Robotics 2025 - Service Robots press conference",
+      "url": "https://www.youtube.com/watch?v=954LVzNBl5U"
+    },
+    {
+      "id": "34c55bf5-5476-4d62-9c10-b7d22d8470bf",
+      "score": 0.2264075,
+      "title": "Global Nano Programmable Logic Controller\u00a0(PLC) Market Size to Reach USD 5.26 Billion in 2032 |Emergen Research",
+      "url": "https://www.globenewswire.com/news-release/2023/10/10/2757634/0/en/Global-Nano-Programmable-Logic-Controller-PLC-Market-Size-to-Reach-USD-5-26-Billion-in-2032-Emergen-Research.html"
+    },
+    {
+      "id": "2156a3fa-4771-49cf-b430-9af2f0e80939",
+      "score": 0.14622158,
+      "title": "FACTS about INDUSTRIAL ROBOTS - Robot Density in 2021",
+      "url": "https://www.youtube.com/watch?v=_lHq8BY_Lt0"
+    },
+    {
+      "id": "b4b3574a-630e-4dfb-8b00-0395621a1b9e",
+      "score": 0.08059611,
+      "title": "Swarm Intelligence Market Size Worth USD 938.1 Billion in 2032 | Emergen Research",
+      "url": "https://www.globenewswire.com/news-release/2024/01/23/2814320/0/en/Swarm-Intelligence-Market-Size-Worth-USD-938-1-Billion-in-2032-Emergen-Research.html"
+    }
+  ]
+}

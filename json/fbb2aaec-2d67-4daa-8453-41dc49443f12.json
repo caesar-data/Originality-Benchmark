@@ -1,0 +1,297 @@
+{
+  "id": "fbb2aaec-2d67-4daa-8453-41dc49443f12",
+  "status": "completed",
+  "content": "**TRUE**: The statement that human babies are born with the ability to detect sour tastes is factually correct. This conclusion is supported by extensive evidence from developmental biology, which shows the gustatory system is functionally mature before birth, and from neonatal studies, which document characteristic and differential facial expressions in newborns when exposed to sour stimuli[1][2][3].\n\n## Physiological and Fetal Development\n\nThe biological structures required for taste, including the detection of sour stimuli, are developed and functional prior to birth[4][5].\n\n*   **Timeline of Development**: The development of the gustatory system begins early in gestation[3]. Taste bud formation starts around the 7th to 8th week of gestation[6][7][8]. Nerve fibers approach the lingual epithelium between the 6th and 7th week, penetrating it and forming synapses by the 8th week[9]. The taste papillae are considered functionally mature by the beginning of the second trimester[4]. By 13 to 15 weeks, the taste cells resemble their mature form, and typical taste pores are present by the 14th week, allowing the taste buds to begin their gustatory function[9][8]. Fetal swallowing of amniotic fluid begins around 12 weeks of gestation, allowing the fetus to experience tastes[8][10]. Activation of these taste buds starts around the 30th week of gestation, stimulated by variations in the composition of the amniotic fluid based on the mother's diet[6][11]. By the time of birth, newborns possess a fully functional taste receptor system[3].\n\n*   **Sour Taste Receptors**: The detection of sour taste is mediated by specific receptors. Sourness is perceived in response to free hydrogen ions (acids)[6]. Type III taste bud cells are identified as the sour detectors[12]. Detection occurs via proton-sensitive ion channels, with specific candidates including PKD2L1 and OTOP1[3][14].\n\n## Behavioral Evidence in Newborns\n\nStudies conducted on newborn infants (neonates) hours after birth provide direct behavioral evidence that they can detect and discriminate sour tastes[2]. The innate ability to react to sour stimuli is a well-documented phenomenon reflecting the basic biology of human infants[1][15].\n\n*   **Characteristic Facial Expressions**: When presented with sour-tasting solutions like citric acid, newborns exhibit a distinct and characteristic set of negative facial expressions[1]. Pioneering studies by Steiner observed that sour solutions elicited squinting and lip pursing[1]. Subsequent research confirmed these findings, identifying lip pursing as a major and differential response to sour tastes, often accompanied by actions in the brow and mid-face region[16][17][18]. Other observed reactions include grimacing, nose wrinkling, and head shaking[19][8].\n\n*   **Taste Discrimination**: Newborns not only detect sourness but can also differentiate it from other tastes[16][17]. Their facial reactions to sour stimuli are distinct from their responses to other tastes[1]. For example, sour solutions elicit lip pursing, whereas bitter solutions typically cause mouth gaping, and sweet solutions lead to facial relaxation and sucking motions[16][17]. This demonstrates that the gustatory system is functional and capable of discrimination within hours of birth[2]. This innate rejection of sour and bitter tastes, along with a preference for sweet, is considered a fundamental aspect of infant biology[1][20].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "358030a4-21af-42f5-a1fe-e1d4ad0dfb9b",
+      "score": 0.8215175,
+      "title": "The Relationship between Infant Facial Expressions and Food Acceptance - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5492973/",
+      "citation_index": 1
+    },
+    {
+      "id": "242c003c-1973-4762-8df6-446477b846d2",
+      "score": 0.8571119,
+      "title": "Facial expressions of neonate infants in response to gustatory stimuli - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2094539/",
+      "citation_index": 2
+    },
+    {
+      "id": "e6813e2d-8f11-488b-8589-edc7fcf552d1",
+      "score": 0.7045877,
+      "title": "Unraveling the Physiology of Taste Sensation in Newborns: Mechanisms, Development, and Clinical Implications | European Journal of Medical and Health Sciences",
+      "url": "https://www.ej-med.org/index.php/ejmed/article/view/2066",
+      "citation_index": 3
+    },
+    {
+      "id": "acd2e5ec-cc4b-46d6-b79a-2a8901c39386",
+      "score": 0.5818027,
+      "title": "Early Influences on the Development of Food Preferences",
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(13)00208-X",
+      "citation_index": 4
+    },
+    {
+      "id": "dfba1756-588b-4d74-8c82-d8f87e538e34",
+      "score": 0.36786106,
+      "title": "Early Influences on the Development of Food Preferences",
+      "url": "https://www.sciencedirect.com/science/article/pii/S096098221300208X",
+      "citation_index": 5
+    },
+    {
+      "id": "45d1802f-ddb9-43c3-b2b7-d94929c818f8",
+      "score": 0.71137124,
+      "title": "Physiology, Taste - StatPearls - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557768/",
+      "citation_index": 6
+    },
+    {
+      "id": "1c1a9805-5f76-4655-b978-b4a69e7af00c",
+      "score": 0.45101276,
+      "title": "The Evolution of Taste and Perinatal Programming of ...",
+      "url": "https://www.biomed.cas.cz/physiolres/pdf/67/67_S421.pdf",
+      "citation_index": 7
+    },
+    {
+      "id": "db13df9a-c58f-429f-8953-62248c55dbc9",
+      "score": 0.5455042,
+      "title": "The gustatory and olfactory systems during infancy: Implications for development of feeding behaviors in the high risk neonate - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3223371/",
+      "citation_index": 8
+    },
+    {
+      "id": "9d42a563-8f59-446b-ada1-2a9313d205ff",
+      "score": 0.3042695,
+      "title": "Embryonic and early fetal development of human taste buds: a transmission electron microscopical study - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8955790/",
+      "citation_index": 9
+    },
+    {
+      "id": "5fc61d74-d8ac-4140-856b-48b3accf4598",
+      "score": 0.586926,
+      "title": "How Babies Experience Flavors in the Womb? Fetal Development and Taste",
+      "url": "https://www.youtube.com/watch?v=6v6D8j_2zt8",
+      "citation_index": 10
+    },
+    {
+      "id": "01dad66c-6459-46db-8130-d598619b64c4",
+      "score": 0.65252984,
+      "title": "Taste development and prenatal prevention - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31850766/",
+      "citation_index": 11
+    },
+    {
+      "id": "f98aed2f-e7b7-4c67-ab7b-58df0fe179b8",
+      "score": 0.29093602,
+      "title": "Progress and renewal in gustation: new insights into taste bud development - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4647210/",
+      "citation_index": 12
+    },
+    {
+      "id": "58f6a9a7-a5b8-42a9-b0f1-915540efc2a1",
+      "score": 0.37855154,
+      "title": "Taste receptor - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taste_receptor",
+      "citation_index": 14
+    },
+    {
+      "id": "5196fab5-c022-4463-94d2-3eddee879dbd",
+      "score": 0.46818325,
+      "title": "The evolution of sour taste | Proceedings of the Royal Society B",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1918",
+      "citation_index": 15
+    },
+    {
+      "id": "a9dfa568-4fe8-40cd-aa37-21631bd16100",
+      "score": 0.8021998,
+      "title": "Differential facial responses to four basic tastes in newborns - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3208567/",
+      "citation_index": 16
+    },
+    {
+      "id": "46afcb75-bf0e-4748-a9b7-1bd3a83ebd0f",
+      "score": 0.7474137,
+      "title": "Differential Facial Responses to Four Basic Tastes in Newborns on JSTOR",
+      "url": "https://www.jstor.org/stable/1130670",
+      "citation_index": 17
+    },
+    {
+      "id": "61f7c923-7867-48ab-acdb-194bd906ea13",
+      "score": 0.76321954,
+      "title": "Differential facial responses to four basic tastes in newborns.",
+      "url": "https://www.semanticscholar.org/paper/Differential-facial-responses-to-four-basic-tastes-Rosenstein-Oster/1f39ca130758c19d249e180c33ec98eca11ee48f",
+      "citation_index": 18
+    },
+    {
+      "id": "2ed02614-88d7-46e2-91ba-567088950fcd",
+      "score": 0.8765607,
+      "title": "Facial Expressivity at 4 Months: A Context by Expression Analysis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1523383/",
+      "citation_index": 19
+    },
+    {
+      "id": "9a91c212-98ae-4b1d-b379-2b8d51706f4a",
+      "score": 0.6238588,
+      "title": "Sensory Capacities | Lifespan Development",
+      "url": "https://courses.lumenlearning.com/suny-lifespandevelopment/chapter/sensory-capacities/",
+      "citation_index": 20
+    },
+    {
+      "id": "723bc72f-a7b3-4b86-9107-4d6cfd4c20f2",
+      "score": 0.8201387,
+      "title": "Facial responses to four basic tastes in newborn rhesus macaques (Macaca mulatta) and chimpanzees (Pan troglodytes) - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15302133/"
+    },
+    {
+      "id": "aaa32219-c65b-4cc2-8a73-0da8ddd98113",
+      "score": 0.8055255,
+      "title": "Heightened Sour Preferences During Childhood - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2789429/"
+    },
+    {
+      "id": "b00b8edf-9d42-45af-994b-3ac14b39d851",
+      "score": 0.80442166,
+      "title": "Differential Facial Responses to Four Basic Tastes in Newborns ...",
+      "url": "https://academic.oup.com/book/32646/chapter/270567271"
+    },
+    {
+      "id": "a12f5dc6-02de-4f0d-97b1-e69c5d7bb711",
+      "score": 0.7593865,
+      "title": "Facial responses to four basic tastes in newborn rhesus ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0166432804000579"
+    },
+    {
+      "id": "9d7932c6-edec-4e62-bb0e-f5bd60f04eaf",
+      "score": 0.70531887,
+      "title": "Unraveling the Physiology of Taste Sensation in Newborns",
+      "url": "https://www.ej-med.org/index.php/ejmed/article/view/2066/1580"
+    },
+    {
+      "id": "dcb4778b-a23d-457e-82f6-977bf6cbc308",
+      "score": 0.6334335,
+      "title": "Sour taste, cute face! \ud83d\ude06 #babycomedy #funnybaby",
+      "url": "https://www.youtube.com/watch?v=2AAshBeOZrA"
+    },
+    {
+      "id": "5b7df931-dbc2-411d-9872-9164cef91a50",
+      "score": 0.5385227,
+      "title": "Anatomy and development of the human taste system - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/B9780444638557000101"
+    },
+    {
+      "id": "9b341236-4179-4ea5-8d8c-eba406e453fa",
+      "score": 0.53473455,
+      "title": "Differential Facial Responses to Four Basic Tastes in ...",
+      "url": "https://psycnet.apa.org/record/2005-07386-014"
+    },
+    {
+      "id": "0cc0bdc2-5f0f-43bb-b4fe-4964965c5cd5",
+      "score": 0.514718,
+      "title": "Top 5 Baby Sour Face Reactions! \ud83d\ude02\ud83d\udc76",
+      "url": "https://www.youtube.com/watch?v=VsEIaiJ2ync"
+    },
+    {
+      "id": "d4c4af14-cce8-46bf-8813-fb141c0dd455",
+      "score": 0.49714416,
+      "title": "Sensory - Taste Development - Embryology",
+      "url": "https://embryology.med.unsw.edu.au/embryology/index.php/Sensory_-_Taste_Development"
+    },
+    {
+      "id": "df7acaba-c7e4-4dd8-bc43-566d10e89d47",
+      "score": 0.46264356,
+      "title": "When your baby's taste buds develop | BabyCenter",
+      "url": "https://www.babycenter.com/baby/baby-development/baby-sensory-development-taste_10401107"
+    },
+    {
+      "id": "3bf04394-8a29-4c97-81af-e993369c3f66",
+      "score": 0.43842506,
+      "title": "Comparative expression of hedonic impact: affective reactions to taste by",
+      "url": "https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/09/Comparative-expression-of-hedonic-impact-affective-reactions-to-taste-by-human-infants-and-other-primates.pdf"
+    },
+    {
+      "id": "21cc95b3-af65-4d7b-8fff-3e2cbf4abafc",
+      "score": 0.42062396,
+      "title": "Neonatal facial expressions in response to different qualities and intensities of gustatory stimuli - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0163638383903016"
+    },
+    {
+      "id": "ee0b6dca-badf-4d20-80fd-4088e5a78cb7",
+      "score": 0.41948205,
+      "title": "Taste: Anatomy and Physiology, Animation",
+      "url": "https://www.youtube.com/watch?v=K9JSBzEEA0o"
+    },
+    {
+      "id": "a25c8588-97ae-48d3-ad16-f67ed1b06378",
+      "score": 0.40952834,
+      "title": "Taste Bud Development in Babies | Tiny Organics",
+      "url": "https://www.tinyorganics.com/blogs/tinyblog/taste-bud-development-in-babies"
+    },
+    {
+      "id": "f6651aef-1292-4056-b4a4-878368fbc632",
+      "score": 0.39768162,
+      "title": "Development of Taste Perception in Humans: Sensitivity ...",
+      "url": "https://www.researchgate.net/profile/Beverly-Cowart/publication/15930998_Development_of_taste_perception_in_humans_Sensitivity_and_preference_throughout_the_life_span/links/543423a40cf294006f734e50/Development-of-taste-perception-in-humans-Sensitivity-and-preference-throughout-the-life-span.pdf"
+    },
+    {
+      "id": "449b11d5-c70b-4609-b8a3-96b7f982c9f1",
+      "score": 0.39726064,
+      "title": "Taste Receptor - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/neuroscience/taste-receptor"
+    },
+    {
+      "id": "a12b353f-33e8-4446-8ab8-86b5827d2c3d",
+      "score": 0.37120554,
+      "title": "Flavor Perception in Human Infants: Development and Functional Significance - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3202923/"
+    },
+    {
+      "id": "f5222b81-73ab-4792-9bad-9f2d3a358eb5",
+      "score": 0.31311566,
+      "title": "Anatomy and development of the human taste system - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31604544/"
+    },
+    {
+      "id": "74ec21d0-b2e4-4be7-b325-bbd5657c8670",
+      "score": 0.29033202,
+      "title": "The Flavor World of Infants",
+      "url": "http://faculty.washington.edu/jul2/Readings/infantstaste.pdf"
+    },
+    {
+      "id": "cb0250bd-9201-4957-9f97-7b8f9cc8e608",
+      "score": 0.28726318,
+      "title": "Taste perception in the newborn infant - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0163638378800095"
+    },
+    {
+      "id": "844b2a8c-9074-4af3-a5cd-a99726455427",
+      "score": 0.17852616,
+      "title": "Newborn baby makes a cute sour face at mom - Daily Mail",
+      "url": "https://www.youtube.com/watch?v=ueJ0vn0BCxs"
+    },
+    {
+      "id": "ba1d7aa8-8d4b-4b16-82f0-052567bf9b16",
+      "score": 0.1684465,
+      "title": "Infant Acceptance of Primary Tastes and Fat Emulsion: Developmental Changes and Links with Maternal and Infant Characteristics | Chemical Senses | Oxford Academic",
+      "url": "https://academic.oup.com/chemse/article/42/7/593/3925941"
+    },
+    {
+      "id": "c7b8d3a9-aa3f-4e5a-8228-d11df9bb10f9",
+      "score": 0.12606281,
+      "title": "Hilarious Baby Reaction to Sour Taste #baby #funny #cute #adorablemoments",
+      "url": "https://www.youtube.com/watch?v=o6bsuu1h8kA"
+    },
+    {
+      "id": "a3194727-7d0d-4b04-a3fe-c3827bbf4025",
+      "score": 0.061452325,
+      "title": "Newborn Senses - Stanford Medicine Children's Health",
+      "url": "https://www.stanfordchildrens.org/en/topic/default?id=newborn-senses-90-P02631"
+    },
+    {
+      "id": "9c3111c8-446a-4f5e-a189-22155a25a0f7",
+      "score": 0.052643407,
+      "title": "Taste of Lemon Juice Turns Face Sour || ViralHog",
+      "url": "https://www.youtube.com/watch?v=wpQ72dSRJB8"
+    }
+  ]
+}

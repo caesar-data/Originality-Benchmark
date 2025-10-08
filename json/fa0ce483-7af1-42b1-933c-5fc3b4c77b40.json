@@ -1,0 +1,227 @@
+{
+  "id": "fa0ce483-7af1-42b1-933c-5fc3b4c77b40",
+  "status": "completed",
+  "content": "TRUE. The statement is factual; the 2023 edition of the Eurovision Song Contest was held in Liverpool, United Kingdom[1][2][3]. The 67th iteration of the contest took place at the Liverpool Arena, also known as the M&S Bank Arena, with the Grand Final held on May 13, 2023[4][5][2].\n\n## Host City Selection Process\n\nThe United Kingdom was selected to host the 2023 contest on behalf of the 2022 winner, Ukraine[6]. The European Broadcasting Union (EBU), the competition's organizer, concluded that Ukraine was unable to host due to security concerns following the Russian invasion[8][6]. Consequently, the BBC, as the broadcaster for the runner-up country in 2022, was invited to stage the event[6][9].\n\nA competitive bidding process ensued to determine the host city[2]:\n*   **Initial Bids**: Over 20 cities and towns across the UK initially expressed interest in hosting[2][10].\n*   **Shortlist of Seven**: On August 12, 2022, the BBC and EBU announced a shortlist of seven cities: Birmingham, Glasgow, Leeds, Liverpool, Manchester, Newcastle, and Sheffield[11][12][2].\n*   **Final Two**: On September 27, 2022, the field was narrowed to two final contenders: Glasgow and Liverpool[12][11][10].\n*   **Final Decision**: Liverpool was officially announced as the host city on October 7, 2022[4][1][2]. The city's bid was noted for its strong cultural offer reflecting Ukraine's 2022 win, venue facilities, and infrastructure capable of accommodating the large-scale event[4][5].\n\n## Event Details and Venue\n\n*   **Venue**: The contest was held at the Liverpool Arena (M&S Bank Arena), an 11,000-capacity venue located on the River Mersey waterfront[1][8][2]. The arena is part of the ACC Liverpool campus, which also includes an exhibition and convention center, providing necessary space for the press center and other logistical requirements[13].\n*   **Dates**: The event schedule included two semi-finals on Tuesday, May 9 and Thursday, May 11, 2023, culminating in the Grand Final on Saturday, May 13, 2023[4][5].\n*   **Theme and Winner**: The slogan for the contest was \"United By Music\"[14][15]. The official logo incorporated the Ukrainian flag within a heart to signify that the event was hosted on behalf of Ukraine[4]. Loreen from Sweden was the winner with her song \"Tattoo\"[15][14][16].\n*   **Economic Impact**: The event brought an estimated gross local spend of \u00a354.9 million to Liverpool from visitors[9].\n\nThis was the ninth time the United Kingdom had hosted the Eurovision Song Contest, and the first time in 25 years[2][4].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "ed61e303-1c34-415c-a125-9175fc5fdf38",
+      "score": 0.9565735,
+      "title": "Eurovision Song Contest 2023: Liverpool",
+      "url": "https://eurovisionworld.com/eurovision/2023/event",
+      "citation_index": 1
+    },
+    {
+      "id": "c8761d1c-2064-488f-8f39-f94ce288b555",
+      "score": 0.9393874,
+      "title": "Eurovision Song Contest 2023 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2023",
+      "citation_index": 2
+    },
+    {
+      "id": "fad0d385-dc6b-4a36-9b22-88c8b8615012",
+      "score": 0.1204287,
+      "title": "",
+      "url": "https://www.wolframalpha.com/input/?i=Eurovision+Song+Contest+2023+host+city",
+      "citation_index": 3
+    },
+    {
+      "id": "e800d60a-db27-4705-9273-3446cc82fab0",
+      "score": 0.9469168,
+      "title": "Liverpool to host Eurovision Song Contest 2023 on behalf of Ukraine | EBU",
+      "url": "https://www.ebu.ch/news/2022/10/liverpool-to-host-eurovision-song-contest-2023-on-behalf-of-ukraine",
+      "citation_index": 4
+    },
+    {
+      "id": "4ca74af7-1100-4602-b854-3bb9f69339c9",
+      "score": 0.93844646,
+      "title": "Liverpool will host Eurovision 2023",
+      "url": "https://eurovision.tv/story/liverpool-will-host-eurovision-2023",
+      "citation_index": 5
+    },
+    {
+      "id": "90f9997e-4648-4f77-850a-a49ee8fc9ddd",
+      "score": 0.9466806,
+      "title": "United Kingdom to host Eurovision Song Contest 2023",
+      "url": "https://eurovision.tv/story/united-kingdom-host-eurovision-song-contest-2023",
+      "citation_index": 6
+    },
+    {
+      "id": "31ea03a0-9023-4b44-9367-e42936e32813",
+      "score": 0.92442214,
+      "title": "Liverpool Will Host 2023 Eurovision Song Contest - The New York Times",
+      "url": "https://www.nytimes.com/2022/10/07/arts/music/liverpool-eurovision-2023.html",
+      "citation_index": 8
+    },
+    {
+      "id": "a23a89cd-ba12-45f5-854a-c023e5c3989d",
+      "score": 0.9363841,
+      "title": "How Liverpool City Council helped host the Eurovision ...",
+      "url": "https://lgiu.org/blog-article/flying-the-flags-how-liverpool-city-council-helped-host-the-eurovision-song-contest/",
+      "citation_index": 9
+    },
+    {
+      "id": "3dacb1a3-245e-4f68-b558-c999046e7887",
+      "score": 0.93554133,
+      "title": "Eurovision song contest 2023 to be hosted in Liverpool or Glasgow | Eurovision | The Guardian",
+      "url": "https://amp.theguardian.com/tv-and-radio/2022/sep/27/eurovision-song-contest-2023-to-be-hosted-in-liverpool-or-glasgow",
+      "citation_index": 10
+    },
+    {
+      "id": "e1237474-2e50-44f5-9dbf-038a609ef72a",
+      "score": 0.9604838,
+      "title": "Eurovision Song Contest update on 2023 Host City",
+      "url": "https://www.bbc.com/mediacentre/2022/eurovision-2023-host-city-update",
+      "citation_index": 11
+    },
+    {
+      "id": "04da56d1-6346-4e48-9a19-58f6b0b1a6ce",
+      "score": 0.9563784,
+      "title": "Eurovision 2023: It's Glasgow or Liverpool",
+      "url": "https://eurovision.tv/story/eurovision-2023-its-glasgow-or-liverpool",
+      "citation_index": 12
+    },
+    {
+      "id": "9c578508-dfa2-4e7d-acba-8e00dee339e0",
+      "score": 0.8058924,
+      "title": "Eurovision 2023 Host City: the Final Two",
+      "url": "https://www.youtube.com/watch?v=ExZgGQQ8_0k",
+      "citation_index": 13
+    },
+    {
+      "id": "2f4ea91e-dbb4-447a-b26b-1485b2dc58f8",
+      "score": 0.8684817,
+      "title": "Liverpool 2023",
+      "url": "https://eurovision.tv/event/liverpool-2023",
+      "citation_index": 14
+    },
+    {
+      "id": "3d2d84da-97f2-4559-bbab-3d55941e219f",
+      "score": 0.9165366,
+      "title": "Eurovision 2023 Results: Voting & Points",
+      "url": "https://eurovisionworld.com/eurovision/2023",
+      "citation_index": 15
+    },
+    {
+      "id": "9b7de798-82b3-4206-8fc8-ab70112ab709",
+      "score": 0.85538095,
+      "title": "Sweden wins Eurovision song contest in Liverpool with Loreen | Eurovision 2023 | The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2023/may/14/eurovision-2023-winner-liverpool-uk-ukraine",
+      "citation_index": 16
+    },
+    {
+      "id": "52ac1fee-9c65-4eab-90f9-2c9c38a90b9c",
+      "score": 0.9501204,
+      "title": "Eurovision Song Contest 2023 | Eurovision Song Contest Wiki | Fandom",
+      "url": "https://eurovisionsongcontest.fandom.com/wiki/Eurovision_Song_Contest_2023"
+    },
+    {
+      "id": "9ea85dc3-8e43-409a-8705-344b45d27ea3",
+      "score": 0.94135845,
+      "title": "ACC Liverpool - How We Became the Host Venue for Eurovision 2023",
+      "url": "https://www.accliverpool.com/resources/how-we-became-the-host-venue-for-eurovision-2023/"
+    },
+    {
+      "id": "1e8c8afa-c738-4b73-95b7-3daa5a06b381",
+      "score": 0.9138076,
+      "title": "Eurovision 2023 Semi-final 1 Results",
+      "url": "https://eurovisionworld.com/eurovision/2023/semi-final-1"
+    },
+    {
+      "id": "b779c1bb-24f2-4da2-8c8c-91465d661397",
+      "score": 0.9132521,
+      "title": "BBC One: Eurovision 2023 Host City revealed on The One Show",
+      "url": "https://www.youtube.com/watch?v=aYOqlAESAlU"
+    },
+    {
+      "id": "294bf5e8-f52c-443d-8826-830043e185d7",
+      "score": 0.8980626,
+      "title": "Eurovision 2023: Liverpool holds semi-final draw and takes over as host city",
+      "url": "https://www.youtube.com/watch?v=iWCDtZsladM"
+    },
+    {
+      "id": "a377d002-cbb3-4d75-8343-e2741ac2d869",
+      "score": 0.8969848,
+      "title": "Leeds on shortlist to host Eurovision Song Contest 2023",
+      "url": "https://news.leeds.gov.uk/news/leeds-on-shortlist-to-host-eurovision-song-contest-2023"
+    },
+    {
+      "id": "d4dbe4d3-26a6-42fd-820e-a4dd2fcf06c8",
+      "score": 0.8790744,
+      "title": "Manchester 2023: BBC Visit Potential Eurovision Host City",
+      "url": "https://www.youtube.com/watch?v=DXpAlyo-gUY"
+    },
+    {
+      "id": "c9817d73-4243-4c46-9cbc-2aa8afc6eef9",
+      "score": 0.87348515,
+      "title": "Eurovision Song Contest 2023 - United Kingdom - Official City Reveal",
+      "url": "https://www.youtube.com/watch?v=QbOadQVZ_sE"
+    },
+    {
+      "id": "dfbe92b7-b4de-4aa2-8501-dc585b51bb85",
+      "score": 0.86358756,
+      "title": "List of Eurovision Song Contest host cities - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Eurovision_Song_Contest_host_cities"
+    },
+    {
+      "id": "4859ea14-a1a3-44e3-a147-f5de7e78c6aa",
+      "score": 0.834852,
+      "title": "Liverpool 2023: BBC Visit Potential Eurovision Host City",
+      "url": "https://www.youtube.com/watch?v=2Fth1AJ8JqU"
+    },
+    {
+      "id": "ac961ebb-908c-4afb-a904-b4059063005c",
+      "score": 0.83290404,
+      "title": "Liverpool's bid video to host the Eurovision Song Contest | The Guide Liverpool",
+      "url": "https://www.youtube.com/watch?v=u0x0WF-HFSU"
+    },
+    {
+      "id": "bdc60799-c5e1-40c7-b6b1-f48ed3fd5856",
+      "score": 0.8286204,
+      "title": "Eurovision Song Contest Liverpool 2023 (TV Mini Series 2023) \u2b50 7.4 | Music, Reality-TV",
+      "url": "https://www.imdb.com/title/tt20243990/"
+    },
+    {
+      "id": "3689e773-6f4f-4b94-9663-edf6fb09b0ac",
+      "score": 0.8025714,
+      "title": "Eurovision Host City 2023 - Liverpool, United Kingdom \ud83c\uddec\ud83c\udde7 | A GUIDE to the FANTASTIC event VENUES!",
+      "url": "https://www.youtube.com/watch?v=GJLm9lxiuGA"
+    },
+    {
+      "id": "d75f6c87-d0ea-4aac-8369-d8fa18ae3d7e",
+      "score": 0.7715858,
+      "title": "Eurovision 2023 Host City revealed Promo",
+      "url": "https://www.youtube.com/watch?v=Xy2GUCr7R0o"
+    },
+    {
+      "id": "9a7d8935-10da-473a-af9a-999c18e5d1d9",
+      "score": 0.7604555,
+      "title": "Eurovision 2023: Fans 'already in love with Liverpool'",
+      "url": "https://www.bbc.com/news/entertainment-arts-65532014"
+    },
+    {
+      "id": "e0398097-db0b-456a-b9bd-f667eb2bbde6",
+      "score": 0.7140107,
+      "title": "Liverpool will host Eurovision 2023 on behalf of Ukraine \ud83c\uddec\ud83c\udde7 \ud83c\uddfa\ud83c\udde6 | #UnitedByMusic",
+      "url": "https://www.youtube.com/watch?v=ijk0m0QZcWE"
+    },
+    {
+      "id": "664f1478-c5bc-4a86-bc97-24040df6f1a3",
+      "score": 0.70067,
+      "title": "Host City of Eurovision Song Contest 2023",
+      "url": "https://www.youtube.com/watch?v=sWahBAu-eHA"
+    },
+    {
+      "id": "26e32e89-167f-4519-8084-8e9a3ffe43c1",
+      "score": 0.42176673,
+      "title": "Birmingham 2023: BBC Visit Potential Eurovision Host City",
+      "url": "https://www.youtube.com/watch?v=ZH1lNm2Vmwc"
+    },
+    {
+      "id": "8a35cda3-39a0-4f06-a8c9-7edc428b2f35",
+      "score": 0.28392333,
+      "title": "LIVERPOOL - Host City for Eurovision 2023",
+      "url": "https://www.youtube.com/watch?v=8Qlkj55ByB8"
+    }
+  ]
+}

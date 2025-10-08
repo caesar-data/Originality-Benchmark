@@ -1,0 +1,1576 @@
+{
+  "id": "03530b7c-79e5-4e20-9f6d-58e222750e45",
+  "status": "completed",
+  "content": "\nThe statement is **TRUE, with significant qualifications.** Machine learning (ML) models demonstrate a functional capacity to discover and utilize complex physical equations from limited or sparse training data. However, this capability, often described as \"understanding,\" is not equivalent to human comprehension. It is heavily dependent on human-provided scientific knowledge in the form of inductive biases and is constrained by significant limitations in conceptual abstraction and extrapolation.\n\n## The Capacity to Discover Complex Physical Laws\n\nA growing body of research demonstrates that various machine learning frameworks can successfully derive governing equations directly from observational data, often from complex, chaotic, or high-dimensional systems[1]. These automated \"machine scientists\" serve as powerful tools for accelerating discovery[2].\n\nKey methodologies and their discoveries include:\n\n*   **Symbolic Regression and Sparse Identification:** Methods like SINDy (Sparse Identification of Nonlinear Dynamics) and its variants identify the most parsimonious model from a library of candidate mathematical functions[4][5][6]. This approach has been used to:\n    *   Discover equations of motion for falling objects, identifying the dominant forces of gravity and drag from trajectory data[7][8].\n    *   Infer dynamical models for complex systems like quasi-2D fluids, active nematic turbulence, and cell mechanics[1].\n    *   Rediscover the celebrated Lindemann melting law and identify new, more accurate melting laws for materials from fundamental atomic and crystal properties[9].\n    *   Recover the full equations of magnetohydrodynamics (MHD) from high-resolution simulations of turbulent flows, using a library of candidate terms ten times larger than in previous studies[1].\n\n*   **Deep Learning and Neural Networks:** Architectures combining neural networks with other techniques can discover both physical concepts (state variables) and the equations that govern them[10][11]. Notable successes include:\n    *   **Rediscovering Historical Laws:** An AI model combining Variational Autoencoders (VAEs) and Neural Ordinary Differential Equations (Neural ODEs) autonomously discovered Copernicus' heliocentrism from simulated observations of Mars and the Sun from Earth's perspective[10][11]. The same framework successfully derived Newton's law of gravity, the Schr\u00f6dinger equation, and Pauli's spin-magnetic formulation from simulated data[10][11].\n    *   **Inferring Newton's Law of Gravitation:** A graph neural network trained on 30 years of trajectory data for the Sun, planets, and moons learned the underlying dynamics, from which symbolic regression correctly extracted Newton's law of gravitation[12][13].\n\n*   **Physical Symbolic Optimization (PhySO):** This approach uses deep reinforcement learning to formulate thousands of equations per second, autonomously learning to find high-quality equations that satisfy dimensional analysis rules[14]. It has been demonstrated rediscovering the analytical expression of a damped harmonic oscillator[14].\n\n## Performance with Limited Training Data\n\nA key strength of modern physics-informed machine learning is its ability to operate effectively in data-scarce scenarios, which are common in many scientific and engineering disciplines[15][16]. This data efficiency is primarily achieved by embedding known physical laws directly into the learning process.\n\n*   **Physics-Informed Neural Networks (PINNs):** PINNs are a class of models that integrate governing physical equations, typically partial differential equations (PDEs), into the neural network's loss function[17][18]. This acts as a regularization agent, constraining the solution space and drastically reducing the amount of labeled data required for training[17][19].\n    *   **Flow Reconstruction:** PINNs can reconstruct entire flow fields from sparse data. Studies have shown successful reconstruction of turbulent flames and complex fluid dynamics from data covering less than 1% of the spatial domain[20][21][22].\n    *   **Inverse Problems:** PINNs excel at solving inverse problems, such as inferring unknown model parameters or hidden fields (e.g., pressure) from sparse measurements of other variables (e.g., velocity)[23][24]. This has been applied to infer blood flow dynamics from MRI data, model blood coagulation, and reconstruct 3D velocity and pressure fields from 2D temperature data[23].\n    *   **Data-Free Training:** In some forward problems where the governing equations and boundary conditions are fully known, PINNs can be trained without any labeled data at all, using only the physics constraints[25][26].\n\n*   **Few-Shot and Transfer Learning:** To further improve data efficiency, models can be pre-trained on related, data-rich source tasks (e.g., from low-cost simulations) and then fine-tuned on a target task with very limited data[27]. This approach has been used to solve inverse problems by pre-training on solver data and fine-tuning with a few partial observations[27].\n\n## The Critical Role of Inductive Bias\n\nThe ability of ML models to learn from limited data is not magic; it is enabled by strong **inductive biases**, which are the assumptions a model uses to generalize beyond the training data[28][29]. In scientific discovery models, this bias is often a direct encoding of human scientific knowledge.\n\n*   **Symbolic Regression:** The primary inductive bias is the human-curated library of basis functions (e.g., polynomials, trigonometric functions, exponentials)[6][12]. The model's \"discovery\" is a search for the sparsest combination of these pre-selected terms[6].\n    *   **Failure Mode:** If a necessary function is not included in the library (e.g., trying to find a sinusoidal relationship without `sin(x)`), the algorithm will fail or produce a complex, inaccurate approximation[30]. For instance, AI Feynman failed to solve two problems from the *Feynman Lectures on Physics* because the required symbolic representations were too complex to be constructed from the basic operators within the allotted time, a problem that could be solved by adding more complex operators like squaring (`Q`) or exponentiation (`^`)[31][32].\n\n*   **Physics-Informed Neural Networks:** The inductive bias is the governing PDE itself, which is embedded into the loss function[26]. The network is explicitly trained to minimize the residual of this equation, forcing it to adhere to known physics[17]. This is less a \"discovery\" of the law and more a data-driven solution *constrained* by the law.\n\n*   **Graph Neural Networks (GNNs):** For systems of interacting particles, GNNs have a structural inductive bias that assumes the system's total dynamics can be decomposed into pairwise interactions between entities (nodes connected by edges)[33][34]. This architecture naturally aligns with the structure of many physical laws, like Newtonian gravity, making them highly effective for such problems[35].\n\nWithout these potent, human-supplied inductive biases, models would require vastly more data and would be prone to discovering spurious correlations rather than fundamental laws[36].\n\n## Deconstructing \"Understanding\": A Philosophical and Practical Assessment\n\nWhile ML models demonstrate powerful predictive and discovery capabilities, equating this with human \"understanding\" requires a more rigorous epistemological framework[37]. From a philosophy of science perspective, scientific understanding involves not just prediction, but possessing an intelligible theory and the ability to recognize its qualitative consequences without exact calculation[37]. This implies abilities in abstraction, causal reasoning, and generalization, areas where current models show significant limitations.\n\n### Limitation 1: Discovery of Abstract State Variables\n\nA precursor to discovering a physical law is identifying the system's fundamental state variables[38]. While models have shown success in this area, it is largely confined to variables with direct geometric or visual correlates.\n*   **Successes:** Models have successfully identified the number of state variables and their values from raw video data for systems like swinging pendulums[39][40]. An AI model could identify the heliocentric angles of Earth and Mars as the key variables to describe the solar system[11].\n*   **Failures and Ambiguity:** In more complex systems, such as a double pendulum, an AI identified a valid set of four state variables needed for prediction, but researchers could only map two of them to the known physical variables (the angles of the arms)[39]. The other two variables, while functionally correct for the model's predictions, remained a mystery and did not correspond to any known physical quantities like energy or momentum[39]. This highlights a critical gap: the model can find a functional representation but cannot provide a human-interpretable, conceptual explanation. The discovery of truly abstract, non-geometric quantities like quantum spin or energy from raw observational data without strong priors remains an unsolved problem.\n\n### Limitation 2: Extrapolation and Generalization\n\nThe true test of understanding is the ability to extrapolate\u2014to apply learned principles to new, out-of-distribution (OOD) scenarios[41]. Machine learning models, including those designed for physics discovery, are notoriously poor at this.\n*   **General NN Failures:** Neural networks are fundamentally interpolators; their behavior outside the training data distribution is unreliable and can be arbitrary[42][43]. A model trained on a limited range of data can fail dramatically when asked to predict beyond that range, even for simple tasks[44].\n*   **PINN Extrapolation Failures:** While more robust than purely data-driven models, PINNs also struggle with extrapolation[45]. Their performance degrades significantly in problems with high advection or when propagating solutions far beyond the temporal training domain[26][17]. Research has shown that these failures are not necessarily due to high-frequency components in the solution but are linked to \"spectral shifts\"\u2014changes in the solution's Fourier spectrum over time\u2014which the network fails to anticipate[46][47].\n*   **Symbolic vs. Neural Generalization:** Interestingly, symbolic equations extracted from a trained neural network often generalize *better* to OOD data than the neural network they were derived from[48][49]. In one cosmology example, an analytic equation discovered via this hybrid method was significantly more accurate at predicting high-density regions of dark matter (which were held out of the training set) than the GNN used to find it[50]. This suggests that the compact, symbolic form of the physical law is a more robust and generalizable representation of knowledge than the high-dimensional, opaque neural network.\n\nIn summary, while machine learning models can achieve remarkable results in discovering and applying complex equations from sparse data, their \"understanding\" is functional and predictive, not conceptual and explanatory. This ability is critically dependent on human-provided knowledge encoded as strong inductive biases. The models struggle with abstract conceptualization and reliable extrapolation, indicating they are currently powerful tools for augmenting scientific discovery rather than autonomous agents of scientific understanding.",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "af43593c-4faa-4c0e-b8aa-0f93e3e6fea8",
+      "score": 0.7915799,
+      "title": "Scalable Discovery of Fundamental Physical Laws: Learning Magnetohydrodynamics from 3D Turbulence Data",
+      "url": "https://arxiv.org/html/2501.04094v1",
+      "citation_index": 1
+    },
+    {
+      "id": "cd025292-254d-42fb-ab52-52b19b654b2b",
+      "score": 0.7309246,
+      "title": "[2303.17607] Machine learning for discovering laws of nature",
+      "url": "https://arxiv.org/abs/2303.17607",
+      "citation_index": 2
+    },
+    {
+      "id": "f8939cae-df4c-4845-9a92-dc7355701664",
+      "score": 0.8047902,
+      "title": "[2502.01702] Al-Khwarizmi: Discovering Physical Laws with Foundation Models",
+      "url": "https://arxiv.org/abs/2502.01702",
+      "citation_index": 4
+    },
+    {
+      "id": "1670ea63-1552-4404-815f-98fd4a8b2e32",
+      "score": 0.8380581,
+      "title": "What Is Physics-Informed Machine Learning? \u00bb Artificial Intelligence - MATLAB & Simulink",
+      "url": "https://blogs.mathworks.com/deep-learning/2025/06/23/what-is-physics-informed-machine-learning/",
+      "citation_index": 5
+    },
+    {
+      "id": "e2bdc3b9-7acf-420c-9c5a-265a938385e6",
+      "score": 0.7147281,
+      "title": "Frontiers | Discovery of Physics From Data: Universal Laws and ...",
+      "url": "https://www.frontiersin.org/articles/10.3389/frai.2020.00025/full",
+      "citation_index": 6
+    },
+    {
+      "id": "f2c49848-30a6-408a-b441-8e440ccdcaed",
+      "score": 0.69870013,
+      "title": "Discovery of Physics From Data: Universal Laws and ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7861345/",
+      "citation_index": 7
+    },
+    {
+      "id": "ef641d5a-859f-425b-961b-2595bd064159",
+      "score": 0.7596005,
+      "title": "Discovery of Physics From Data: Universal Laws and ...",
+      "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00025/full",
+      "citation_index": 8
+    },
+    {
+      "id": "3082e7a2-709c-47dc-968d-080f3d9e0fa4",
+      "score": 0.8361405,
+      "title": "Parsimonious neural networks learn interpretable physical laws | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-021-92278-w",
+      "citation_index": 9
+    },
+    {
+      "id": "89c86ec0-ec05-4ab9-9cfb-9bcce595d47a",
+      "score": 0.8319231,
+      "title": "1 Introduction",
+      "url": "https://arxiv.org/html/2412.12161",
+      "citation_index": 10
+    },
+    {
+      "id": "a35297b4-3ad4-4f1c-bb33-4ad0a51eb867",
+      "score": 0.5360463,
+      "title": "Discover Physical Concepts and Equations with Machine Learning",
+      "url": "https://www.youtube.com/watch?v=nRSHRJzQR4Q",
+      "citation_index": 11
+    },
+    {
+      "id": "f272c9bd-ec5d-4892-9d4e-c3ee223e9d0f",
+      "score": 0.6757865,
+      "title": "Interpretable Machine Learning in Physics: A Review",
+      "url": "https://arxiv.org/html/2503.23616v1",
+      "citation_index": 12
+    },
+    {
+      "id": "8a97aa26-49ec-4ff8-ab2d-96d5697f8cce",
+      "score": 0.47212428,
+      "title": "Rediscovering Orbital Mechanics with Machine Learning | Sussex Data Science",
+      "url": "https://www.youtube.com/watch?v=AhJVeOxYUxs",
+      "citation_index": 13
+    },
+    {
+      "id": "475de661-d879-4a50-908e-d92b2ee9a805",
+      "score": 0.81770587,
+      "title": "An AI rediscovers 74 physical laws",
+      "url": "https://astro.unistra.fr/en/2023/12/11/an-ai-rediscovers-74-physical-laws/",
+      "citation_index": 14
+    },
+    {
+      "id": "89df95b3-47fe-4d48-a562-0edeac281245",
+      "score": 0.71425,
+      "title": "Physics-informed learning of governing equations from scarce data | Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-021-26434-1",
+      "citation_index": 15
+    },
+    {
+      "id": "12b3d8ab-fcd7-405e-9a9d-0507abbc96ab",
+      "score": 0.680136,
+      "title": "Physics-Guided, Physics-Informed, and Physics-Encoded Neural Networks and Operators in Scientific Computing: Fluid and Solid Mechanics | J. Comput. Inf. Sci. Eng. | ASME Digital Collection",
+      "url": "https://asmedigitalcollection.asme.org/computingengineering/article/24/4/040802/1193884/Physics-Guided-Physics-Informed-and-Physics",
+      "citation_index": 16
+    },
+    {
+      "id": "184afacf-5175-45c1-bf38-b4c36f1cab40",
+      "score": 0.69024646,
+      "title": "Physics-informed neural networks - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Physics-informed_neural_networks",
+      "citation_index": 17
+    },
+    {
+      "id": "065c4f7b-bf58-40ea-9040-5d52e53696cd",
+      "score": 0.6877354,
+      "title": "What Are Physics-Informed Neural Networks (PINNs)? - MATLAB & Simulink",
+      "url": "https://www.mathworks.com/discovery/physics-informed-neural-networks.html",
+      "citation_index": 18
+    },
+    {
+      "id": "734b8508-4298-4ac5-b56e-d90992291361",
+      "score": 0.61695945,
+      "title": "[1711.10561] Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations",
+      "url": "https://arxiv.org/abs/1711.10561",
+      "citation_index": 19
+    },
+    {
+      "id": "4f67b732-f26e-481d-bc7d-845781f36ae9",
+      "score": 0.8184036,
+      "title": "Machine Learning in Fluid Dynamics\u2014Physics-Informed ...",
+      "url": "https://www.mdpi.com/2311-5521/10/9/226",
+      "citation_index": 20
+    },
+    {
+      "id": "9cbb0f4d-1c6a-4dfd-a7d6-37ef0d185ea1",
+      "score": 0.7872945,
+      "title": "High-resolution reconstruction of turbulent flames from ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0010218023006491",
+      "citation_index": 21
+    },
+    {
+      "id": "8eb9a412-1320-446d-8b7a-10f815e88185",
+      "score": 0.7031221,
+      "title": "Physics-Informed Neural Network Approaches for Sparse ...",
+      "url": "https://arxiv.org/html/2508.01314v1",
+      "citation_index": 22
+    },
+    {
+      "id": "7598ea67-cdf7-46d7-9355-ae37ed7c4702",
+      "score": 0.8021998,
+      "title": "From PINNs to PIKANs: Recent Advances in Physics-Informed Machine Learning",
+      "url": "https://arxiv.org/html/2410.13228v1",
+      "citation_index": 23
+    },
+    {
+      "id": "591e59aa-7d3d-4e82-ab3c-751129037c92",
+      "score": 0.6643884,
+      "title": "CAII HAL Training: Physics Informed Deep Learning",
+      "url": "https://www.youtube.com/watch?v=M75dXNW6Lwg",
+      "citation_index": 24
+    },
+    {
+      "id": "40155848-842d-4ef3-a0d5-ec6ece1b096b",
+      "score": 0.8020137,
+      "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0021999118307125",
+      "citation_index": 25
+    },
+    {
+      "id": "dfd27b24-333c-4757-9d34-61ad19521d74",
+      "score": 0.75831425,
+      "title": "Scientific Machine Learning Through Physics\u2013Informed Neural Networks: Where we are and What\u2019s Next | Journal of Scientific Computing",
+      "url": "https://link.springer.com/article/10.1007/s10915-022-01939-z",
+      "citation_index": 26
+    },
+    {
+      "id": "001bec4e-32c1-4047-be27-215207f7103a",
+      "score": 0.7216064,
+      "title": "Adaptive Physics-informed Neural NetworksPublished in Transactions on Machine Learning Research (03/2025)",
+      "url": "https://arxiv.org/html/2503.18181v1",
+      "citation_index": 27
+    },
+    {
+      "id": "4e072d6d-f32e-4c8b-b516-718ce8bd23d5",
+      "score": 0.4413124,
+      "title": "Inductive bias - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inductive_bias",
+      "citation_index": 28
+    },
+    {
+      "id": "ef82b3ae-be7f-49b4-9036-3f3406c3c797",
+      "score": 0.6102915,
+      "title": "What is Inductive Bias in Machine Learning? - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/machine-learning/what-is-inductive-bias-in-machine-learning/",
+      "citation_index": 29
+    },
+    {
+      "id": "6c99fbc1-7bc7-4a1b-8213-aad715c462be",
+      "score": 0.42462727,
+      "title": "Interpretable scientific discovery with symbolic regression: a review | Artificial Intelligence Review",
+      "url": "https://link.springer.com/article/10.1007/s10462-023-10622-0",
+      "citation_index": 30
+    },
+    {
+      "id": "42115003-89d2-4e40-8434-d61d4b7be9f0",
+      "score": 0.11300102,
+      "title": "AI Feynman: A physics-inspired method for symbolic regression | Science Advances",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aay2631",
+      "citation_index": 31
+    },
+    {
+      "id": "4701b56f-2e62-4a17-881f-63fbbccbaf12",
+      "score": 0.10312394,
+      "title": "AI Feynman: A physics-inspired method for symbolic regression - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7159912/",
+      "citation_index": 32
+    },
+    {
+      "id": "6a988728-d84f-46dc-9dba-3090c4a2cd51",
+      "score": 0.34846824,
+      "title": "Learning symbolic equations with inductive bias",
+      "url": "https://www.youtube.com/watch?v=G2MxJNlQl1Y",
+      "citation_index": 33
+    },
+    {
+      "id": "67a35036-a8b6-44ec-98ea-10b1b9b7e656",
+      "score": 0.34733838,
+      "title": "What Is Inductive Bias in Machine Learning? | Baeldung on Computer Science",
+      "url": "https://www.baeldung.com/cs/ml-inductive-bias",
+      "citation_index": 34
+    },
+    {
+      "id": "a4636f0a-f989-42fa-bfcb-58230d4e8409",
+      "score": 0.4018996,
+      "title": "Discovering Symbolic Models from Deep Learning with Inductive Biases (Paper Explained)",
+      "url": "https://www.youtube.com/watch?v=LMb5tvW-UoQ",
+      "citation_index": 35
+    },
+    {
+      "id": "669674d1-943d-469f-a70e-f00669b3d63b",
+      "score": 0.4504325,
+      "title": "Inductive biases for deep learning of higher-level cognition | Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0068",
+      "citation_index": 36
+    },
+    {
+      "id": "46a4c599-5e37-4f10-a757-e4e1be213769",
+      "score": 0.76972175,
+      "title": "On scientific understanding with artificial intelligence - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9552145/",
+      "citation_index": 37
+    },
+    {
+      "id": "653eb1bb-9099-4ad9-8ab0-deeceadf51bc",
+      "score": 0.54724693,
+      "title": "Automated discovery of fundamental variables hidden in experimental data | Nature Computational Science",
+      "url": "https://www.nature.com/articles/s43588-022-00281-6",
+      "citation_index": 38
+    },
+    {
+      "id": "c20d283c-eeec-4a8e-a147-ed9cff0ba62b",
+      "score": 0.69249696,
+      "title": "Discovering State Variables Hidden in Experimental Data",
+      "url": "https://www.creativemachineslab.com/hidden-variables.html",
+      "citation_index": 39
+    },
+    {
+      "id": "4cafe264-76eb-42a3-8419-e4045f313e1e",
+      "score": 0.3984538,
+      "title": "Discovering State Variables Hidden in Experimental Data",
+      "url": "https://www.youtube.com/watch?v=KWHXchlJzSw",
+      "citation_index": 40
+    },
+    {
+      "id": "836bf555-4bb2-4b92-a77f-1f6dea727736",
+      "score": 0.4430467,
+      "title": "regression - What is wrong with extrapolation? - Cross Validated",
+      "url": "https://stats.stackexchange.com/questions/219579/what-is-wrong-with-extrapolation",
+      "citation_index": 41
+    },
+    {
+      "id": "802bb90c-84c9-42b5-9517-e24e59f049e5",
+      "score": 0.609455,
+      "title": "Neural Networks - Extrapolation",
+      "url": "http://www.statistics4u.com/fundstat_eng/cc_ann_extrapolation.html",
+      "citation_index": 42
+    },
+    {
+      "id": "5ffe9d9a-0377-411e-932e-49bfb11737f0",
+      "score": 0.6816637,
+      "title": "machine learning - extrapolation with recurrent neural network - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/18310293/extrapolation-with-recurrent-neural-network",
+      "citation_index": 43
+    },
+    {
+      "id": "2ee3b8da-753c-4afc-9056-e8fbefc8edc4",
+      "score": 0.45827657,
+      "title": "Working without data: overcoming gaps in deep learning and physics-based extrapolation",
+      "url": "https://www.youtube.com/watch?v=KH8uh_0wsRc",
+      "citation_index": 44
+    },
+    {
+      "id": "8cf1fb91-1fb8-433b-b380-b803c7177d29",
+      "score": 0.5806618,
+      "title": "[2507.12659] Improving physics-informed neural network extrapolation via transfer learning and adaptive activation functions",
+      "url": "https://arxiv.org/abs/2507.12659",
+      "citation_index": 45
+    },
+    {
+      "id": "8f466d09-c72c-4c1c-bf2b-8a3ad371729d",
+      "score": 0.52232456,
+      "title": "[2306.09478] Understanding and Mitigating Extrapolation Failures in Physics-Informed Neural Networks",
+      "url": "https://arxiv.org/abs/2306.09478",
+      "citation_index": 46
+    },
+    {
+      "id": "a1f42c46-2317-4ba6-8cf7-1929cf8de27d",
+      "score": 0.6680367,
+      "title": "Understanding and Mitigating Extrapolation Failures in...",
+      "url": "https://openreview.net/forum?id=vQqJJzL2Jf",
+      "citation_index": 47
+    },
+    {
+      "id": "0543da59-5b39-461e-8f34-010a56de4260",
+      "score": 0.63750535,
+      "title": "Unsupervised Discovery of 3D Physical Objects from Video | OpenReview",
+      "url": "https://openreview.net/forum?id=lf7st0bJIA5",
+      "citation_index": 47
+    },
+    {
+      "id": "a5fa8041-9f65-44c5-8002-bfded6139fe0",
+      "score": 0.75268626,
+      "title": "Physics-informed neural ODE (PINODE): embedding physics into models using collocation points | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-023-36799-6",
+      "citation_index": 48
+    },
+    {
+      "id": "f047b438-c0e8-490d-bb39-a5d4ddd8b14b",
+      "score": 0.30349484,
+      "title": "Interpretable Deep Learning for New Physics Discovery",
+      "url": "https://www.youtube.com/watch?v=HKJB0Bjo6tQ",
+      "citation_index": 49
+    },
+    {
+      "id": "dc9ce2bc-2214-4f4c-9ac6-933add301f1f",
+      "score": 0.049907673,
+      "title": "Discovering Symbolic Inductive Biases | AISC",
+      "url": "https://www.youtube.com/watch?v=NllV-2PZI0k",
+      "citation_index": 50
+    },
+    {
+      "id": "c55c3911-022e-4bc3-bfe6-2b9dea6d0d8b",
+      "score": 0.8820324,
+      "title": "Physics-Informed Neural Network Approaches for Sparse ...",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250801314S/abstract"
+    },
+    {
+      "id": "95fd50c2-3838-4b3e-9f2f-88dbd3322d26",
+      "score": 0.85186684,
+      "title": "Physics-Informed Neural Network Approaches for Sparse ...",
+      "url": "https://www.arxiv.org/abs/2508.01314"
+    },
+    {
+      "id": "cf2732b2-c7d5-403c-a209-af5be51797c7",
+      "score": 0.8412138,
+      "title": "Discover physical concepts and equations with machine ...",
+      "url": "https://arxiv.org/abs/2412.12161"
+    },
+    {
+      "id": "858a8fd6-c204-4e07-9281-1238014f1345",
+      "score": 0.82186085,
+      "title": "Physics-informed neural networks for PDE problems: a comprehensive review | Artificial Intelligence Review",
+      "url": "https://link.springer.com/article/10.1007/s10462-025-11322-7"
+    },
+    {
+      "id": "a5e2bee7-4db5-46e1-bd3e-8d3318d738ae",
+      "score": 0.81875163,
+      "title": "FoundSci: Foundation Models for Scientific Discovery",
+      "url": "https://www.darpa.mil/research/programs/foundation-models-for-scientific-discovery"
+    },
+    {
+      "id": "aa33de52-0233-405f-a045-1560e9705d00",
+      "score": 0.78749067,
+      "title": "On the Preprocessing of Physics-informed Neural Networks: How to Better Utilize Data in Fluid Mechanics",
+      "url": "https://arxiv.org/html/2403.19923v2"
+    },
+    {
+      "id": "c82638e4-03ea-41ab-ad2e-77073ddcf279",
+      "score": 0.78670514,
+      "title": "Physics-informed machine learning | Nature Reviews Physics",
+      "url": "https://www.nature.com/articles/s42254-021-00314-5"
+    },
+    {
+      "id": "d848a1d0-2b0b-4528-9be6-9b0d3c9bd3f9",
+      "score": 0.77792513,
+      "title": "Does AI remove bias in drug discovery?",
+      "url": "https://optibrium.com/knowledge-base/does-ai-remove-bias-in-drug-discovery/"
+    },
+    {
+      "id": "c0f7b6eb-05a3-49a9-9b1f-87928d526338",
+      "score": 0.77055156,
+      "title": "Assessing physics-informed neural network performance with sparse noisy velocity data | Physics of Fluids | AIP Publishing",
+      "url": "https://pubs.aip.org/aip/pof/article-abstract/36/10/103619/3317204/Assessing-physics-informed-neural-network"
+    },
+    {
+      "id": "a667e323-ff1b-4c5d-b047-deabc8effd12",
+      "score": 0.76300776,
+      "title": "[1906.07906] Discovery of Physics from Data: Universal Laws and Discrepancies",
+      "url": "https://arxiv.org/abs/1906.07906"
+    },
+    {
+      "id": "426b3c72-682f-45e1-bfaa-acb3899f8489",
+      "score": 0.75290436,
+      "title": "Machine learning meets physics: A two-way street | PNAS",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2403580121"
+    },
+    {
+      "id": "264b6efc-72c2-4975-bd9e-6111c431dd4d",
+      "score": 0.7309246,
+      "title": "Why Every Physicist Needs Machine Learning in 2025 | Machine Learning Is Changing Physics",
+      "url": "https://www.youtube.com/watch?v=aEopdsbom4Y"
+    },
+    {
+      "id": "e651f8ff-f06c-45e2-9ed2-be0957f4d6e9",
+      "score": 0.72465646,
+      "title": "Extrapolation of Neural Network as MW study case:",
+      "url": "https://www.linkedin.com/pulse/extrapolation-neural-network-mw-study-case-guillaume-godin-zgcbe"
+    },
+    {
+      "id": "4e3a895c-e84d-4624-b81c-f6fb97626ea0",
+      "score": 0.71377134,
+      "title": "Assessing physics-informed neural network performance ...",
+      "url": "https://pubs.aip.org/aip/pof/article/36/10/103619/3317204/Assessing-physics-informed-neural-network"
+    },
+    {
+      "id": "0c3cf6a2-2714-4e33-9960-102cc46e27ff",
+      "score": 0.69099766,
+      "title": "Physics-Informed Neural Network Approaches for Sparse Data Flow Reconstruction of Unsteady Flow Around Complex Geometries",
+      "url": "https://arxiv.org/html/2508.01314"
+    },
+    {
+      "id": "fc9a64dd-5f4e-4f42-b69b-beaede56d7a8",
+      "score": 0.69049704,
+      "title": "Philosophy of artificial intelligence - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence"
+    },
+    {
+      "id": "00dbdc37-b6bf-4ef7-94af-c8bceccbea0b",
+      "score": 0.68496037,
+      "title": "The Epistemology of AI Explained Simply (4 Minutes)",
+      "url": "https://www.youtube.com/watch?v=WJWpnWmBFEQ"
+    },
+    {
+      "id": "03b33332-ef00-4cc3-adad-aa4760f1f21b",
+      "score": 0.6803909,
+      "title": "Physics Informed Neural Networks (PINNs) [Physics Informed Machine Learning]",
+      "url": "https://www.youtube.com/watch?v=-zrY7P2dVC4"
+    },
+    {
+      "id": "a363e23a-750a-4b7d-b71f-c0ef14fdf1b7",
+      "score": 0.67988104,
+      "title": "Why XGBoost can't solve all your problems. | Towards Data Science",
+      "url": "https://towardsdatascience.com/why-xgboost-cant-solve-all-your-problems-b5003a62d12a/"
+    },
+    {
+      "id": "0a64fb7e-ab7b-42dd-b500-18583e7a6262",
+      "score": 0.67140645,
+      "title": "Machine learning in physics - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Machine_learning_in_physics"
+    },
+    {
+      "id": "9635b5b5-de77-45a6-b406-32c3ec7e422e",
+      "score": 0.6685563,
+      "title": "Through a Steerable Lens: Magnifying Neural Network Interpretability via Phase-Based Extrapolation",
+      "url": "https://arxiv.org/html/2506.02300"
+    },
+    {
+      "id": "67693662-e488-4f85-bb44-165c00076307",
+      "score": 0.6675167,
+      "title": "Interpolation, extrapolation, and local generalization in ...",
+      "url": "https://hal.science/hal-03735983v1/file/preprint_neural_networks_interpolation.pdf"
+    },
+    {
+      "id": "f096b893-d21b-4fe1-b712-0480bd120d63",
+      "score": 0.6628188,
+      "title": "An Efficient and Generalizable Symbolic Regression ...",
+      "url": "https://arxiv.org/html/2409.03986v1"
+    },
+    {
+      "id": "716bb89d-6c59-402e-8073-6e5eee0605b3",
+      "score": 0.65835214,
+      "title": "[2009.11848] How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2009.11848"
+    },
+    {
+      "id": "33c6d5ce-c027-47e8-b9f2-9cb69b71d1b2",
+      "score": 0.6578248,
+      "title": "[2007.12348] Unsupervised Discovery of 3D Physical Objects from Video",
+      "url": "https://arxiv.org/abs/2007.12348"
+    },
+    {
+      "id": "2fd95f4d-a218-4bc4-b372-d9643c440f8e",
+      "score": 0.6533265,
+      "title": "What You See is Not What You Get: Neural Partial Differential Equations and The Illusion of Learning",
+      "url": "https://arxiv.org/html/2411.15101"
+    },
+    {
+      "id": "4fea5706-d740-40e5-8c89-de792c53ac5c",
+      "score": 0.6522641,
+      "title": "Scientific Machine Learning for Modeling and Discovery of ...",
+      "url": "https://curate.nd.edu/articles/thesis/Scientific_Machine_Learning_for_Modeling_and_Discovery_of_Physical_Systems_with_Quantified_Uncertainty/24869244"
+    },
+    {
+      "id": "18f76be0-28bb-4e05-b1a9-9bc42e3819de",
+      "score": 0.6496014,
+      "title": "Shared Knowledge and Philosophy of Science: Challenges in an Era of Generative Artificial Intelligence",
+      "url": "https://viden.ai/en/shared-knowledge-and-philosophy-of-science-challenges-in-an-era-of-generative-artificial-intelligence/"
+    },
+    {
+      "id": "ecc59f18-e920-47e3-8c7e-25bb2b920b19",
+      "score": 0.64719695,
+      "title": "On scientific understanding with artificial intelligence | Nature Reviews Physics",
+      "url": "https://www.nature.com/articles/s42254-022-00518-3"
+    },
+    {
+      "id": "301bb75f-5257-44a9-ab6c-5ce9a8463f4d",
+      "score": 0.6450534,
+      "title": "(PDF) Physics-informed machine learning",
+      "url": "https://www.researchgate.net/publication/351814752_Physics-informed_machine_learning"
+    },
+    {
+      "id": "706e5493-a2c0-4511-8f69-37581a5598b1",
+      "score": 0.6450534,
+      "title": "Awesome Machine learning for discovery of physical laws ...",
+      "url": "https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws"
+    },
+    {
+      "id": "07083ebf-511b-49e8-8d3f-77009ee1909c",
+      "score": 0.6410185,
+      "title": "Unsupervised Discovery of 3D Physical Objects from Video - NASA/ADS",
+      "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200712348D/abstract"
+    },
+    {
+      "id": "cff871b5-879d-46f4-9ba1-5381ca6a734b",
+      "score": 0.6227582,
+      "title": "Artificial intelligence that can discover hidden physical laws in various data | ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2021/12/211209222121.htm"
+    },
+    {
+      "id": "aad00334-832f-4cc0-bf86-71ac29af9343",
+      "score": 0.62248284,
+      "title": "The geometry of abstraction in hippocampus and prefrontal cortex - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8451959/"
+    },
+    {
+      "id": "5c20c246-f36e-4ce2-b961-0fb99bc85eaf",
+      "score": 0.608897,
+      "title": "Discovering State Variables Hidden in Experimental Data - ADS",
+      "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211210755C/abstract"
+    },
+    {
+      "id": "985fe6dc-71d9-4c06-b5a7-0b57f59efe33",
+      "score": 0.60805947,
+      "title": "(PDF) Epistemology of AI Revisited in the Light of the Philosophy of Information",
+      "url": "https://www.researchgate.net/publication/226009851_Epistemology_of_AI_Revisited_in_the_Light_of_the_Philosophy_of_Information"
+    },
+    {
+      "id": "08a83220-3f10-4c13-8c4c-08aa9be041fe",
+      "score": 0.6044228,
+      "title": "Physics Informed Neural Networks The AI Behind Google\u2019s Singularity Discovery",
+      "url": "https://www.youtube.com/watch?v=gCbk-Zse6V8"
+    },
+    {
+      "id": "35e39d01-225c-47a4-a855-e27ebf7a531a",
+      "score": 0.5996498,
+      "title": "[2007.12348v3] Unsupervised Discovery of 3D Physical Objects from Video",
+      "url": "https://arxiv.org/abs/2007.12348v3"
+    },
+    {
+      "id": "364efefc-e0c0-4390-b156-1fd1f20c2853",
+      "score": 0.59655124,
+      "title": "Incomplete Data, Complete Dynamics: A Diffusion Approach",
+      "url": "https://arxiv.org/html/2509.20098"
+    },
+    {
+      "id": "a2530727-900b-4046-8832-a22791d23b05",
+      "score": 0.5957048,
+      "title": "(PDF) Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws",
+      "url": "https://www.researchgate.net/publication/369475759_Deep_symbolic_regression_for_physics_guided_by_units_constraints_toward_the_automated_discovery_of_physical_laws"
+    },
+    {
+      "id": "3c9b6bbf-2577-466e-a42c-9796aeac37e7",
+      "score": 0.5923135,
+      "title": "Characterizing possible failure modes in physics-informed neural networks",
+      "url": "https://proceedings.neurips.cc/paper/2021/file/df438e5206f31600e6ae4af72f2725f1-Paper.pdf"
+    },
+    {
+      "id": "64f48c37-b6bf-49f1-8527-e6c68d0832a7",
+      "score": 0.59033114,
+      "title": "Physics-informed neural network with symbolic regression for deriving analytical approximate solutions to nonlinear partial differential equations | Neural Computing and Applications",
+      "url": "https://link.springer.com/article/10.1007/s00521-025-11450-9"
+    },
+    {
+      "id": "52bd9c35-cac9-4c00-9464-ed38e8db27f8",
+      "score": 0.5860734,
+      "title": "The Epistemology of AI \u2013 Project Q",
+      "url": "https://projectqsydney.com/the-epistemology-of-ai/"
+    },
+    {
+      "id": "2bcc95f7-5138-4c39-9523-5a5e996d40af",
+      "score": 0.5843666,
+      "title": "AI as an Epistemic Technology | Science and Engineering Ethics",
+      "url": "https://link.springer.com/article/10.1007/s11948-023-00451-3"
+    },
+    {
+      "id": "1e4995ea-fbe4-4fde-b098-0091a4dbe6f8",
+      "score": 0.5815176,
+      "title": "When physics meets machine learning: a survey of physics-informed machine learning | Machine Learning for Computational Science and Engineering",
+      "url": "https://link.springer.com/article/10.1007/s44379-025-00016-0"
+    },
+    {
+      "id": "96010f11-9784-4b51-bc9c-93304fedba5f",
+      "score": 0.5749443,
+      "title": "Interpretable models for extrapolation in scientific machine learning - Digital Discovery (RSC Publishing) DOI:10.1039/D3DD00082F",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2023/dd/d3dd00082f"
+    },
+    {
+      "id": "ea8f112d-5e52-4c0e-9ed6-38569ae5e1d5",
+      "score": 0.56920683,
+      "title": "Epistemology - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Epistemology"
+    },
+    {
+      "id": "6c28f38c-0f4f-4d22-bde6-5d5bd21d8cd5",
+      "score": 0.56517935,
+      "title": "Unsupervised discoveries \u2013\u00a0Searching for new physical laws with artificial intelligence",
+      "url": "https://www.youtube.com/watch?v=Twd1t9WnWYs"
+    },
+    {
+      "id": "6a8353c2-5b41-463d-b00b-40eb1bf4bc48",
+      "score": 0.5614318,
+      "title": "What is Inductive Bias in Machine Learning?",
+      "url": "https://www.appliedaicourse.com/blog/inductive-bias-in-machine-learning/"
+    },
+    {
+      "id": "1f3ae630-9d04-41ed-ac97-786853929fa8",
+      "score": 0.5513086,
+      "title": "Interpolation, Extrapolation, and Reasoning in Neural Networks | by Knowledgator Engineering | Medium",
+      "url": "https://blog.knowledgator.com/interpolation-extrapolation-and-reasoning-in-neural-networks-095aacad941f"
+    },
+    {
+      "id": "621da02c-c496-4724-8e6f-67abf8a708f2",
+      "score": 0.5510187,
+      "title": "What Has a Foundation Model Found? Inductive Bias ...",
+      "url": "https://icml.cc/virtual/2025/poster/44374"
+    },
+    {
+      "id": "29067b19-9344-4de7-a057-5d832607b078",
+      "score": 0.54681134,
+      "title": "AI and Epistemology",
+      "url": "https://www.youtube.com/watch?v=murkCQA2LR8"
+    },
+    {
+      "id": "6948fcc8-a993-4f94-9a6e-619ab71ab1bd",
+      "score": 0.54477775,
+      "title": "Learning effective physical laws for generating cosmological hydrodynamics with Lagrangian deep learning | PNAS",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2020324118"
+    },
+    {
+      "id": "b48d2708-ca63-4a30-b43f-99ab417c5ee5",
+      "score": 0.5409972,
+      "title": "[2005.11212v1] Symbolic Pregression: Discovering Physical Laws from Raw Distorted Video",
+      "url": "https://arxiv.org/abs/2005.11212v1"
+    },
+    {
+      "id": "987b95a3-006a-446c-9d63-860fc2c544d9",
+      "score": 0.5342973,
+      "title": "[2507.06952] What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models",
+      "url": "https://arxiv.org/abs/2507.06952"
+    },
+    {
+      "id": "8679c3ce-00e0-4bc2-a739-8515e24efed4",
+      "score": 0.53094244,
+      "title": "terminology - Extrapolation v. Interpolation - Cross Validated",
+      "url": "https://stats.stackexchange.com/questions/418803/extrapolation-v-interpolation"
+    },
+    {
+      "id": "4c9244da-b94a-4187-a6a2-605be569bfd2",
+      "score": 0.528169,
+      "title": "Multi-level physics informed deep learning for solving partial differential equations in computational structural mechanics | Communications Engineering",
+      "url": "https://www.nature.com/articles/s44172-024-00303-3"
+    },
+    {
+      "id": "316b98a8-e9cd-4866-8958-96769048242d",
+      "score": 0.52583206,
+      "title": "Machine learning for physics-discovery and climate modeling",
+      "url": "https://www.youtube.com/watch?v=fapqxeHAjE4"
+    },
+    {
+      "id": "1c3370f3-9544-42cf-b546-1588869b97b4",
+      "score": 0.52451706,
+      "title": "FAIRmat Tutorials 3: Bayesian Optimization, structured Gaussian processes, hypothesis learning",
+      "url": "https://www.youtube.com/watch?v=7lBEOd372Is"
+    },
+    {
+      "id": "a6f6b9cb-34e4-4c1a-8987-9a676d1d406b",
+      "score": 0.5224708,
+      "title": "Physics-Guided AI for Accelerating Scientific Discovery",
+      "url": "https://www.youtube.com/watch?v=VnQjADOKV6g"
+    },
+    {
+      "id": "7d2ed681-45ec-4f2c-9cbb-86353b671156",
+      "score": 0.5189612,
+      "title": "Artificial Intelligence (Stanford Encyclopedia of Philosophy)",
+      "url": "https://plato.stanford.edu/entries/artificial-intelligence/"
+    },
+    {
+      "id": "a96983a6-74b0-48cc-9897-eababf7f2f61",
+      "score": 0.5163278,
+      "title": "(PDF) Artificial Intelligence: Philosophical and Epistemological Perspectives",
+      "url": "https://www.researchgate.net/publication/340966699_Artificial_Intelligence_Philosophical_and_Epistemological_Perspectives"
+    },
+    {
+      "id": "889bf422-33c4-497c-86be-4a485cfcec9d",
+      "score": 0.5128152,
+      "title": "What Is Inductive Bias? - The Personal Growth Path",
+      "url": "https://www.youtube.com/watch?v=edLpz9OLQ9Y"
+    },
+    {
+      "id": "7187b94f-326d-4ea5-b527-bd2f677ac1f3",
+      "score": 0.509887,
+      "title": "Machine Learning in Physics #sciencefather #science #High energy physics   #physicist",
+      "url": "https://www.youtube.com/watch?v=yAC_lOdZ3-I"
+    },
+    {
+      "id": "de5ba78f-923b-44c4-954c-30f829484e2f",
+      "score": 0.5097406,
+      "title": "Unsupervised Physical Parameter Estimation for ...",
+      "url": "https://www.researchgate.net/publication/394612778_Learning_Physics_From_Video_Unsupervised_Physical_Parameter_Estimation_for_Continuous_Dynamical_Systems"
+    },
+    {
+      "id": "bd5e8db1-1a4c-4d93-b92c-225331b5fd9a",
+      "score": 0.50241756,
+      "title": "Automatic discovery of natural laws from experimental data",
+      "url": "https://www.youtube.com/watch?v=rnWu8Y7n8jU"
+    },
+    {
+      "id": "5ea1a0f6-0480-486a-94b9-664b386eb772",
+      "score": 0.49450764,
+      "title": "Yoshua Bengio \u2013 Cognitively-inspired inductive biases for higher-level cognition",
+      "url": "https://www.youtube.com/watch?v=02ABljCu5Zw"
+    },
+    {
+      "id": "ad23c1a1-bbae-4dcf-895b-e78e089dc8eb",
+      "score": 0.4866005,
+      "title": "A Philosophical Inquiry into AI-Inclusive Epistemology",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902415"
+    },
+    {
+      "id": "53d869fd-683c-49d6-807e-e7984d45d724",
+      "score": 0.48323447,
+      "title": "extrapolation - Understanding the behavior of a neural network when extrapolated - Cross Validated",
+      "url": "https://stats.stackexchange.com/questions/561940/understanding-the-behavior-of-a-neural-network-when-extrapolated"
+    },
+    {
+      "id": "a2f64b9c-e00d-4229-a7a5-dbc0d763a6d4",
+      "score": 0.47241634,
+      "title": "Reflections on epistemological aspects of artificial intelligence during the COVID-19 pandemic - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8627296/"
+    },
+    {
+      "id": "facff2f2-0606-4055-a277-e70288e0dfb0",
+      "score": 0.4674539,
+      "title": "The Epistemology of Artificial Intelligence: Understanding ...",
+      "url": "https://www.researchgate.net/publication/395454132_The_Epistemology_of_Artificial_Intelligence_Understanding_Knowledge_Creation_and_Validation_in_the_Digital_Age"
+    },
+    {
+      "id": "11b9ab7f-dce6-4577-8423-0b56d8c79c7e",
+      "score": 0.45885846,
+      "title": "Automating Discovery: From Cognitive Robotics to Particle Physics with Hod Lipson",
+      "url": "https://www.youtube.com/watch?v=QU1E1xBFErM"
+    },
+    {
+      "id": "bb31a7b8-5e5d-43db-9a98-80f944d5339f",
+      "score": 0.45595008,
+      "title": "Inferring Dynamic Physical Properties from Video Foundation Models",
+      "url": "https://arxiv.org/html/2510.02311"
+    },
+    {
+      "id": "ddf9c248-f5d3-4b02-b44a-15bbb6f17b11",
+      "score": 0.45377067,
+      "title": "SciMED:A Computational Framework For Physics-Informed Symbolic Regression with Scientist-In-The-Loop",
+      "url": "https://www.youtube.com/watch?v=mkrsAAPxusY"
+    },
+    {
+      "id": "12168fe6-e270-4db2-9e39-e27d379108ff",
+      "score": 0.45217365,
+      "title": "neural networks - Extrapolation using machine learning models under specific assumptions - Cross Validated",
+      "url": "https://stats.stackexchange.com/questions/554515/extrapolation-using-machine-learning-models-under-specific-assumptions"
+    },
+    {
+      "id": "6c668aa1-f394-42c0-a55c-32b9a959fc95",
+      "score": 0.44956237,
+      "title": "Deep Learning to Discover Coordinates for Dynamics: Autoencoders & Physics Informed Machine Learning",
+      "url": "https://www.youtube.com/watch?v=KmQkDgu-Qp0"
+    },
+    {
+      "id": "1d5cf706-e05b-40a2-864c-c923c4790aa2",
+      "score": 0.44883752,
+      "title": "PISR: Physics-Informed Symbolic Regression for ...",
+      "url": "https://dl.acm.org/doi/full/10.1145/3679240.3734622"
+    },
+    {
+      "id": "1d4730fb-14c8-4eb3-a863-d2095d0f9161",
+      "score": 0.44869256,
+      "title": "What is Inductive Bias in Machine Learning? How It Influences AI?",
+      "url": "https://learninglabb.com/inductive-bias-in-machine-learning-types-guide/"
+    },
+    {
+      "id": "616c93f8-a265-4327-b2ff-5e03e077c458",
+      "score": 0.44174582,
+      "title": "Discovering Symbolic Models from Deep Learning with Inductive Biases",
+      "url": "https://proceedings.neurips.cc/paper/2020/file/c9f2f917078bd2db12f23c3b413d9cba-Paper.pdf"
+    },
+    {
+      "id": "a31bb114-805c-41d5-a357-5e0b02ed4b83",
+      "score": 0.43712714,
+      "title": "Kun Zhang: Learning and Using Causal Representations",
+      "url": "https://www.youtube.com/watch?v=_MVi6XzOdD0"
+    },
+    {
+      "id": "440ef8c2-b877-4d1f-959c-a4bc63765bfc",
+      "score": 0.42993253,
+      "title": "terminology - What is inductive bias in machine learning? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/35655267/what-is-inductive-bias-in-machine-learning"
+    },
+    {
+      "id": "07bfa3a3-ffd8-4cb6-9836-2e30e68fee99",
+      "score": 0.42677602,
+      "title": "r/MachineLearning on Reddit: [D] inductive biases in machine learning",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/ng86r9/d_inductive_biases_in_machine_learning/"
+    },
+    {
+      "id": "0b96ead2-d51d-4acb-a623-d9edf9bdc9b2",
+      "score": 0.42591617,
+      "title": "APS GDS Tutorial Series: Physics Informed Neural Networks and Neural Differential Equations",
+      "url": "https://www.youtube.com/watch?v=8UrbgEStLA8"
+    },
+    {
+      "id": "2ddbdc7f-ebba-4ba1-a500-1d160d50f8ed",
+      "score": 0.42205253,
+      "title": "Frontiers | Artificial Intelligence Inheriting the Historical Crisis in Psychology: An Epistemological and Methodological Investigation of Challenges and Alternatives",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.781730/full"
+    },
+    {
+      "id": "08d3ce53-80d6-48c3-b91b-621dd686107d",
+      "score": 0.41962478,
+      "title": "Improving physics-informed neural network extrapolation via transfer learning and adaptive activation functions",
+      "url": "https://arxiv.org/html/2507.12659"
+    },
+    {
+      "id": "abeedec1-0adf-44b9-a86a-0f456488473a",
+      "score": 0.41948205,
+      "title": "Artificial Intelligence: Philosophical and Epistemological Perspectives | SpringerLink",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-06170-8_13"
+    },
+    {
+      "id": "da859ab5-19f2-4cbb-9026-c9cc6e52fa3b",
+      "score": 0.41492313,
+      "title": "Philosophical implications of AGI and The Future of Knowledge: An Epistemological Exploration",
+      "url": "https://www.youtube.com/watch?v=rmd14PtdaZ0"
+    },
+    {
+      "id": "3b93de46-0679-49ad-b516-aa2f2f3d00ae",
+      "score": 0.41108778,
+      "title": "Symbolic regression in the physical sciences | Royal Society",
+      "url": "https://royalsociety.org/science-events-and-lectures/2025/04/symbolic-regression/"
+    },
+    {
+      "id": "e78252ba-572e-42b8-a427-69da44e37922",
+      "score": 0.40882006,
+      "title": "[D]Why is it impossible to do causal discovery from ...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/n6xlsn/dwhy_is_it_impossible_to_do_causal_discovery_from/"
+    },
+    {
+      "id": "8811b446-f33d-4970-9e7f-49ab642d26a7",
+      "score": 0.4003513,
+      "title": "Induction, Inductive Biases, and Infusing Knowledge into Learned Representations",
+      "url": "https://sgfin.github.io/2020/06/22/Induction-Intro/"
+    },
+    {
+      "id": "713d60be-0ac3-4b3f-9f09-76d0aa8bd334",
+      "score": 0.39726064,
+      "title": "What Has a Foundation Model Discovered? Probing World Models via Inductive Bias",
+      "url": "https://www.youtube.com/watch?v=FUOOkl7yi0Q"
+    },
+    {
+      "id": "0def51c5-8435-4cf5-bf3a-e37e9b2bb932",
+      "score": 0.3962089,
+      "title": "What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models",
+      "url": "https://www.youtube.com/watch?v=PzNp2gS27Lo"
+    },
+    {
+      "id": "5f34dd9e-d8eb-4660-8469-036aa50876f9",
+      "score": 0.39543822,
+      "title": "Connecting ethics and epistemology of AI | AI & SOCIETY",
+      "url": "https://link.springer.com/article/10.1007/s00146-022-01617-6"
+    },
+    {
+      "id": "70223130-dae9-4145-86fa-a12fd7782a05",
+      "score": 0.3929196,
+      "title": "A computational framework for physics-informed symbolic regression with straightforward integration of domain knowledge | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-023-28328-2"
+    },
+    {
+      "id": "8aac4339-1f23-4793-a609-c0473119df19",
+      "score": 0.38964,
+      "title": "Learning Physics From Video: Unsupervised Physical Parameter Estimation for Continuous Dynamical Systems",
+      "url": "https://arxiv.org/html/2410.01376v2"
+    },
+    {
+      "id": "8970a2f7-d0c6-4e42-93bf-b5b376d118d0",
+      "score": 0.38755178,
+      "title": "Max Velthoven, legal science, AI and epistemology.",
+      "url": "https://www.youtube.com/watch?v=0a0G33ei8Xw"
+    },
+    {
+      "id": "ee4a1c82-cb21-492d-8cc8-21b8d1aa2cfc",
+      "score": 0.38671768,
+      "title": "Physics-Informed Machine Learning: Using the Laws of Nature to Improve Generalized Deep Learning Models - MATLAB & Simulink",
+      "url": "https://www.mathworks.com/videos/physics-informed-machine-learning-using-the-laws-1622124810574.html"
+    },
+    {
+      "id": "36440733-f736-41e9-ab24-81345f3cf739",
+      "score": 0.38616195,
+      "title": "r/learnmachinelearning on Reddit: I knew NNs don't extrapolate well, but I'm kinda stunned it's that bad",
+      "url": "https://www.reddit.com/r/learnmachinelearning/comments/ozajiw/i_knew_nns_dont_extrapolate_well_but_im_kinda/"
+    },
+    {
+      "id": "760c7cd0-4235-4929-a737-ea51a66b0fd3",
+      "score": 0.3813814,
+      "title": "An extrapolation-driven network architecture for physics-informed deep learning - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0893608024009274"
+    },
+    {
+      "id": "76775cb6-a287-4f77-9131-a7be9de66e72",
+      "score": 0.37793145,
+      "title": "MDBench: Benchmarking Data-Driven Methods for Model ...",
+      "url": "https://arxiv.org/html/2509.20529v1"
+    },
+    {
+      "id": "22d82cd4-860b-4565-ae5f-554cc86e22d3",
+      "score": 0.3725742,
+      "title": "Physics Informed Neural Networks explained for beginners | From scratch implementation and code",
+      "url": "https://www.youtube.com/watch?v=1AyAia_NZhQ"
+    },
+    {
+      "id": "aae21f01-44b1-4281-acbc-5e965ce1aa9c",
+      "score": 0.37161595,
+      "title": "[2003.01460] Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction",
+      "url": "https://arxiv.org/abs/2003.01460"
+    },
+    {
+      "id": "41bcec79-9dc7-4758-9cdc-0a6f2b44d898",
+      "score": 0.36902,
+      "title": "Extrapolation with machine learning based early-stage energy prediction models",
+      "url": "https://www.youtube.com/watch?v=zTjxWo3zKdI"
+    },
+    {
+      "id": "d8a5d46d-da24-427d-b7ca-ddd2a156d144",
+      "score": 0.36039954,
+      "title": "Epistemology and artificial intelligence - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1570868304000473"
+    },
+    {
+      "id": "fc432ddc-6a85-4306-9ffb-31bade19e2f7",
+      "score": 0.3549477,
+      "title": "Can neural net extrapolate output value - Cross Validated",
+      "url": "https://stats.stackexchange.com/questions/110026/can-neural-net-extrapolate-output-value"
+    },
+    {
+      "id": "a97790c7-c022-4fc9-b65b-633f4f78543f",
+      "score": 0.35320562,
+      "title": "[PDF] Unsupervised Discovery of 3D Physical Objects from Video | Semantic Scholar",
+      "url": "https://www.semanticscholar.org/paper/Unsupervised-Discovery-of-3D-Physical-Objects-from-Du-Smith/a5a28056d84506f9bc4f3245e961e9d2f943e915"
+    },
+    {
+      "id": "b2ba55a1-ba74-40f8-b90c-e318eeb1eb11",
+      "score": 0.34634283,
+      "title": "[SPCL_Bcast] Towards Next-Generation Numerical Methods with Physics-Informed Neural Networks",
+      "url": "https://www.youtube.com/watch?v=ozGSl7T8NWo"
+    },
+    {
+      "id": "39471310-9e42-4f6c-9f77-aa1cad0cec73",
+      "score": 0.34455422,
+      "title": "Using inductive bias as a guide for effective machine ...",
+      "url": "https://resources.flatiron.com/flatiron-stories/using-inductive-bias-as-a-guide-for-effective-machine-learning-prototyping"
+    },
+    {
+      "id": "2205d7b2-f644-45a3-9789-9d3143570eff",
+      "score": 0.34171483,
+      "title": "RL3.6 Inductive Bias in Machine learning",
+      "url": "https://www.youtube.com/watch?v=FhBMOqyMjYw"
+    },
+    {
+      "id": "f04a071c-0ae0-458e-bcbe-debe8a972483",
+      "score": 0.3329396,
+      "title": "Neural network extrapolation to distant regions of the ...",
+      "url": "https://www.nature.com/articles/s41467-024-50712-3"
+    },
+    {
+      "id": "86f39761-e04d-46ec-85ba-f7ab026bbee3",
+      "score": 0.33079588,
+      "title": "Causal inference and observational data | BMC Medical Research Methodology | Full Text",
+      "url": "https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-02058-5"
+    },
+    {
+      "id": "5e1b04c9-abda-4dbc-93e9-3b83d0b36dac",
+      "score": 0.32901484,
+      "title": "The Philosophy of A.I. Easily Explained - What is Artificial Intelligence & Its Implications?",
+      "url": "https://www.youtube.com/watch?v=B0yZ9LYkdas"
+    },
+    {
+      "id": "ded01828-1595-4a76-947b-07ae49f4f1f9",
+      "score": 0.32540315,
+      "title": "Unsupervised Learning from Videos for Object Discovery in ...",
+      "url": "https://www.mdpi.com/2073-8994/13/1/38"
+    },
+    {
+      "id": "1e11b84b-6a21-4ce9-be81-eb886c978b40",
+      "score": 0.3247925,
+      "title": "Causal Inference Meets Deep Learning: A Comprehensive Survey - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11384545/"
+    },
+    {
+      "id": "4a96f785-07b8-4995-b7ca-4dac75c3d632",
+      "score": 0.32427868,
+      "title": "[2303.03192] Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws",
+      "url": "https://arxiv.org/abs/2303.03192"
+    },
+    {
+      "id": "6898a1cf-2021-43ce-bd20-29e4a71cf644",
+      "score": 0.31236002,
+      "title": "Nature Reviews Physics: Machine learning in theoretical and experimental high energy physics",
+      "url": "https://www.youtube.com/watch?v=JVQbVGHHrzs"
+    },
+    {
+      "id": "d187e204-7c7d-41a6-aa20-035e9a64aa0c",
+      "score": 0.3122971,
+      "title": "Cecilia Clementi: \"Learning molecular models from simulation and experimental data\"",
+      "url": "https://www.youtube.com/watch?v=WVSy8bdD4Gg"
+    },
+    {
+      "id": "b3478927-e5f4-459c-8a0d-22ea6f7ec135",
+      "score": 0.31104007,
+      "title": "[2310.00873] Deep Neural Networks Tend To Extrapolate Predictably",
+      "url": "https://arxiv.org/abs/2310.00873"
+    },
+    {
+      "id": "09be195d-ecc1-4441-8d5d-f0411d7e2453",
+      "score": 0.3025667,
+      "title": "Reliable extrapolation of deep neural operators informed by physics or sparse observations - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0045782523001883"
+    },
+    {
+      "id": "510b949f-c938-4816-be46-2a96862eeeef",
+      "score": 0.2966038,
+      "title": "Physics-informed Machine Learning | PNNL",
+      "url": "https://www.pnnl.gov/explainer-articles/physics-informed-machine-learning"
+    },
+    {
+      "id": "882dce9e-52ea-4e97-a6c7-ac9b93153315",
+      "score": 0.2948648,
+      "title": "r/MachineLearning on Reddit: [D] What is the point of physics-informed neural networks if you need to know the actual physics?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/12lzzv6/d_what_is_the_point_of_physicsinformed_neural/"
+    },
+    {
+      "id": "ccd6681f-dd70-4ba3-a749-b9ac97fb1a01",
+      "score": 0.29027164,
+      "title": "Unsupervised discovery of 3D physical objects from video | Kevin A Smith",
+      "url": "http://www.mit.edu/~k2smith/publication/podnet/"
+    },
+    {
+      "id": "5975f187-4735-4d01-9a9a-4bfe39d59333",
+      "score": 0.28859964,
+      "title": "Proceedings of IEEE AICON2024",
+      "url": "https://philarchive.org/archive/YOUAPI-3"
+    },
+    {
+      "id": "d78ed075-11a1-4a57-8c92-c852304ae91e",
+      "score": 0.28739816,
+      "title": "Exploring Heidegger's Epistemology in the Age of Artificial Intelligence",
+      "url": "https://www.youtube.com/watch?v=L47vx9PU-CA"
+    },
+    {
+      "id": "4422c814-9732-4552-b7d7-4127422ccf4b",
+      "score": 0.28600517,
+      "title": "Why isn\u2019t Symbolic Regression used more? - Machine Learning - Julia Programming Language",
+      "url": "https://discourse.julialang.org/t/why-isn-t-symbolic-regression-used-more/116215"
+    },
+    {
+      "id": "f130c1cd-f39e-4fbc-b217-7c691ba97426",
+      "score": 0.28531766,
+      "title": "Types of Machine Learning - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/machine-learning/types-of-machine-learning/"
+    },
+    {
+      "id": "d451afd4-d468-4be7-833b-9699cad30ed0",
+      "score": 0.28270382,
+      "title": "Model Selection ,Inductive Bias",
+      "url": "https://www.youtube.com/watch?v=NOV8xUQUprI"
+    },
+    {
+      "id": "23e3f75d-b0af-49e9-863a-94ab3f844f0b",
+      "score": 0.28108776,
+      "title": "Onto-Epistemological Analysis of AI Explanations",
+      "url": "https://arxiv.org/html/2510.02996v1"
+    },
+    {
+      "id": "3ceaaa3d-a251-4454-8a0b-7d3fceabe6a6",
+      "score": 0.2699496,
+      "title": "A Review of Challenges and Opportunities in Machine ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7233077/"
+    },
+    {
+      "id": "cbeb3435-28cf-4c88-aa7f-22373f26eac8",
+      "score": 0.26551893,
+      "title": "RI Seminar: Hod Lipson Distilling Natural Laws from Experimental Data",
+      "url": "https://www.youtube.com/watch?v=ewKpyZfNuEU"
+    },
+    {
+      "id": "e1dc1019-f437-4a73-85c8-c1e72ef2948a",
+      "score": 0.26415706,
+      "title": "\ud83e\udd16\ud83d\udca5 When AI Defines Truth #Philosophy #Adaptability #Capabilities #Integrity #Security #Innovation P1",
+      "url": "https://www.youtube.com/watch?v=-lFgoTZv5dk"
+    },
+    {
+      "id": "c5eba9c3-e6e1-47fd-a4f8-1e44a0920fe1",
+      "score": 0.26356667,
+      "title": "Unsupervised Discovery of 3D Physical Objects From Video",
+      "url": "https://yilundu.github.io/podnet/"
+    },
+    {
+      "id": "30c0bd64-5a36-4b1c-a816-e21ba2b70b2e",
+      "score": 0.26355243,
+      "title": "Symbolic regression - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Symbolic_regression"
+    },
+    {
+      "id": "d2228ebf-383c-4a39-a2b8-cd6461304fe3",
+      "score": 0.26324695,
+      "title": "\u2018Machine Scientists\u2019 Distill the Laws of Physics From Raw Data | Quanta Magazine",
+      "url": "https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/"
+    },
+    {
+      "id": "21d7bf7d-521b-438f-8554-5d36d0caf53b",
+      "score": 0.2591271,
+      "title": "A simple remedy for failure modes in physics informed neural networks - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S089360802400892X"
+    },
+    {
+      "id": "d37e937f-e53f-4e3b-a831-85891634934c",
+      "score": 0.2561364,
+      "title": "ETH Z\u00fcrich AISE: Physics-Informed Neural Networks \u2013 Limitations and Extensions Part 1",
+      "url": "https://www.youtube.com/watch?v=S11QK8baGVI"
+    },
+    {
+      "id": "579ee1d1-44bf-4e55-9d23-7587ea8336cc",
+      "score": 0.25605965,
+      "title": "Advancing symbolic regression for earth science with a focus on evapotranspiration modeling | npj Climate and Atmospheric Science",
+      "url": "https://www.nature.com/articles/s41612-024-00861-5"
+    },
+    {
+      "id": "0ebbcd08-39c3-4c89-94d6-1961b641b14e",
+      "score": 0.25546715,
+      "title": "Artificial Intelligence in Physical Sciences: Symbolic ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10113133/"
+    },
+    {
+      "id": "170af9d2-cf20-447b-a83d-3d2cff06b478",
+      "score": 0.25395855,
+      "title": "Exploring Extrapolation of Machine Learning Models for ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352467725002905"
+    },
+    {
+      "id": "326b1493-3680-4a96-b54d-a97214133531",
+      "score": 0.2526287,
+      "title": "The Limitations of Machine Learning | by Matthew Stewart, ...",
+      "url": "https://medium.com/data-science/the-limitations-of-machine-learning-a00e0c3040c6"
+    },
+    {
+      "id": "c0f32501-9742-47d7-8942-3abb00698ff8",
+      "score": 0.2499142,
+      "title": "State Abstraction Discovery from Irrelevant State Variables",
+      "url": "https://www.ijcai.org/Proceedings/05/Papers/1655.pdf"
+    },
+    {
+      "id": "2f12d665-b83b-4fe3-9f4a-1c5fea7b1817",
+      "score": 0.24005279,
+      "title": "Abstract representations emerge naturally in neural networks trained to perform multiple tasks | Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-023-36583-0"
+    },
+    {
+      "id": "04256f4b-8c53-42b3-988d-309d684b37fd",
+      "score": 0.23949203,
+      "title": "On The Necessity of Abstraction - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6706087/"
+    },
+    {
+      "id": "2b30ac56-f0fd-46f5-ad20-9a567ce675d9",
+      "score": 0.22405586,
+      "title": "Reconstructing unsteady flows from sparse, noisy ...",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevFluids.10.034901"
+    },
+    {
+      "id": "48e44e56-a9e6-4d66-83af-f651307c3a8f",
+      "score": 0.22316575,
+      "title": "Interpretable and explainable machine learning: A methods\u2010centric overview with concrete examples - Marcinkevi\u010ds - 2023 - WIREs Data Mining and Knowledge Discovery - Wiley Online Library",
+      "url": "https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1493"
+    },
+    {
+      "id": "39d4293f-6f36-47f6-80ca-06c6c84fdaac",
+      "score": 0.22159523,
+      "title": "ISR: Invertible Symbolic Regression (May 2024)",
+      "url": "https://www.youtube.com/watch?v=Wgf-IHAx0t8"
+    },
+    {
+      "id": "448f9f1f-7b52-4fe7-b848-e922095f0fe3",
+      "score": 0.21892847,
+      "title": "Contemporary Symbolic Regression Methods and their Relative Performance - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11074949/"
+    },
+    {
+      "id": "fc2ad5b6-7b9b-4115-9885-830cb397b52e",
+      "score": 0.21663275,
+      "title": "Causal Machine Learning Requires Rigorous Synthetic ...",
+      "url": "https://arxiv.org/html/2508.08883"
+    },
+    {
+      "id": "bb86c972-f597-46aa-8488-e9dde9df279b",
+      "score": 0.21363993,
+      "title": "12 Physical inductive biases for learning simulation and scientific discovery",
+      "url": "https://www.youtube.com/watch?v=q0tLD7-GJmQ"
+    },
+    {
+      "id": "e17fdf6a-138f-4aab-9025-afe365d9878f",
+      "score": 0.1963176,
+      "title": "Artificial Intelligence & Personhood: Crash Course Philosophy #23",
+      "url": "https://www.youtube.com/watch?v=39EdqUbj92U"
+    },
+    {
+      "id": "393724e1-de14-4404-a1c1-49d4a2eb35a0",
+      "score": 0.19442934,
+      "title": "Full article: We Have No Satisfactory Social Epistemology of AI-Based Science",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02691728.2023.2286253"
+    },
+    {
+      "id": "b4f92008-7cbf-44a0-b081-d41e8ee0328e",
+      "score": 0.18992677,
+      "title": "Data Learning - Physical inductive biases for learning simulation and scientific discovery",
+      "url": "https://www.youtube.com/watch?v=KL_cNzBcgdM"
+    },
+    {
+      "id": "abe99102-5072-411b-85e2-988392128d7e",
+      "score": 0.18871276,
+      "title": "Contextuality and inductive bias in quantum machine learning",
+      "url": "https://www.youtube.com/watch?v=Agr0JvZTawI"
+    },
+    {
+      "id": "57ecf595-b9b8-4c73-ae81-4370fd26d98d",
+      "score": 0.18072791,
+      "title": "[2212.06347] Reliable extrapolation of deep neural operators informed by physics or sparse observations",
+      "url": "https://arxiv.org/abs/2212.06347"
+    },
+    {
+      "id": "ec20c0c4-55b8-4b51-9c2e-b46ecd585af7",
+      "score": 0.1773263,
+      "title": "Advancing Symbolic Discovery on Unsupervised Data: A Pre-training Framework for Non-degenerate Implicit Equation Discovery",
+      "url": "https://arxiv.org/html/2505.03130"
+    },
+    {
+      "id": "0633d857-f496-4564-a8ad-6a44eabb4386",
+      "score": 0.17448093,
+      "title": "Automated Solution of Symbolic Partial Differential Equations via Physics-Informed Neural Networks",
+      "url": "https://www.youtube.com/watch?v=DS3CZ_gVAMs"
+    },
+    {
+      "id": "f3def5be-ebe0-41e8-abeb-5d585c8efcb1",
+      "score": 0.17431219,
+      "title": "Discovering Symbolic Models from Deep Learning with ...",
+      "url": "https://astroautomata.com/paper/symbolic-neural-nets/"
+    },
+    {
+      "id": "13f31d68-1f51-4605-8c11-61b3f4397a91",
+      "score": 0.17288318,
+      "title": "fundamental physical quantities in physics within 15 seconds...",
+      "url": "https://www.youtube.com/watch?v=TYbjZ_lkEX4"
+    },
+    {
+      "id": "e6bdae0f-bbc5-4a56-84c4-9b9429b29cc0",
+      "score": 0.17242284,
+      "title": "Causal Inference Meets Deep Learning: A Comprehensive Survey | Research",
+      "url": "https://spj.science.org/doi/10.34133/research.0467"
+    },
+    {
+      "id": "1764ea5d-3ab1-4bda-8ff8-b4d7897ba1dc",
+      "score": 0.1721304,
+      "title": "Characterizing possible failure modes in physics-informed ...",
+      "url": "https://proceedings.neurips.cc/paper/2021/hash/df438e5206f31600e6ae4af72f2725f1-Abstract.html"
+    },
+    {
+      "id": "5aca7605-3155-4969-b90d-5647095f6630",
+      "score": 0.17125545,
+      "title": "Causal Discovery from Incomplete Data: A Deep Learning Approach (Reading Papers)",
+      "url": "https://www.youtube.com/watch?v=Ca1iT51VlUA"
+    },
+    {
+      "id": "b1ccc503-63bd-4b5b-9628-6620efa333e6",
+      "score": 0.16775002,
+      "title": "AISTATS2022: Discovering Inductive Bias with Gibbs Priors",
+      "url": "https://www.youtube.com/watch?v=TqK8d-iI7Y4"
+    },
+    {
+      "id": "aac6f853-a6e9-4f63-b143-cb1cd4d94935",
+      "score": 0.16178352,
+      "title": "\ud83e\udde0\u26a1\ufe0f When AI Defines Truth #Philosophy #ai #future #video #youtube  PART 1",
+      "url": "https://www.youtube.com/watch?v=8ApS2y--XjQ"
+    },
+    {
+      "id": "d51e46c8-02d9-4086-94ce-bfba4a3b3977",
+      "score": 0.1576941,
+      "title": "MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention",
+      "url": "https://www.youtube.com/watch?v=GvezxUdLrEk"
+    },
+    {
+      "id": "8807036c-cdca-4143-b48c-183afc1b5c64",
+      "score": 0.15232232,
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery | npj Artificial Intelligence",
+      "url": "https://www.nature.com/articles/s44387-025-00019-5"
+    },
+    {
+      "id": "3ce0f128-6a53-4bcb-b6fb-84162d947668",
+      "score": 0.14636794,
+      "title": "Causal Inference",
+      "url": "https://www.youtube.com/watch?v=NzBTnzWiQno"
+    },
+    {
+      "id": "e59b59f8-d88a-4c8c-8fd3-08ede3cc3202",
+      "score": 0.14360783,
+      "title": "Limitations of Deep Neural Networks:",
+      "url": "https://arxiv.org/pdf/2012.15754"
+    },
+    {
+      "id": "69661b82-eda7-462d-be4f-9af531762d58",
+      "score": 0.14288872,
+      "title": "MIT 6.S191 (2018): Sequence Modeling with Neural Networks",
+      "url": "https://www.youtube.com/watch?v=CznICCPa63Q"
+    },
+    {
+      "id": "55564e0f-54e3-44a0-8c77-bbff97d40889",
+      "score": 0.14195836,
+      "title": "[SAIF 2020] Day 1: Towards Discovering Casual Representations - Yoshua Bengio | Samsung",
+      "url": "https://www.youtube.com/watch?v=oN5AFMs1L2s"
+    },
+    {
+      "id": "ce62d468-affd-4a80-850d-70dfd785499a",
+      "score": 0.13731278,
+      "title": "A large-scale examination of inductive biases shaping high-level visual representation in brains and machines | Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-024-53147-y"
+    },
+    {
+      "id": "e0e50ab2-f94d-4d05-9584-a5ea08cc6d56",
+      "score": 0.13675845,
+      "title": "Causality \u2014 KUN ZHANG",
+      "url": "https://www.youtube.com/watch?v=4L_QpOiSYvU"
+    },
+    {
+      "id": "066ee319-f360-4c4e-b1de-050a9f49a922",
+      "score": 0.13118461,
+      "title": "The Challenges of Machine Learning: A Critical Review",
+      "url": "https://www.mdpi.com/2079-9292/13/2/416"
+    },
+    {
+      "id": "660736a8-b5c3-40fa-9ca8-68a1ae48fe39",
+      "score": 0.12952405,
+      "title": "Physics-informed neural network-based petroleum reservoir simulation with sparse data using domain decomposition - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1995822623002947"
+    },
+    {
+      "id": "ec425a9c-741d-4911-aabb-484964aa2a59",
+      "score": 0.12324974,
+      "title": "Unsupervised Machine Learning Explained For Beginners",
+      "url": "https://www.youtube.com/watch?v=yteYU_QpUxs"
+    },
+    {
+      "id": "3e8aa297-50a7-4d90-806c-8fb47802c4dc",
+      "score": 0.11317734,
+      "title": "On the Role of Philosophy for the Science of Explainable AI",
+      "url": "https://www.youtube.com/watch?v=MzpZZEQzPQM"
+    },
+    {
+      "id": "895d2285-360e-4dce-87ac-9f213bc3a15d",
+      "score": 0.11259057,
+      "title": "ETH Z\u00fcrich AISE: Symbolic Regression and Model Discovery",
+      "url": "https://www.youtube.com/watch?v=fe-PC4lw4yw"
+    },
+    {
+      "id": "16d85ed4-c6d9-4cb0-b249-75c5e26fb92a",
+      "score": 0.104981124,
+      "title": "How Does AI Actually Work? Is It Just Math and Data, or Something More? | Sleeping Philosophy",
+      "url": "https://www.youtube.com/watch?v=XCbWEuVNWPg"
+    },
+    {
+      "id": "92057fb5-d6e8-42d1-be63-e94d0aee6467",
+      "score": 0.10410351,
+      "title": "DATAIA Seminars | Uri Shalit \u00abMachine learning and causal inference: a two-way road\u00bb",
+      "url": "https://www.youtube.com/watch?v=lHI3cT0EREs"
+    },
+    {
+      "id": "9267c978-7260-4c79-876b-6a4145579e89",
+      "score": 0.10366714,
+      "title": "[2408.12091] Unsupervised discovery of the shared and private geometry in multi-view data",
+      "url": "https://arxiv.org/abs/2408.12091"
+    },
+    {
+      "id": "0d16c3ef-d9f6-47bd-9015-6116ee212a34",
+      "score": 0.10361269,
+      "title": "Interpretable Deep Learning for Physics",
+      "url": "https://www.youtube.com/watch?v=C2ln5_pBTpk"
+    },
+    {
+      "id": "292baca8-b670-4a72-a345-3c605c527b8c",
+      "score": 0.10252933,
+      "title": "Efficient Model Selection for Deep Neural Networks on Massively Parallel Processing Databases",
+      "url": "https://www.youtube.com/watch?v=FSQ_EAOeCzo"
+    },
+    {
+      "id": "af468276-ecea-4a1e-aada-4e2d80d2c4e1",
+      "score": 0.10113599,
+      "title": "Understanding Physics-Informed Neural Networks",
+      "url": "https://www.mdpi.com/2673-2688/5/3/74"
+    },
+    {
+      "id": "649d5de2-12a3-4ca6-b58e-875b4d52a6f5",
+      "score": 0.09572939,
+      "title": "Can Scientific Discovery Be Automated? - The Atlantic",
+      "url": "https://www.theatlantic.com/science/archive/2017/04/can-scientific-discovery-be-automated/524136/"
+    },
+    {
+      "id": "2240bd07-af16-4570-9b24-1c38c3631ebb",
+      "score": 0.09342148,
+      "title": "Challenges and Opportunities with Causal Discovery Algorithms",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7031278/"
+    },
+    {
+      "id": "c15402c9-9f37-4f9f-9e7c-1c65fa271720",
+      "score": 0.08076994,
+      "title": "AI and Materialism: Revisiting the Foundations of Consciousness",
+      "url": "https://www.youtube.com/watch?v=5G5ahuvEx8s"
+    },
+    {
+      "id": "f3652db6-da08-43b1-85d3-0ee5a9869294",
+      "score": 0.080682985,
+      "title": "James Zou | Modeling Spatial Omics and Cellular Niches with Graph Neural Networks | CGSI 2023",
+      "url": "https://www.youtube.com/watch?v=ByS_PyGzoqc"
+    },
+    {
+      "id": "7510ee07-3151-4f64-8d1b-708e9f8df736",
+      "score": 0.079217605,
+      "title": "Interactive symbolic regression with co-design mechanism through offline reinforcement learning | Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-025-59288-y"
+    },
+    {
+      "id": "6615412d-a4bb-4615-a34e-a3113de68c66",
+      "score": 0.076359615,
+      "title": "The Turing Test: Can AI Truly Think?",
+      "url": "https://www.youtube.com/watch?v=iGc9b5od5YQ"
+    },
+    {
+      "id": "7eece0a1-5ba4-4d21-9d82-ad3f162c3aa4",
+      "score": 0.074966356,
+      "title": "Unsupervised Discovery of Objects Physical Properties Through Maximum Entropy Reinforcement Learning | IEEE Journals & Magazine | IEEE Xplore",
+      "url": "https://ieeexplore.ieee.org/document/10902017/"
+    },
+    {
+      "id": "eaa13357-386f-4ed6-b43f-0e03a4894e67",
+      "score": 0.07480398,
+      "title": "Towards AI Systems for Scientific Discovery",
+      "url": "https://www.youtube.com/watch?v=DjUK8puCycA"
+    },
+    {
+      "id": "806c9745-9afb-47aa-9dd8-43731e249adf",
+      "score": 0.07217119,
+      "title": "\ud83e\udd16\ud83d\udca5 When AI Defines Truth #Philosophy #Adaptability #Capabilities #Integrity #Security #Innovation P2",
+      "url": "https://www.youtube.com/watch?v=2-xsHhGnSAY"
+    },
+    {
+      "id": "8ccef499-eddf-412a-a71c-8b63150a1fdb",
+      "score": 0.06954821,
+      "title": "Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction",
+      "url": "https://arxiv.org/html/2412.12870v2"
+    },
+    {
+      "id": "788d88c1-0bba-4133-b5a2-b1e6912f6f09",
+      "score": 0.06400119,
+      "title": "Artificial Intelligence in Physical Sciences: Symbolic Regression Trends and Perspectives | Archives of Computational Methods in Engineering",
+      "url": "https://link.springer.com/article/10.1007/s11831-023-09922-z"
+    },
+    {
+      "id": "93fd87c3-0871-493a-854b-28803443298a",
+      "score": 0.06358126,
+      "title": "The Significance of Data Abstraction Methods in Machine Learning Classification Processes for Critical Decision-Making",
+      "url": "https://arxiv.org/html/2401.11044v1"
+    },
+    {
+      "id": "47d5416e-98a4-4886-aa34-6b8e0d4f0388",
+      "score": 0.0545453,
+      "title": "Interpretability via Symbolic Distillation",
+      "url": "https://www.youtube.com/watch?v=XHBJJ2N-kUc"
+    },
+    {
+      "id": "28a88c57-e2ac-4517-89f6-0955747553c0",
+      "score": 0.051144414,
+      "title": "Causal Discovery in Linear Models with Unobserved Variables and Measurement Error - ArXi",
+      "url": "https://www.youtube.com/watch?v=zOxlrD_CLV4"
+    },
+    {
+      "id": "6c4e4794-eeed-4879-aa3a-c9b9b35f6505",
+      "score": 0.036128204,
+      "title": "Extracting Interpretable Physical Parameters from Spatiotemporal Systems Using Unsupervised Learning | Phys. Rev. X",
+      "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.031056"
+    },
+    {
+      "id": "7a323fd9-5da3-4541-84db-7017b1a6c5a7",
+      "score": 0.0345309,
+      "title": "Unsupervised Learning for Physical Interaction through ...",
+      "url": "http://papers.neurips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf"
+    },
+    {
+      "id": "7c4b17f5-6b39-4fc7-8e5a-839c146add7b",
+      "score": 0.032152396,
+      "title": "[1605.07157] Unsupervised Learning for Physical Interaction through Video Prediction",
+      "url": "https://arxiv.org/abs/1605.07157"
+    },
+    {
+      "id": "975f8341-2ffb-4f43-b8dc-cea708831457",
+      "score": 0.032079544,
+      "title": "[2306.02822] Discovering Dynamic Causal Space for DAG Structure Learning",
+      "url": "https://arxiv.org/abs/2306.02822"
+    },
+    {
+      "id": "18dc7f78-2acd-44c4-a8ac-fe37a9a248af",
+      "score": 0.030309225,
+      "title": "Physics-informed machine learning: A comprehensive ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0957417424015458"
+    },
+    {
+      "id": "a53c8217-f17e-4a9b-aeae-96e0913c438d",
+      "score": 0.012261391,
+      "title": "Discovering Unmodeled Components in Astrodynamics with Symbolic Regression",
+      "url": "https://www.youtube.com/watch?v=Ob67J_m6ud0"
+    },
+    {
+      "id": "f7d58cbf-1ae9-43e5-9f0e-d8adf0864f66",
+      "score": 0.0055511617,
+      "title": "[2309.00018] Unsupervised discovery of Interpretable Visual Concepts",
+      "url": "https://arxiv.org/abs/2309.00018"
+    }
+  ]
+}

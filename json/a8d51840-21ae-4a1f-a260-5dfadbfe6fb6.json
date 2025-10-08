@@ -1,0 +1,582 @@
+{
+  "id": "a8d51840-21ae-4a1f-a260-5dfadbfe6fb6",
+  "status": "completed",
+  "content": "FALSE: The provided research contains no credible evidence to support the claim that tech entrepreneur Emily White has spent more than $2 million developing a sleep-enhancement system. The assertion appears to be a conflation of information regarding multiple individuals named Emily White, her unrelated business ventures, and funding announcements for different companies.\n\n## Analysis of the Claim\n\nAn investigation into the provided sources reveals several distinct points that invalidate the query. The prominent tech executive Emily White is not associated with a sleep technology company, and the financial figures mentioned are linked to unreliable sources or unrelated businesses.\n\n### The Identity of Tech Entrepreneur Emily White\n\nThe most prominent \"tech entrepreneur\" named Emily White identified in the research has an extensive career at major technology firms [1].\n*   **Career History**: She has held executive positions at Google, Facebook, Instagram, and was the Chief Operating Officer (COO) at Snapchat [1][2].\n*   **Current Role**: She is the president of Anthos Capital, a private equity and venture capital firm based in Los Angeles [1][3].\n*   **Other Individuals**: The research identifies other professionals named Emily White who are not this tech executive, including a founding partner at Collective Entertainment [4], an author [5], and an intern at NPR [6].\n\n### Emily White's Known Entrepreneurial Venture: Mave\n\nIn 2016, the tech executive Emily White founded a startup named Mave [7][8].\n*   **Business Model**: Mave was not a sleep-enhancement company. It was a high-end personal concierge startup, described as a \"chief of staff for your household\" [7][9]. The service utilized virtual personal assistants, machine learning, and category experts to manage household tasks [7].\n*   **Funding**: No funding amount for Emily White's Mave is mentioned in the provided research.\n\n### Deconstruction of \"Sleep-Enhancement System\" Claims\n\nTwo sources link an \"Emily White\" to a \"sleep-enhancement system,\" but both lack credibility as factual news reports.\n*   **`teachtogether.tech`**: This website mentions an \"Emily White\" securing a \"$50,000 seed investment\" for a \"sleep-enhancement system\" [10]. However, further research reveals that `teachtogether.tech` is an educational book and resource for teaching technology, not a news outlet [11][12]. The reference is likely a hypothetical case study for educational purposes.\n*   **`lesswrong.com`**: A post on this community blog mentions a \"$45 Million\" investment commitment for \"Emily White\u2019s new sleep-enhancement system\" [13]. This is a significant claim with no corroboration from any financial news sources within the research, making its veracity highly doubtful.\n\n### The \"$2 Million\" Figure and Unrelated Companies\n\nThe research does not connect Emily White to a $2 million investment in sleep technology. The figure likely originates from a separate company that coincidentally shares a name with her startup.\n*   **Mave (Real Estate AI)**: In October 2024, a Toronto-based AI startup for real estate agents, also named Mave, announced it had raised CAD$2 million (approximately $1.45 million USD) in pre-seed funding [14][15][16]. This company was founded by Raz Zohar and is entirely unrelated to Emily White or her 2016 concierge startup [15][16].\n\n## Conclusion\n\nThe assertion that tech entrepreneur Emily White spent over $2 million on a sleep-enhancement system is unsupported by the evidence. The claim merges the identity of a known tech executive with unsubstantiated information from non-journalistic sources and the funding details of an unrelated company. Her actual startup, Mave, was a personal concierge service, not a sleep technology venture.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "631fe51f-4ae4-43e9-bb21-de0e6b10bd91",
+      "score": 0.7031221,
+      "title": "Emily White - Polsky Center for Entrepreneurship and Innovation",
+      "url": "https://polsky.uchicago.edu/people/emily-white/",
+      "citation_index": 1
+    },
+    {
+      "id": "001e8caf-7d15-455f-96cf-e1a1aea1e8f2",
+      "score": 0.6504012,
+      "title": "Emily White",
+      "url": "https://cclglobal.org/leader-bios/emily-white",
+      "citation_index": 2
+    },
+    {
+      "id": "371742e8-b11e-4ce0-8f59-1fb41731f42c",
+      "score": 0.5663309,
+      "title": "Emily White | Speaking Fee | Booking Agent",
+      "url": "https://www.allamericanspeakers.com/speakers/430567/Emily-White",
+      "citation_index": 3
+    },
+    {
+      "id": "16ed4211-efce-4d20-8e72-2cd3a3209a18",
+      "score": 0.73596483,
+      "title": "Emily White\u2019s Morning Routine on My Morning Routine",
+      "url": "https://mymorningroutine.com/emily-white/",
+      "citation_index": 4
+    },
+    {
+      "id": "21e340ab-922b-4f0b-8b88-02427d02914f",
+      "score": 0.4013364,
+      "title": "You Will Make Money in Your Sleep: The Story of Dana Giacchetto, Financial ... - Emily White - Google Books",
+      "url": "https://books.google.com/books/about/You_Will_Make_Money_in_Your_Sleep.html?id=BYM-4wuGncIC",
+      "citation_index": 5
+    },
+    {
+      "id": "61e9e4cd-af53-413b-b7c7-df8a6f4c635b",
+      "score": 0.05860943,
+      "title": "Letter to Emily White at NPR All Songs Considered.",
+      "url": "https://thetrichordist.com/2012/06/18/letter-to-emily-white-at-npr-all-songs-considered/",
+      "citation_index": 6
+    },
+    {
+      "id": "48b7c7fe-968f-43b0-aafa-1d8ec88ecd19",
+      "score": 0.8020137,
+      "title": "Ex-Snapchat COO Emily White Has A New Startup",
+      "url": "https://fortune.com/2016/03/02/ex-snapchat-coo-emily-white-new-startup/",
+      "citation_index": 7
+    },
+    {
+      "id": "efa83ec6-fb28-49f9-8cbb-dba2e2f9bd23",
+      "score": 0.52115494,
+      "title": "Emily White (businesswoman) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emily_White_(businesswoman)",
+      "citation_index": 8
+    },
+    {
+      "id": "3a26e92d-2007-4364-847b-6bc6fb2b9af4",
+      "score": 0.6612456,
+      "title": "Ex-Snapchat COO Emily White Has A New Startup",
+      "url": "https://finance.yahoo.com/news/ex-snapchat-coo-emily-white-182045409.html",
+      "citation_index": 9
+    },
+    {
+      "id": "bb2d5d99-cb9e-4d01-ae81-bb62d6db4712",
+      "score": 0.929036,
+      "title": "Teaching Tech Together",
+      "url": "http://teachtogether.tech/",
+      "citation_index": 10
+    },
+    {
+      "id": "c2b6b476-8429-494a-b0d0-e609dd82816c",
+      "score": 0.4224814,
+      "title": "Teaching Tech Together",
+      "url": "https://teachtogether.tech/",
+      "citation_index": 11
+    },
+    {
+      "id": "ddeb133f-9c4b-4b42-905b-8fe6f694af08",
+      "score": 0.57666177,
+      "title": "Summary of Teaching Tech Together",
+      "url": "https://coderefinery.github.io/manuals/teaching-tech-together/",
+      "citation_index": 12
+    },
+    {
+      "id": "272a566e-8e34-492f-8348-adc9fe7f625b",
+      "score": 0.9284155,
+      "title": "AI #131 Part 1: Gemini 2.5 Flash Image is Cool",
+      "url": "https://www.lesswrong.com/posts/hSCDe8wJnxRmRTxfr/ai-131-part-1-gemini-2-5-flash-image-is-cool",
+      "citation_index": 13
+    },
+    {
+      "id": "38d480a1-a1eb-49f2-b60c-3687dee1eeb3",
+      "score": 0.8358192,
+      "title": "Mave Raises $2M CAD in Pre-Seed Round",
+      "url": "https://www.thesaasnews.com/news/mave-raises-2m-cad-in-pre-seed-round",
+      "citation_index": 14
+    },
+    {
+      "id": "f2c9eb46-9e02-40aa-8e0e-2a71744bb845",
+      "score": 0.7300017,
+      "title": "Launches Beta Program for its AI Assistant for Real Estate ...",
+      "url": "https://finance.yahoo.com/news/mave-raises-2-million-pre-155900873.html",
+      "citation_index": 15
+    },
+    {
+      "id": "5055103f-4b77-4fbf-ac75-fd4f03565d47",
+      "score": 0.65173227,
+      "title": "Mave AI - 2025 Company Profile & Team",
+      "url": "https://tracxn.com/d/companies/mave-ai/__fg1iIhGA9yNPmv31ewsRpyISsuZFXvabjN4d2uV39Hs",
+      "citation_index": 16
+    },
+    {
+      "id": "003be370-a2da-4c4e-98e3-2757ba1c7f95",
+      "score": 0.7325349,
+      "title": "Real Estate AI Solution Mave Raises $2M Pre-Seed Round",
+      "url": "https://builtintoronto.com/articles/mave-raises-2m-pre-seed-20241101"
+    },
+    {
+      "id": "d8fc22a5-568b-43ba-b648-392ee4f319bd",
+      "score": 0.68420124,
+      "title": "Mave Raises $2 Million in Pre-seed Funding",
+      "url": "https://www.businesswire.com/news/home/20241024473560/en/Mave-Raises-%242-Million-in-Pre-seed-Funding-Launches-Beta-Program-for-its-AI-Assistant-for-Real-Estate-Agents-and-Brokers"
+    },
+    {
+      "id": "633304f6-22e8-4112-98b3-2fc325d55fdc",
+      "score": 0.6578248,
+      "title": "Maven - 2025 Company Profile, Team, Funding & Competitors - Tracxn",
+      "url": "https://tracxn.com/d/companies/maven/__4mfUYu7ZIOdrK21R1CfsV3NVlNtLPOygvxFFtf9FcmQ"
+    },
+    {
+      "id": "b28b1f9e-94ff-45aa-9a83-626e9a93ae13",
+      "score": 0.65676886,
+      "title": "What is Emily White's wellness routine?",
+      "url": "https://www.linkedin.com/posts/jeremysirota_ivoted-ivoted-wellness-activity-7222326269357514753-ji6c"
+    },
+    {
+      "id": "d9bfabe0-49c0-4933-bc29-e074717c5be0",
+      "score": 0.60077465,
+      "title": "Mave AI - 2025 Funding Rounds & List of Investors",
+      "url": "https://tracxn.com/d/companies/mave-ai/__fg1iIhGA9yNPmv31ewsRpyISsuZFXvabjN4d2uV39Hs/funding-and-investors"
+    },
+    {
+      "id": "4a0962e9-fa2e-4eb2-bdee-c3c6d0728007",
+      "score": 0.5596998,
+      "title": "Mave Health - 2025 Company Profile, Team, Funding, Competitors & Financials - Tracxn",
+      "url": "https://tracxn.com/d/companies/mave-health/__RwLATFCUOIF8kbEyx0o-3ZJLhzenBbvPDe1o2jTNx2Y"
+    },
+    {
+      "id": "e803ad9e-736e-4e99-9034-935820f44fd9",
+      "score": 0.53619206,
+      "title": "What resources do teachers recommend? TeachTogether responses",
+      "url": "https://my.chartered.college/research-hub/what-remote-learning-resources-do-teachers-recommend-teachtogether-responses/"
+    },
+    {
+      "id": "c8555282-3067-43b6-b3bb-f6312498944a",
+      "score": 0.51091194,
+      "title": "Emily White - Anthos Capital",
+      "url": "https://www.vcsheet.com/who/emily-white"
+    },
+    {
+      "id": "1e5a1d02-24d0-46b2-8869-154d1cb105e1",
+      "score": 0.50769037,
+      "title": "Eight Sleep Lands $100M In Fresh Funding To Help You Get A Better Night\u2019s Rest",
+      "url": "https://news.crunchbase.com/venture/ai-powered-startup-eight-sleep-fitness-funding/"
+    },
+    {
+      "id": "272269c0-483e-4747-9807-309e4a5e1eb9",
+      "score": 0.46075046,
+      "title": "Yerba Mate Producer Guayak\u00ed Raises $75 Million In Fresh ...",
+      "url": "https://www.forbes.com/sites/douglasyu/2023/01/20/yerba-mate-producer-guayak-raises-75-million-in-fresh-funding-round/"
+    },
+    {
+      "id": "f10321f5-dad1-40db-8fc8-595f2bb7395d",
+      "score": 0.4237686,
+      "title": "Ense\u00f1ar tecnolog\u00eda en comunidad",
+      "url": "https://teachtogether.tech/es/"
+    },
+    {
+      "id": "1bef880c-ae8d-44d4-b1b9-c1a0d7d04ea8",
+      "score": 0.4191967,
+      "title": "Sleep.ai Secures $5.5M in Venture Funding to Redefine Sleep Intelligence with AI-Powered Platform",
+      "url": "https://theaiinsider.tech/2025/08/29/sleep-ai-secures-5-5m-in-venture-funding-to-redefine-sleep-intelligence-with-ai-powered-platform/"
+    },
+    {
+      "id": "923d77f5-aae4-4fc8-8e09-b13e842a87f9",
+      "score": 0.39726064,
+      "title": "Sleep.ai Raises $5.5 Million in Venture Funding to Redefine Sleep Intelligence with AI-Powered Platform",
+      "url": "https://fintech-pulse.com/news/sleep-ai-raises-5-5-million-in-venture-funding-to-redefine-sleep-intelligence-with-ai-powered-platform/"
+    },
+    {
+      "id": "678dea72-51cc-4037-b752-568cd2eb5599",
+      "score": 0.3620219,
+      "title": "Chasing dreams may be the next sleeper hit for venture capitalists | TechCrunch",
+      "url": "https://techcrunch.com/2017/05/27/chasing-dreams-may-be-the-next-sleeper-hit-for-venture-capitalists/"
+    },
+    {
+      "id": "0a130cb3-4c7b-4177-8b5f-14e18c31cbf3",
+      "score": 0.3548806,
+      "title": "\u200eYou Will Make Money in Your Sleep by Emily White on Apple Books",
+      "url": "https://books.apple.com/us/book/you-will-make-money-in-your-sleep/id381694068"
+    },
+    {
+      "id": "a946d9ac-a72c-476a-be7c-d5bc86d4d2b1",
+      "score": 0.3486013,
+      "title": "Dr. Emily White Joins Focused Ultrasound Foundation as ...",
+      "url": "https://www.fusfoundation.org/posts/dr-emily-white-joins-focused-ultrasound-foundation-as-director-of-operations/"
+    },
+    {
+      "id": "29350ed3-bb27-453e-8a2b-3d91ef30a741",
+      "score": 0.33222425,
+      "title": "How Startup Funding Works and the 8 Startup Funding Stages | Indeed.com",
+      "url": "https://www.indeed.com/career-advice/career-development/startup-funding-stages"
+    },
+    {
+      "id": "053f2ac8-ce55-44c4-8c3f-de3bf43cd56b",
+      "score": 0.32727093,
+      "title": "Mave - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/mave"
+    },
+    {
+      "id": "23f364eb-28fb-476d-ab0f-997c2ffebf04",
+      "score": 0.32533884,
+      "title": "You Will Make Money in Your Sleep: The Story of Dana Giacchetto, Financial Adviser to the Stars: White, Emily: 8601419272259: Amazon.com: Books",
+      "url": "https://www.amazon.com/Will-Make-Money-Your-Sleep/dp/B003UHUAAK"
+    },
+    {
+      "id": "133f6e8f-ab5e-44b6-8e5c-ad09a1e9fc5e",
+      "score": 0.27963957,
+      "title": "GitHub - gvwilson/teachtogether.tech: Teaching Tech Together",
+      "url": "https://github.com/gvwilson/teachtogether.tech"
+    },
+    {
+      "id": "255af5ca-dec0-4def-b47d-d641ba959565",
+      "score": 0.25611547,
+      "title": "Emma \u2013 The Sleep Company",
+      "url": "https://de.linkedin.com/company/lifeatemma"
+    },
+    {
+      "id": "8359a5be-5a40-4248-9be6-883d8deed718",
+      "score": 0.2540002,
+      "title": "VCs Haven\u2019t Tired Of Sleep Startups",
+      "url": "https://news.crunchbase.com/health-wellness-biotech/sleep-startups-venture-funding-data/"
+    },
+    {
+      "id": "31a23df4-095a-42b1-a92d-94d25c32108d",
+      "score": 0.24572289,
+      "title": "Report: Eight Sleep Business Breakdown & Founding Story | Contrary Research",
+      "url": "https://research.contrary.com/company/eight-sleep"
+    },
+    {
+      "id": "13f7a8d2-878d-4e1e-84f8-9787c3dfd17e",
+      "score": 0.23975894,
+      "title": "Emily White - Advisor @ VSCO - Crunchbase Person Profile",
+      "url": "https://www.crunchbase.com/person/emily-white"
+    },
+    {
+      "id": "49d78ab4-cbe6-4f1a-99d3-ae57a933eea7",
+      "score": 0.23765595,
+      "title": "Awaken your best with Emma | Careers at Emma - The Sleep Company",
+      "url": "https://team.emma-sleep.com/"
+    },
+    {
+      "id": "1e18574d-e9ea-4278-8af6-29ba5aea4fd0",
+      "score": 0.22859572,
+      "title": "Startup Funding: How to Get Startup Capital",
+      "url": "https://www.nerdwallet.com/article/small-business/startup-funding"
+    },
+    {
+      "id": "ce2aef0f-f2d5-4607-b5f0-539efcb83606",
+      "score": 0.22420868,
+      "title": "Emma The Sleep Company (Emma Sleep GmbH) - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/emma-the-sleep-company"
+    },
+    {
+      "id": "1f56ee58-d3ae-40bf-a0ca-b7f1d048e40f",
+      "score": 0.21514495,
+      "title": "How to Go to Sleep Fast (and Stay Down for the Night)",
+      "url": "https://www.gq.com/story/how-to-fall-asleep-fast-1"
+    },
+    {
+      "id": "2bb0f9c1-cb74-467a-9f1c-c837a18e006b",
+      "score": 0.21270628,
+      "title": "Khosla Ventures, Orlando Magic owners back sleep tech company Somnee's $10M round",
+      "url": "https://www.fiercehealthcare.com/health-tech/khosla-ventures-orlando-magic-owners-back-sleep-tech-company-somnees-10m-round"
+    },
+    {
+      "id": "a5f704db-20eb-4ebe-8472-1b03c180ac34",
+      "score": 0.20856592,
+      "title": "Google for Education - Online Resources for Teachers & Students",
+      "url": "https://edu.google.com/intl/ALL_us/"
+    },
+    {
+      "id": "af37a040-45e2-4f10-828c-9f5031c43f20",
+      "score": 0.19010715,
+      "title": "Member Spotlight: Emma \u2013 The Sleep Company - Specialty Sleep Association",
+      "url": "https://sleepinformation.org/member-spotlights/member-spotlight-emma-the-sleep-company/"
+    },
+    {
+      "id": "163ee41f-ce13-45a9-bd31-8cc5e17aeb55",
+      "score": 0.18453261,
+      "title": "Funding Guide",
+      "url": "https://www.startupindia.gov.in/content/sih/en/funding.html"
+    },
+    {
+      "id": "77916c7a-6321-4d95-93a0-ef1363fe29a0",
+      "score": 0.17981876,
+      "title": "These 3 Brands Offer Innovative Solutions To Sleep-Deprived Americans, In A Market Worth $37 Billion",
+      "url": "https://www.forbes.com/sites/pamdanziger/2021/08/15/3-brands-offering-innovative-solutions-to-sleep-deprived-americans-a-market-worth-37-billion/"
+    },
+    {
+      "id": "efeb7bbc-ca41-4254-a483-59e18095af7c",
+      "score": 0.17865509,
+      "title": "The Sleep Company: Redefining Comfort with SmartGRID Mattress | Founders | Revenue | Business Model",
+      "url": "https://startuptalky.com/the-sleep-company-comfortable-mattress-success-story/"
+    },
+    {
+      "id": "94ac414d-a0f5-48d9-bc36-abe068e8cb29",
+      "score": 0.17809692,
+      "title": "Emma \u00e2\u20ac\u201c The Sleep Company: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Emma_\u00e2\u20ac\u201c_The_Sleep_Company"
+    },
+    {
+      "id": "d4515259-458e-438c-8701-393d5c806466",
+      "score": 0.17707,
+      "title": "Using Technology Purposefully | Center for Innovative Teaching and Learning | Northern Illinois University",
+      "url": "https://www.niu.edu/citl/resources/guides/instructional-guide/using-technology-purposefully.shtml"
+    },
+    {
+      "id": "ff595bae-8e6e-45f7-8d4f-aa56fc675604",
+      "score": 0.16799559,
+      "title": "You Will Make Money in Your Sleep eBook by Emily White | Official Publisher Page | Simon & Schuster",
+      "url": "https://www.simonandschuster.com/books/You-Will-Make-Money-in-Your-Sleep/Emily-White/9781416545989"
+    },
+    {
+      "id": "b0b17066-866c-4e9d-a5b5-72e7e98fa6d7",
+      "score": 0.1632989,
+      "title": "Elemind | Wearable Neurotechnology for Sleep \u2013 Elemind Store",
+      "url": "https://elemindtech.com/"
+    },
+    {
+      "id": "00de3854-e1ec-45fc-922a-d246bf477be2",
+      "score": 0.15591232,
+      "title": "Beginner's guide to pre-seed funding | DigitalOcean",
+      "url": "https://www.digitalocean.com/resources/articles/what-is-pre-seed-funding"
+    },
+    {
+      "id": "6b290432-1a3e-45ba-9e5a-240f43e3b9fb",
+      "score": 0.14887464,
+      "title": "Innovative Technology Behind The Sleep Company Mattress",
+      "url": "https://thesleepcompany.in/blogs/mattress/technology-used-in-the-sleep-company-mattress"
+    },
+    {
+      "id": "e19ca519-f750-4e28-b3ef-ce5232eaf1cd",
+      "score": 0.14238712,
+      "title": "Emma He, PhD - Chief Executive Officer - Sleepm Global Inc | LinkedIn",
+      "url": "https://www.linkedin.com/in/sleepmcare/"
+    },
+    {
+      "id": "fecf9c75-6938-46fa-9171-cf8ef2ede002",
+      "score": 0.13381115,
+      "title": "Teaching Tech Together",
+      "url": "https://unglueit-files.s3.amazonaws.com/ebf/3030ab63fe974f2b8e71cbeca451b29f.pdf"
+    },
+    {
+      "id": "01b7ea67-9cb3-4e4b-8a71-7dbfdc37ccfa",
+      "score": 0.13347194,
+      "title": "Edutopia - What Works in Education",
+      "url": "https://www.edutopia.org/"
+    },
+    {
+      "id": "f908324c-0284-463e-b1fd-c21391d5cd92",
+      "score": 0.13333645,
+      "title": "Dream ticket: how sleep became a billion-dollar business | Sleep | The Guardian",
+      "url": "https://amp.theguardian.com/lifeandstyle/2018/apr/17/sleep-billion-dollar-business-tiredness-spooning-robots-cuddle-blankets-luxury"
+    },
+    {
+      "id": "c54f85ac-7549-4b8b-9273-025ab86db7c1",
+      "score": 0.12899646,
+      "title": "Teaching with Technology - Using educational technology to enhance the learning environment and increase student engagement!",
+      "url": "https://usingeducationaltechnology.com/"
+    },
+    {
+      "id": "d948ca61-dfb2-4623-9d91-0cce90083ecb",
+      "score": 0.11931599,
+      "title": "Everywhere Ventures: Everywhere VC",
+      "url": "https://www.everywhere.vc/"
+    },
+    {
+      "id": "b690df12-e1a9-47c2-9bed-9b059cf41648",
+      "score": 0.11223978,
+      "title": "Emma -- The Sleep Company announces its full year 2023 results with revenues exceeding $1 billion for the first time",
+      "url": "https://www.prnewswire.com/news-releases/emma--the-sleep-company-announces-its-full-year-2023-results-with-revenues-exceeding-1-billion-for-the-first-time-302083154.html"
+    },
+    {
+      "id": "6151c7fa-cb09-4abc-9203-385651ebecb3",
+      "score": 0.111309014,
+      "title": "Sleep Number - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sleep_Number"
+    },
+    {
+      "id": "3caebef0-a571-4478-b9f1-8cb96cf37d3a",
+      "score": 0.108897865,
+      "title": "The Sleep Company - 2025 Company Profile, Team, Funding, Competitors & Financials - Tracxn",
+      "url": "https://tracxn.com/d/companies/the-sleep-company/__fi-pistUEEyaIVsmrTSzh_HEl8saDFl7cZhkZL8BFCM"
+    },
+    {
+      "id": "7f5e6e8f-48ba-4a02-bf66-261f70c70f39",
+      "score": 0.10647691,
+      "title": "The SleepTech Industry: an Investor Perspective",
+      "url": "https://blog.newfundcap.com/the-sleeptech-industry-an-investor-perspective/"
+    },
+    {
+      "id": "7f11b976-c07a-495a-9da9-dcacd76ca551",
+      "score": 0.10399425,
+      "title": "How To Evaluate Websites: A Guide For Teachers ...",
+      "url": "https://www.kathleenamorris.com/2018/11/20/evaluate-websites/"
+    },
+    {
+      "id": "6c7d878a-3dec-4374-adeb-caf86816bbc9",
+      "score": 0.09881625,
+      "title": "Calculate your startup costs | U.S. Small Business Administration",
+      "url": "https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs"
+    },
+    {
+      "id": "177487c9-6f94-42f6-91c3-44a60e37f07f",
+      "score": 0.09613594,
+      "title": "What is a Startup Financial Model, and Do You Need One?",
+      "url": "https://www.hubspot.com/startups/startup-financial-model"
+    },
+    {
+      "id": "41b909fb-2105-4484-b0ce-061f9eff4b6f",
+      "score": 0.09572939,
+      "title": "About The Sleep Company: We're Passionate About Your Sleep",
+      "url": "https://thesleepcompany.in/pages/about-us"
+    },
+    {
+      "id": "7219a46d-2743-49cc-85c6-1880ec6a882a",
+      "score": 0.09302524,
+      "title": "About Emma | Careers at Emma - The Sleep Company",
+      "url": "https://team.emma-sleep.com/about-emma"
+    },
+    {
+      "id": "7eafd85c-c1bc-4c80-a3d0-fd3069948bb8",
+      "score": 0.08772801,
+      "title": "From Pre-Seed to IPO: Startup Funding Explained",
+      "url": "https://www.antler.co/academy/startup-funding-stages"
+    },
+    {
+      "id": "e5647b71-ceaa-46b4-928f-99ed5aa048df",
+      "score": 0.085411474,
+      "title": "Sleep that makes 'Sense': The young CEO who built a $250 million dream",
+      "url": "https://www.cnbc.com/2017/03/17/sleep-that-makes-sense-the-young-ceo-who-built-a-250-million-dream.html"
+    },
+    {
+      "id": "f06e49ab-a33b-4adc-a0a1-a495a62d8ff1",
+      "score": 0.08459118,
+      "title": "Validating an Autonomous Interactive Internet ... - NIH RePORTER",
+      "url": "https://reporter.nih.gov/search/10EECF0D4E84C0DF7598B8961CAA4A01A2FFCEB861BF/project-details/10404961"
+    },
+    {
+      "id": "5e53a9ab-8d02-4054-9c63-fa3d5ec4e7bc",
+      "score": 0.08350859,
+      "title": "The 5 Types of Startup Funding | Startups.com",
+      "url": "https://www.startups.com/articles/5-types-startup-funding"
+    },
+    {
+      "id": "1748abe9-110b-456c-871b-16dae8c00815",
+      "score": 0.078621306,
+      "title": "[Transcript] \u2013 The Secret Ingredient Inside Fish Guts, Immuno-Rejuvenation 101, The Magic Of Himalayan Tartary Buckwheat, \u201cThe Father Of Functional Medicine\u201d, Dr. Jeffrey Bland",
+      "url": "https://bengreenfieldlife.com/transcripts/transcript-dr-jeffrey-bland-podcast/"
+    },
+    {
+      "id": "166e18c5-2b7d-4fef-8463-4335e87b88a4",
+      "score": 0.07727375,
+      "title": "Homepage - Educators Technology",
+      "url": "https://www.educatorstechnology.com/"
+    },
+    {
+      "id": "f907168b-918b-46d4-96c9-60bc417ed5e9",
+      "score": 0.07727375,
+      "title": "10 Startup Financing Models to Fund a Business | The Hartford",
+      "url": "https://www.thehartford.com/business-insurance/strategy/startup/money"
+    },
+    {
+      "id": "567574a1-5d46-4283-9b99-12b8a315b6c3",
+      "score": 0.074885115,
+      "title": "Sleep.ai Raises $5.5M in Venture Funding for AI Sleep Intelligence",
+      "url": "https://www.sleep.ai/news/sleepai-raises-venture-funding/"
+    },
+    {
+      "id": "e7f0298a-6229-4dcf-a89b-d9a41a5664f4",
+      "score": 0.063302755,
+      "title": "Tech & Learning | Tools & Ideas to Transform Education",
+      "url": "https://www.techlearning.com/"
+    },
+    {
+      "id": "144a42be-3ba0-4116-8c80-8b8d1ca6cadc",
+      "score": 0.05570498,
+      "title": "Teach For All",
+      "url": "https://teachforall.org/"
+    },
+    {
+      "id": "924aa6db-eef1-493d-aa86-b52086a52501",
+      "score": 0.053944107,
+      "title": "Using Web 2.0 tools to engage learners | UDL Modules",
+      "url": "https://ofe.ecu.edu/udlmodules/modules/using-web-2-0-tools-to-engage-learners/"
+    },
+    {
+      "id": "11de2d7e-50a7-43df-927d-2c558e2e62ee",
+      "score": 0.04891691,
+      "title": "Teachers' Essential Guide to Teaching with Technology | Common Sense Education",
+      "url": "https://www.commonsense.org/education/articles/teachers-essential-guide-to-teaching-with-technology"
+    },
+    {
+      "id": "b98828ac-edb0-4e15-8faf-992880a8f432",
+      "score": 0.040438388,
+      "title": "You Will Make Money in Your Sleep by Emily White at InkWell Management Literary Agency",
+      "url": "https://inkwellmanagement.com/books/you-will-make-money-in-your-sleep"
+    },
+    {
+      "id": "9f7cb08d-47ce-4631-9e8b-b775d212b3fc",
+      "score": 0.038181942,
+      "title": "In Silicon Valley, Venture Capital Meets a Generational Shift",
+      "url": "https://www.nytimes.com/2024/03/13/technology/venture-capital-silicon-valley-investors.html"
+    },
+    {
+      "id": "49bb4669-7f37-4f58-b9cd-e20b06abb969",
+      "score": 0.03809596,
+      "title": "ISTE | 2. Educators",
+      "url": "https://iste.org/standards/educators"
+    },
+    {
+      "id": "a05db3df-4b5e-4829-b6a2-0fbe4bfb4ca8",
+      "score": 0.03356739,
+      "title": "What The Under 30 Summit Revealed About The Future Of ...",
+      "url": "https://www.forbes.com/sites/zoyahasan/2025/10/03/what-the-under-30-summit-revealed-about-the-future-of-tech-investing-defense-and-entertainment/"
+    },
+    {
+      "id": "abfe2522-c696-4bff-bcfc-44393faf07f7",
+      "score": 0.031005697,
+      "title": "This AI Founder Became A Billionaire By Building ChatGPT For Doctors",
+      "url": "https://www.forbes.com/sites/amyfeldman/2025/07/15/this-ai-founder-became-a-billionaire-by-building-chatgpt-for-doctors/"
+    },
+    {
+      "id": "957dbe12-95d4-4a4b-9ac1-19d0f0f36f9e",
+      "score": 0.025431804,
+      "title": "[Transcript] \u2013 Is Methylene Blue The Key To Lasting Vitality? Defying Disease, Revitalizing Cells, And Safeguarding Your Prostate From Cancer With Dr. John Lieurance",
+      "url": "https://bengreenfieldlife.com/transcripts/transcript-john-lieurance-magicbullet/"
+    },
+    {
+      "id": "8c3bd9bc-4da4-4fa1-84fb-a09f84d4620c",
+      "score": 0.022839706,
+      "title": "Supplement Co. Sold Soviet-Era Drug As Sleep Aid, Suit ...",
+      "url": "https://www.law360.com/articles/2396224/supplement-co-sold-soviet-era-drug-as-sleep-aid-suit-says-"
+    },
+    {
+      "id": "67bcd758-a8ce-4bd0-a41f-202802a8c8fa",
+      "score": 0.021322012,
+      "title": "Teaching Tech Together",
+      "url": "https://teachtogether.tech/en/"
+    },
+    {
+      "id": "f3ceb828-2d9b-4824-a96e-5fb3b609a442",
+      "score": 0.014583387,
+      "title": "Executive Profile | Anthos Capital LP | Emily Clark White",
+      "url": "https://app.boardroominsiders.com/skinny-profiles/anthos-capital-lp-emily-white"
+    },
+    {
+      "id": "a1ad5f14-f91b-45cd-9517-57a5ccdaeb54",
+      "score": 0.009679436,
+      "title": "Sustainment of the TeleSleep program for rural veterans",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10668014/"
+    }
+  ]
+}

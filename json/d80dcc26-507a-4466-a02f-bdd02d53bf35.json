@@ -1,0 +1,297 @@
+{
+  "id": "d80dcc26-507a-4466-a02f-bdd02d53bf35",
+  "status": "completed",
+  "content": "FALSE. The claim that Oregon farmers produce about 60% of the world's hazelnut supply is factually incorrect. The state of Oregon is the dominant producer within the United States, accounting for approximately 99% of the nation's crop[1][2][3]. However, the United States as a whole ranks third or fourth globally, and Oregon's output represents less than 10% of the world's total supply[4][5]. The global hazelnut market is overwhelmingly dominated by Turkey, which produces more than half of the world's supply[6][5][4].\n\n## Global Hazelnut Market Landscape (2023)\n\nGlobal production of in-shell hazelnuts in 2023 was approximately 1.13 million metric tons[5]. Data from the Food and Agriculture Organization of the United Nations (FAOSTAT) confirms a total of 1,125,221 metric tons for the year[5][7].\n\nTurkey is the undisputed leader in hazelnut production, a position it has held for many years[6][8]. In 2023, Turkey's output was 650,000 metric tons, accounting for 57.77% of the world's total supply[5][4]. Other sources place its market share even higher, at 58% to 71% for the same year[5][6]. The country's production has a significant impact on global prices and supply chains[6].\n\nThe leading hazelnut-producing nations for 2023 are ranked as follows:\n\n| Rank | Country | Production (Metric Tons) | Share of World Production (%) |\n|---|---|---|---|\n| 1 | Turkey | 650,000 | 57.77% |\n| 2 | Italy | 102,740 | 9.13% |\n| 3 | United States | 85,460 | 7.59% |\n| 4 | Azerbaijan | 75,409 | 6.70% |\n| 5 | Chile | 65,647 | 5.83% |\n| 6 | Georgia | 36,900 | 3.28% |\n*Source: Production data from FAOSTAT and Tridge intelligence reports for the 2023 calendar year*[5][4].\n\n## Oregon's Production in Context\n\nOregon's role, while dominant within the U.S., is significantly smaller on the global stage.\n\n### Production Volume\n\nAccording to the National Agricultural Statistics Service, Oregon growers produced 94,200 tons of in-shell hazelnuts in 2023[9]. This figure is equivalent to approximately 85,456 metric tons (one ton equals roughly 0.907 metric tons)[10]. This production level aligns closely with the total U.S. output of 85,460 metric tons reported by FAOSTAT for 2023, reflecting the fact that Oregon produces about 99% of the U.S. hazelnut crop[5][1]. Industry estimates for Oregon's 2023 crop were even higher, ranging from 95,000 to over 101,000 tons[11][12].\n\n### Global Market Share Calculation\n\nBased on the official 2023 figures, Oregon's share of global hazelnut production can be calculated as:\n\n(85,456 Metric Tons from Oregon / 1,125,221 Metric Tons Worldwide) x 100 = **7.59%**\n\nThis calculated share is consistent with sources stating the U.S. contributes between 3% and 8% to the world's supply[2][4][13]. This is nearly eight times lower than the incorrect 60% figure in the query.\n\nIn summary, while Oregon is the heart of the U.S. hazelnut industry, its output constitutes a single-digit percentage of the global total. Turkey remains the world's primary source of hazelnuts by a substantial margin[6].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "104c6d0f-3d46-4a6f-8fca-78e932732245",
+      "score": 0.91118777,
+      "title": "A Deep Dive into The U. S. Hazelnut Market \u2014 Scythe & Spade",
+      "url": "https://www.ag-management.com/blog-home/the-u-s-hazelnut-market",
+      "citation_index": 1
+    },
+    {
+      "id": "1b47f71d-b7db-44f3-9ed0-38ddc4cb5d64",
+      "score": 0.6994397,
+      "title": "Growing Hazelnuts in the Pacific Northwest: Introduction",
+      "url": "https://extension.oregonstate.edu/catalog/pub/em-9072-growing-hazelnuts-pacific-northwest-introduction",
+      "citation_index": 2
+    },
+    {
+      "id": "67e503f1-4beb-4689-8bc0-77e9d4f9e12e",
+      "score": 0.6964752,
+      "title": "99% of U.S. hazelnuts are grown in these eight Oregon counties | College of Agricultural Sciences",
+      "url": "https://agsci.oregonstate.edu/home/article/99-us-hazelnuts-are-grown-these-eight-oregon-counties",
+      "citation_index": 3
+    },
+    {
+      "id": "78140a47-c70c-4efc-b6e7-2811622392da",
+      "score": 0.9075175,
+      "title": "Hazelnut Kernel production and top producing countries",
+      "url": "https://www.tridge.com/intelligences/hazelnut-in-shell/production",
+      "citation_index": 4
+    },
+    {
+      "id": "aec91122-8a3c-4e99-9dfd-e4faf1d4958c",
+      "score": 0.90849644,
+      "title": "Hazelnut - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hazelnut",
+      "citation_index": 5
+    },
+    {
+      "id": "7f3cce3d-83ca-401a-b98f-83eefb1fc9f9",
+      "score": 0.9253988,
+      "title": "Hazelnut Production, Export, and Global Market Analysis in Georgia - BTU AI",
+      "url": "https://btuai.ge/en/56431-2/",
+      "citation_index": 6
+    },
+    {
+      "id": "6002fe07-6bc0-41ea-91c1-b7c1483b4199",
+      "score": 0.8943568,
+      "title": "10 World\u2019s Largest Country Producers of Hazelnuts in 2023",
+      "url": "https://www.scienceagri.com/2023/10/10-worlds-largest-hazelnuts-producers.html",
+      "citation_index": 7
+    },
+    {
+      "id": "316baed8-99c1-4e43-81d0-4dbee238f911",
+      "score": 0.93694025,
+      "title": "Top-10 Hazelnuts Producing Countries in the World",
+      "url": "https://currentaffairs.adda247.com/top-10-hazelnuts-producing-countries-in-the-world/",
+      "citation_index": 8
+    },
+    {
+      "id": "9d353c45-af66-4a5b-9ee3-ae733ff1e9b6",
+      "score": 0.9184877,
+      "title": "Hazelnut prices on the upswing as Oregon growers continue recovery from 2022",
+      "url": "https://www.statesmanjournal.com/story/news/local/2024/10/08/oregon-hazelnut-prices-2024/75468775007/",
+      "citation_index": 9
+    },
+    {
+      "id": "7be9747a-a973-4db3-aa86-0793a5067bbb",
+      "score": 0.40584955,
+      "title": "Hazelnut Production by Country 2025",
+      "url": "https://worldpopulationreview.com/country-rankings/hazelnut-production-by-country",
+      "citation_index": 10
+    },
+    {
+      "id": "4b136a10-f9f7-42dc-976f-58b02cd4c7b6",
+      "score": 0.8727061,
+      "title": "The future of hazelnuts looks promising",
+      "url": "https://www.farmprogress.com/tree-nuts/the-future-of-hazelnuts-looks-promising",
+      "citation_index": 11
+    },
+    {
+      "id": "f025d174-d635-4044-8238-ae22ccfa2c34",
+      "score": 0.5215936,
+      "title": "Oregon Hazelnut Crop Expectations for 2023",
+      "url": "https://pacificnutproducer.com/2023/09/07/oregon-hazelnut-crop-expectations-for-2023/",
+      "citation_index": 12
+    },
+    {
+      "id": "78486a4c-e86a-4e32-9fe4-e28b1a05ce86",
+      "score": 0.88564163,
+      "title": "Hazelnuts: great for the environment, but vulnerable to climate ...",
+      "url": "https://www.worldwildlife.org/magazine/articles/hazelnuts-great-for-the-environment-but-vulnerable-to-climate-change",
+      "citation_index": 13
+    },
+    {
+      "id": "1019f90c-cb32-465c-b40f-63c4ff6f55a2",
+      "score": 0.95791626,
+      "title": "Wholesale Hazelnuts | Trusted B2B Supplier",
+      "url": "https://www.cardassilaris.com/nuts/hazelnuts"
+    },
+    {
+      "id": "1e5bf730-1067-4c41-bec5-f08caa0d5d50",
+      "score": 0.9205687,
+      "title": "largest hazelnut producing countries in the world ranking - Arad Branding",
+      "url": "https://aradbranding.com/en/largest-hazelnut-producing-countries-in-the-world-ranking/"
+    },
+    {
+      "id": "271962da-40f4-49e8-8301-636b3a504e1a",
+      "score": 0.9049283,
+      "title": "2024 Top 5 Hazelnut Producing Countries - Hazelnut Hub",
+      "url": "https://hazelnuthub.com/2024-top-5-hazelnut-producing-countries/"
+    },
+    {
+      "id": "8894b8b5-deee-40b9-8679-7225684d54ee",
+      "score": 0.9047265,
+      "title": "Top Hazelnut Consuming Countries",
+      "url": "https://www.worldatlas.com/articles/top-hazelnut-consuming-countries.html"
+    },
+    {
+      "id": "3d011aa6-6a3f-4a94-9abc-0876253263ee",
+      "score": 0.9041187,
+      "title": "Hazelnut consumption in China 2016-2023",
+      "url": "https://www.statista.com/statistics/1081240/china-hazelnut-consumption/?srsltid=AfmBOoptuBBEiDzV4DKChCLEuNR189_kRukfDtvXfmhU71wNe4tii7f8"
+    },
+    {
+      "id": "c6283c14-034e-43fb-8f3d-a5fc06a147b9",
+      "score": 0.898277,
+      "title": "Hazelnuts: dent in global production",
+      "url": "https://www.mundus-agri.eu/news/hazelnuts-dent-global-production.n34953.html"
+    },
+    {
+      "id": "5dc5fdc1-2572-41e3-a23e-b9f7d745278e",
+      "score": 0.8963332,
+      "title": "WORLD HAZELNUT SITUATION AND PERSPECTIVES | International Society for Horticultural Science",
+      "url": "https://www.ishs.org/ishs-article/845_2"
+    },
+    {
+      "id": "2a00fe52-385a-41ad-bc09-bdb3f9c2b067",
+      "score": 0.8585411,
+      "title": "The Developments in The World Hazelnut Production and Export, The Role of Turkey | Request PDF",
+      "url": "https://www.researchgate.net/publication/315111164_The_Developments_in_The_World_Hazelnut_Production_and_Export_The_Role_of_Turkey"
+    },
+    {
+      "id": "c6cbf044-83d8-4f97-b88b-48505d63e728",
+      "score": 0.85567063,
+      "title": "Hazelnut Production in the U.S - Lending Acres",
+      "url": "https://lendingacres.com/2023/11/29/hazelnut-production-in-the-u-s/"
+    },
+    {
+      "id": "96c29282-3691-4af9-bc6b-fe58211421ff",
+      "score": 0.8467682,
+      "title": "Turkey produces 75% of world\u2019s total hazelnuts - Food Turkey",
+      "url": "https://www.foodturkey.com.tr/2015/10/07/turkey-produces-75-worlds-total-hazelnuts/"
+    },
+    {
+      "id": "a2a758df-44d2-4fd7-85b1-5687e5260b3b",
+      "score": 0.7923522,
+      "title": "U.S. hazelnut production grows despite global pressures and market shifts - National Nut Grower",
+      "url": "https://nationalnutgrower.com/news/u-s-hazelnut-production-grows-despite-global-pressures-and-market-shifts/"
+    },
+    {
+      "id": "d99b3e1f-1997-476f-8acc-b4799c908958",
+      "score": 0.7420672,
+      "title": "World Hazelnut Production by Country",
+      "url": "https://www.atlasbig.com/countries-hazelnut-production"
+    },
+    {
+      "id": "1690ec15-2840-4002-99b8-2d8825cb44b0",
+      "score": 0.71829855,
+      "title": "",
+      "url": "https://www.wolframalpha.com/input/?i=world+hazelnut+production+2023+metric+tons"
+    },
+    {
+      "id": "4145e487-a066-4c1c-9824-ede454b1c2cc",
+      "score": 0.6811549,
+      "title": "Fully Leased Hazelnut Orchard for Sale in Oregon",
+      "url": "https://investinag.com/2024/10/29/permanent-crop-opportunity-fully-leased-hazelnut-orchard-for-sale-in-oregon/"
+    },
+    {
+      "id": "71853781-6a0e-4c88-bfcd-d13e8b444382",
+      "score": 0.6453216,
+      "title": "Growing Hazelnuts in the Pacific Northwest: Introduction | OSU ...",
+      "url": "https://catalog.extension.oregonstate.edu/em9072/html"
+    },
+    {
+      "id": "ac4d1278-6c83-4ab0-a03b-921ed1e61500",
+      "score": 0.64478505,
+      "title": "Oregon State hazelnut varieties save industry, expand production | OSU Extension Service",
+      "url": "https://extension.oregonstate.edu/impact/oregon-state-hazelnut-varieties-save-industry-expand-production"
+    },
+    {
+      "id": "cee17637-85f4-4b2b-806a-87b7d365a837",
+      "score": 0.62523276,
+      "title": "Hazelnuts Global Statistical Review - International Nut & Dried Fruit Council",
+      "url": "https://inc.nutfruit.org/hazelnuts-global-statistical-review-2/"
+    },
+    {
+      "id": "155ba56f-7c80-4cf9-b79b-628e8efc57a6",
+      "score": 0.614464,
+      "title": "Top countries for Hazelnuts Production - Source FAO",
+      "url": "https://www.nationmaster.com/nmx/ranking/hazelnuts-production-fao"
+    },
+    {
+      "id": "7e60a3c7-aa22-4d89-9cea-c59b24343f18",
+      "score": 0.6108487,
+      "title": "r/todayilearned on Reddit: TIL that over 1/4th of global hazelnut production is bought by an Italian company to make Nutella.",
+      "url": "https://www.reddit.com/r/todayilearned/comments/asxfig/til_that_over_14th_of_global_hazelnut_production/"
+    },
+    {
+      "id": "44e34a18-02e2-4e4e-8b8a-bfa8460b603e",
+      "score": 0.6102915,
+      "title": "Measuring Hazelnuts in Oregon | Home",
+      "url": "https://www.usda.gov/about-usda/news/blog/measuring-hazelnuts-oregon"
+    },
+    {
+      "id": "d9425d58-951d-48a8-9966-d6aabe81b6ac",
+      "score": 0.5999311,
+      "title": "Hazelnut production area and production by country. | Download Table",
+      "url": "https://www.researchgate.net/figure/Hazelnut-production-area-and-production-by-country_tbl1_283410804"
+    },
+    {
+      "id": "812deb98-3c13-45fc-8cd5-0d380a631a8f",
+      "score": 0.59401023,
+      "title": "A Brief History of the Hazel from the \u201cBeginning of Time\u201d to the 21st Century Oregon Hazelnut Industry \u2013 HGO: Hazelnut Growers of Oregon",
+      "url": "https://hazelnut.com/history-of-hazel/"
+    },
+    {
+      "id": "8a2bb2bb-df8d-4d0d-ab56-4b9b9438ee50",
+      "score": 0.59344494,
+      "title": "99% of U.S. hazelnuts are grown in these eight Oregon counties \u2013 Here is Oregon - hereisoregon.com",
+      "url": "https://www.hereisoregon.com/places/2024/10/99-of-us-hazelnuts-are-grown-in-these-eight-oregon-counties.html"
+    },
+    {
+      "id": "8b1b5fcf-c081-40de-bfac-1c1f5377f573",
+      "score": 0.5911811,
+      "title": "Hazelnut Market Size, Share, Trends, Analysis, Report, 2032",
+      "url": "https://www.fortunebusinessinsights.com/hazelnut-market-112330"
+    },
+    {
+      "id": "f9aba85e-f937-4a41-8ba6-2574fa4c1673",
+      "score": 0.5611433,
+      "title": "Which Country Produces the Most Hazelnuts? | Helgi Library",
+      "url": "https://www.helgilibrary.com/charts/which-country-produces-the-most-hazelnuts/"
+    },
+    {
+      "id": "6a57b9b0-e345-4152-9436-bb19a1a1c88f",
+      "score": 0.47913864,
+      "title": "US Competitiveness in the Global Hazelnut Market in Charts \u2014 Scythe & Spade",
+      "url": "https://www.ag-management.com/blog-home/us-competitiveness-in-the-global-hazelnut-market"
+    },
+    {
+      "id": "d79b37eb-5767-4413-a8af-2ea886ab1b2d",
+      "score": 0.45304462,
+      "title": "Hazelnut production",
+      "url": "https://www.fao.org/4/x4484e/x4484e03.htm"
+    },
+    {
+      "id": "262c27d9-b2ae-452c-a90c-db18016023fc",
+      "score": 0.41307515,
+      "title": "About Oregon Hazelnuts \u2013 Hazelnut Industry Office",
+      "url": "https://oregonhazelnuts.org/about/"
+    },
+    {
+      "id": "003c3c83-a389-4677-bbbb-a903ee04f5ef",
+      "score": 0.38498205,
+      "title": "Global production of hazelnut and walnut fruits (FAOSTAT, 2023;... | Download Scientific Diagram",
+      "url": "https://www.researchgate.net/figure/Global-production-of-hazelnut-and-walnut-fruits-FAOSTAT-2023-ODEPA-CIREN-2021_fig2_374179286"
+    },
+    {
+      "id": "1625d846-091b-41d4-98b7-981647015453",
+      "score": 0.3623603,
+      "title": "Oregon Agriculture \u00bb Oregon Hazelnut Industry",
+      "url": "https://oregonfresh.net/education/oregon-agriculture-production/oregon-hazelnut-industry/"
+    },
+    {
+      "id": "fe34c58c-988d-4368-acec-eb9925c32a81",
+      "score": 0.31865525,
+      "title": "Hazelnuts Global Statistical Review",
+      "url": "https://inc.nutfruit.org/hazelnuts-global-statistical-review-3/"
+    },
+    {
+      "id": "7603efc1-55f4-4b99-8b5b-af32d406bbae",
+      "score": 0.21060428,
+      "title": "2023 OREGON ANNUAL STATISTICAL BULLETIN Compiled by",
+      "url": "https://www.nass.usda.gov/Statistics_by_State/Oregon/Publications/Annual_Statistical_Bulletin/2023/OR_ANN_2023.pdf"
+    },
+    {
+      "id": "dabb98f1-2fdb-4932-8f80-96e1b2b56f1d",
+      "score": 0.16571489,
+      "title": "Leading Countries in Hazelnut Exports in the World - Turkish Goods",
+      "url": "https://www.turkishgoods.com/post/blog/leading-countries-in-hazelnut-exports-in-the-world"
+    }
+  ]
+}

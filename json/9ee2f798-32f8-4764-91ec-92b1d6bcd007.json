@@ -1,0 +1,537 @@
+{
+  "id": "9ee2f798-32f8-4764-91ec-92b1d6bcd007",
+  "status": "completed",
+  "content": "FALSE. While DNA from million-year-old mammoth teeth was once the oldest ever sequenced, that record was broken in 2022. The current record for the world's oldest DNA is approximately 2 million years old and was recovered from environmental sediment in Greenland[1][2][3].\n\n## The Current Record Holder: 2-Million-Year-Old Environmental DNA\n\nIn December 2022, researchers announced the discovery of the oldest DNA ever recovered, dating back approximately 2 million years[2][4]. This genetic material was not extracted from a single fossilized specimen but was environmental DNA (eDNA) found preserved in Ice Age sediment from the Kap K\u00f8benhavn Formation in northern Greenland[5][6].\n\nThis eDNA consists of microscopic fragments shed by numerous organisms into the environment, which were then preserved in permafrost[6][7]. The analysis of this 2-million-year-old genetic material revealed a complex ancient ecosystem that included mastodons, reindeer, hares, geese, and various plants like poplar and birch trees, which is inconsistent with the polar desert environment found there today[4][1][2]. This discovery surpassed the previous record by approximately one million years[8][9].\n\n## The Previous Record: Million-Year-Old Mammoth DNA\n\nPrior to the Greenland discovery, the statement in the query was factual. In February 2021, scientists announced they had successfully sequenced DNA from three mammoth molars recovered from the Siberian permafrost[10][11][12].\n\n### Age and Significance\nThe ages of these mammoth specimens were estimated to be between 700,000 and 1.2 million years old, with some dating methods suggesting the oldest, named Krestovka, could be as old as 1.65 million years[13][10][14].\n\nAt the time, this discovery shattered the previous record for the oldest DNA, which belonged to a horse that lived between 560,000 and 780,000 years ago[15][16][17]. The mammoth DNA provided crucial insights into mammoth evolution, including the identification of a previously unknown lineage and the discovery that the Columbian mammoth was a hybrid[18][10].\n\n## Summary of Key Findings\n\n| Record                                 | Age                    | Source                                          | Type of DNA              | Year Announced |\n| -------------------------------------- | ---------------------- | ----------------------------------------------- | ------------------------ | -------------- |\n| **Current Oldest DNA**                 | ~2 million years       | Sediment from Kap K\u00f8benhavn Formation, Greenland[19] | Environmental DNA (eDNA) | 2022           |\n| **Previous Record Holder (Mammoth)** | 1.0 - 1.65 million years | Mammoth molars from Siberian permafrost[13][14] | From physical specimen   | 2021           |\n| **Prior Record Holder (Horse)**        | ~560,000\u2013780,000 years | Horse fossil from Yukon, Canada[16][17] | From physical specimen   | 2013           |\n\nIn conclusion, the claim that the world's oldest DNA comes from million-year-old mammoth teeth is outdated. While this was a landmark achievement that held the record, it has been superseded by the discovery of significantly older environmental DNA from Greenland[1][2].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "8d16ffc2-db5a-48a6-952a-e48a04c00ad1",
+      "score": 0.80405265,
+      "title": "What Is The Oldest Evidence Of DNA Ever Recovered On Earth? | IFLScience",
+      "url": "https://www.iflscience.com/what-is-the-oldest-evidence-of-dna-ever-recovered-on-earth-75063",
+      "citation_index": 1
+    },
+    {
+      "id": "b0db0cca-a764-401b-98b3-bbd010a240c9",
+      "score": 0.769306,
+      "title": "Oldest DNA reveals 2-million-year-old ecosystem",
+      "url": "https://www.nature.com/articles/d41586-022-04376-y",
+      "citation_index": 2
+    },
+    {
+      "id": "3cc03e20-8801-40ac-a920-b6721179d791",
+      "score": 0.7507177,
+      "title": "Ancient DNA - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ancient_DNA",
+      "citation_index": 3
+    },
+    {
+      "id": "8f841d0b-3dc7-4b92-a60d-aca3fb5e85e0",
+      "score": 0.7539928,
+      "title": "Oldest DNA sheds light on a 2 million-year-old ecosystem that has no modern parallel | CNN",
+      "url": "https://www.cnn.com/2022/12/07/world/oldest-dna-sequence-discovered-greenland-scn/index.html",
+      "citation_index": 4
+    },
+    {
+      "id": "7dd62ecb-6fd8-444c-a60a-130dd81cdcc5",
+      "score": 0.89545894,
+      "title": "A 2-million-year-old ecosystem in Greenland uncovered by ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9729109/",
+      "citation_index": 5
+    },
+    {
+      "id": "ff90b422-e888-456a-a4cb-666b0ecfac5d",
+      "score": 0.68191797,
+      "title": "World's Oldest DNA Discovered, Revealing Ancient Arctic Forest Full of Mastodons | Scientific American",
+      "url": "https://www.scientificamerican.com/article/worlds-oldest-dna-discovered-revealing-ancient-arctic-forest-full-of-mastodons/",
+      "citation_index": 6
+    },
+    {
+      "id": "0368725e-1650-49eb-ae8e-4ccd2563ae95",
+      "score": 0.8729662,
+      "title": "2-Million-Year-Old DNA Reveals Northern Greenland Was Once Warm And Lush | IFLScience",
+      "url": "https://www.iflscience.com/2-million-year-old-dna-reveals-northern-greenland-was-once-warm-and-lush-69978",
+      "citation_index": 7
+    },
+    {
+      "id": "285b8a6c-2827-46f8-91e7-ff5ee45b2c29",
+      "score": 0.850382,
+      "title": "Discovery Of World's Oldest DNA Breaks Record By One Million Years",
+      "url": "https://www.forbes.com/sites/davidbressan/2022/12/08/discovery-of-worlds-oldest-dna-breaks-record-by-one-million-years/",
+      "citation_index": 8
+    },
+    {
+      "id": "7d9df824-42b4-43ea-9648-8c88d4d2d1c2",
+      "score": 0.8482825,
+      "title": "Discovery of world's oldest DNA breaks record by one million years",
+      "url": "https://phys.org/news/2022-12-discovery-world-oldest-dna-million.html",
+      "citation_index": 9
+    },
+    {
+      "id": "935f7265-6e14-4af6-b798-f7989105d5ff",
+      "score": 0.8803145,
+      "title": "Teeth from Siberian mammoths yield oldest DNA ever recovered | Reuters",
+      "url": "https://www.reuters.com/article/us-science-mammoths/teeth-from-siberian-mammoths-yield-oldest-dna-ever-recovered-idUSKBN2AH2A0/",
+      "citation_index": 10
+    },
+    {
+      "id": "29877027-4bb7-46d0-b5e2-c1ec8d44d300",
+      "score": 0.7325349,
+      "title": "Mammoth molars yield the oldest DNA ever sequenced | Science | AAAS",
+      "url": "https://www.science.org/content/article/mammoth-molars-yield-oldest-dna-ever-sequenced",
+      "citation_index": 11
+    },
+    {
+      "id": "20674cf0-4828-46de-b81f-de495dfbcd60",
+      "score": 0.7593865,
+      "title": "Million-year-old mammoth teeth yield world's oldest DNA",
+      "url": "https://www.nationalgeographic.com/science/article/million-year-old-mammoth-teeth-yield-worlds-oldest-dna",
+      "citation_index": 12
+    },
+    {
+      "id": "2933b65e-cffd-4ba7-8cd2-fa6273239b4f",
+      "score": 0.9138076,
+      "title": "Oldest DNA sequences reveal how mammoths evolved",
+      "url": "https://news.ucsc.edu/2021/02/mammoth-genomes/",
+      "citation_index": 13
+    },
+    {
+      "id": "ed29170e-7179-4f5b-bc0f-53899942d206",
+      "score": 0.9016528,
+      "title": "Million-year-old mammoth DNA discovered by scientists",
+      "url": "https://abcnews.go.com/International/million-year-woolly-mammoth-dna-discovered-scientists-northeast/story?id=75930587",
+      "citation_index": 14
+    },
+    {
+      "id": "541b8f3a-c61d-4f77-976e-380bbef8f9d6",
+      "score": 0.7606688,
+      "title": "Oldest sequenced DNA belonged to 1 million-year-old mystery mammoth | Live Science",
+      "url": "https://www.livescience.com/mammoth-oldest-sequenced-dna-on-record.html",
+      "citation_index": 15
+    },
+    {
+      "id": "d6acab55-9da2-4e2e-919c-d7ff895ae0bd",
+      "score": 0.8865877,
+      "title": "World's oldest DNA sequenced from million-year-old ...",
+      "url": "https://www.aljazeera.com/news/2021/2/18/worlds-oldest-dna-sequenced-from-million-year-old-mammoths",
+      "citation_index": 16
+    },
+    {
+      "id": "35f6a4fb-c3ff-4927-b15c-5d63f8ec4e41",
+      "score": 0.6889923,
+      "title": "We sequenced the oldest ever DNA, from million-year-old mammoths | Arctic Focus",
+      "url": "https://www.arcticfocus.org/stories/we-sequenced-oldest-ever-dna-million-year-old-mammoths/",
+      "citation_index": 17
+    },
+    {
+      "id": "f404bac0-a596-419c-b860-b4964c29c6b5",
+      "score": 0.5174983,
+      "title": "Million-Year-Old DNA Rewrites the Mammoth Family Tree",
+      "url": "https://www.nytimes.com/2021/02/17/science/DNA-mammoth.html",
+      "citation_index": 18
+    },
+    {
+      "id": "a6b87096-1346-4e62-9472-50c362ff7038",
+      "score": 0.63125396,
+      "title": "The world's oldest DNA represents a two-million-year-old ecosystem | Natural History Museum",
+      "url": "https://www.nhm.ac.uk/discover/news/2022/december/worlds-oldest-dna-represents-two-million-year-old-ecosystem.html",
+      "citation_index": 19
+    },
+    {
+      "id": "7a1187ac-dd46-467b-bfa0-a67edf7c25f1",
+      "score": 0.90830135,
+      "title": "World's Oldest DNA Recovered From Million-Year-Old Siberian Mammoth Teeth",
+      "url": "https://www.dogonews.com/2021/3/11/worlds-oldest-dna-recovered-from-million-year-old-siberian-mammoth-teeth"
+    },
+    {
+      "id": "6c014999-8c83-4944-a5bc-e6024aae5030",
+      "score": 0.8925721,
+      "title": "First million-year-old DNA extracted from Siberian mammoth teeth | New Scientist",
+      "url": "https://www.newscientist.com/article/2268417-first-million-year-old-dna-extracted-from-siberian-mammoth-teeth/"
+    },
+    {
+      "id": "064afff0-7b30-4676-a0e3-424b2ac77687",
+      "score": 0.8803145,
+      "title": "Teeth from Siberian mammoths yield oldest DNA ever ...",
+      "url": "https://www.arctictoday.com/teeth-from-siberian-mammoths-yield-oldest-dna-ever-recovered/"
+    },
+    {
+      "id": "37ab63e5-8986-428d-aae8-a92de4bd834a",
+      "score": 0.8783249,
+      "title": "Million-year-old mammoth DNA rewrites animal\u2019s evolutionary tree",
+      "url": "https://arstechnica.com/science/2021/02/million-year-old-mammoth-dna-rewrites-animals-evolutionary-tree/"
+    },
+    {
+      "id": "a970ab0f-60b7-4816-b080-cb888954184b",
+      "score": 0.87706697,
+      "title": "Kap Kobenhavn Formation - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kap_Kobenhavn_Formation"
+    },
+    {
+      "id": "3b1caa7d-adbb-4c45-a950-dc987ab43575",
+      "score": 0.87605256,
+      "title": "Teeth from Siberian mammoths yield oldest DNA ever recovered",
+      "url": "https://www.rappler.com/environment/nature/teeth-siberian-mammoths-yield-oldest-dna-ever-recovered/"
+    },
+    {
+      "id": "495bc6fa-02ed-4c9d-a39a-35b6a2030b14",
+      "score": 0.8747745,
+      "title": "The world\u2019s oldest DNA to date: with the codes to a two-million-year-old ecosystem | The Lundbeck Foundation",
+      "url": "https://lundbeckfonden.com/grants-and-prizes/reseach-stories/the-worlds-oldest-dna-to-date-with-the-codes-to-a-two-million"
+    },
+    {
+      "id": "c49ff3bc-30d0-4ecb-a8c0-fb5f586c2c02",
+      "score": 0.8745175,
+      "title": "DNA from 2 million years ago is the oldest ever recovered",
+      "url": "https://www.newscientist.com/article/2350324-dna-from-2-million-years-ago-is-the-oldest-ever-recovered/"
+    },
+    {
+      "id": "fb992ec9-8536-43f9-b8cd-d23529816cab",
+      "score": 0.8745175,
+      "title": "1.6-million-year-old mammoth DNA uncovers lineage we never knew existed - CNET",
+      "url": "https://www.cnet.com/news/1-6-million-year-old-mammoth-dna-uncovers-lineage-we-never-knew-existed/"
+    },
+    {
+      "id": "1c076436-6abb-466d-b4f8-9cba5802f443",
+      "score": 0.8737439,
+      "title": "Scientists recover million-year-old mammoth DNA, oldest on record",
+      "url": "https://www.youtube.com/watch?v=CyitxCRZx0w"
+    },
+    {
+      "id": "e69b0ab2-8054-42f4-8cdd-26549a144f6d",
+      "score": 0.8737439,
+      "title": "Million-year-old DNA from mammoth teeth found in Siberia is oldest genome ever sequenced - ABC News",
+      "url": "https://www.abc.net.au/news/science/2021-02-18/mammoth-woolly-dna-siberia-russia-palaeogenetics-permafrost/13160930"
+    },
+    {
+      "id": "4391efc9-924b-42a9-a205-8c43c6109616",
+      "score": 0.8719229,
+      "title": "Scientists Reconstruct 2-Million-Year-Old Ecosystem from Environmental DNA | Sci.News",
+      "url": "https://www.sci.news/paleontology/kap-kobenhavn-ecosystem-11461.html"
+    },
+    {
+      "id": "ec9735fc-0cc6-442c-b083-f52349f902bd",
+      "score": 0.8700796,
+      "title": "Siberian mammoth teeth yield oldest DNA ever recovered",
+      "url": "https://www.youtube.com/watch?v=oEfRYVHlPrI"
+    },
+    {
+      "id": "70cfe290-3e24-4955-b0c0-e0765520f6ca",
+      "score": 0.86981434,
+      "title": "Mammoth Genomes Shatter Record for Oldest DNA Sequences",
+      "url": "https://www.scientificamerican.com/article/mammoth-genomes-shatter-record-for-oldest-dna-sequences/"
+    },
+    {
+      "id": "62d07a54-1e44-4a7d-81b3-16e34471f7e2",
+      "score": 0.8684817,
+      "title": "Two million year old DNA samples discovered, lodged in ancient sediment",
+      "url": "https://www.theregister.com/2022/12/08/oldest_dna_samples_discovered/"
+    },
+    {
+      "id": "9c4a2d0a-8429-4d8c-8806-ad738e775add",
+      "score": 0.86413884,
+      "title": "Woolly mammoth - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Woolly_mammoth"
+    },
+    {
+      "id": "ac8144e9-6ec0-4b7a-835e-01a4d7b88ab8",
+      "score": 0.86331123,
+      "title": "A 2-million-year-old ecosystem in Greenland uncovered by environmental DNA",
+      "url": "https://www.nature.com/articles/s41586-022-05453-y"
+    },
+    {
+      "id": "90bd1849-84b9-441d-994d-6ef4483b8d25",
+      "score": 0.8622012,
+      "title": "Siberian mammoth teeth yield oldest DNA ever recovered",
+      "url": "https://www.youtube.com/watch?v=SzRB-CVDG2Y"
+    },
+    {
+      "id": "2474e094-fa0c-4d41-a8ec-fb51c891dfa4",
+      "score": 0.8591094,
+      "title": "World's Oldest DNA Sequence Found in Teeth of Mammoth That Lived More Than 1 Million Years Ago",
+      "url": "https://www.youtube.com/watch?v=PT0mPzhlUD4"
+    },
+    {
+      "id": "7deabe3e-a03b-4248-a17f-e609b867a43b",
+      "score": 0.8588255,
+      "title": "\u2018Mind-Blowing\u2019 2-Million-Year-Old DNA Reveals Ancient Ecosystem in Greenland",
+      "url": "https://gizmodo.com/oldest-dna-2-million-years-greenland-ecosystem-1849860675"
+    },
+    {
+      "id": "96d33896-2a4c-4e66-8b42-2192eb886526",
+      "score": 0.85509074,
+      "title": "Oldest-ever DNA extracted from a million-year-old mammoth tooth | Natural History Museum",
+      "url": "https://www.nhm.ac.uk/discover/news/2021/february/oldest-ever-dna-extracted-from-a-million-year-old-mammoth-tooth.html"
+    },
+    {
+      "id": "1ec28466-3899-4d73-b0c0-b9fe98858786",
+      "score": 0.85157084,
+      "title": "Scientists Sequence Bacterial DNA from Germs in Mammoth Teeth | Scientific American",
+      "url": "https://www.scientificamerican.com/article/scientists-sequence-bacterial-dna-from-germs-in-mammoth-teeth/"
+    },
+    {
+      "id": "2e828720-0be7-42f9-99de-86abb879ba73",
+      "score": 0.8464638,
+      "title": "Oldest DNA on record - 2 million years - reveals Greenland's lost world | Reuters",
+      "url": "https://www.reuters.com/lifestyle/science/oldest-dna-record-2-million-years-reveals-greenlands-lost-world-2022-12-07/"
+    },
+    {
+      "id": "329ba68e-0f58-4f14-87c9-54e3dc45fb68",
+      "score": 0.8458536,
+      "title": "2-million-year-old DNA reveals surprising Arctic ecosystem | NOVA | PBS",
+      "url": "https://www.pbs.org/wgbh/nova/article/oldest-dna-study-nature/"
+    },
+    {
+      "id": "f1f5a690-f7ba-47a4-a0b2-3148cc269d8a",
+      "score": 0.8443195,
+      "title": "Scientists extract from Siberian mammoth molars the oldest DNA ever recovered - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/scientists-extract-oldest-dna-ever-recovered-from-siberian-mammoth-teeth/2021/02/19/e8828c4e-716a-11eb-93be-c10813e358a2_story.html"
+    },
+    {
+      "id": "179d3fd7-6bad-4c02-b5eb-308116c84ae8",
+      "score": 0.8430832,
+      "title": "World\u2019s oldest DNA reveals how mammoths evolved",
+      "url": "https://www.youtube.com/watch?v=kDSMxRpBnP0"
+    },
+    {
+      "id": "de48cce4-b272-4052-b17d-b08c0b6e620e",
+      "score": 0.84246206,
+      "title": "Cambridge scientists discover two-million-year-old DNA",
+      "url": "https://www.thenationalnews.com/world/uk-news/2022/12/12/cambridge-scientists-discover-two-million-year-old-dna/"
+    },
+    {
+      "id": "9d48fa5c-07ff-4212-b83f-8cb0822499d1",
+      "score": 0.8409005,
+      "title": "Discovery of world\u2019s oldest DNA breaks record by one million years",
+      "url": "https://globe.ku.dk/newslist/2022/discovery-of-worlds-oldest-dna-breaks-record-by-one-million-years"
+    },
+    {
+      "id": "3be70aad-c596-4d53-acb3-5cfa79a4d8d0",
+      "score": 0.83742094,
+      "title": "Oldest DNA reveals life in Greenland 2 million years ago - The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/oldest-dna-reveals-life-in-greenland-2-million-years-ago/article66241984.ece/amp/"
+    },
+    {
+      "id": "cd559580-4157-4568-b32d-633fa81fa0c2",
+      "score": 0.8335554,
+      "title": "4 of the biggest archeological advancements of 2021 \u2014 including one 'game changer'",
+      "url": "https://www.npr.org/2021/12/24/1063057224/archeology-science-discovery-2021-dna-mammoth"
+    },
+    {
+      "id": "8a36bc94-ab75-4014-9899-085b9cbddde9",
+      "score": 0.8325776,
+      "title": "Discovery of world\u2019s oldest DNA breaks record by one million years | EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/973177"
+    },
+    {
+      "id": "65e79c33-8437-4799-9e22-936fe80ac2e6",
+      "score": 0.8302782,
+      "title": "A new chapter in the history of evolution",
+      "url": "https://www.cam.ac.uk/stories/a-new-chapter-in-the-history-of-evolution"
+    },
+    {
+      "id": "d0efb026-f14d-46cb-9156-ced656c12cc0",
+      "score": 0.8286204,
+      "title": "World's oldest DNA reveals new clues about what life ...",
+      "url": "https://www.facebook.com/ScienceNaturePage/posts/worlds-oldest-dna-reveals-new-clues-about-what-life-roamed-prehistoric-earth-and/1213744263539774/"
+    },
+    {
+      "id": "3fda4e9c-f748-431f-89a4-e52985ad9afb",
+      "score": 0.8252664,
+      "title": "Oldest DNA ever recovered from teeth of Siberian mammoth",
+      "url": "https://www.youtube.com/watch?v=ur9PV9IKcUg"
+    },
+    {
+      "id": "09eefe7a-8e1e-41d8-891d-d538bfc5fdd7",
+      "score": 0.8245895,
+      "title": "Discovery of world's oldest DNA breaks record by one million years",
+      "url": "https://phys.org/news/2022-12-discovery-world-oldest-dna-million.amp"
+    },
+    {
+      "id": "a5b9a294-9f3f-4050-a99c-8a795a853fef",
+      "score": 0.82117355,
+      "title": "Biosignatures: Discovery Of Earth's Oldest DNA Breaks Record By One Million Years - Astrobiology - Astrobiology News",
+      "url": "https://astrobiology.com/2022/12/biosignatures-discovery-of-earths-oldest-dna-breaks-record-by-one-million-years.html"
+    },
+    {
+      "id": "646348f9-e913-438d-b4ac-18671c63a0f8",
+      "score": 0.8194462,
+      "title": "DNA from 31,000-year-old human teeth reveals new ethnic group living in Siberia during last Ice Age \u2013 Research",
+      "url": "https://blog.smu.edu/research/2019/06/06/dna-from-31000-year-old-human-teeth-reveals-new-ethnic-group-living-in-siberia-during-last-ice-age/"
+    },
+    {
+      "id": "b8d6dabe-8ed0-4fc7-a4ef-9d2065629e96",
+      "score": 0.8033131,
+      "title": "DNA from 31,000-year-old milk teeth leads to discovery of new group of ancient Siberians | ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2019/06/190605133524.htm"
+    },
+    {
+      "id": "420c53ee-dbfc-49dd-9251-6dd9c9cf0cfe",
+      "score": 0.7942736,
+      "title": "Unlocking the oldest known DNA revealed a 'lost' Greenland from 2 million years ago",
+      "url": "https://www.pbs.org/newshour/science/unlocking-the-oldest-known-dna-revealed-a-lost-greenland-from-2-million-years-ago"
+    },
+    {
+      "id": "d7d2f9d1-5c25-406d-87dd-ab6e4a66407a",
+      "score": 0.79215926,
+      "title": "Mammoth DNA Breaks Record for World's Oldest Sequence - Ancient Origins",
+      "url": "https://www.ancient-origins.net/news-general/mammoth-dna-0014948"
+    },
+    {
+      "id": "7554cdde-9d31-4ed9-8ae6-149e1b691ae2",
+      "score": 0.77731717,
+      "title": "Ancient DNA research goes nuclear - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1369262/"
+    },
+    {
+      "id": "30456ee4-fc9e-4602-9ff9-90774eacba58",
+      "score": 0.76888984,
+      "title": "1.1-million-year-old mammoth discovered in Siberian wilderness. What scientists find in its DNA has got them excited | Discover Wildlife",
+      "url": "https://www.discoverwildlife.com/prehistoric-life/oldest-host-associated-bacterial-dna-found-in-mammoth"
+    },
+    {
+      "id": "d70cfcf7-ad61-4dd3-951c-e782b954c6fb",
+      "score": 0.7559439,
+      "title": "DNA from 360,000-year-old bone reveals oldest non-permafrost genome",
+      "url": "https://phys.org/news/2021-02-dna-year-old-bone-reveals-oldest.html"
+    },
+    {
+      "id": "c7933b24-8c3c-4797-a667-2c973cc91ccf",
+      "score": 0.7487387,
+      "title": "Paleogenetics",
+      "url": "https://en.wikipedia.org/wiki/Paleogenetics"
+    },
+    {
+      "id": "55d29e44-3c1d-41aa-be43-4fa94f78eed1",
+      "score": 0.7407191,
+      "title": "Woolly mammoth teeth reveal the world\u2019s oldest microbial DNA | ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250905112303.htm"
+    },
+    {
+      "id": "62b88adf-3db8-4158-9e90-97f4537ebef9",
+      "score": 0.71113056,
+      "title": "Scientists Unearth the Oldest DNA Ever Found | The Scientist",
+      "url": "https://www.the-scientist.com/scientists-unearth-the-oldest-dna-ever-found-70820"
+    },
+    {
+      "id": "59bdc63b-859d-423b-aab5-e02f8a94611e",
+      "score": 0.7001783,
+      "title": "World's oldest DNA sequenced from million-year-old mammoths - CTV News",
+      "url": "https://www.ctvnews.ca/sci-tech/world-s-oldest-dna-sequenced-from-million-year-old-mammoths-1.5313882"
+    },
+    {
+      "id": "e1362106-e55f-468b-8269-f950f04a7272",
+      "score": 0.6672566,
+      "title": "World's oldest human DNA found in 800,000-year-old tooth of a cannibal | Live Science",
+      "url": "https://www.livescience.com/oldest-human-ancestor-dna-homo-antecessor.html"
+    },
+    {
+      "id": "a458d7fc-f9f8-4119-ad1b-e6ee6e19f595",
+      "score": 0.6506676,
+      "title": "Ancient mammoth tooth reveals oldest known bacterial DNA",
+      "url": "https://newatlas.com/biology/mammoth-tooth-oldest-bacterial-dna"
+    },
+    {
+      "id": "2499d317-be2d-49f8-b1ca-ffa8d6fa9a9d",
+      "score": 0.63234437,
+      "title": "Yukon gold miners are unearthing mummified ancient creatures and truckloads of fossils from the Ice Age. Take a look.",
+      "url": "https://www.businessinsider.com/photos-ancient-mummified-animals-gold-miners-discovering-yukon-permafrost-2024-9"
+    },
+    {
+      "id": "ceea2501-76b7-4abe-a22a-cdeb5e26200d",
+      "score": 0.5948579,
+      "title": "Oldest Human DNA Contains Clues to Mysterious Species | Science | AAAS",
+      "url": "https://www.science.org/content/article/oldest-human-dna-contains-clues-mysterious-species"
+    },
+    {
+      "id": "6a27191a-d448-4a57-9501-fdff67836b1a",
+      "score": 0.5249554,
+      "title": "Ancient DNA and Neanderthals | The Smithsonian Institution's Human Origins Program",
+      "url": "https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals"
+    },
+    {
+      "id": "890ca894-b253-4cc9-b167-aeac9d0f5951",
+      "score": 0.50490767,
+      "title": "Oldest DNA Sequenced Yet Comes From Million-Year-Old Mammoths",
+      "url": "https://www.smithsonianmag.com/science-nature/oldest-dna-sequenced-yet-comes-million-year-old-mammoths-180977035/"
+    },
+    {
+      "id": "b8bf61f5-632a-4e77-8ab0-3b2a13dc4b44",
+      "score": 0.4804549,
+      "title": "Oldest DNA Ever Recovered: 1.2-Million-Year-Old Mammoth Reveals Stunning Secrets",
+      "url": "https://www.youtube.com/watch?v=pylOmTS3ZWY"
+    },
+    {
+      "id": "d7f6db2f-b0c1-4e90-ac1c-7ab8ca0d3df5",
+      "score": 0.47636098,
+      "title": "Oldest modern human genomes sequenced",
+      "url": "https://www.mpg.de/23820703/1204-evan-oldest-modern-human-genomes-sequenced-150495-x"
+    },
+    {
+      "id": "7344de29-4675-415e-995c-b5605b3a6d03",
+      "score": 0.47416916,
+      "title": "Million-year-old mammoth genomes shatter record for oldest ancient DNA",
+      "url": "https://www.nature.com/articles/d41586-021-00436-x"
+    },
+    {
+      "id": "348f6df3-33d3-48f2-9e60-a38c2f568d69",
+      "score": 0.47387698,
+      "title": "Oldest and most complete ancient Egyptian human genome ever sequenced reveals ties to Mesopotamia | Live Science",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/oldest-and-most-complete-ancient-egyptian-human-genome-ever-sequenced-reveals-ties-to-mesopotamia"
+    },
+    {
+      "id": "0942e860-a913-4cc2-9989-ace230b1e60d",
+      "score": 0.45638612,
+      "title": "Million-year-old DNA from mammoth teeth found in Siberia is oldest genome ever sequenced | The World",
+      "url": "https://www.youtube.com/watch?v=pUOulj99HvQ"
+    },
+    {
+      "id": "9eb30070-9e95-4284-b347-dd442bd8bf48",
+      "score": 0.4391465,
+      "title": "Oldest DNA reveals life in Greenland 2 million years ago | Miami Herald",
+      "url": "https://www.miamiherald.com/news/nation-world/national/article269721066.html"
+    },
+    {
+      "id": "2f2776d2-c586-41d3-bec6-028a6c4952c8",
+      "score": 0.43799233,
+      "title": "Mammoth Teeth From Siberia Yield DNA More Than 1 Million Years Old - Business Insider",
+      "url": "https://www.businessinsider.com/mammoth-teeth-siberia-million-year-old-dna-2021-2"
+    },
+    {
+      "id": "4fb201fd-4dcf-4980-a8b4-5cea092f6846",
+      "score": 0.34468657,
+      "title": "\u2018Mind-Blowing\u2019 2-Million-Year-Old DNA Reveals Ancient Ecosystem in Greenland",
+      "url": "https://www.gizmodo.com.au/2022/12/mind-blowing-2-million-year-old-dna-reveals-ancient-ecosystem-in-greenland/"
+    },
+    {
+      "id": "1ef69723-c828-4a0e-b62f-efbc844e02dc",
+      "score": 0.26719344,
+      "title": "What is the oldest DNA we have a sequence of?",
+      "url": "https://www.reddit.com/r/askscience/comments/1ju0z17/what_is_the_oldest_dna_we_have_a_sequence_of/"
+    },
+    {
+      "id": "3ce78521-3cf6-4bda-bfbe-5084d5fd0da0",
+      "score": 0.20582284,
+      "title": "\u201cGame-Changing\u201d Discovery of World\u2019s Oldest DNA Breaks Record by One Million Years - SciTechDaily",
+      "url": "https://scitechdaily.com/game-changing-discovery-of-worlds-oldest-dna-breaks-record-by-one-million-years/"
+    },
+    {
+      "id": "6d358221-05fd-40fd-a1ee-19917234d31c",
+      "score": 0.14331982,
+      "title": "Oldest DNA sequenced yet comes from million-year-old mammoths",
+      "url": "https://boingboing.net/2021/02/19/oldest-dna-sequenced-yet-comes-from-million-year-old-mammoths.html"
+    },
+    {
+      "id": "fe412101-4e92-4eec-86c9-a816d60636a1",
+      "score": 0.12541868,
+      "title": "The oldest DNA ever found reveals a snapshot of a vanished world",
+      "url": "https://theconversation.com/the-oldest-dna-ever-found-reveals-a-snapshot-of-a-vanished-world-196044"
+    },
+    {
+      "id": "4bf155a4-c837-4121-bc93-a588e8e5705b",
+      "score": 0.1028533,
+      "title": "Perfectly preserved cave lion cub found frozen in Siberia is 28000 years old. Even its whiskers are intact. - CTV News",
+      "url": "https://www.ctvnews.ca/sci-tech/perfectly-preserved-cave-lion-cub-found-frozen-in-siberia-is-28-000-years-old-even-its-whiskers-are-intact-1.5535791"
+    }
+  ]
+}

@@ -1,0 +1,1027 @@
+{
+  "id": "537b8731-33d6-4ba9-ad3a-b86e051dcbc0",
+  "status": "completed",
+  "content": "TRUE: The available evidence indicates that service dogs can help increase social interaction for people with autism; however, this conclusion is supported more strongly by qualitative data than by quantitative studies, which show mixed results.\n\nA comprehensive analysis of scientific literature reveals that while service dogs are consistently reported to enhance social interaction for individuals with Autism Spectrum Disorder (ASD), the nature and quality of the evidence vary significantly. Qualitative research, such as parental interviews and observational studies, overwhelmingly supports the positive impact of service dogs on social behaviors. Conversely, quantitative research, including systematic reviews and randomized controlled trials (RCTs), presents a more complex picture with mixed, null, or small-effect findings, alongside calls for more methodologically rigorous studies.\n\n## The Social Catalyst Effect\n\nA primary mechanism through which service dogs are believed to enhance social functioning is by acting as a \"social catalyst\" or \"social bridge\"[1][2][3]. The dog's presence can serve as a natural conversation starter, making social situations less intimidating and encouraging approaches from others[4][2].\n\n-   **Qualitative Evidence**: Caretakers report that service dogs act like a \"magnet,\" attracting positive attention and making it easier for autistic children to initiate conversations by talking about the dog[5][6]. This can reduce stigma and increase patience from the public[5][6]. Observational studies have found that individuals in wheelchairs are more likely to be smiled at and approached by strangers when accompanied by a service dog[7].\n-   **Theoretical Framework**: Researchers theorize this \"social catalyst effect\" leads to more frequent human-to-human interactions, providing autistic individuals with more opportunities to experience and develop social skills[8].\n\n## Analysis of Evidence by Population and Study Type\n\nThe strength of evidence for the social benefits of service dogs is heavily dependent on the population studied (children vs. adults) and the research methodology employed (qualitative vs. quantitative).\n\n### Evidence in Children and Adolescents\n\nThe majority of research has focused on autistic children and adolescents, where the evidence for improved social interaction is most prevalent[9][10].\n\n-   **Systematic Reviews**: A systematic review of research from 2012-2015 found that social interaction was the most commonly assessed outcome, evaluated in 22 of 28 studies, with all 22 reporting positive effects[10][11]. A more recent systematic review published in 2024, which included 19 articles, found that 84% suggest dog-assisted therapies have a positive impact on communication and social interaction in this age group[12][13].\n-   **Quantitative Measurements**: One quantitative study analyzing video recordings of 37 autistic children found a significant increase in total non-verbal behaviors (from a mean of 14.03 to 17.70) and total verbal behaviors (from a mean of 5.24 to 10.05) after a dog training intervention[14]. Another pilot study involving 19 children found that communication and social interaction skills improved with a large effect size after a median of nine animal-assisted intervention sessions[15].\n-   **Longitudinal Data**: A longitudinal study following 20 parent-child dyads for six months after receiving a service dog found a significant decrease in ASD symptom scores (from a mean of 74.7 at baseline to 61.4 at six months)[16]. The improvement in symptoms was negatively correlated with the child's emotional closeness to the dog, suggesting the human-animal bond is a key factor[16].\n\n### Evidence in Adults\n\nResearch on autistic adults is significantly more limited, and the findings are less consistent[17]. A systematic search conducted for an RCT published in 2020 found no treatment effect studies on animal-assisted therapy for adults with ASD published before April 2018[17].\n\n-   **Randomized Controlled Trial**: The first RCT to examine dog-assisted therapy in adults with ASD (N=53) found a significant intervention effect on impairments in social responsiveness as rated by an informant (e.g., spouse or family member), but no effect was found based on the participants' self-reports[17][18].\n-   **Observational Analysis**: A detailed observational analysis of six adults from this RCT found a significant increase in secure body posture but no convincing increase in verbal initiatives or overall social communication scores after 10 therapy sessions[19].\n-   **Qualitative Studies**: A qualitative study with autistic adult dog owners found that the dog's presence was central to improving positive relationships with others by acting as a social lubricant and boosting confidence during interactions[20].\n\n## Methodological Discrepancies and Limitations\n\nA significant theme across the literature is the discrepancy between consistently positive qualitative findings and mixed quantitative results[5][6].\n\n-   **Quantitative Challenges**: Recent quantitative studies have reported null findings. One cross-sectional study found no significant association between having a service dog and child social withdrawal or quality of peer relationships[21][22]. Researchers suggest this discrepancy may arise because standardized quantitative measures are often not sensitive enough to capture subtle, individualized improvements in social functioning[5][23]. Furthermore, small sample sizes and the high variability within the autistic population can obscure small-to-moderate effects[21].\n-   **Qualitative Bias**: Qualitative findings, often based on parent or caregiver reports, are subject to potential expectancy effects and recall bias[3]. One single-case study explicitly noted a discrepancy between effects measured by direct observation and the parent's perceived benefits[23].\n\n## Comparison with Pet Dogs\n\nA critical question is whether the specialized training of a service dog provides unique social benefits beyond those of a companion dog. The current evidence is inconclusive.\n\n-   **Similar Benefits**: A mixed-methods systematic review concluded there is a \"lack of compelling evidence to suggest that assistance dogs confer unique benefits\" for social interaction, noting that pooled effect sizes are similar to those associated with companion dogs[24][25]. Another review found that many benefits reported for assistance dogs appear to be the same as those described by parents of autistic children with a pet dog[26].\n-   **Added Value**: Despite the similarity in outcomes, one study found that parents with assistance dogs reported significantly higher satisfaction compared to parents with companion dogs, suggesting an \"added value\" from the specially trained animal[27].\n\nIn conclusion, the statement that service dogs help increase social interaction for people with autism is largely factual, supported by a substantial body of qualitative evidence, observational studies, and an emerging number of quantitative trials, especially concerning children. However, the evidence base is qualified by mixed findings in rigorous quantitative studies, a lack of extensive research on adults, and an ongoing debate about whether the benefits exceed those of a companion pet dog. The field consistently calls for more large-scale, longitudinal, and methodologically robust research to establish causality and better understand the specific mechanisms of action[21][6].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "b958bd5f-b006-4aff-918b-9c09deb0142a",
+      "score": 0.7407191,
+      "title": "How Can Service Dogs Help With Social Interaction In Autism? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=9tjxaOYUd98",
+      "citation_index": 1
+    },
+    {
+      "id": "9c93a1a1-0b8e-46c4-9705-292acd46ac47",
+      "score": 0.81770587,
+      "title": "How Do Service Dogs Help With Social Interaction? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=yQ-XJKtsC_o",
+      "citation_index": 2
+    },
+    {
+      "id": "6cdc1238-ddb7-4b38-b1c0-937c06c963d3",
+      "score": 0.47826138,
+      "title": "Parents\u2019 perspectives on the value of assistance dogs for children with autism spectrum disorder: a cross-sectional study | BMJ Open",
+      "url": "https://bmjopen.bmj.com/content/4/6/e004786",
+      "citation_index": 3
+    },
+    {
+      "id": "42fdae6c-572c-4d8d-bc6d-aa0f070a1625",
+      "score": 0.6659544,
+      "title": "Can Service Dogs Assist Autistic Adults? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=SFUDAMSK23s",
+      "citation_index": 4
+    },
+    {
+      "id": "9f36ca7b-bdab-48bf-a639-49014b007ed1",
+      "score": 0.7206637,
+      "title": "Frontiers | Service dogs for autistic children and family system functioning: a constant comparative analysis",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1210095/full",
+      "citation_index": 5
+    },
+    {
+      "id": "4bd52fb4-d329-4901-b24d-31b77fec7dce",
+      "score": 0.7159213,
+      "title": "Service dogs for autistic children and family system functioning: a constant comparative analysis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10373301/",
+      "citation_index": 6
+    },
+    {
+      "id": "0958efd6-7ee5-4142-86e5-99592bb30919",
+      "score": 0.7485182,
+      "title": "The effects of service dogs on psychosocial health and wellbeing for individuals with physical disabilities or chronic conditions - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6625941/",
+      "citation_index": 7
+    },
+    {
+      "id": "81c802b7-62c4-4969-bc09-b03f5cfee96e",
+      "score": 0.7016523,
+      "title": "Dogs as Catalysts for Social Interactions: Robustness of the Effect | Request PDF",
+      "url": "https://www.researchgate.net/publication/227653170_Dogs_as_Catalysts_for_Social_Interactions_Robustness_of_the_Effect",
+      "citation_index": 8
+    },
+    {
+      "id": "351909c3-2f49-46c7-8352-0ca3de55ddb7",
+      "score": 0.8479807,
+      "title": "Effects of Dog-Assisted Therapy on the Physical Function ...",
+      "url": "https://www.mdpi.com/2076-3417/11/22/10650",
+      "citation_index": 9
+    },
+    {
+      "id": "5c2b1f6f-e012-4a48-8011-a5bc8053e4c2",
+      "score": 0.84027237,
+      "title": "Research on animal-assisted intervention and autism spectrum disorder, 2012-2015 - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510492/",
+      "citation_index": 10
+    },
+    {
+      "id": "d7a671c5-f4d2-4f60-900e-72e293f2c11a",
+      "score": 0.9224337,
+      "title": "The Impact of Therapy Animals on Autism",
+      "url": "https://www.goldenstepsaba.com/resources/autism-and-therapy-animals",
+      "citation_index": 11
+    },
+    {
+      "id": "83160e17-d8f1-4e5c-96f1-9cc6308110db",
+      "score": 0.8412138,
+      "title": "The Impact of Dog-Assisted Therapy Among Children and Adolescents with Autism Spectrum Disorder: A Systematic Review - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39767928/",
+      "citation_index": 12
+    },
+    {
+      "id": "270a86f7-3ca3-46aa-9455-4ea0b4474f5b",
+      "score": 0.78194773,
+      "title": "The Impact of Dog-Assisted Therapy Among Children and Adolescents with Autism Spectrum Disorder: A Systematic Review - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11674567/",
+      "citation_index": 13
+    },
+    {
+      "id": "f4c137a7-9dc8-4038-b7d3-f39738b5614d",
+      "score": 0.82254606,
+      "title": "the impact of dog training intervention on verbal and non- ...",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1496915/full",
+      "citation_index": 14
+    },
+    {
+      "id": "e1ee03e4-b73a-4daf-8b3d-f1979b3e2ac8",
+      "score": 0.8719229,
+      "title": "Improving social participation of children with autism spectrum disorder: Pilot testing of an early animal-assisted intervention in Spain - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32022346/",
+      "citation_index": 15
+    },
+    {
+      "id": "f315fb45-7b9f-4e5f-a9cd-d4c0ef7b55be",
+      "score": 0.898277,
+      "title": "A randomized controlled trial of the effects of dog-assisted versus robot dog-assisted therapy for children with autism or Down syndrome | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319939",
+      "citation_index": 16
+    },
+    {
+      "id": "2cb0a1a1-a633-427f-b5a7-55a897f9bb1e",
+      "score": 0.7230167,
+      "title": "What Factors Are Associated with Positive Effects of Dog Ownership in Families with Children with Autism Spectrum Disorder? The Development of the Lincoln Autism Pet Dog Impact Scale | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149736",
+      "citation_index": 16
+    },
+    {
+      "id": "057e4410-bcfb-4b31-99b1-eda52078a9a3",
+      "score": 0.6246834,
+      "title": "Effects of service dogs on children with ASD's symptoms and ...",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295702",
+      "citation_index": 16
+    },
+    {
+      "id": "a25a8725-f172-4921-9a5f-4b59970813ee",
+      "score": 0.61057013,
+      "title": "Effects of Dog Assisted Therapy for Adults with Autism Spectrum Disorder: An Exploratory Randomized Controlled Trial - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7261269/",
+      "citation_index": 17
+    },
+    {
+      "id": "6bb5a549-f548-4e94-9477-451cd18e3d51",
+      "score": 0.9020676,
+      "title": "Effects of Dog Assisted Therapy for Adults with Autism Spectrum Disorder: An Exploratory Randomized Controlled Trial - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30900194/",
+      "citation_index": 18
+    },
+    {
+      "id": "190590a2-83a5-4fa5-b55c-322ac2ebf225",
+      "score": 0.7206637,
+      "title": "Social Development of Adults with Autism Spectrum Disorder During Dog-Assisted Therapy: A Detailed Observational Analysis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7459497/",
+      "citation_index": 19
+    },
+    {
+      "id": "fe41bb86-4bd9-4fb1-b864-06f56ad6e9cf",
+      "score": 0.73138535,
+      "title": "Understanding the impact of dog ownership on autistic adults",
+      "url": "https://www.nature.com/articles/s41598-021-02504-8",
+      "citation_index": 20
+    },
+    {
+      "id": "6c115902-97d2-4f9d-9a5e-aa93719d1018",
+      "score": 0.7610953,
+      "title": "The effects of service dogs for children with autism spectrum disorder and their caregivers: a cross-sectional study - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10921415/",
+      "citation_index": 21
+    },
+    {
+      "id": "f1cb6750-7084-4919-bb6c-ca05b79e65a6",
+      "score": 0.66699636,
+      "title": "Frontiers | The effects of service dogs for children with autism spectrum disorder and their caregivers: a cross-sectional study",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1355970/full",
+      "citation_index": 22
+    },
+    {
+      "id": "93a078b0-d0bd-4824-a08a-c714a560083a",
+      "score": 0.7946564,
+      "title": "Assessing Effects of an Assistance Dog on Communication ...",
+      "url": "https://www.researchgate.net/publication/363389048_Assessing_Effects_of_an_Assistance_Dog_on_Communication_and_Social_Interaction_of_a_Child_with_Autism_Spectrum_Disorder_and_his_Family_An_Exploratory_Case_Study",
+      "citation_index": 23
+    },
+    {
+      "id": "e238171c-73ff-4304-a46f-c46c4ca261d0",
+      "score": 0.84027237,
+      "title": "A mixed methods systematic review of assistance dogs for people with autism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40239907/",
+      "citation_index": 24
+    },
+    {
+      "id": "a1f81e86-59ff-4dbb-9ddb-973222874355",
+      "score": 0.61695945,
+      "title": "A mixed methods systematic review of assistance dogs for people with autism - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0149763425001605",
+      "citation_index": 25
+    },
+    {
+      "id": "110bf049-237a-4bfe-a788-9d4010f83dc3",
+      "score": 0.81979275,
+      "title": "Assistance dogs for people with autism | NDIS",
+      "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/assistance-dogs-people-autism",
+      "citation_index": 26
+    },
+    {
+      "id": "c6643209-3cf6-44b9-8496-0196ee4c2d6a",
+      "score": 0.7443038,
+      "title": "Acceptability and effects of acquiring an assistance or companion dog for families of children on the autism spectrum.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37354544/",
+      "citation_index": 27
+    },
+    {
+      "id": "763b967b-2430-47c6-8c2f-59d00ebd18a8",
+      "score": 0.93338853,
+      "title": "(PDF) The Effectiveness of Animal Assisted Therapy in Adults with Autism Spectrum Disorder: Study Protocol for a Randomized Controlled Trial",
+      "url": "https://www.researchgate.net/publication/323940919_The_Effectiveness_of_Animal_Assisted_Therapy_in_Adults_with_Autism_Spectrum_Disorder_Study_Protocol_for_a_Randomized_Controlled_Trial"
+    },
+    {
+      "id": "3e49fa50-cd6c-4983-bfb1-23a0d5093702",
+      "score": 0.92620385,
+      "title": "Animal-assisted activity improves social behaviors in psychiatrically hospitalized youth with autism - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30818971/"
+    },
+    {
+      "id": "021f09b9-54be-466f-a68a-654b37cdefc3",
+      "score": 0.90810597,
+      "title": "Process Evaluation of Animal-Assisted Therapy: Feasibility and Relevance of a Dog-Assisted Therapy Program in Adults with Autism Spectrum Disorder - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6940976/"
+    },
+    {
+      "id": "432a3a1c-4ef8-404b-ad48-e9fba979aa81",
+      "score": 0.90593183,
+      "title": "Autism Spectrum Disorder | Child Health & Development | Research | HABRI",
+      "url": "https://habri.org/research/child-health/autism/"
+    },
+    {
+      "id": "485433cf-4485-4744-b1eb-0725d4ae7fd0",
+      "score": 0.902481,
+      "title": "Animal-Assisted Social Skills Training for Children with Autism Spectrum Disorders | Funded Projects | Grants & Funding | HABRI",
+      "url": "https://habri.org/grants/projects/animal-assisted-social-skills-training-for-children-with-autism-spectrum-disorders"
+    },
+    {
+      "id": "779fd8e9-1f60-4c8c-8d50-06f2106bd244",
+      "score": 0.8896154,
+      "title": "Effectiveness of Animal-Assisted Therapy in the Pediatric Population: Systematic Review and Meta-Analysis of Controlled Studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29994814/"
+    },
+    {
+      "id": "c79e4947-a806-4be1-9e32-1c40823575ab",
+      "score": 0.8889231,
+      "title": "Effectiveness of animal-assisted services for school-aged children: a systematic review | European Child & Adolescent Psychiatry",
+      "url": "https://link.springer.com/article/10.1007/s00787-025-02740-7"
+    },
+    {
+      "id": "f060459f-e26a-43fc-8d42-422f01229757",
+      "score": 0.8815438,
+      "title": "The Social Skills and Attachment to Dogs of Children with Autism Spectrum Disorder | Request PDF",
+      "url": "https://www.researchgate.net/publication/266950395_The_Social_Skills_and_Attachment_to_Dogs_of_Children_with_Autism_Spectrum_Disorder"
+    },
+    {
+      "id": "bac7c964-6546-4e04-97a1-d1e4bb0d0fc8",
+      "score": 0.875031,
+      "title": "Animal-Assisted Therapy in Children Living with Autism Spectrum Disorder: A Literature Review of Randomized Controlled Trials | Principles and Practice of Clinical Research",
+      "url": "https://journal.ppcr.org/index.php/ppcrjournal/article/view/282"
+    },
+    {
+      "id": "88e65b74-52f5-4f4c-8991-8cb8a5015ccd",
+      "score": 0.8682137,
+      "title": "A mixed methods systematic review of assistance dogs for ...",
+      "url": "https://www.researchgate.net/publication/390817973_A_mixed_methods_systematic_review_of_assistance_dogs_for_people_with_autism"
+    },
+    {
+      "id": "3f04b733-4d36-48e5-9ff5-30f1c1491d82",
+      "score": 0.83549726,
+      "title": "A Mixed-Methods Survey of the Impact of a Novel 'Family ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12427255/"
+    },
+    {
+      "id": "6ec0bc54-e380-4f32-abf9-34aac750187d",
+      "score": 0.82895297,
+      "title": "Can Children With Autism Benefit From Service Dogs? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=xeIPdLXRT08"
+    },
+    {
+      "id": "36b8b7a9-6d51-434b-a0b0-180c6f1ada98",
+      "score": 0.82560414,
+      "title": "Blog: How Dogs Help People with Autism | Blog | HABRI",
+      "url": "https://habri.org/blog-2/"
+    },
+    {
+      "id": "1fc2b26f-994a-46da-8248-94a522b88298",
+      "score": 0.82288796,
+      "title": "Evaluating the Benefits of Assistance Dogs for Individuals ...",
+      "url": "https://www.linkedin.com/pulse/evaluating-benefits-assistance-dogs-individuals-autism-brian-cooper-dme4c"
+    },
+    {
+      "id": "1dc769e8-0b0b-49a1-ab80-d95002a9a814",
+      "score": 0.81979275,
+      "title": "Animal-Assisted Interventions for School-Aged Children with Autism Spectrum Disorder: A Meta-Analysis - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32990899/"
+    },
+    {
+      "id": "d2644105-d8fa-4b58-a292-4bb688d8d25d",
+      "score": 0.8194462,
+      "title": "How Autism Assistance Canines Enhance the Lives of Autistic Children - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10467161/"
+    },
+    {
+      "id": "d37fb3c5-c14a-46e0-b0d4-ca8b2735294a",
+      "score": 0.8190992,
+      "title": "Animal-Assisted Interventions Improve Mental, But Not Cognitive or Physiological Health Outcomes of Higher Education Students: a Systematic Review and Meta-analysis | International Journal of Mental Health and Addiction",
+      "url": "https://link.springer.com/article/10.1007/s11469-022-00945-4"
+    },
+    {
+      "id": "64d5d1d3-d3d2-4ed7-b4d1-01c801896a09",
+      "score": 0.81630427,
+      "title": "Maximising the Potential Benefit of Living with Companion Dogs for Autistic Children and Their Families: A Mixed-Methods Survey of the Impact of a Novel 'Family Dog Service'.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40941284/"
+    },
+    {
+      "id": "36329a7f-d11f-47df-b60d-3aeb8e793698",
+      "score": 0.81595254,
+      "title": "Autism intervention meta-analysis of early childhood studies (Project AIM): updated systematic review and secondary analysis | The BMJ",
+      "url": "https://www.bmj.com/content/383/bmj-2023-076733"
+    },
+    {
+      "id": "1a1d56a9-7032-47f2-83fa-d53b3a9db928",
+      "score": 0.81595254,
+      "title": "Animal-Assisted Interventions for Autism Spectrum Disorder",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10259834/"
+    },
+    {
+      "id": "9f6c3b64-952c-45ac-89d8-f81deddfbe53",
+      "score": 0.81133276,
+      "title": "New Scientific Study: Dogs Improve Social Skills for Children with Autism | Press Room | HABRI",
+      "url": "https://habri.org/pressroom/20170522"
+    },
+    {
+      "id": "6ac040a0-61ce-490f-be46-91066616ede9",
+      "score": 0.8098936,
+      "title": "Research on animal-assisted intervention and autism spectrum disorder, 2012-2015 - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31080343/"
+    },
+    {
+      "id": "63e3f64f-acf2-41da-89d1-38b1d8e3d71f",
+      "score": 0.8095324,
+      "title": "Service dogs for autistic children and family system ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37520226/"
+    },
+    {
+      "id": "ae583889-3348-42cb-a3cb-884ca5d6400c",
+      "score": 0.8066246,
+      "title": "What Are The Benefits Of A Service Dog For Autism? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=i1M8Eki4utE"
+    },
+    {
+      "id": "7b382ed1-39ac-4d9b-abad-3fa864adfb56",
+      "score": 0.8055255,
+      "title": "Animal-Assisted Interventions for Autism Spectrum Disorder: A Systematic Review of the Literature from 2016 to 2020 - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37313251/"
+    },
+    {
+      "id": "a6681121-fd5b-4656-bd59-a3365bc8b6f1",
+      "score": 0.80442166,
+      "title": "Service Dogs Ensure Safety and Enhance Freedom ...",
+      "url": "https://www.researchgate.net/publication/23423247_Sentinels_of_Safety_Service_Dogs_Ensure_Safety_and_Enhance_Freedom_and_Well-Being_for_Families_With_Autistic_Children"
+    },
+    {
+      "id": "17524d1b-cd9f-4a64-a999-3b4ec7285c6f",
+      "score": 0.8003337,
+      "title": "\u2018They ask no questions and pass no criticism\u2019: A mixed-methods study exploring pet ownership in autism - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10313530/"
+    },
+    {
+      "id": "2c5f37c8-d14e-4963-9a39-f0041c475147",
+      "score": 0.8003337,
+      "title": "A randomized controlled trial of the effects of dog-assisted ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11922239/"
+    },
+    {
+      "id": "d194b396-e087-4461-b2a6-c26715f8a408",
+      "score": 0.7969415,
+      "title": "The social skills and attachment to dogs of children with autism spectrum disorder - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25308197/?dopt=Abstract"
+    },
+    {
+      "id": "bc1004d4-ec2e-4cb1-a9e0-fdccc814aa56",
+      "score": 0.79484755,
+      "title": "Animal-Assisted Social Skills Training for Children with ...",
+      "url": "https://habri.org/grants/projects/animal-assisted-social-skills-training-for-children-with-autism-spectrum-disorders/"
+    },
+    {
+      "id": "ba986357-c31f-4d4a-9d81-e73355e0c4ae",
+      "score": 0.7906115,
+      "title": "Animal-assisted intervention for autism spectrum disorder: a systematic literature review - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23124442/"
+    },
+    {
+      "id": "209592b2-04b2-4ae4-a841-e0d40de3d3dc",
+      "score": 0.77893573,
+      "title": "Impact of dog-assisted therapy on biomechanical and ...",
+      "url": "https://www.psychiatricnursing.org/article/S0883-9417(25)00062-7/abstract"
+    },
+    {
+      "id": "524ff96f-9053-4ba7-bc9c-8914eb30ce6f",
+      "score": 0.7752821,
+      "title": "'Having the dog as part of our family gives us hope' ...",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1440-1630.12904"
+    },
+    {
+      "id": "6c3ec5fd-d94d-4a60-999a-fb369c2f9667",
+      "score": 0.76972175,
+      "title": "(PDF) Animal-Assisted Intervention for Autism Spectrum Disorder: A Systematic Literature Review",
+      "url": "https://www.researchgate.net/publication/232813038_Animal-Assisted_Intervention_for_Autism_Spectrum_Disorder_A_Systematic_Literature_Review"
+    },
+    {
+      "id": "4e1207c6-7aa4-436f-a537-81596c0b181d",
+      "score": 0.76951396,
+      "title": "Pilot Study of the Effects of Service Dogs on Mental Health and Wellness in War Veterans with PTSD and/or TBI | Funded Projects | Grants & Funding | HABRI",
+      "url": "https://habri.org/grants/projects/pilot-study-of-the-effects-of-service-dogs-on-mental-health-and-wellness-in-war-veterans-with-ptsd-and-or-tbi"
+    },
+    {
+      "id": "ce35cb76-ab4e-4a57-bae0-45694ecb97c6",
+      "score": 0.7686816,
+      "title": "The Role of Animal-Assisted Therapy in Enhancing Patients\u2019 Well-Being: Systematic Study of the Qualitative and Quantitative Evidence - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10986847/"
+    },
+    {
+      "id": "0a6e2fa5-2eae-4f4f-9f3c-bd791189661e",
+      "score": 0.767429,
+      "title": "What Do Autism Service Dogs Do? - PetGuide360.com",
+      "url": "https://www.youtube.com/watch?v=8Wjx8kD8Lrs"
+    },
+    {
+      "id": "219e8f7d-c9a3-4db8-8914-58b2a1d79afd",
+      "score": 0.7668008,
+      "title": "The impact of living with assistance dog placements on quality of life in children and adults with autism spectrum disorder or a physical disability: A longitudinal service evaluation | Human-Animal Interactions",
+      "url": "https://www.cabidigitallibrary.org/doi/10.1079/hai.2024.0014"
+    },
+    {
+      "id": "c67e04c9-dbec-4d33-a5e2-f4f980bb1124",
+      "score": 0.7663815,
+      "title": "Animal-Assisted Interventions for Autism Spectrum Disorder: A Systematic Review of the Literature from 2016 to 2020 | Request PDF",
+      "url": "https://www.researchgate.net/publication/354966615_Animal-Assisted_Interventions_for_Autism_Spectrum_Disorder_A_Systematic_Review_of_the_Literature_from_2016_to_2020"
+    },
+    {
+      "id": "606a623d-10ea-45ea-a18a-0d9d96457763",
+      "score": 0.76490957,
+      "title": "Evaluating the Effects of Service Dogs on Children ...",
+      "url": "https://habri.org/grants/projects/evaluating-the-effects-of-service-dogs-on-children-with-autism-spectrum-disorder-asd-and-their-caregivers/"
+    },
+    {
+      "id": "5be2df5d-5ebb-403b-8f2d-dc2b01231658",
+      "score": 0.75312227,
+      "title": "'Having the dog as part of our family gives us hope': Experiences of the impact of assistance dogs on the occupational engagement of children with autism and their families - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37770415/"
+    },
+    {
+      "id": "8578cf82-f0d5-4e44-9d08-5f7ef05822f4",
+      "score": 0.7445268,
+      "title": "The effects of Animal Assisted Therapy on autonomic and ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0163834321000736"
+    },
+    {
+      "id": "63b07d5c-1ffd-4f00-ba84-e215c7b8cd5f",
+      "score": 0.7393665,
+      "title": "Can Service Dogs Help Autistic Adults? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=Rryz3TYGIUc"
+    },
+    {
+      "id": "86739d80-dba6-4e0d-bc91-b1286345eb57",
+      "score": 0.7382357,
+      "title": "Why Is Socialization So Important For Autism Service Dogs? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=Bbfi-xgR5G0"
+    },
+    {
+      "id": "aa7a65e9-fea9-493e-89fd-724046d8d4e3",
+      "score": 0.73459625,
+      "title": "Assessing Effects of an Assistance Dog on Social ...",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/07317107.2022.2116301"
+    },
+    {
+      "id": "af9d8c47-618b-4f57-b0c4-eb1f43959be0",
+      "score": 0.7334523,
+      "title": "Effect of service dogs on salivary cortisol secretion in autistic children - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20189722/"
+    },
+    {
+      "id": "cb627549-7e29-4e94-9060-b275a9306559",
+      "score": 0.73207545,
+      "title": "What Skills Does Animal-Assisted Therapy Develop In Autism? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=pH7Yz_nEJkM"
+    },
+    {
+      "id": "584ff835-b074-4c0f-9b3b-75dcec3af0d6",
+      "score": 0.7316155,
+      "title": "Animal-Assisted Intervention for Autism Spectrum Disorder: A Systematic Literature Review | Journal of Autism and Developmental Disorders",
+      "url": "https://link.springer.com/article/10.1007/s10803-012-1707-5"
+    },
+    {
+      "id": "cc249569-bf04-4245-b267-1b4d1e6dbe67",
+      "score": 0.7293082,
+      "title": "Animal-Assisted Interventions for Autism Spectrum Disorder: A Systematic Review of the Literature from 2016 to 2020 | Semantic Scholar",
+      "url": "https://www.semanticscholar.org/paper/Animal-Assisted-Interventions-for-Autism-Spectrum-A-Nieforth-Schwichtenberg/02a7411c2bf8b3368de3f98275ed56c6847f60ee"
+    },
+    {
+      "id": "92ba1768-fdc0-4e30-86ae-fc878a0b06a9",
+      "score": 0.72325134,
+      "title": "The effectiveness of animal-assisted therapy for children and adolescents with autism spectrum disorder: A systematic review - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36599281/"
+    },
+    {
+      "id": "b1534eda-2c92-42e2-b115-08293ad3cb77",
+      "score": 0.72207695,
+      "title": "Effects of Dog Assisted Therapy for Adults with Autism Spectrum Disorder: An Exploratory Randomized Controlled Trial",
+      "url": "https://ouci.dntb.gov.ua/en/works/4wkxWD84/"
+    },
+    {
+      "id": "ddaa2407-f115-4696-9621-79c6ab0e191d",
+      "score": 0.7208996,
+      "title": "Brief Report: Above and Beyond Safety: Psychosocial and Biobehavioral Impact of Autism-Assistance Dogs on Autistic Children and their Families - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8726517/"
+    },
+    {
+      "id": "b594da5c-43aa-481a-a12a-a20b15a4cec9",
+      "score": 0.71758664,
+      "title": "Can Service Dogs Prevent Elopement In Autism? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=6AU_-iC82pg"
+    },
+    {
+      "id": "39dace62-6508-48f5-a435-4907205306f0",
+      "score": 0.7173491,
+      "title": "Dog-assisted interventions for children and adults with mental health or neurodevelopmental conditions: systematic review | The British Journal of Psychiatry | Cambridge Core",
+      "url": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/dogassisted-interventions-for-children-and-adults-with-mental-health-or-neurodevelopmental-conditions-systematic-review/72599C9A5BDBA836E61D043FE8F097E7"
+    },
+    {
+      "id": "ae5549f4-8bd2-41c6-912e-bf85641f0d90",
+      "score": 0.70871735,
+      "title": "Autism and the Power of Service Dogs",
+      "url": "https://www.discoveryaba.com/aba-therapy/autism-and-service-dogs?8936781b_page=5"
+    },
+    {
+      "id": "8be92321-4269-418e-9307-705c0be60ee3",
+      "score": 0.6991933,
+      "title": "(PDF) Animal-Assisted Interventions for school-aged children with Autism Spectrum Disorder: a meta-analysis",
+      "url": "https://www.academia.edu/72079077/Animal_Assisted_Interventions_for_school_aged_children_with_Autism_Spectrum_Disorder_a_meta_analysis"
+    },
+    {
+      "id": "ee68ab26-2909-4ce6-bd23-fe9bc9fff674",
+      "score": 0.6989468,
+      "title": "The supporting role of dogs in the inpatient setting",
+      "url": "https://link.springer.com/article/10.1007/s00787-023-02326-1"
+    },
+    {
+      "id": "c6d8bc7b-cf28-4539-92a6-97e2a7d357fe",
+      "score": 0.6907474,
+      "title": "What a Dog Can Do: Children with Autism and Therapy Dogs in Social Interaction | Request PDF",
+      "url": "https://www.researchgate.net/publication/227681504_What_a_Dog_Can_Do_Children_with_Autism_and_Therapy_Dogs_in_Social_Interaction"
+    },
+    {
+      "id": "d095f97f-a2a7-48ac-b397-e28504f93372",
+      "score": 0.68723184,
+      "title": "The Impact of Dog-Assisted Therapy Among Children and ...",
+      "url": "https://www.mdpi.com/2227-9067/11/12/1499"
+    },
+    {
+      "id": "e8b11c5b-29bb-4b14-b74a-9a9450b30bde",
+      "score": 0.680136,
+      "title": "Dog-assisted interventions to support health and wellbeing",
+      "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1645811/full"
+    },
+    {
+      "id": "a3adccf9-ce4b-43d6-85a0-8a1edac8f3e6",
+      "score": 0.6757865,
+      "title": "Use of assistance and therapy dogs for children with autism spectrum disorders: a critical review of the current evidence - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22978246/"
+    },
+    {
+      "id": "74a821ae-d653-4274-85d5-13fb98052798",
+      "score": 0.6729558,
+      "title": "Research on animal-assisted intervention and autism spectrum disorder, 2012-2015 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6510492/"
+    },
+    {
+      "id": "db24415c-d9a8-4d20-b1ca-0110d3f3f82e",
+      "score": 0.6701125,
+      "title": "Can dogs prime autistic children for therapy? Evidence from a single case study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21689015/"
+    },
+    {
+      "id": "d91c02ef-d7d2-48a8-965c-2c0c5ced195b",
+      "score": 0.6664756,
+      "title": "Effectiveness of animal-assisted activities and therapies for ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11184216/"
+    },
+    {
+      "id": "f4eef60d-05f1-42bb-8b83-ca76317e364c",
+      "score": 0.6625569,
+      "title": "Research - College of Veterinary Medicine",
+      "url": "https://cvm.missouri.edu/research/research-center-for-human-animal-interaction/research/"
+    },
+    {
+      "id": "8a3e7cfd-593c-4e0f-8e1e-68248a919b81",
+      "score": 0.66229486,
+      "title": "Therapy dogs for children with autism spectrum disorder: Impacts of active versus passive dog engagement | Human-animal interaction bulletin",
+      "url": "https://www.cabidigitallibrary.org/doi/full/10.1079/hai.2022.0010"
+    },
+    {
+      "id": "f2283668-0780-4a3b-a6fa-6455a9dce1ae",
+      "score": 0.6415577,
+      "title": "Project AIM: Autism Intervention Meta-Analysis for Studies of Young Children - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8783568/"
+    },
+    {
+      "id": "d2ad8d43-21fa-4204-8e0b-e5b14dc9da4a",
+      "score": 0.6307082,
+      "title": "Obstacles to inclusion and threats to civil rights: An integrative review of the social experiences of service dog partners in the United States - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11922260/"
+    },
+    {
+      "id": "5debe5a6-4e23-47de-aad3-9cb135129963",
+      "score": 0.62852204,
+      "title": "Frontiers | Effectiveness of animal-assisted activities and therapies for autism spectrum disorder: a systematic review and meta-analysis",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1403527/full"
+    },
+    {
+      "id": "4738b601-519a-4da3-b727-b23128b20cc4",
+      "score": 0.6257817,
+      "title": "Pet Ownership and Autism - Autism Research Institute",
+      "url": "https://autism.org/pet-ownership-and-autism/"
+    },
+    {
+      "id": "a63853f5-f3d2-49d3-8437-14536ab13f01",
+      "score": 0.62000114,
+      "title": "\u2018They ask no questions and pass no criticism\u2019: A mixed-methods study exploring pet ownership in autism | Journal of Autism and Developmental Disorders",
+      "url": "https://link.springer.com/article/10.1007/s10803-022-05622-y"
+    },
+    {
+      "id": "e69478ff-2eec-4896-a0ea-dabdb81080cd",
+      "score": 0.60386235,
+      "title": "Psychiatric service dog placements are associated with better daily psychosocial functioning for military veterans with posttraumatic stress disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37410417/"
+    },
+    {
+      "id": "0750f138-d131-449f-8a92-cd35fc395d01",
+      "score": 0.5993685,
+      "title": "Autism and the Power of Service Dogs",
+      "url": "https://www.discoveryaba.com/aba-therapy/autism-and-service-dogs?8936781b_page=14"
+    },
+    {
+      "id": "08c8f430-c651-46dd-b428-f8ebd57ffbcb",
+      "score": 0.5971152,
+      "title": "How Assistance Dogs Impact the Academic and Social - Spark",
+      "url": "https://spark.bethel.edu/cgi/viewcontent.cgi?article=2179&context=etd"
+    },
+    {
+      "id": "5b74486a-cc1b-4f2c-a376-75b539856989",
+      "score": 0.5925965,
+      "title": "Dogs as catalysts for social interactions: robustness of the effect - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10717771/"
+    },
+    {
+      "id": "f397cd9b-b4f3-46fe-831a-14f0d81545b6",
+      "score": 0.5883458,
+      "title": "An Evaluation of Animal-Assisted Therapy for Autism Spectrum Disorders: Therapist and Parent Perspectives - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8907032/"
+    },
+    {
+      "id": "9d0f2ed3-521f-4dd9-8c5b-90ec7074142c",
+      "score": 0.5874941,
+      "title": "Acquiring a Pet Dog Significantly Reduces Stress of Primary Carers for Children with Autism Spectrum Disorder: A Prospective Case Control Study - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4513200/"
+    },
+    {
+      "id": "651b1871-bcd5-4288-81b2-480731610464",
+      "score": 0.5860734,
+      "title": "New Research to Study Impact of a Service Dog Training ...",
+      "url": "https://habri.org/pressroom/20221101/"
+    },
+    {
+      "id": "26cc796b-992a-474a-8e2b-9f32ff3ccabe",
+      "score": 0.585789,
+      "title": "Animal-Assisted Therapy: A Meta-Analysis: Anthrozo\u00f6s: Vol 20, No 3",
+      "url": "https://www.tandfonline.com/doi/abs/10.2752/089279307X224773"
+    },
+    {
+      "id": "527b5ed5-803f-4a5b-bb94-4862f5955ca3",
+      "score": 0.58123237,
+      "title": "The impact of service dogs on children, youth and their families: A systematic review - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1936657420301448"
+    },
+    {
+      "id": "6ef0e956-5fb9-4f18-8cf3-954bb0fa9732",
+      "score": 0.57035583,
+      "title": "How Can Autism Service Dog Trainers Help With Communication Difficulties? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=ciRvBSH05wY"
+    },
+    {
+      "id": "dd128b76-77c7-4360-a298-467923dc1ea6",
+      "score": 0.559411,
+      "title": "\"The connection just happens\": Therapists' perspectives of canine-assisted occupational therapy for children on the autism spectrum.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32510649/"
+    },
+    {
+      "id": "5922f1b6-e71b-4582-a28f-80d4bfc84374",
+      "score": 0.5559422,
+      "title": "Brief Report: Above and Beyond Safety: Psychosocial ...",
+      "url": "https://link.springer.com/article/10.1007/s10803-021-05410-0"
+    },
+    {
+      "id": "988cc2df-daf7-47f1-a3f8-bf38b8b4c4f3",
+      "score": 0.5524679,
+      "title": "Occupational therapy incorporating dogs for autistic children and young people: Parent perspectives - Kathleen Richardson, Lynette Mackenzie, Meryl Lovarini, Claire Dickson, 2022",
+      "url": "https://journals.sagepub.com/doi/10.1177/03080226221086217"
+    },
+    {
+      "id": "4f5d4fae-2266-40a6-8b1c-fbe08aa1a1a7",
+      "score": 0.52524763,
+      "title": "Effects of Animal Assisted Therapy on Autism (Video 3 of 5)",
+      "url": "https://www.youtube.com/watch?v=nHbXVxheEL8"
+    },
+    {
+      "id": "a77ca48b-d7a0-44fb-a3a5-8e6373a273f7",
+      "score": 0.51603514,
+      "title": "How Do Autism Therapy/service Dogs Help? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=Ym43sL7l-fo"
+    },
+    {
+      "id": "d1197b5e-556e-4082-94d2-377f6245a6bb",
+      "score": 0.5117904,
+      "title": "Characterization of Children with Autism Spectrum ...",
+      "url": "https://www.researchgate.net/publication/359595355_Characterization_of_Children_with_Autism_Spectrum_Disorder's_Interactions_with_a_Service_Dog_during_Their_First_Encounter"
+    },
+    {
+      "id": "66de7920-2ab3-443d-8d9e-bbfb0e6bf2da",
+      "score": 0.5063723,
+      "title": "Customizing Methodological Approaches in Qualitative Research on Vulnerable Children with Autism Spectrum Disorders",
+      "url": "https://www.mdpi.com/2075-4698/9/4/75"
+    },
+    {
+      "id": "f18111b6-3f14-42f0-8bb8-20f8c6092c97",
+      "score": 0.50315,
+      "title": "Is There Science Behind That? Autism Service Dogs",
+      "url": "https://asatonline.org/for-parents/becoming-a-savvy-consumer/autism-service-dogs/"
+    },
+    {
+      "id": "94168729-dd1b-4dee-b0fa-9d2bec431233",
+      "score": 0.49787658,
+      "title": "The Role of Animal-Assisted Therapy in Enhancing Patients ...",
+      "url": "https://xmed.jmir.org/2024/1/e51787"
+    },
+    {
+      "id": "79811c6a-7806-4fee-940f-0b85a702125d",
+      "score": 0.4813325,
+      "title": "Lived experiences of assistance dogs for people with autism and ...",
+      "url": "https://dataresearch.ndis.gov.au/media/3969/download?attachment"
+    },
+    {
+      "id": "3b56311d-701e-4f89-9a43-6ac1435ebbc0",
+      "score": 0.47782278,
+      "title": "How Dogs Help Kids with Autism",
+      "url": "https://www.youtube.com/watch?v=1NOoaFgZOzk"
+    },
+    {
+      "id": "6bab85fa-53b4-4a5d-bb74-3c4bbaa7bff4",
+      "score": 0.4719782,
+      "title": "Canine-assisted occupational therapy for children on the autism spectrum: Parents' perspectives.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32201966/"
+    },
+    {
+      "id": "e8b1c6b6-1681-4670-af43-23e0bc123bd3",
+      "score": 0.46978843,
+      "title": "The effectiveness of social training in individuals with autism spectrum disorder (ASD): a systematic review and transfer analysis | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-024-83953-9"
+    },
+    {
+      "id": "522dec96-2ca1-4991-b4ef-445e9480b88d",
+      "score": 0.46905875,
+      "title": "The effectiveness of animal-assisted therapy for children and adolescents with autism spectrum disorder: A systematic review - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1744388122001876"
+    },
+    {
+      "id": "88e6e83e-16f4-4e9f-8698-2d575994c179",
+      "score": 0.46424627,
+      "title": "Benefits of animal-Assisted interventions in preschool children: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36424180/"
+    },
+    {
+      "id": "75bf5594-aa68-4060-812d-8be08f7a13d5",
+      "score": 0.46191534,
+      "title": "Psychosocial Well-Being in Families of Autistic Children and Effect of Service Dogs: An Exploratory Study",
+      "url": "https://www.mdpi.com/2813-9372/2/1/5"
+    },
+    {
+      "id": "495e8d69-751c-4832-987e-841cac40647d",
+      "score": 0.45595008,
+      "title": "Enhanced social and communication adaptive behaviors linked to progress in dog training intervention stages scale among young autistic children - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S3050656525000264"
+    },
+    {
+      "id": "3b8da13d-6a61-4501-9e13-df3c9185dae6",
+      "score": 0.45464227,
+      "title": "The effects of assistance dogs on psychosocial health and wellbeing: A systematic literature review - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7710121/"
+    },
+    {
+      "id": "714f6938-d99b-4df3-8eff-e1a31761b1c4",
+      "score": 0.45318982,
+      "title": "Qualitative Research in the Journal of Autism and Developmental Disorders | Journal of Autism and Developmental Disorders",
+      "url": "https://link.springer.com/article/10.1007/s10803-020-04466-8"
+    },
+    {
+      "id": "fc23e1b8-438c-44a0-a904-88ecb110d2bf",
+      "score": 0.4485476,
+      "title": "Animal-Assisted Intervention with Children Diagnosed with Autism Spectrum Disorder",
+      "url": "https://www.youtube.com/watch?v=wEv4Wat_EgM"
+    },
+    {
+      "id": "9b678d4f-2fd7-43b5-bec3-e075459cfa26",
+      "score": 0.44840267,
+      "title": "The Role of Dogs in Assisting with Autism",
+      "url": "https://www.youtube.com/watch?v=q_Q0QgVBHRo"
+    },
+    {
+      "id": "ae373e13-0a3b-4028-8121-9c122f0ba37c",
+      "score": 0.43698296,
+      "title": "service-dogs-autistic-learners-autism- ...",
+      "url": "https://apsea.ca/sites/default/files/aie/papers/service-dogs-autistic-learners-autism-2025.pdf"
+    },
+    {
+      "id": "6fe9b9c7-f435-47c7-82c0-fe177cd86091",
+      "score": 0.4338141,
+      "title": "Service Dogs for Autism (Tasks for Autism, Getting an Autism Service Dog, and Considerations)",
+      "url": "https://www.youtube.com/watch?v=mIgZ3JbxZ6A"
+    },
+    {
+      "id": "316bb550-1d88-411a-b685-fdc30b26a9f1",
+      "score": 0.42448413,
+      "title": "Why Is Positive Reinforcement Important In Autism Service Dog Training? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=6zhUTSKMmhE"
+    },
+    {
+      "id": "acdfb58f-bb89-48f7-b677-a8ec07e5a2af",
+      "score": 0.40584955,
+      "title": "The social skills and attachment to dogs of children with autism spectrum disorder - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25308197/"
+    },
+    {
+      "id": "d37e0fb4-77d8-48b2-96e4-e7d30f333737",
+      "score": 0.40471974,
+      "title": "(PDF) Socializing Effects of Service Dogs for People with Disabilities",
+      "url": "https://www.researchgate.net/publication/233662067_Socializing_Effects_of_Service_Dogs_for_People_with_Disabilities"
+    },
+    {
+      "id": "474e0c09-5d0e-431f-a23b-d5c588f8e3b1",
+      "score": 0.3957184,
+      "title": "A Look at the Family-wide Benefits of Service Dogs in ...",
+      "url": "https://canine.org/news/benefits-service-dogs-autism-care-part2/"
+    },
+    {
+      "id": "68a6309c-5774-472c-80d3-1201c3f21914",
+      "score": 0.38359568,
+      "title": "Human-Animal Interaction (HAI) Research (R03 Clinical Trial Optional)",
+      "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-20-032.html"
+    },
+    {
+      "id": "ac3781b9-0c06-4ac0-931b-6432270eed1a",
+      "score": 0.37993094,
+      "title": "The importance and challenges of observing social interactions in autistic preschoolers during inclusive educational settings: A scoping review - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10900867/"
+    },
+    {
+      "id": "d6704f2e-f1b2-4ab7-8a1d-b555db207880",
+      "score": 0.37394494,
+      "title": "Human-Animal Interaction (HAI) Research (R21 Clinical Trial Optional)",
+      "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-20-033.html"
+    },
+    {
+      "id": "220fd820-79bd-4895-b31b-d274fa6f248d",
+      "score": 0.36888355,
+      "title": "Challenges of service-dog ownership for families with autistic children: lessons for veterinary practitioners.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19228909/"
+    },
+    {
+      "id": "10a6958d-af8b-42f7-82c5-06dae291f3ec",
+      "score": 0.34574616,
+      "title": "The Effects Of The Presence Of A Dog On The Social ...",
+      "url": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1901&context=etd"
+    },
+    {
+      "id": "c4d55a19-458f-4893-89e5-2b611f4f8061",
+      "score": 0.34277,
+      "title": "An Evaluation of Animal-Assisted Therapy for Autism Spectrum Disorders: Therapist and Parent Perspectives | Psychological Studies",
+      "url": "https://link.springer.com/article/10.1007/s12646-022-00647-w"
+    },
+    {
+      "id": "03776772-dbd3-4904-a482-19d4b0df3477",
+      "score": 0.34277,
+      "title": "A Meta-analysis of Outcome Studies of Autistic Adults: Quantifying Effect Size, Quality, and Meta-regression | Journal of Autism and Developmental Disorders",
+      "url": "https://link.springer.com/article/10.1007/s10803-020-04763-2"
+    },
+    {
+      "id": "2f7ce99c-72e5-4610-98cd-706976bea264",
+      "score": 0.34184664,
+      "title": "What effect does participating in an assistance dog program ...",
+      "url": "https://research-repository.griffith.edu.au/server/api/core/bitstreams/ff67250e-71aa-5a6d-80a0-814a6f5db765/content"
+    },
+    {
+      "id": "e963abe4-defe-404e-8f33-eb1ec405af89",
+      "score": 0.33593932,
+      "title": "(PDF) The effects of service dogs for children with autism ...",
+      "url": "https://www.researchgate.net/publication/378459371_The_effects_of_service_dogs_for_children_with_autism_spectrum_disorder_and_their_caregivers_a_cross-sectional_study"
+    },
+    {
+      "id": "46700440-6ff8-4452-8cb2-d48c66dfad34",
+      "score": 0.33280948,
+      "title": "What Do New Findings About Social Interaction in Autistic Adults Mean for Neurodevelopmental Research? - Rachael Davis, Catherine J. Crompton, 2021",
+      "url": "https://journals.sagepub.com/doi/10.1177/1745691620958010"
+    },
+    {
+      "id": "5e8e3226-1ece-42d4-9497-ccd61908e5ae",
+      "score": 0.3284653,
+      "title": "Longitudinal Predictors of Adaptive Functioning in Emerging Adults with and without Autism Spectrum Disorder | Research on Child and Adolescent Psychopathology",
+      "url": "https://link.springer.com/article/10.1007/s10802-024-01265-y"
+    },
+    {
+      "id": "ee2f72b7-dc1f-4f27-bcee-b41f5d79c128",
+      "score": 0.31903702,
+      "title": "Pawsitive Purpose: The Impact Of Autism Assistance Dogs ...",
+      "url": "https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=2219&context=ojot"
+    },
+    {
+      "id": "ce758124-7caf-4d81-9290-871a0e58047d",
+      "score": 0.3116368,
+      "title": "Service dogs for autistic children and family system ...",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1210095/pdf"
+    },
+    {
+      "id": "7cce8d4a-6053-4538-a95d-ad1f244b5172",
+      "score": 0.30340198,
+      "title": "Cross-sectional and longitudinal predictors of quality of life in autistic individuals from adolescence to adulthood: The role of mental health and sleep quality - Lauren P Lawson, Amanda L Richdale, Alexandra Haschek, Rebecca L Flower, Josh Vartuli, Samuel RC Arnold, Julian N Trollor, 2020",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/1362361320908107"
+    },
+    {
+      "id": "0e3ad4dc-83cc-403b-a404-c0f64df07af2",
+      "score": 0.26115704,
+      "title": "Animal Assisted Therapy for Children and Adolescents with Autism Spectrum Disorder: Parent perspectives.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32333302/"
+    },
+    {
+      "id": "e77d1242-7518-4e85-8e7d-e416bef1c3f2",
+      "score": 0.25803885,
+      "title": "How Does Pet Therapy Integrate With Other Autism Therapies? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=gCGPA1w5wgU"
+    },
+    {
+      "id": "9f97aa2f-c355-4a66-b74c-77981134fbbe",
+      "score": 0.2543334,
+      "title": "Analysing atypical interaction: Reflections on the intersection between quantitative and qualitative research - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378216617307567"
+    },
+    {
+      "id": "a9e30f91-b5c5-405e-aca6-6dfea9cd6305",
+      "score": 0.25199312,
+      "title": "How Can A Service Dog Help Someone With Autism? - Answers About Autism",
+      "url": "https://www.youtube.com/watch?v=96BNOxlgjzs"
+    },
+    {
+      "id": "cd6fa309-a335-4c54-ad06-e7da9fc62fc4",
+      "score": 0.24148536,
+      "title": "(PDF) Animal-Assisted Therapy: A Meta-Analysis",
+      "url": "https://www.researchgate.net/publication/233604817_Animal-Assisted_Therapy_A_Meta-Analysis"
+    },
+    {
+      "id": "6f1b3b30-f652-4537-8961-6f75451f5800",
+      "score": 0.24057424,
+      "title": "Longitudinal studies of challenging behaviours in autistic children and adults: A systematic review and meta-analysis | Request PDF",
+      "url": "https://www.researchgate.net/publication/372546753_Longitudinal_studies_of_challenging_behaviours_in_autistic_children_and_adults_A_systematic_review_and_meta-analysis"
+    },
+    {
+      "id": "44d270cf-3c63-489d-a100-e5b10bb8463c",
+      "score": 0.23424938,
+      "title": "The long-term benefits of dog ownership in families with children with autism - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S155878781630034X"
+    },
+    {
+      "id": "c509683d-0600-453e-b10b-d08624ac4e5a",
+      "score": 0.23212774,
+      "title": "(PDF) Customizing Methodological Approaches in Qualitative Research on Vulnerable Children with Autism Spectrum Disorders",
+      "url": "https://www.researchgate.net/publication/337093746_Customizing_Methodological_Approaches_in_Qualitative_Research_on_Vulnerable_Children_with_Autism_Spectrum_Disorders"
+    },
+    {
+      "id": "8d56cd2a-57a7-4486-90db-65b6d20e196f",
+      "score": 0.22283576,
+      "title": "Pilot Study Investigating the Role of Therapy Dogs in Facilitating Social Interaction among Children with Autism | Journal of Contemporary Psychotherapy",
+      "url": "https://link.springer.com/article/10.1007/s10879-014-9274-z"
+    },
+    {
+      "id": "6225e54d-69bc-40a3-a939-a275f025cbb9",
+      "score": 0.19424585,
+      "title": "Human-Animal Interaction (HAI) Research (R01 Clinical Trial Optional)",
+      "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-20-031.html"
+    },
+    {
+      "id": "9548ca7b-e8d3-4f05-aaac-2f59b6f54a0d",
+      "score": 0.16059518,
+      "title": "Impact of dog-assisted therapy on biomechanical and functional parameters in adults with autism spectrum disorder: A non-randomized controlled trial - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0883941725000627"
+    },
+    {
+      "id": "ed422fc0-066c-49c8-9e4e-dc950baae073",
+      "score": 0.14932065,
+      "title": "Australian parents' experiences of owning an autism assistance dog.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35352418/"
+    },
+    {
+      "id": "f520ce8b-1bf6-40bb-80d4-1e9f7ff709f9",
+      "score": 0.13551812,
+      "title": "Are Emotional Support Animal Laws Built on a House of Cards?",
+      "url": "https://www.psychologytoday.com/intl/blog/animals-and-us/202212/are-emotional-support-animal-laws-built-on-a-house-of-cards"
+    },
+    {
+      "id": "ba9466f6-51eb-4a82-825e-b07f15461efb",
+      "score": 0.082882896,
+      "title": "Maximising the Potential Benefit of Living with Companion ...",
+      "url": "https://www.mdpi.com/2076-2615/15/17/2492"
+    }
+  ]
+}

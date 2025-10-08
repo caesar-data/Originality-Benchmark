@@ -1,0 +1,665 @@
+{
+  "id": "53ee05c3-6e5b-4ca8-9891-79c7ac1db990",
+  "status": "completed",
+  "content": "TRUE. Numerous scientific studies and real-world pilot programs confirm that working dogs can be, and have been, trained to detect SARS-CoV-2 infection in humans by sniffing sweat samples[1][2][3]. This capability has been demonstrated in laboratory settings and deployed for screening in public venues such as airports and sporting events[4][5][6].\n\n## Scientific Basis and Training Methodology\n\nThe ability of dogs to detect COVID-19 is based on the hypothesis that SARS-CoV-2 infection alters a person's metabolic processes, resulting in the release of a unique pattern of Volatile Organic Compounds (VOCs)[8][1]. These VOCs contribute to an individual's body odor and can be excreted through various bodily fluids, including sweat, making the infection's scent signature detectable to a dog's highly sensitive olfactory system[3][9]. Dogs possess over 220 million olfactory receptors, compared to approximately five million in humans, enabling them to detect these subtle scent changes[3][10].\n\n### Sample Collection and Training Protocols\nResearch programs have utilized a variety of non-invasive methods to collect sweat samples for training and testing, including:\n*   **Axillary Swabs**: Sterile surgical swabs or cotton pads are held under the armpit for several minutes[11][12][13].\n*   **Worn Clothing**: Volunteers wear items like T-shirts or socks overnight to absorb sweat, which are then used as scent samples[14][15][16].\n*   **Skin Wipes**: Passengers at some venues are asked to dab their skin with a wipe to provide a sample[17].\n\nTraining is typically based on operant conditioning, where dogs are rewarded for correctly identifying sweat samples from SARS-CoV-2 positive individuals[8][19]. Dogs learn to discriminate between positive and negative samples presented in containers or olfaction cones within a line-up[11][12]. The training period can range from one week for experienced detection dogs to several months for \"green\" dogs with no prior scent work[20][19][3].\n\n## Diagnostic Accuracy and Performance Metrics\n\nMultiple studies have evaluated the diagnostic accuracy of canine olfaction for COVID-19 detection using sweat samples, often comparing it to the \"gold standard\" RT-PCR test. The reported accuracy varies by study, dog, and viral variant, but has consistently shown high levels of success.\n\n### Key Performance Findings:\n*   **Overall High Accuracy**: A French study involving 335 individuals found that dogs detected SARS-CoV-2 from sweat with 97% sensitivity and 91% specificity compared to RT-PCR tests[21][22].\n*   **Asymptomatic Detection**: The same French study noted that dogs achieved 100% sensitivity in identifying asymptomatic cases[21][23]. A separate pilot study also reported high accuracy in detecting asymptomatic and presymptomatic individuals[24].\n*   **Mass Screening Performance**: In a German study conducted at four concerts with 2,802 participants, trained dogs screened sweat samples and correctly identified infections with a sensitivity of 82% and a specificity of nearly 100%[25][26].\n*   **Variable Success Rates**: A proof-of-concept study in France and Lebanon reported success rates for individual dogs ranging from 76% to 100%[11][1]. A field study in Mexico found its two best-performing dogs reached sensitivity of 76% and 80%, with specificity of 75% and 88%, respectively[27][3].\n*   **Impact of Viral Variants**: A study in Rwanda demonstrated a significant difference in performance between COVID-19 waves. During the Delta variant wave, sensitivity ranged from 75.0% to 89.9%. However, during the Omicron wave, sensitivity decreased substantially to 36.6%\u201341.5%, while specificity remained high at over 95%[12][28].\n*   **Comparison to Antigen Tests**: Canine detection has demonstrated higher sensitivity than rapid antigen tests (97% vs. 84% in one study), though specificity was sometimes lower[21][23]. This makes dogs a viable, non-invasive alternative for mass screening[22][29].\n\n## Real-World Applications and Deployments\n\nBased on promising study results, canine screening programs using sweat samples have been deployed in several public venues worldwide as a rapid, non-invasive screening tool[30].\n*   **Airports**: Dogs have been used to screen arriving passengers at airports in Helsinki, Finland; Dubai, UAE; and Beirut, Lebanon[4][31][32][33]. Miami International Airport also launched a pilot program to screen employees[5][34].\n*   **Sporting Events**: The Miami Heat (NBA) used sniffer dogs to screen fans before games, and NASCAR deployed dogs on a trial basis at a race event[6][33].\n*   **Other Public Venues**: Researchers have consistently proposed using dogs in high-traffic areas such as schools, concert venues, and public transport hubs to quickly screen large numbers of people[35][36]. Two trained dogs can screen a plane of 300 people in about 30 minutes[37][38].\n\n## Detection Beyond Acute Infection\n\nA notable extension of this research involves the detection of Long COVID. A study tested 45 patients experiencing prolonged symptoms for an average of 15.2 months post-infection[39][40]. Trained dogs positively identified 23 of the 45 (51.1%) Long COVID patients from sweat samples, compared to zero identifications among 188 healthy controls[10][40]. This finding suggests that some Long COVID patients may have persistent viral antigens that produce a detectable scent signature long after the acute phase of illness[39][41].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "ce76fb5a-9beb-4384-b001-21eab132567b",
+      "score": 0.89720124,
+      "title": "We Just Got Even More Evidence That Some Dogs Can Reliably Detect COVID-19",
+      "url": "https://www.sciencealert.com/early-tests-show-dogs-have-some-ability-to-smell-covid-19-on-our-sweat",
+      "citation_index": 1
+    },
+    {
+      "id": "8f3aabcc-fdb4-4da4-866b-1b3478d3f01b",
+      "score": 0.8846886,
+      "title": "Dogs are trained to sniff out coronavirus. Most have a 100% success rate - ThePrint",
+      "url": "https://theprint.in/health/dogs-are-trained-to-sniff-out-coronavirus-most-have-a-100-success-rate/476278/",
+      "citation_index": 2
+    },
+    {
+      "id": "b5b064f2-d9d7-48e5-8c76-4ea2eafef7ca",
+      "score": 0.8752871,
+      "title": "Dogs Detecting COVID-19 From Sweat and Saliva of Positive People: A Field Experience in Mexico - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9012113/",
+      "citation_index": 3
+    },
+    {
+      "id": "12ca9de0-280a-433f-915e-472f27d04367",
+      "score": 0.8342047,
+      "title": "Scent dogs in detection of COVID-19: triple-blinded randomised trial and operational real-life screening in airport setting | BMJ Global Health",
+      "url": "https://gh.bmj.com/content/7/5/e008024",
+      "citation_index": 4
+    },
+    {
+      "id": "4d647603-f22e-45c0-a938-21e1bce64ad0",
+      "score": 0.5911811,
+      "title": "Coronavirus-sniffing dogs unleashed at Miami International Airport to detect virus in employees - The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2021/09/09/covid-sniffer-dogs/",
+      "citation_index": 5
+    },
+    {
+      "id": "6856b2ad-6168-4aa1-8bcc-bc36d7028bde",
+      "score": 0.8095324,
+      "title": "Why Does the United States Ignore the Possibility of Using Sniffer Dogs to Detect Covid in Mass Settings?",
+      "url": "https://www.nakedcapitalism.com/2021/04/why-does-the-united-states-ignore-the-possibility-of-using-sniffer-dogs-to-detect-covid-in-mass-settings.html",
+      "citation_index": 6
+    },
+    {
+      "id": "6fdf0614-c299-4ae2-93d1-0b9a56467964",
+      "score": 0.88705814,
+      "title": "Sniffer dogs performance is stable over time in detecting COVID-19 positive samples and agrees with the rapid antigen test in the field",
+      "url": "https://www.nature.com/articles/s41598-023-30897-1",
+      "citation_index": 8
+    },
+    {
+      "id": "d3be4150-3be6-46a8-8e67-68242b495007",
+      "score": 0.7557276,
+      "title": "Dogs and Covid-19, How dogs are sniffing out SARS-COV-2",
+      "url": "https://www.youtube.com/watch?v=EvJ1Gn9AY5M",
+      "citation_index": 9
+    },
+    {
+      "id": "1e25bda4-048a-4a91-92d3-e62a67841896",
+      "score": 0.8783249,
+      "title": "Sniffer dogs detect long COVID after 1.5 years",
+      "url": "https://www.news-medical.net/news/20220117/Sniffer-dogs-detect-long-COVID-after-15-years.aspx",
+      "citation_index": 10
+    },
+    {
+      "id": "34c469ff-5e32-4f64-af37-91de3f89510d",
+      "score": 0.8742601,
+      "title": "Can the detection dog alert on COVID-19 positive persons by sniffing axillary sweat samples? A proof-of-concept study - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728218/",
+      "citation_index": 11
+    },
+    {
+      "id": "e38b4007-0320-40c0-94e3-ef6604c80a4f",
+      "score": 0.8091708,
+      "title": "Use of trained scent dogs for detection of COVID-19 and ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9751420/",
+      "citation_index": 12
+    },
+    {
+      "id": "d0c1eedf-b68c-4be3-a98c-e0ce362c3fc8",
+      "score": 0.8820324,
+      "title": "Identifying SARS-COV-2 infected patients through canine olfactive detection on axillary sweat samples; study of observed sensitivities and specificities within a group of trained dogs - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35157716/",
+      "citation_index": 13
+    },
+    {
+      "id": "85f82d94-48d6-4097-a60f-cbf25ff48cdb",
+      "score": 0.852752,
+      "title": "Army Study Evaluates Use of Dogs in COVID-19 Detection",
+      "url": "https://www.defense.gov/News/News-Stories/Article/Article/2752729/army-study-evaluates-use-of-dogs-incovid-19-detection/",
+      "citation_index": 14
+    },
+    {
+      "id": "c6e19f3f-6b19-4c63-afc7-f1006282ddff",
+      "score": 0.5622973,
+      "title": "Bio-detection dogs sniff out COVID-19",
+      "url": "https://www.youtube.com/watch?v=t_KQRZQkLKc",
+      "citation_index": 15
+    },
+    {
+      "id": "892bb423-1486-406a-b955-18f95a1bedfc",
+      "score": 0.767638,
+      "title": "Behind The Scenes With Dogs Being Trained To Detect COVID-19 | NBC Nightly News",
+      "url": "https://www.youtube.com/watch?v=HaJAwi8kSLU",
+      "citation_index": 16
+    },
+    {
+      "id": "868a0549-7b7b-453a-95f6-918cb758d259",
+      "score": 0.6757865,
+      "title": "\u8fd9\u4e2a\u56fd\u5bb6\u7528\u72d7\u201c\u55c5\u63a2\u201d\u65b0\u51a0\u75c5\u6bd2\uff0c\u6bd4\u6838\u9178\u68c0\u6d4b\u8fd8\u51c6 - \u8d22\u5bcc\u4e2d\u6587\u7f51",
+      "url": "http://www.fortunechina.com/shangye/c/2020-09/25/content_378158.htm",
+      "citation_index": 17
+    },
+    {
+      "id": "4a130798-9be1-4346-b3d1-964daf35d136",
+      "score": 0.86331123,
+      "title": "Trained dogs detect COVID-19 as well as PCR tests do | Science News",
+      "url": "https://www.sciencenews.org/article/covid-dog-detection-pcr-test-screening-coronavirus",
+      "citation_index": 19
+    },
+    {
+      "id": "9cf2c24c-62cb-4651-9d51-86ab55b94020",
+      "score": 0.8622012,
+      "title": "A medical study linked the AstraZeneca vaccine to blood clots. Now what?",
+      "url": "https://www.poynter.org/?p=888604",
+      "citation_index": 20
+    },
+    {
+      "id": "d2587c5c-610d-481b-8ced-48c81e250b6c",
+      "score": 0.8533396,
+      "title": "Diagnostic accuracy of non-invasive detection of SARS ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9159600/",
+      "citation_index": 21
+    },
+    {
+      "id": "c17cd40d-8728-4699-b29d-907c3f22e195",
+      "score": 0.68723184,
+      "title": "Diagnostic accuracy of non-invasive detection of SARS-CoV-2 infection by canine olfaction - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35648737/",
+      "citation_index": 22
+    },
+    {
+      "id": "a62c0fba-fba4-4680-a195-880c78b79b6e",
+      "score": 0.8591094,
+      "title": "Can dogs accurately detect COVID-19?",
+      "url": "https://www.news-medical.net/news/20220606/Can-dogs-accurately-detect-COVID-19.aspx",
+      "citation_index": 23
+    },
+    {
+      "id": "ca46eada-d4f8-4f48-9122-610c54099cc2",
+      "score": 0.8687491,
+      "title": "Detection of SARS-CoV-2 by Canine Olfaction: A Pilot Study - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35818366/",
+      "citation_index": 24
+    },
+    {
+      "id": "921053a0-8b80-470f-b5f6-b92af90092b8",
+      "score": 0.90791017,
+      "title": "Dogs May Reliably Detect SARS-CoV-2 Infections at Mass ...",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2799645",
+      "citation_index": 25
+    },
+    {
+      "id": "92551a8d-dff0-4645-8b28-8e87e52b3c52",
+      "score": 0.8747745,
+      "title": "Canine real-time detection of SARS-CoV-2 infections in the context of a mass screening event - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9659709/",
+      "citation_index": 26
+    },
+    {
+      "id": "3367cf0d-89ad-4fe1-9126-aa5887d66420",
+      "score": 0.54521364,
+      "title": "Frontiers | Dogs Detecting COVID-19 From Sweat and Saliva of Positive People: A Field Experience in Mexico",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2022.837053/full",
+      "citation_index": 27
+    },
+    {
+      "id": "4e1bd0bf-2e45-4ae1-817c-25cbc09a0b48",
+      "score": 0.77055156,
+      "title": "Frontiers | Use of trained scent dogs for detection of COVID-19 and evidence of cost-saving",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2022.1006315/full",
+      "citation_index": 28
+    },
+    {
+      "id": "bc7031b6-6e83-4037-876f-99f0ebb169da",
+      "score": 0.86052185,
+      "title": "Dogs can detect COVID-19 infections faster and more ...",
+      "url": "https://news.ucsb.edu/2023/021174/dogs-can-detect-covid-19-infections-faster-and-more-accurately-conventional-technology",
+      "citation_index": 29
+    },
+    {
+      "id": "991d3c41-7207-4b7e-b101-3e7cc37bc540",
+      "score": 0.5465209,
+      "title": "canine detection and identification of SARS-CoV-2 ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10563588/",
+      "citation_index": 30
+    },
+    {
+      "id": "640f87b2-a558-410a-8f10-875a79d8bcae",
+      "score": 0.70580584,
+      "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus - The New York Times",
+      "url": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html",
+      "citation_index": 31
+    },
+    {
+      "id": "60ec338f-5a89-449a-84fa-a62348f8722c",
+      "score": 0.84918517,
+      "title": "Scientists are training dogs to sniff out COVID-19 at airports and other public places",
+      "url": "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/coronavirus-spike-economy-work-home-conservative-tv/dogs-sniffing-covid-19",
+      "citation_index": 32
+    },
+    {
+      "id": "0ad529ab-e50f-40be-995f-053bc6a249a4",
+      "score": 0.7230167,
+      "title": "Can Dogs Sniff Out COVID-19?",
+      "url": "https://www.lung.org/blog/can-dogs-detect-covid-19",
+      "citation_index": 33
+    },
+    {
+      "id": "1a3dcacf-2d85-4e2c-9f19-7efa0142d8c3",
+      "score": 0.5264164,
+      "title": "Dogs trained to detect COVID-19 will be screening Miami International Airport employees",
+      "url": "https://www.youtube.com/watch?v=8KC82p2GeSg",
+      "citation_index": 34
+    },
+    {
+      "id": "06782bbb-20ec-4009-afcb-bc3952cb943d",
+      "score": 0.8765607,
+      "title": "Scent detection dogs can identify individuals infected with COVID-19",
+      "url": "https://phys.org/news/2021-02-scent-dogs-individuals-infected-covid-.html",
+      "citation_index": 35
+    },
+    {
+      "id": "9e2e0fb5-05ed-4c96-bdd3-37c50d852908",
+      "score": 0.80771893,
+      "title": "Super Sniffer Dogs Could Replace COVID Testing at Airports",
+      "url": "https://www.countryliving.com/uk/wildlife/pets/a36514696/sniffer-dogs-covid-19-seconds/",
+      "citation_index": 36
+    },
+    {
+      "id": "165c5c47-b3ef-4db5-a17e-72e18e331f84",
+      "score": 0.7568076,
+      "title": "Trained on smelly socks, bio-detection dogs sniff out COVID-19 | The Peninsula Qatar",
+      "url": "https://thepeninsulaqatar.com/article/24/05/2021/Trained-on-smelly-socks,-bio-detection-dogs-sniff-out-COVID-19",
+      "citation_index": 37
+    },
+    {
+      "id": "2d085c4c-36f7-485f-9618-0c0120210dd9",
+      "score": 0.6977124,
+      "title": "Covid: Sniffer dogs could bolster screening at airports",
+      "url": "https://www.bbc.com/news/health-57200863",
+      "citation_index": 38
+    },
+    {
+      "id": "f987d0f9-d905-4db6-b818-66787b245e6d",
+      "score": 0.8952393,
+      "title": "(PDF) Screening for SARS-CoV-2 Persistence in Long COVID Patients using Sniffer Dogs and Scents from Axillary Sweats Samples",
+      "url": "https://www.researchgate.net/publication/359617227_Screening_for_SARS-CoV-2_Persistence_in_Long_COVID_Patients_using_Sniffer_Dogs_and_Scents_from_Axillary_Sweats_Samples",
+      "citation_index": 39
+    },
+    {
+      "id": "1f6f03f2-ed3e-4ae6-9ace-6cec8fdac4f3",
+      "score": 0.8482825,
+      "title": "Screening for SARS-CoV-2 persistence in Long COVID patients using sniffer dogs and scents from axillary sweats samples | medRxiv",
+      "url": "https://www.medrxiv.org/content/10.1101/2022.01.11.21268036v1",
+      "citation_index": 40
+    },
+    {
+      "id": "faf0968f-bdc7-46f9-8e53-5b5eaa0c987c",
+      "score": 0.71948266,
+      "title": "Covid Sniffing Dogs",
+      "url": "https://www.youtube.com/watch?v=niNKsf_RQP8",
+      "citation_index": 41
+    },
+    {
+      "id": "9a79b95d-8f34-4e9d-80ce-8d4403adf9e4",
+      "score": 0.90771407,
+      "title": "Biomedical detection dogs for the identification of SARS-CoV-2 infections from axillary sweat and breath samples* - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35287115/"
+    },
+    {
+      "id": "e8e63533-cf87-47a8-a99f-36395db94d87",
+      "score": 0.902481,
+      "title": "Is diagnostic performance of SARS-CoV-2 detection dogs reduced -due to virus variation- over the time? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9788989/"
+    },
+    {
+      "id": "4cfdc457-4cc4-4f6c-b63d-af5e677535e9",
+      "score": 0.8943568,
+      "title": "Detection of Post-COVID-19 Patients Using Medical Scent Detection Dogs\u2014A Pilot Study - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9245071/"
+    },
+    {
+      "id": "e0539e3e-f5fd-4486-9cd1-28d69e364d73",
+      "score": 0.8808076,
+      "title": "Canine real-time detection of SARS-CoV-2 infections in the context of a mass screening event | BMJ Global Health",
+      "url": "https://gh.bmj.com/content/7/11/e010276"
+    },
+    {
+      "id": "aa925894-f82d-4968-8239-f0b29bfc9bcb",
+      "score": 0.8800674,
+      "title": "Trained dogs can smell coronavirus in your pee",
+      "url": "https://www.livescience.com/dogs-sniff-out-coronavirus.html"
+    },
+    {
+      "id": "5b10d72a-3e3d-4bd2-bcaf-a89286beed0e",
+      "score": 0.8706085,
+      "title": "Dogs can sniff out COVID-19 in human sweat - Futurity",
+      "url": "https://www.futurity.org/dogs-smell-covid-19-sars-cov-2-2517332-2/"
+    },
+    {
+      "id": "319f0965-49b8-40af-b51d-4ba5da84991e",
+      "score": 0.86413884,
+      "title": "These sniffer dogs are learning to smell the coronavirus",
+      "url": "https://www.nationalgeographic.com/animals/article/see-dogs-trained-to-sniff-covid"
+    },
+    {
+      "id": "936f0964-e5d6-4e21-b91a-de8c76d9fae9",
+      "score": 0.8624794,
+      "title": "COVID-19 sniffer dog experimental training: Which protocol and which implications for reliable sidentification? - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34152634/"
+    },
+    {
+      "id": "359b5110-0da3-475e-81d5-037efbed5015",
+      "score": 0.85995835,
+      "title": "Canine Olfactory Detection of SARS-COV2-Infected Patients: A One Health Approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34746070/"
+    },
+    {
+      "id": "5a4deb03-9573-458a-ab08-c8da8b630d89",
+      "score": 0.8548001,
+      "title": "Dogs can sniff out cases of COVID-19",
+      "url": "https://uckeepresearching.org/dogs-can-sniff-out-cases-of-covid-19/"
+    },
+    {
+      "id": "c2d88d72-1d94-4c49-b163-6c9d31d2ff1f",
+      "score": 0.8539252,
+      "title": "Specially trained dogs can sniff out COVID-19 infection | UCLA Health",
+      "url": "https://www.uclahealth.org/news/article/specially-trained-dogs-can-sniff-out-covid-19-infection"
+    },
+    {
+      "id": "55057564-2ff0-418b-b824-3158726e2df6",
+      "score": 0.8473754,
+      "title": "Dogs Can Sniff Out COVID-19 in Human Sweat - Nextgov",
+      "url": "https://www.nextgov.com/ideas/2021/02/dogs-can-sniff-out-covid-19-human-sweat/172074/"
+    },
+    {
+      "id": "e556b769-822c-41e8-aff3-7b3691af3bb5",
+      "score": 0.8452414,
+      "title": "Frontiers | Unraveling the potential of breath and sweat VOC capture devices for human disease detection: a systematic-like review of canine olfaction and GC-MS analysis",
+      "url": "https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2023.1282450/full"
+    },
+    {
+      "id": "e4a9102b-47ea-43ae-a19f-f8a82609865a",
+      "score": 0.8361405,
+      "title": "Researchers train dogs to sniff out Covid-19 positive people, could find use at airports",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/coronavirus-testing-sniffer-dogs-bio-detection-1806721-2021-05-25"
+    },
+    {
+      "id": "4a7a6253-02bb-4ec7-a15c-4d8ecd3a4c29",
+      "score": 0.8252664,
+      "title": "Are COVID-sniffing dogs the new tool in helping detect the virus?",
+      "url": "https://phys.org/news/2021-02-covid-sniffing-dogs-tool-virus.html"
+    },
+    {
+      "id": "71619a63-2fcb-4281-8444-2f79ac71d102",
+      "score": 0.82082915,
+      "title": "Use of trained scent dogs for detection of COVID-19 and evidence of cost-saving - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9751420/"
+    },
+    {
+      "id": "2478132d-c690-4741-9f60-43cc808da14f",
+      "score": 0.80442166,
+      "title": "Airports Are Now Starting to Use Sniffer Dogs for COVID-19",
+      "url": "https://www.psychologytoday.com/us/blog/canine-corner/202009/airports-are-now-starting-to-use-sniffer-dogs-for-covid-19"
+    },
+    {
+      "id": "76326796-4604-428d-b6e7-623d0ab44d0d",
+      "score": 0.8029425,
+      "title": "COVID in California: Coronavirus hospitalizations in state rise more than 50% in past two weeks - San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/health/article/COVID-in-California-Bay-Area-case-numbers-have-17213808.php"
+    },
+    {
+      "id": "1dd98427-2a84-4815-9c47-da55f492641d",
+      "score": 0.7900289,
+      "title": "Are Covid-Sniffing Dogs The Miami Heat\u2019s New MVPs?",
+      "url": "https://www.forbes.com/sites/robertglatter/2021/02/08/are-covid-sniffing-dogs-the-miami-heats-new-mvps/"
+    },
+    {
+      "id": "f75b25f9-01bb-45c0-afba-a1238656994a",
+      "score": 0.7724109,
+      "title": "Sniffing Out Coronavirus: Working Dogs Can Detect COVID ...",
+      "url": "https://www.aaha.org/trends-magazine/publications/sniffing-out-coronavirus/"
+    },
+    {
+      "id": "46cf4444-51a6-4aed-9b43-f182d1049331",
+      "score": 0.73981786,
+      "title": "Airports Are Now Starting to Use Sniffer Dogs for COVID-19 | Psychology Today",
+      "url": "https://www.psychologytoday.com/intl/blog/canine-corner/202009/airports-are-now-starting-use-sniffer-dogs-covid-19"
+    },
+    {
+      "id": "d2a09ea3-fc79-46f7-ae5a-0954707e069b",
+      "score": 0.7304634,
+      "title": "Coronavirus Travel: Are Covid-Sniffing Dogs At Airports The Solution?",
+      "url": "https://www.forbes.com/sites/ceciliarodriguez/2020/09/24/coronavirus-travel-are-covid-sniffing-dogs-at-airports-the-solution/"
+    },
+    {
+      "id": "bc4ec8bd-faa2-4075-b77d-e92877461ccf",
+      "score": 0.72559077,
+      "title": "'Close to 100% accuracy': Helsinki airport uses sniffer dogs to detect Covid | Finland | The Guardian",
+      "url": "https://www.theguardian.com/world/2020/sep/24/close-to-100-accuracy-airport-enlists-sniffer-dogs-to-test-for-covid-19"
+    },
+    {
+      "id": "d3eeabf6-23e7-4199-ad15-ec5e09aada66",
+      "score": 0.72348577,
+      "title": "Sniffer dogs performance is stable over time in detecting COVID-19 positive samples and agrees with the rapid antigen test in the field - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9985821/"
+    },
+    {
+      "id": "8b012e89-9ec5-4844-91cf-173bf4e37f79",
+      "score": 0.7156829,
+      "title": "Dogs can be trained to detect Covid-19 by sniffing human ...",
+      "url": "https://www.cnn.com/2020/12/10/health/detection-dogs-covid-19-scent-study-scn-wellness"
+    },
+    {
+      "id": "377c8c3e-fb96-4c97-9e21-1285def0dc88",
+      "score": 0.7135319,
+      "title": "COVID-19: Super-sniffer dogs detect virus 'with 94% accuracy'",
+      "url": "https://www.youtube.com/watch?v=AuJw_WIU-i8"
+    },
+    {
+      "id": "9571e305-f7f9-4565-b465-8d9e8f083e7e",
+      "score": 0.7120925,
+      "title": "Diagnostic accuracy of non-invasive detection of SARS-CoV-2 infection by canine olfaction | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268382"
+    },
+    {
+      "id": "8ffe0c58-85b1-4427-acbf-97f22bd83cab",
+      "score": 0.7120925,
+      "title": "Detection of SARS-CoV-2 by Canine Olfaction: A Pilot Study - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9129167/"
+    },
+    {
+      "id": "641d8403-4b35-4fbc-b931-14f61dfb534e",
+      "score": 0.7038554,
+      "title": "These dogs are trained to sniff out COVID-19 #shorts",
+      "url": "https://www.youtube.com/watch?v=DKTQ7PtMTyQ"
+    },
+    {
+      "id": "85bca09a-1a75-46e8-9081-6bee5b205814",
+      "score": 0.69199765,
+      "title": "UC Davis Researcher Studying Whether Dogs Can Detect The Smell Of COVID-19",
+      "url": "https://www.youtube.com/watch?v=qbKNJao7Vwc"
+    },
+    {
+      "id": "beb67e11-4e23-4060-8708-64ff95c75c78",
+      "score": 0.6506676,
+      "title": "Trained scent dogs detect airline travelers with COVID-19 | CIDRAP",
+      "url": "https://www.cidrap.umn.edu/trained-scent-dogs-detect-airline-travelers-covid-19"
+    },
+    {
+      "id": "9b8b3220-dff2-40e6-8e07-2a294cc5d65a",
+      "score": 0.63804686,
+      "title": "Dogs can detect SARS-CoV-2, study shows",
+      "url": "https://www.youtube.com/watch?v=gidrvufL8_0"
+    },
+    {
+      "id": "7d83fffd-7512-4165-b9c4-0dd221b83ffb",
+      "score": 0.6342494,
+      "title": "Friday Faves \u2013 What We\u2019re Reading This Week",
+      "url": "https://rippleffectgroup.com/friday-faves-what-were-reading-this-week-163/"
+    },
+    {
+      "id": "8f3fec9e-1baa-45b4-a22f-309a7a602a1f",
+      "score": 0.6337056,
+      "title": "Can dogs smell COVID? Here\u2019s what the science says",
+      "url": "https://www.nature.com/articles/d41586-020-03149-9"
+    },
+    {
+      "id": "3507f4bb-f2dd-4de6-b10a-b3f058daa54a",
+      "score": 0.62633044,
+      "title": "NCT04948190 | Canine COVID-19 Detection Phase 2 and 3",
+      "url": "https://clinicaltrials.gov/study/NCT04948190"
+    },
+    {
+      "id": "a43a69d0-d49e-46d7-90b9-57df3acb5c8d",
+      "score": 0.6150191,
+      "title": "Evaluation of canine detection of COVID-19 infected individuals under controlled settings - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35316576/"
+    },
+    {
+      "id": "485de94f-6bf9-4e21-bac7-1966e3df34fe",
+      "score": 0.58721006,
+      "title": "How One Company Is Training Dogs To Sniff Out Covid-19",
+      "url": "https://www.youtube.com/watch?v=73G0ixvUzoI"
+    },
+    {
+      "id": "2f31088f-c654-41a2-a8ad-53f50318bc96",
+      "score": 0.575517,
+      "title": "The dogs sniffing out Covid-19 at airports - Airport Technology",
+      "url": "https://www.airport-technology.com/features/the-dogs-sniffing-out-covid-19-at-airports/"
+    },
+    {
+      "id": "0dff1eca-2eae-4b5b-952f-1659f31ca3dd",
+      "score": 0.5737984,
+      "title": "Covid-Sniffing Dogs Are Accurate but Face Hurdles for Widespread Use (Published 2021)",
+      "url": "https://www.nytimes.com/2021/06/12/science/covid-sniffing-dogs.html"
+    },
+    {
+      "id": "1040b04e-6f29-4f2b-a8a7-786ee0210dec",
+      "score": 0.56920683,
+      "title": "Canine olfactory detection of SARS-CoV-2-infected ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S104727972300087X"
+    },
+    {
+      "id": "bb2c1131-6c69-406c-b372-f03d2ef5dd6c",
+      "score": 0.56661874,
+      "title": "Sen. Scott calls for study on use of canines to screen airport travelers for COVID-19",
+      "url": "https://www.youtube.com/watch?v=NDgq2155zqE"
+    },
+    {
+      "id": "e7d9059d-d7fa-4fc7-ad17-0a5142825e85",
+      "score": 0.5634506,
+      "title": "Dogs are being trained to detect and alert COVID-19 infections",
+      "url": "https://www.youtube.com/watch?v=IhgzYXiQ4bM"
+    },
+    {
+      "id": "fd2c10df-64c8-4f33-8843-b22bbe0f1cec",
+      "score": 0.5631623,
+      "title": "These Dogs Can Detect Coronavirus By Smell | Mashable",
+      "url": "https://www.youtube.com/watch?v=3SUmf1Nj34g"
+    },
+    {
+      "id": "9f4c273f-429e-42c7-9f23-530dae48e85c",
+      "score": 0.5602773,
+      "title": "Sniffer dog help with Covid-19 detection - Airport Industry Review | Issue 70 | August 2021",
+      "url": "https://airport.nridigital.com/air_aug21/sniffer_dogs_covid-19_airport"
+    },
+    {
+      "id": "fd4da18d-2ee2-401c-8869-351f707c1cd9",
+      "score": 0.55275756,
+      "title": "Dogs can detect COVID, studies show. Why aren't they widely used for testing?",
+      "url": "https://www.youtube.com/watch?v=wWgVjicQTE0"
+    },
+    {
+      "id": "76466a19-2215-4f85-8b3a-159109869bf9",
+      "score": 0.5521781,
+      "title": "Are COVID Sniffing Dogs Coming to an Airport Near You?",
+      "url": "https://www.youtube.com/watch?v=A3AG74DLqhs"
+    },
+    {
+      "id": "06628e63-26b3-4e10-9092-cffcaa79989e",
+      "score": 0.5402697,
+      "title": "Dogs Can Sniff Out Covid-19 in Human Sweat With Stunning Accuracy: Study",
+      "url": "https://www.youtube.com/watch?v=UPlP0Mkvg0A"
+    },
+    {
+      "id": "5e5fee36-ad79-47fd-ac9b-baafa85ea1f6",
+      "score": 0.5065188,
+      "title": "Scent dog identification of samples from COVID-19 patients \u2013 a pilot study | BMC Infectious Diseases | Full Text",
+      "url": "https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-05281-3"
+    },
+    {
+      "id": "eae29067-e9e2-4042-8623-19c68a4df6aa",
+      "score": 0.50344294,
+      "title": "Detection of SARS-CoV-2 by Canine Olfaction: A Pilot Study | Open Forum Infectious Diseases | Oxford Academic",
+      "url": "https://academic.oup.com/ofid/article/9/7/ofac226/6582236"
+    },
+    {
+      "id": "3595b7c6-9b54-4ced-af1c-485df117da5c",
+      "score": 0.46818325,
+      "title": "DIAGNOSTIC ACCURACY OF NON-INVASIVE ...",
+      "url": "https://www.medrxiv.org/content/10.1101/2022.03.07.22271219v1.full.pdf"
+    },
+    {
+      "id": "2ad56438-cea2-42e5-9ece-95cc4d76143f",
+      "score": 0.45754927,
+      "title": "German study shows that dogs can be trained to sniff out COVID-19 with 94% sucess rate",
+      "url": "https://www.youtube.com/watch?v=Vff9QoSu1sE"
+    },
+    {
+      "id": "80cb4d5b-ce87-47d7-b41f-f621ac50fb3c",
+      "score": 0.45028743,
+      "title": "Researchers training dogs to identify people with COVID-19",
+      "url": "https://www.avma.org/javma-news/2020-11-15/researchers-training-dogs-identify-people-covid-19"
+    },
+    {
+      "id": "214be8fb-2fde-45b6-a03c-5bbfe5963ab9",
+      "score": 0.44637465,
+      "title": "Can Dogs 'Sniff Out' Covid-19?",
+      "url": "https://www.youtube.com/watch?v=Jv_dSIEV_84"
+    },
+    {
+      "id": "090e0d99-db4c-4788-bbda-1ee480d850ea",
+      "score": 0.39529812,
+      "title": "Dogs training to smell COVID-19 from human sweat",
+      "url": "https://www.youtube.com/watch?v=FCuW12RVoA4"
+    },
+    {
+      "id": "0a85d4bc-8e89-4e4e-adfe-54b4f8c1e842",
+      "score": 0.37572992,
+      "title": "These Dogs Are Trained To Detect Covid Infection At Miami Airport",
+      "url": "https://www.youtube.com/watch?v=dhZlSxN162Y"
+    },
+    {
+      "id": "d15aa78b-a737-4a08-9e0e-fee4a8bf1f22",
+      "score": 0.3502663,
+      "title": "What does cancer smell like? These animals can sniff it out",
+      "url": "https://www.nationalgeographic.com/animals/article/these-animals-detect-disease-cancer-covid"
+    },
+    {
+      "id": "c728b7a8-b882-4a62-994e-46caea37f813",
+      "score": 0.34151715,
+      "title": "Smelling trouble: COVID-19 sniffer dogs detect virus with fast pace, high accuracy",
+      "url": "https://www.youtube.com/watch?v=YXNS810JU2I"
+    },
+    {
+      "id": "02b7e456-15de-4994-8578-edeff4338b45",
+      "score": 0.32988858,
+      "title": "MIA Shows Off First Ever Airport Team Of COVID-Sniffing Dogs",
+      "url": "https://www.youtube.com/watch?v=tjRFik5o5Kc"
+    },
+    {
+      "id": "252e0302-5151-46c6-b8b1-6aa929644733",
+      "score": 0.26833284,
+      "title": "Sniffer Dogs Detect COVID-19 #Shorts",
+      "url": "https://www.youtube.com/watch?v=EaZBKXpUQBs"
+    },
+    {
+      "id": "ec238859-e481-489d-979e-6b50cbfef28e",
+      "score": 0.17309275,
+      "title": "Health Watch: Dogs detecting COVID-19",
+      "url": "https://www.youtube.com/watch?v=bLL-qc1Xlzc"
+    },
+    {
+      "id": "15a6bdb5-6946-46b1-b75d-aa38b3a31526",
+      "score": 0.13565545,
+      "title": "Detection dogs as a help in the detection of COVID-19",
+      "url": "https://www.biorxiv.org/content/10.1101/2020.06.03.132134v1.full.pdf"
+    },
+    {
+      "id": "a5477884-670a-49ad-8caf-d1f15eac91be",
+      "score": 0.116151296,
+      "title": "Local Trainers Look For Dogs That Can Be Taught To Detect Coronavirus In People",
+      "url": "https://www.youtube.com/watch?v=2bwzoS8PRSE"
+    },
+    {
+      "id": "a73dbba1-bd93-4edb-8439-110595fd84bd",
+      "score": 0.10586528,
+      "title": "Sniffer dogs could bolster coronavirus screening at airports - BBC News",
+      "url": "https://www.youtube.com/watch?v=ig6aZYE4lD0"
+    },
+    {
+      "id": "83178fcd-e86d-4242-83a4-4ed76eda8fd0",
+      "score": 0.02440686,
+      "title": "Scent dogs in detection of COVID- 19: triple",
+      "url": "https://gh.bmj.com/content/bmjgh/7/5/e008024.full.pdf"
+    }
+  ]
+}

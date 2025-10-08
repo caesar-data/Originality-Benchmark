@@ -1,0 +1,810 @@
+{
+  "id": "75fd9d41-dfd9-4ed6-8ee9-7d8bdebe139b",
+  "status": "completed",
+  "content": "FALSE. While gray whales exhibit a broadly consistent annual migratory circuit, evidence reveals their migration patterns are complex, variable, and increasingly unpredictable due to historical pressures, long-term environmental shifts, and recent climate-driven ecological changes[1][2][3].\n\n## The General Migratory Framework\n\nThe perception of a simple, predictable pattern stems from the well-documented annual migration of the Eastern North Pacific (ENP) gray whale population[4][5]. This journey is one of the longest of any mammal, covering a round trip of 15,000 to 22,000 kilometers (9,000 to 14,000 miles) between summer feeding grounds in the Arctic (Bering, Chukchi, and Beaufort Seas) and winter breeding and calving lagoons in Baja California, Mexico[4][6][7].\n\n-   **Southbound Migration**: Whales travel south from their Arctic feeding grounds, typically from October through February, arriving in Mexico's warm-water lagoons by late December or early January[8][9][10]. This leg is segregated, led by near-term pregnant females, followed by estrous females, mature males, and finally, immature whales[4][5].\n-   **Northbound Migration**: The return journey north begins around mid-February and continues through May or June[11][4]. Newly pregnant females and other adults lead the first phase, while the second phase consists of mothers with newborn calves, who are the last to leave the lagoons, typically between March and May[4][9].\n\n## Documented Variations and Complexities\n\nSignificant deviations from this general framework demonstrate that the migration is neither simple nor consistently predictable.\n\n### Temporal Shifts in Migration Timing\nLong-term monitoring has revealed distinct shifts in migration timing. Data from central California shows that prior to 1980, the median sighting date for the southbound migration was around January 8[12][8]. Since then, a delay of approximately one week (6.8 days) has occurred, with the median sighting date now falling around January 15[12][8]. This change is characterized as a \"shift\" rather than a trend and coincided with a major oceanographic regime shift in the North Pacific Ocean[12][8].\n\n### Alternative Migratory Strategies and Routes\nNot all gray whales follow the full migratory path, and routes can vary significantly.\n\n-   **Pacific Coast Feeding Group (PCFG)**: A distinct group of approximately 200-300 gray whales, known as the Pacific Coast Feeding Group (PCFG) or \"resident\" whales, forgoes the full migration to the Arctic[13][14][15]. These whales, mostly males, spend their summer and fall feeding in coastal waters from Northern California up to southeast Alaska before rejoining the main population for the southbound migration[14][16][17]. The existence of this group demonstrates a significant and consistent deviation from the standard migratory pattern[14][18].\n-   **Trans-Pacific Migration**: Satellite tagging of whales from the critically endangered Western Gray Whale (WGW) population has shattered the paradigm of two completely separate stocks[1]. Three tagged WGWs from Sakhalin Island, Russia, migrated to the eastern North Pacific[1]. One female, \"Varvara,\" completed a 22,511 km (13,988 miles) round-trip journey to the EGW breeding lagoons in Mexico and back over 172 days, the longest mammal migration ever documented[1][19]. These whales demonstrated advanced navigational skills, traveling across deep, open water, which contrasts sharply with the typical near-shore, coastal-hugging migration of EGWs[1].\n-   **Route Adjustments**: Even within the main EGW migration, there are behavioral nuances. Southbound whales tend to travel within five kilometers of shore, while the northbound migration is generally farther offshore and in deeper water[4][5]. An exception is northbound mothers with calves, who often stay very close to the coast (within 200\u2013400 meters) to avoid predators[4][6]. Historically, pressure from commercial whaling in the 19th century caused the population to shift its migration corridor farther offshore[4][5].\n\n## Impacts of Climate Change and Unusual Mortality Events (UMEs)\n\nRecent environmental changes, particularly in the Arctic, have severely disrupted gray whale feeding, leading to population declines and further unpredictability in migratory behavior[3][20].\n\n-   **Disruption of Arctic Feeding Grounds**: Gray whales are primarily benthic (sea-floor) feeders in the Arctic, relying on lipid-rich amphipods (small crustaceans)[20][21]. The health of this food web is directly linked to sea ice[22][23]. Algae growing on the underside of sea ice sinks to the seafloor when it dies, fertilizing the sediment and nourishing the amphipods[20][21]. Rapidly declining sea ice disrupts this process, leading to a collapse in the biomass of these crucial prey animals[20][24].\n-   **Unusual Mortality Events (UMEs)**: These food shortages have been linked to multiple UMEs, periods of significant die-offs, including events in 1999-2000 and most recently from 2019-2023[25][3]. The 2019-2023 UME resulted in a population drop of 46%, from an estimated 27,000 whales in 2016 to 14,526 in 2023[3]. Necropsies revealed malnutrition was a primary or contributing cause of death in many stranded whales[26][27].\n-   **Resulting Behavioral Adaptations and Stresses**: The nutritional stress from failing Arctic food sources is forcing changes in migratory behavior that defy predictability:\n    -   **Foraging En Route**: Malnourished whales are increasingly stopping to feed in unusual locations during their migration, such as San Francisco Bay, which saw unprecedented numbers of gray whales between 2018 and 2023[28][29]. This behavior, driven by desperation, increases their risk of ship strikes in busy waterways[28][30].\n    -   **Prey Switching**: Whales have been observed shifting their feeding grounds farther north and changing their diet from benthic amphipods to pelagic krill, forcing them to compete with other whale species like humpbacks and bowheads[18][31].\n    -   **Altered Southern Distribution**: During colder La Ni\u00f1a years, whales may migrate farther south, while during warmer El Ni\u00f1o years, mother-calf pairs may not travel as far south, altering their presence in traditional breeding lagoons[3].\n\nIn conclusion, the foundational concept of a north-south coastal migration is accurate, but it represents an oversimplification. The existence of non-migrating subgroups, documented trans-oceanic journeys, historical and ongoing shifts in timing, and profound, unpredictable disruptions from climate change all demonstrate that gray whale migration patterns are dynamic and complex rather than simple and predictable.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "9eb24008-5d69-4f3f-8698-fea58a73a0d5",
+      "score": 0.84277284,
+      "title": "Critically endangered western gray whales migrate to the eastern North Pacific - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4424619/",
+      "citation_index": 1
+    },
+    {
+      "id": "9bce9e5e-cd2c-48db-90b1-f0f6dc7b86a7",
+      "score": 0.7663815,
+      "title": "Migration timing and distance from shore of southbound eastern Pacific gray whales (Eschrichtius robustus) off Ensenada, Baja California, Mexico | Request PDF",
+      "url": "https://www.researchgate.net/publication/257199855_Migration_timing_and_distance_from_shore_of_southbound_eastern_Pacific_gray_whales_Eschrichtius_robustus_off_Ensenada_Baja_California_Mexico",
+      "citation_index": 2
+    },
+    {
+      "id": "6662b569-0748-4c21-a0ad-0ca491f6f808",
+      "score": 0.91490877,
+      "title": "Climate change stands as the new challenge for whale ...",
+      "url": "https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1397204/full",
+      "citation_index": 3
+    },
+    {
+      "id": "169788c2-b52c-4fd2-ad58-40f41efbba7e",
+      "score": 0.7686816,
+      "title": "Migratory behavior of eastern North Pacific gray whales ...",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185585",
+      "citation_index": 4
+    },
+    {
+      "id": "13e4756d-678f-43a7-98d9-0f2acb9f617f",
+      "score": 0.666736,
+      "title": "Individual variation in migratory movements of chinstrap penguins leads to widespread occupancy of ice-free winter habitats over the continental shelf and deep ocean basins of the Southern Ocean",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226207",
+      "citation_index": 4
+    },
+    {
+      "id": "ec4da3d9-e089-48a0-8a96-529284eae332",
+      "score": 0.21531813,
+      "title": "Comparative histopathologic and viral immunohistochemical studies on CeMV infection among Western Mediterranean, Northeast-Central, and Southwestern Atlantic cetaceans",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213363",
+      "citation_index": 4
+    },
+    {
+      "id": "4f0de9f0-38a2-401f-8e43-5a3be70b2cfb",
+      "score": 0.19668765,
+      "title": "Tending the sick: Observations of epimeletic behavior in humpback whales towards conspecifics during entanglement events",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321284",
+      "citation_index": 4
+    },
+    {
+      "id": "9e026cc3-e8b8-419f-b94b-54f51f8b9681",
+      "score": 0.7440808,
+      "title": "Migratory behavior of eastern North Pacific gray whales ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5662093/",
+      "citation_index": 5
+    },
+    {
+      "id": "e9295647-b348-4c21-a7c6-f1576f12079e",
+      "score": 0.6058229,
+      "title": "How To See the Gray Whale Migration and Help Save a Life | The Marine Mammal Center",
+      "url": "https://www.marinemammalcenter.org/news/how-to-see-the-gray-whale-migration",
+      "citation_index": 6
+    },
+    {
+      "id": "3c718475-afc0-4d64-9c8f-5717e0ff7981",
+      "score": 0.468621,
+      "title": "The greatest whale migration - Gray Whale Migration",
+      "url": "https://www.youtube.com/watch?v=RaReUqm5sO4",
+      "citation_index": 7
+    },
+    {
+      "id": "d7da4448-acc1-4f36-9f7b-ca1c3092a551",
+      "score": 0.7992077,
+      "title": "(PDF) Timing of the gray whale southbound migration",
+      "url": "https://www.researchgate.net/publication/237090523_Timing_of_the_gray_whale_southbound_migration",
+      "citation_index": 8
+    },
+    {
+      "id": "49f7b9c4-b7eb-4c29-b4ba-fa5d40985eb3",
+      "score": 0.6227582,
+      "title": "Gray Whale Migration | Whale's Tail Whale Watching Tours |",
+      "url": "https://whalestaildepoebay.com/gray-whale-migration/",
+      "citation_index": 9
+    },
+    {
+      "id": "00305131-1739-4c97-b9d8-eb98d74d0065",
+      "score": 0.54710174,
+      "title": "Map of the Gray Whale Migration - Baja Ecotours",
+      "url": "https://www.bajaecotours.com/map-of-the-gray-whale-migration/",
+      "citation_index": 10
+    },
+    {
+      "id": "0609efb2-460f-435b-aaeb-604e868f4905",
+      "score": 0.77994305,
+      "title": "Frontiers | Migratory Behavior of an Eastern North Pacific Gray Whale From Baja California Sur to Chirikov Basin, Alaska",
+      "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.619290/full",
+      "citation_index": 11
+    },
+    {
+      "id": "24207a19-8524-4856-88bc-8179e177dc04",
+      "score": 0.84707206,
+      "title": "Timing of the gray whale southbound migration | J. Cetacean Res. Manage.",
+      "url": "https://journal.iwc.int/index.php/jcrm/article/view/897",
+      "citation_index": 12
+    },
+    {
+      "id": "7b630476-493f-4b4b-a7ee-d054c2f88f0e",
+      "score": 0.68571854,
+      "title": "Gray whale - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gray_whale",
+      "citation_index": 13
+    },
+    {
+      "id": "7a403a34-c333-400b-9946-d5f9eb3832f9",
+      "score": 0.49231076,
+      "title": "California Gray Whale Migration - Redwood National and State Parks (U.S. National Park Service)",
+      "url": "https://www.nps.gov/redw/learn/nature/california-gray-whale-migration.htm",
+      "citation_index": 14
+    },
+    {
+      "id": "d295825a-f2fa-4cf9-897b-5d8bd24c39b2",
+      "score": 0.5717911,
+      "title": "Researchers studying Oregon's 'resident population' of ...",
+      "url": "https://phys.org/news/2015-08-oregon-resident-population-gray-whales.html",
+      "citation_index": 15
+    },
+    {
+      "id": "aa97c0bd-8627-4c0e-8887-ae870e5b2565",
+      "score": 0.8235701,
+      "title": "Science Social: New research on whales of the Pacific Northwest with Cascadia Research Collective",
+      "url": "https://www.youtube.com/watch?v=vTiLr6gAQKg",
+      "citation_index": 16
+    },
+    {
+      "id": "87610d77-d642-4e9d-a797-f746c55604e6",
+      "score": 0.758958,
+      "title": "Depoe Bay's Resident Gray Whales | Whale's Tail Charters | Oregon",
+      "url": "https://whalestaildepoebay.com/depoe-bays-resident-gray-whales/",
+      "citation_index": 17
+    },
+    {
+      "id": "9eb090d8-0444-48f7-b21d-5c7342b3a9e2",
+      "score": 0.8939131,
+      "title": "Why Are So Many Gray Whales Washing Up On Shore?",
+      "url": "https://www.youtube.com/watch?v=gWyxY_Bhrt4",
+      "citation_index": 18
+    },
+    {
+      "id": "a82b401c-b827-449f-9821-7caff791b28e",
+      "score": 0.6383174,
+      "title": "Western North Pacific Gray Whales - Marine Mammal Commission",
+      "url": "https://www.mmc.gov/priority-topics/species-of-concern/western-north-pacific-gray-whales/",
+      "citation_index": 19
+    },
+    {
+      "id": "b422fcb2-c80b-4b91-a461-bff15f3c7c2c",
+      "score": 0.8961153,
+      "title": "Boom-bust cycles in gray whales associated with dynamic and changing Arctic conditions | Science",
+      "url": "https://www.science.org/doi/10.1126/science.adi1847",
+      "citation_index": 20
+    },
+    {
+      "id": "8488bb6c-225b-424b-997c-7ac965bcb903",
+      "score": 0.8851659,
+      "title": "Melting Arctic sea ice spurs gray whale die-off along West Coast",
+      "url": "https://www.seattletimes.com/seattle-news/climate-lab/melting-arctic-sea-ice-spurs-gray-whale-die-off-along-west-coast/",
+      "citation_index": 21
+    },
+    {
+      "id": "13b7bac2-7842-4f24-807a-c24d73578904",
+      "score": 0.9227683,
+      "title": "New NOAA report paints alarming picture of declining ...",
+      "url": "https://www.klcc.org/environment/2025-06-19/new-noaa-report-paints-alarming-picture-of-declining-numbers-of-pacific-gray-whales-and-their-health",
+      "citation_index": 22
+    },
+    {
+      "id": "e6cf410f-6ac6-4904-8249-aef8c610ab86",
+      "score": 0.91435975,
+      "title": "Gray whales are dying again off the Pacific Coast. Scientists look at if climate change is to blame | The Independent",
+      "url": "https://www.independent.co.uk/news/science/gray-whales-death-climate-change-b2730257.html",
+      "citation_index": 23
+    },
+    {
+      "id": "fd644994-ab6d-4cfe-b4de-c84b2a61f4a2",
+      "score": 0.9094659,
+      "title": "Gray whales face food shortages as the Arctic warms",
+      "url": "https://polarjournal.net/gray-whales-face-food-shortages-as-the-arctic-warms/",
+      "citation_index": 24
+    },
+    {
+      "id": "9d0bfa19-dc45-4bfc-9d64-98ed313a79d5",
+      "score": 0.875031,
+      "title": "Scientists finally figure out why hundreds of gray whales keep washing up dead along US coasts | Live Science",
+      "url": "https://www.livescience.com/animals/whales/scientists-finally-figure-out-why-hundreds-of-gray-whales-keep-washing-up-dead-along-us-coasts",
+      "citation_index": 25
+    },
+    {
+      "id": "be81dcad-6eb2-4732-b529-cd84a7863af6",
+      "score": 0.87681407,
+      "title": "Gray whale (Eschrichtius robustus) post-mortem findings from ...",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295861",
+      "citation_index": 26
+    },
+    {
+      "id": "98637cc8-7668-41bb-91d9-cf6e5db7bf9a",
+      "score": 0.76659125,
+      "title": "Gray Whale Unusual Mortality Event Declared Over | Animal Welfare Institute",
+      "url": "https://awionline.org/awi-quarterly/summer-2024/gray-whale-unusual-mortality-event-declared-over",
+      "citation_index": 27
+    },
+    {
+      "id": "e8163f86-177f-4b5a-adb4-b1adb744d680",
+      "score": 0.8800674,
+      "title": "Wildlife mystery: Why are gray whales swimming into San Francisco Bay in increasing numbers?",
+      "url": "https://phys.org/news/2024-06-wildlife-mystery-gray-whales-san.html",
+      "citation_index": 28
+    },
+    {
+      "id": "f0fedd73-d6aa-406e-bb4f-677d019a7faa",
+      "score": 0.91175514,
+      "title": "Record Gray Whale Deaths in San Francisco Bay: Causes and Concerns in 2025",
+      "url": "https://www.youtube.com/watch?v=ToOsJDuMYMU",
+      "citation_index": 29
+    },
+    {
+      "id": "50015463-11f5-4f5f-beaa-fc4f39924942",
+      "score": 0.8805613,
+      "title": "Unusual Mortality Event Declared for Gray Whales | The Marine Mammal Center",
+      "url": "https://www.marinemammalcenter.org/news/unusual-mortality-event-declared-for-gray-whales",
+      "citation_index": 30
+    },
+    {
+      "id": "81b08896-a958-4d83-b946-8198e469bd01",
+      "score": 0.8399576,
+      "title": "Once nearly extinct, resilient gray whales are again dying. But there\u2019s hope.",
+      "url": "https://www.cnn.com/interactive/2022/03/climate/gray-whale-pacific-arctic-climate-change/",
+      "citation_index": 31
+    },
+    {
+      "id": "ce8aa646-097c-4b17-a9ea-c083938a62a5",
+      "score": 0.9287263,
+      "title": "Gray whale",
+      "url": "https://www.biologicaldiversity.org/programs/climate_law_institute/the_arctic_meltdown/slideshow_text/gray_whale.html"
+    },
+    {
+      "id": "8a6eeea0-6ae2-40ee-8548-e58ebfd42b89",
+      "score": 0.9057319,
+      "title": "How Will Climate Change Affect Arctic Migrations? | Scientific American",
+      "url": "https://www.scientificamerican.com/article/whales-head-north/"
+    },
+    {
+      "id": "4ad80c51-ca35-4375-8e38-c033e865ea14",
+      "score": 0.9037116,
+      "title": "Gray Whale Migration and Arctic Sea Changes",
+      "url": "https://storymaps.arcgis.com/stories/474e83a72b5e435d9b0a74ce499e9f58"
+    },
+    {
+      "id": "b54235e2-011e-424e-ab3d-b2fc7056e24a",
+      "score": 0.90123636,
+      "title": "Scientists sound alarm after witnessing distressing behavior in gray whales: 'It's hard to watch'",
+      "url": "https://www.thecooldown.com/outdoors/gray-whale-population-decline-arctic-sea-ice/"
+    },
+    {
+      "id": "4b749fa4-b23d-4b9e-9ec2-e4fa5ecf211f",
+      "score": 0.9006087,
+      "title": "What Are The Dangers Of Gray Whale Migration? - The Wild Life Explorer",
+      "url": "https://www.youtube.com/watch?v=yv_qpm354R4"
+    },
+    {
+      "id": "32e5f7e0-e288-409c-afc3-0330c9d27883",
+      "score": 0.8952393,
+      "title": "Melting Arctic sea ice spurs gray whale die off along West Coast | The Daily Chronicle",
+      "url": "https://www.chronline.com/stories/melting-arctic-sea-ice-spurs-gray-whale-die-off-along-west-coast,379149"
+    },
+    {
+      "id": "1deb3bdf-272c-4452-a544-57f0b4d888e7",
+      "score": 0.8875269,
+      "title": "Gray whales decline to lowest numbers since 1970s",
+      "url": "https://www.statesmanjournal.com/story/tech/science/environment/2025/06/21/gray-whale-numbers-noaa/84266972007/"
+    },
+    {
+      "id": "3c889199-8303-4d08-b2be-4efc8a80d271",
+      "score": 0.8849276,
+      "title": "Something killed 121 gray whales this summer. Scientists are scrambling to find out what",
+      "url": "https://www.usatoday.com/story/news/2019/09/18/121-gray-whales-found-dead-beaches-cause-death-unknown/2352505001/?utm_source=google&utm_medium=amp&utm_campaign=speakable"
+    },
+    {
+      "id": "f9895d8c-1a45-4e88-90bd-c5b82f55e656",
+      "score": 0.88372874,
+      "title": "Something killed 121 gray whales this summer. Scientists are scrambling to find out what",
+      "url": "https://news.yahoo.com/something-killed-121-gray-whales-210234026.html"
+    },
+    {
+      "id": "b092e64e-6e1e-48b6-aa1b-053a02298c64",
+      "score": 0.87782305,
+      "title": "Why are so many gray whales dying in the Pacific?",
+      "url": "https://www.nationalgeographic.com/animals/article/why-are-so-many-gray-whales-dying-in-the-pacific"
+    },
+    {
+      "id": "e4502f7e-742e-4973-8bc8-90e294b38bd5",
+      "score": 0.8742601,
+      "title": "West Coast Gray Whale \u201cUnusual Mortality Event\u201d Continues - Humboldt Waterkeeper",
+      "url": "https://www.humboldtwaterkeeper.org/humboldt-bay-information/wildlife/1675-west-coast-gray-whale-unusual-mortality-event-continues"
+    },
+    {
+      "id": "4c32ebb4-661c-4e45-967a-131a1d206885",
+      "score": 0.8682137,
+      "title": "West Coast Gray Whale \u201cUnusual Mortality Event\u201d Continues | NEC",
+      "url": "https://www.yournec.org/west-coast-gray-whale-unusual-mortality-event-continues/"
+    },
+    {
+      "id": "766f432b-48c1-4c99-9dfa-1c79f40ee71a",
+      "score": 0.8616433,
+      "title": "Gray Whale Deaths Mount Along US West Coast Amid ...",
+      "url": "https://orca.org.uk/news-blog/gray-whale-deaths-mount-along-u-s-west-coast-amid-ongoing-population-decline"
+    },
+    {
+      "id": "bc5e303b-275c-4f8f-ba85-6bb047a49fa4",
+      "score": 0.85538095,
+      "title": "Scientists look for answers following Unusual Mortality Events in gray whales | Arctic Focus",
+      "url": "https://www.arcticfocus.org/stories/scientists-look-answers-following-unusual-mortality-events-gray-whales/"
+    },
+    {
+      "id": "eb885c81-57cd-465b-8346-a32b5341775a",
+      "score": 0.84918517,
+      "title": "Gray Whale Unusual Mortality Event, 2019-2023 - Healthy Wildlife",
+      "url": "https://healthywildlife.ca/gray-whale-unusual-mortality-event-2019-2023/"
+    },
+    {
+      "id": "675d1156-1c7b-4917-a4b1-a8882bfff056",
+      "score": 0.838376,
+      "title": "Closure of 2019\u20132023 Eastern North Pacific Gray Whale Unusual Mortality Event | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/feature-story/closure-2019-2023-eastern-north-pacific-gray-whale-unusual-mortality-event"
+    },
+    {
+      "id": "26cdefdd-5cd6-4aab-8329-705cdb9db516",
+      "score": 0.8380581,
+      "title": "Gray Whales and Climate Change with Dr. Steven Swartz",
+      "url": "https://www.youtube.com/watch?v=t6c6Ji9Krxo"
+    },
+    {
+      "id": "1224bb5b-83cf-4cc3-9567-ae31c2f39958",
+      "score": 0.83290404,
+      "title": "2019-2023 Eastern North Pacific Gray Whale UME (CLOSED) | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/national/marine-life-distress/2019-2023-eastern-north-pacific-gray-whale-ume-closed"
+    },
+    {
+      "id": "3341ce19-976d-4a46-b148-7839adbdeb8f",
+      "score": 0.8325776,
+      "title": "Gray Whales Are Dying From Lack Of Food",
+      "url": "https://www.youtube.com/watch?v=LGaAikc-vi8"
+    },
+    {
+      "id": "e5b4f25d-4a5a-4dc3-8a5f-0da3db70d332",
+      "score": 0.82220376,
+      "title": "Eastern North Pacific Gray Whales Continue Decline After Downturn During Unusual Mortality Event | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/feature-story/eastern-north-pacific-gray-whales-continue-decline-after-downturn-during-unusual"
+    },
+    {
+      "id": "cdcb144a-0306-4566-aeb6-9b08a0d39268",
+      "score": 0.82082915,
+      "title": "Ancient gray whales may have been homebodies",
+      "url": "https://insider.si.edu/2010/11/ancient-gray-whales-may-have-been-homebodies/"
+    },
+    {
+      "id": "70a7dbef-0ef1-4f87-9733-e945e6e443b9",
+      "score": 0.8173562,
+      "title": "Study finds Oregon\u2019s unique \u201cresident\u201d gray whales actually move around quite a bit | Newsroom | Oregon State University",
+      "url": "https://news.oregonstate.edu/news/study-finds-oregon%E2%80%99s-unique-%E2%80%9Cresident%E2%80%9D-gray-whales-actually-move-around-quite-bit"
+    },
+    {
+      "id": "8b0a872b-21d5-46bd-914c-4dfaec426dee",
+      "score": 0.8170061,
+      "title": "Whales\u2019 frozen lifeline - polar feeding grounds \u2014 WWF Protecting Whales & Dolphins Initiative",
+      "url": "https://wwfwhales.org/news-stories/whales-frozen-lifeline"
+    },
+    {
+      "id": "3329bc97-e5f9-4eec-af92-5b9fdc1737ae",
+      "score": 0.81025416,
+      "title": "Effects of sea ice on growth rates of an endangered population of gray whales | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-020-58435-3"
+    },
+    {
+      "id": "1e58361f-f7d5-487c-b08d-53f56bcfdc50",
+      "score": 0.8091708,
+      "title": "Gray Whale Deaths Soar in San Francisco Bay Area: Highest in 25 Years!",
+      "url": "https://www.youtube.com/watch?v=15cjWGsXY_I"
+    },
+    {
+      "id": "618a96ca-2b9a-4f87-820d-95708b8797e2",
+      "score": 0.8080827,
+      "title": "Gray whales are starving and dying off at an alarming rate",
+      "url": "https://www.cbsnews.com/news/gray-whales-starving-dying-pacific/"
+    },
+    {
+      "id": "2d374f5e-3351-46b3-9c2b-3805d1b3d84c",
+      "score": 0.8016413,
+      "title": "West Coast Gray Whales Declined During Unusual Mortality Event, Similar to Past Fluctuations in Numbers | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/feature-story/west-coast-gray-whales-declined-during-unusual-mortality-event-similar-past"
+    },
+    {
+      "id": "2b9b2f9d-ffb8-45ad-bd4a-3e6d8b55cc4b",
+      "score": 0.79845446,
+      "title": "Are Gray Whales Recolonizing the Atlantic?",
+      "url": "https://www.youtube.com/watch?v=0CO4Dl7V6VQ"
+    },
+    {
+      "id": "b9bbca83-933b-4e46-9c02-1f00bccfedce",
+      "score": 0.7978881,
+      "title": "ACS SF Bay \"Gray Whale Tales: Insights Into a Recent Unusual Mortality Event with Barbie Halaska\"",
+      "url": "https://www.youtube.com/watch?v=2FzE6mlgFMA"
+    },
+    {
+      "id": "4c421720-388b-49c7-8f67-40ba8f8faa2a",
+      "score": 0.796562,
+      "title": "Gray Whale Post-Mortem Findings During the Unusual Mortality Event in the Eastern North Pacific | The Marine Mammal Center",
+      "url": "https://www.marinemammalcenter.org/publications/gray-whale-post-mortem-findings-during-the-unusual-mortality-event-in-the-eastern-north-pacific"
+    },
+    {
+      "id": "f892819d-1143-4f7d-843f-9a9b33e68065",
+      "score": 0.79196626,
+      "title": "Gray Whale Calf Count Remains Low in 2024 as Population Slowly Emerges from Multi-Year Decline",
+      "url": "https://www.fisheries.noaa.gov/feature-story/gray-whale-calf-count-remains-low-2024-population-slowly-emerges-multi-year-decline"
+    },
+    {
+      "id": "83374fca-8556-4aab-8976-b11adb3ec66a",
+      "score": 0.79041743,
+      "title": "Declining Sea Ice: Impacts on Arctic Cetaceans \u2013 Shark Research & Conservation Program (SRC) | University of Miami",
+      "url": "https://sharkresearch.earth.miami.edu/declining-sea-ice-impacts-on-arctic-cetaceans/"
+    },
+    {
+      "id": "b16d6e83-ef14-473d-b697-d6ba52008d83",
+      "score": 0.7898345,
+      "title": "Alisa Schulman-Janiger  Lecture Gray whale behaviors & 2019-2022 Gray Whale Unusual Mortality Event",
+      "url": "https://www.youtube.com/watch?v=umCxfKeTE_Y"
+    },
+    {
+      "id": "f54c8582-1c53-42a4-8e34-53eb8ea62dfc",
+      "score": 0.78709817,
+      "title": "Effects of sea ice on growth rates of an endangered ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6994479/"
+    },
+    {
+      "id": "0e71c0b1-c253-45e7-bf5b-c79c55e80e45",
+      "score": 0.77893573,
+      "title": "Gray whale populations showing signs of recovery after an 'unusual mortality event'",
+      "url": "https://www.youtube.com/watch?v=K6OmRJNGvFk"
+    },
+    {
+      "id": "54f6c85f-b873-4d1f-8dd3-1cf1c67018dd",
+      "score": 0.77137923,
+      "title": "Deeper Dive with John Calambokidis - Humpback, Blue and Gray Whales: Human Impacts and New Research",
+      "url": "https://www.youtube.com/watch?v=E8xjJ7P4Rew"
+    },
+    {
+      "id": "b381ab83-e55e-4037-9919-b84e2d538597",
+      "score": 0.7672197,
+      "title": "New Gray Whale Count Shows Further Decline, with Hints of a Turnaround",
+      "url": "https://www.fisheries.noaa.gov/feature-story/new-gray-whale-count-shows-further-decline-hints-turnaround"
+    },
+    {
+      "id": "f85813d0-9840-494a-bcad-f977aa941da5",
+      "score": 0.7646988,
+      "title": "Sea ice directs changes in bowhead whale phenology through the Bering Strait | Movement Ecology | Full Text",
+      "url": "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-023-00374-5"
+    },
+    {
+      "id": "3ef79863-816c-4709-b95b-d1f80db54f49",
+      "score": 0.7621591,
+      "title": "Migratory behavior of eastern North Pacific gray whales ...",
+      "url": "https://repository.library.noaa.gov/view/noaa/24877"
+    },
+    {
+      "id": "bb5b08b0-88c4-4b0e-b7f0-381ed1cd413c",
+      "score": 0.76002824,
+      "title": "Gray Whale Numbers Continue Decline; NOAA Fisheries Will Continue Monitoring",
+      "url": "https://www.fisheries.noaa.gov/feature-story/gray-whale-numbers-continue-decline-noaa-fisheries-will-continue-monitoring"
+    },
+    {
+      "id": "a29165b3-e79b-4157-8073-dfaa89b87074",
+      "score": 0.7591723,
+      "title": "Future seasonal changes in habitat for Arctic whales during predicted ocean warming - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9307241/"
+    },
+    {
+      "id": "3fcffd7a-f064-472f-9a4c-8cdbf00f8291",
+      "score": 0.75268626,
+      "title": "Feds to investigate spike in gray whale deaths on West Coast",
+      "url": "https://www.youtube.com/watch?v=KRiSttJNUNU"
+    },
+    {
+      "id": "9c226f9d-58e2-4f83-a825-92e7fc34e453",
+      "score": 0.751375,
+      "title": "Oregon State researchers find link between gray whale deaths, climate change",
+      "url": "https://www.youtube.com/watch?v=Kp9PxNca-J4"
+    },
+    {
+      "id": "9cb66ee6-7c97-4707-a5a3-c3c22e420037",
+      "score": 0.7491794,
+      "title": "Migration and Feeding of the Gray Whale (Eschrichtius ...",
+      "url": "https://cdnsciencepub.com/doi/10.1139/f62-051"
+    },
+    {
+      "id": "be6d448f-2c0a-47f9-a57a-44f6d9950805",
+      "score": 0.74785584,
+      "title": "Sea ice directs changes in bowhead whale phenology through the Bering Strait (Journal Article) | NSF PAGES",
+      "url": "https://par.nsf.gov/biblio/10395881-sea-ice-directs-changes-bowhead-whale-phenology-through-bering-strait"
+    },
+    {
+      "id": "db1f01ae-a3d4-4756-a44e-752706dea651",
+      "score": 0.74697095,
+      "title": "Mass die-off of grey whales declared over",
+      "url": "https://www.youtube.com/watch?v=TwvszYX29J4"
+    },
+    {
+      "id": "6a12dbb1-58ef-4db4-ba2c-6e75e899e2b8",
+      "score": 0.7304634,
+      "title": "West Coast gray whale deaths linked to warming Arctic",
+      "url": "https://www.youtube.com/watch?v=iE7Pvvs1W8Y"
+    },
+    {
+      "id": "0af2e0bf-9970-423a-808e-b1f6f3973240",
+      "score": 0.7163977,
+      "title": "The Longest Marine Migration: Gray Whales' Epic Journey - A-Z Animals",
+      "url": "https://a-z-animals.com/animals/whales/discover-the-incredible-baleen-whale-migration/"
+    },
+    {
+      "id": "ec51a8d3-d264-4af3-b1f0-b4a08ce063f8",
+      "score": 0.7152057,
+      "title": "A Heartbreaking Afternoon with an Abandoned Gray Whale Calf in San Diego",
+      "url": "https://www.youtube.com/watch?v=1SeHl6uPaUQ"
+    },
+    {
+      "id": "fbb3bc84-0737-4ede-8433-99e9994f839d",
+      "score": 0.7045877,
+      "title": "Text : The Migration Route of the Gray Whale",
+      "url": "https://journeynorth.org/tm/gwhale/map/text.html"
+    },
+    {
+      "id": "fb08953b-d52b-4178-b6b6-14d3f98d069a",
+      "score": 0.7036111,
+      "title": "Gray Whale Species Profile, Alaska Department of Fish and Game",
+      "url": "https://www.adfg.alaska.gov/index.cfm?adfg=graywhale.printerfriendly"
+    },
+    {
+      "id": "d200429a-4a73-4975-937a-b5195fcc33bc",
+      "score": 0.6932451,
+      "title": "Research Highlight: Scientists Find Key Changes in Gray Whale Migration Routes off Southern California | Scripps Institution of Oceanography",
+      "url": "https://scripps.ucsd.edu/news/research-highlight-scientists-find-key-changes-gray-whale-migration-routes-southern-california"
+    },
+    {
+      "id": "fc4e0284-3409-4722-a75d-785f8545b251",
+      "score": 0.68571854,
+      "title": "Gray Whale Research Part 1: Born to Migrate",
+      "url": "https://www.youtube.com/watch?v=Cq2rALmjtsg"
+    },
+    {
+      "id": "13328e80-b5ee-411f-bbef-ad6939f31f96",
+      "score": 0.6617704,
+      "title": "Migrating eastern North Pacific gray whale call and blow ...",
+      "url": "https://www.nature.com/articles/s41598-019-49115-y"
+    },
+    {
+      "id": "39aa2da5-d691-437a-a7b0-0daa46ab2120",
+      "score": 0.6501347,
+      "title": "Sentinels of Change: Gray Whales in the Arctic | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/feature-story/sentinels-change-gray-whales-arctic"
+    },
+    {
+      "id": "c01139ad-4f59-4534-9a3c-0e321a69e473",
+      "score": 0.6388584,
+      "title": "Gray whales likely survived the Ice Ages by changing their diets",
+      "url": "https://news.berkeley.edu/2011/07/06/gray-whales-likely-survived-the-ice-ages-by-changing-their-diets/"
+    },
+    {
+      "id": "6b368955-1a8d-4438-8e1e-62aae90729a2",
+      "score": 0.62248284,
+      "title": "A little bit about Gray Whales!",
+      "url": "https://www.youtube.com/watch?v=27hQURr2HBw"
+    },
+    {
+      "id": "a7d3834e-4379-43e3-a32c-2d9019227b17",
+      "score": 0.5925965,
+      "title": "California Gray Whale Migration: What You Need to Know (and How to See it!) - Kayak Connection",
+      "url": "https://kayakconnection.com/california-gray-whale-migration/"
+    },
+    {
+      "id": "74a03d1d-1c9e-405a-a937-3b9bb1f0a571",
+      "score": 0.559411,
+      "title": "Gray whales survived Ice Age with different diet - Anchorage Daily News",
+      "url": "https://www.adn.com/alaska-news/article/gray-whales-survived-ice-age-different-diet/2011/07/20/"
+    },
+    {
+      "id": "a25928b5-bc3a-47db-80d8-a25578418628",
+      "score": 0.532839,
+      "title": "Grey whale (Eschrichtius robustus) COSEWIC assessment and status report: chapter 9 - Canada.ca",
+      "url": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/grey-whale/chapter-9.html"
+    },
+    {
+      "id": "dc9403df-fc42-46b5-b93c-e75767d6adb8",
+      "score": 0.51691306,
+      "title": "Gray Whales 101 | Best Place to see the Gray Whale Migration | Capt. Dave's Whale Watching",
+      "url": "https://www.youtube.com/watch?v=n7p8xdUxCu4"
+    },
+    {
+      "id": "f2753b71-fa15-4741-b819-54d623316ff6",
+      "score": 0.51091194,
+      "title": "Gray whale | Oregon Department of Fish & Wildlife",
+      "url": "https://myodfw.com/wildlife-viewing/species/gray-whale"
+    },
+    {
+      "id": "5cfd2a8b-04f6-43c4-9546-b5678ad857d9",
+      "score": 0.48616135,
+      "title": "The Journey of the Grey Whale",
+      "url": "https://www.youtube.com/watch?v=Mg2kQm7ktuM"
+    },
+    {
+      "id": "a7ecc271-c727-487c-8a82-a098cd215932",
+      "score": 0.48323447,
+      "title": "Washington State Status Report for the Gray Whale",
+      "url": "https://wdfw.wa.gov/publications/00375"
+    },
+    {
+      "id": "dea9aab2-997c-413c-958a-87843e9c49bb",
+      "score": 0.46847504,
+      "title": "How many grey whales are left in the world 2023? - The Environmental Literacy Council",
+      "url": "https://enviroliteracy.org/how-many-grey-whales-are-left-in-the-world-2023/"
+    },
+    {
+      "id": "5e5d3738-c173-4fd4-85ca-352fdb099e9c",
+      "score": 0.45769477,
+      "title": "Gray whale population at lowest level in six decades",
+      "url": "https://www.facebook.com/groups/1438524067028265/posts/1791151915098810/"
+    },
+    {
+      "id": "556c1d0b-dfd9-4bef-893c-48ed881eb90e",
+      "score": 0.4501424,
+      "title": "Mapping the World's Most Epic Whale Migration Routes",
+      "url": "https://www.youtube.com/watch?v=NMC2TbsYC3U"
+    },
+    {
+      "id": "87760187-f6e2-48f1-9610-9f983418d601",
+      "score": 0.44622982,
+      "title": "The Gray Whale Migration in California and Beyond - Oceanic Society",
+      "url": "https://www.oceanicsociety.org/resources/the-gray-whale-migration-in-california-and-beyond/"
+    },
+    {
+      "id": "db9764d9-c567-4b57-b179-8aa9cdd67191",
+      "score": 0.4431913,
+      "title": "Gray Whale Migration Map",
+      "url": "https://journeynorth.org/tm/gwhale/annual/map.html"
+    },
+    {
+      "id": "cf38824b-f8d8-44d2-80d8-4983d688f81b",
+      "score": 0.43338245,
+      "title": "Scientists Race to Figure Out Why Grey Whale Deaths are ...",
+      "url": "https://www.middlebury.edu/institute/sites/default/files/2022-08/6.13.22_Scuba%20Diving%20Magazine_Scientists%20Race%20to%20Figure%20Out%20Why%20Grey%20Whale%20Deaths%20are%20Spiking.pdf"
+    },
+    {
+      "id": "d68fac40-eed6-4f25-85ac-5306ab04249d",
+      "score": 0.4315129,
+      "title": "Gray whales experience major population swings as a ...",
+      "url": "https://news.oregonstate.edu/news/gray-whales-experience-major-population-swings-result-arctic-conditions-research-shows"
+    },
+    {
+      "id": "08df580f-57cf-4535-8d6c-1f1c11e7fa7d",
+      "score": 0.42477044,
+      "title": "Timing of the gray whale southbound migration",
+      "url": "https://www.researchgate.net/profile/Kim-Shelden/publication/237090523_Timing_of_the_gray_whale_southbound_migration/links/0c96051b77260c5722000000/Timing-of-the-gray-whale-southbound-migration.pdf"
+    },
+    {
+      "id": "d07f1381-05e5-490d-bb4b-c39147b4a786",
+      "score": 0.41449648,
+      "title": "Gray Whales",
+      "url": "https://salishmagazine.org/gray-whales/"
+    },
+    {
+      "id": "a454797f-ef69-446f-ab8d-4e2bc1c839ed",
+      "score": 0.37641734,
+      "title": "The role of the environment at the local and large-scale ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352485524000537"
+    },
+    {
+      "id": "a078c712-495e-4f12-8c5e-f627e5eff7d4",
+      "score": 0.3607373,
+      "title": "Gray Whale Migration Route",
+      "url": "https://journeynorth.org/tm/gwhale/MigrationRoute_Map2009.html"
+    },
+    {
+      "id": "b954aee3-e6e0-439e-92ed-359e228ffbe5",
+      "score": 0.35824135,
+      "title": "Killer Whales vs. Gray Whales | National Geographic",
+      "url": "https://www.youtube.com/watch?v=MqRzdpd3tAs"
+    },
+    {
+      "id": "58c3d874-2f72-4d74-b122-482a7bc64f0a",
+      "score": 0.35461238,
+      "title": "10 Heaviest Animals in the World",
+      "url": "https://www.thecoolist.com/environment/animals/heaviest/"
+    },
+    {
+      "id": "eca3603d-c310-4893-a70d-e3b1251df0fd",
+      "score": 0.35240287,
+      "title": "Gray Whales in the Eastern North Pacific | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/west-coast/science-data/gray-whales-eastern-north-pacific"
+    },
+    {
+      "id": "b6750f6e-3240-42d6-b6df-8698e7557b49",
+      "score": 0.3443558,
+      "title": "Future recovery of baleen whales is imperiled by climate change",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14573"
+    },
+    {
+      "id": "26a16935-57ab-4fcb-8948-795af16d83ba",
+      "score": 0.30613327,
+      "title": "The Gray Whale: Past, Present, and Future",
+      "url": "https://education.nationalgeographic.org/resource/gray-whale-past-present-and-future/"
+    },
+    {
+      "id": "c15830a3-723c-40b2-a961-4f96ed7f1201",
+      "score": 0.2859304,
+      "title": "r/Cryptozoology on Reddit: Grey whale, previously thought extinct in the Atlantic, spotted off Massachusetts coast",
+      "url": "https://www.reddit.com/r/Cryptozoology/comments/1b87wwo/grey_whale_previously_thought_extinct_in_the/"
+    },
+    {
+      "id": "d0e2228a-31ba-44c4-b405-f095f05768dc",
+      "score": 0.27563685,
+      "title": "Dr. James Sumich, \u201cGray Whale Populations: The Eastern/Western Paradox\u201d",
+      "url": "https://www.youtube.com/watch?v=F5eeE_CSbmA"
+    },
+    {
+      "id": "d936363e-031b-4f72-b1a4-51787b51f7fc",
+      "score": 0.23662248,
+      "title": "Gray Whale Population Abundance | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/west-coast/science-data/gray-whale-population-abundance"
+    },
+    {
+      "id": "65954288-34f8-4d89-a8aa-8981e46f8d11",
+      "score": 0.21980645,
+      "title": "Gray Whale | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/gray-whale"
+    },
+    {
+      "id": "1a79c88e-fe74-4399-a693-424b59f1c448",
+      "score": 0.21344313,
+      "title": "Killer Whale: Populations | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/killer-whale/populations"
+    },
+    {
+      "id": "09684a97-b978-4073-bfea-d2a589f47f27",
+      "score": 0.163379,
+      "title": "Gray Whale Condition and Calf Production | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/west-coast/science-data/gray-whale-condition-and-calf-production"
+    },
+    {
+      "id": "ee22011e-a994-4043-b436-469e1553bddd",
+      "score": 0.1509655,
+      "title": "Whale Migration patterns in the Arctic",
+      "url": "https://www.youtube.com/watch?v=7O5gYsb9axQ"
+    },
+    {
+      "id": "10f65da3-379a-4663-9dcb-5a77ea4d4602",
+      "score": 0.13138507,
+      "title": "What Is Grey Whale Migration? - The Wild Life Explorer",
+      "url": "https://www.youtube.com/watch?v=bJx0AOqrFrk"
+    },
+    {
+      "id": "54568d37-5dff-4e0a-b597-1545dd5422c7",
+      "score": 0.11809006,
+      "title": "A New Index to Willis\u2019s Posts",
+      "url": "https://wattsupwiththat.com/2018/01/20/a-new-index-to-williss-posts/"
+    },
+    {
+      "id": "8deafc4e-c647-4de3-9772-eee6e40caf99",
+      "score": 0.1144182,
+      "title": "Gray whale - Whale & Dolphin Conservation USA",
+      "url": "https://us.whales.org/whales-dolphins/species-guide/gray-whale/"
+    },
+    {
+      "id": "4a1486b5-6d6b-40f7-84c3-1af74d7c357a",
+      "score": 0.112356596,
+      "title": "r/whales on Reddit: Rare gray whale, extinct in the Atlantic for 200 years, spotted near Nantucket",
+      "url": "https://www.reddit.com/r/whales/comments/1b829yj/rare_gray_whale_extinct_in_the_atlantic_for_200/"
+    },
+    {
+      "id": "8f25f030-b7b0-4c21-ab83-c3fb545ed48f",
+      "score": 0.09654403,
+      "title": "Gray Whale Migration: An Epic Ocean Voyage #beamazedbytruthfunfacts #GrayWhaleMigration #OceanGiants",
+      "url": "https://www.youtube.com/watch?v=uNozYIVSv74"
+    },
+    {
+      "id": "37f657f0-61f9-4b79-968b-7059b00b5c3b",
+      "score": 0.09411855,
+      "title": "Frequent Questions: West Coast Gray Whale Unusual Mortality Event | NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/west-coast/marine-life-distress/frequent-questions-west-coast-gray-whale-unusual-mortality-event"
+    },
+    {
+      "id": "a06c400b-55e2-4308-899f-fbc78ffa8574",
+      "score": 0.06534802,
+      "title": "How Did California's Gray Whale Population Recover? - Learn About California",
+      "url": "https://www.youtube.com/watch?v=mONsUn7kkx4"
+    }
+  ]
+}

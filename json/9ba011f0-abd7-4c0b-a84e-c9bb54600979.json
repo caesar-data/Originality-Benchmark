@@ -1,0 +1,398 @@
+{
+  "id": "9ba011f0-abd7-4c0b-a84e-c9bb54600979",
+  "status": "completed",
+  "content": "TRUE.\n\nBased on the 2025 World Robotics report from the International Federation of Robotics (IFR), the ranking of the top industrial robot markets by annual installations in 2024 is factually correct as stated[1][2]. China is the largest market, followed by Japan, the United States, and the Republic of Korea[3].\n\n## Industrial Robot Installations by Country (2024)\n\nThe data for annual installations confirms the specified order of the world's largest industrial robot markets[1].\n\n| Rank | Country | Annual Installations (2024) |\n|---|---|---|\n| 1 | China | 295,000 units[1][4] |\n| 2 | Japan | 44,500 units[1][5] |\n| 3 | United States | 34,200 units[1] |\n| 4 | Republic of Korea | 30,600 units[1] |\n\n### Market Leader: China\n\nChina is by far the world's largest market for industrial robots, with annual installations reaching a record high of 295,000 units in 2024[4][7]. This represents a 7% increase from 2023[8][9]. China's installations account for 54% of all global deployments, meaning more than one out of every two robots installed worldwide in 2024 went into a Chinese factory[1][8][10]. The country's total operational stock of industrial robots now stands at over 2 million units[3][12].\n\n### Other Leading Markets\n\n*   **Japan** maintained its position as the second-largest market, installing 44,500 units in 2024, a slight decrease of 4% from the previous year[1][5][13]. Japan's operational stock grew by 3% to 450,500 units[1][5].\n*   The **United States** ranks third, with 34,200 new installations in 2024[1]. This figure represents a 9% decline from the prior year[1].\n*   The **Republic of Korea** is the fourth-largest market, having installed 30,600 units in 2024, which was a 3% decrease[1].\n\nThese four countries, along with Germany (the world's fifth-largest market with 26,982 installations), collectively accounted for 78% of global industrial robot installations in 2024[2][1].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "59443ffd-2a3a-4e7c-9dc0-703e8d73daf2",
+      "score": 0.93762916,
+      "title": "IFR: industrial robot deployments have doubled in 10 years",
+      "url": "https://www.therobotreport.com/ifr-industrial-robot-deployments-have-doubled-in-10-years/",
+      "citation_index": 1
+    },
+    {
+      "id": "d1eabd60-8570-4ad7-a886-d481654e3416",
+      "score": 0.73596483,
+      "title": "Industrial Robots",
+      "url": "https://ifr.org/img/worldrobotics/Executive_Summary_WR_2024_Industrial_Robots.pdf",
+      "citation_index": 2
+    },
+    {
+      "id": "9352d62d-e732-4783-b9d7-485788b22950",
+      "score": 0.8106142,
+      "title": "China installing nearly 10 times as many robots in factories ...",
+      "url": "https://nypost.com/2025/09/29/business/china-installing-nearly-10-times-as-many-robots-in-factories-as-the-us/",
+      "citation_index": 3
+    },
+    {
+      "id": "5f534464-6e55-42bb-9afb-b3b7aae38cd1",
+      "score": 0.6811549,
+      "title": "China installing nearly 10 times as many robots in factories as the US",
+      "url": "https://nypost.com/2025/09/29/business/china-installing-nearly-10-times-as-many-robots-in-factories-as-the-us/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+      "citation_index": 3
+    },
+    {
+      "id": "af03b5d1-b7d5-4081-80d0-605ae529c488",
+      "score": 0.96372885,
+      "title": "China leads global industrial robot market with record ...",
+      "url": "http://www.focac.org/eng/zjfz_1/ssxw/202509/t20250925_11717268.htm",
+      "citation_index": 4
+    },
+    {
+      "id": "ff99916d-f11a-45eb-8e89-95f649a7d56e",
+      "score": 0.95438045,
+      "title": "Global Robot Demand in Factories Doubles Over 10 Years - International Federation of Robotics",
+      "url": "https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles-over-10-years",
+      "citation_index": 5
+    },
+    {
+      "id": "f5df3926-96d4-4148-a02a-91436a4d1dde",
+      "score": 0.960838,
+      "title": "China leads global industrial robot market with record installations: IFR - Chinadaily.com.cn",
+      "url": "https://global.chinadaily.com.cn/a/202509/26/WS68d5f3bea3108622abca3150.html",
+      "citation_index": 7
+    },
+    {
+      "id": "200a464b-3ebf-4205-bef2-79a34db63f72",
+      "score": 0.95618236,
+      "title": "\"World Robotics Report 2025\" Released: China Dominates ...",
+      "url": "https://eu.36kr.com/en/p/3483537185168257",
+      "citation_index": 8
+    },
+    {
+      "id": "a8e41b68-29b9-4be8-8d94-6259f8e96402",
+      "score": 0.9581049,
+      "title": "China leads global industrial robot market with record installations: IFR _Guangming Online",
+      "url": "https://en.gmw.cn/2025-09/26/content_38310399.htm",
+      "citation_index": 9
+    },
+    {
+      "id": "51f5f62e-4cdb-403c-8b07-2a82800d32e7",
+      "score": 0.9502313,
+      "title": "China Defies Global Trend: Industrial Robot Installations Soar 5% in 2024",
+      "url": "https://www.youtube.com/watch?v=yK_82N9__48",
+      "citation_index": 10
+    },
+    {
+      "id": "f834c573-cf31-41c3-ae55-6a3f9b26b9b4",
+      "score": 0.9466806,
+      "title": "China Dominates Industrial Robot Installation",
+      "url": "https://www.foundrymag.com/issues-and-ideas/news/55320008/china-dominates-industrial-robot-installation-international-federation-of-robotics",
+      "citation_index": 12
+    },
+    {
+      "id": "db9ca985-231f-4e4e-b3c0-5eb9a5813268",
+      "score": 0.9520821,
+      "title": "Global factory robot demand doubles in 10 years, says IFR report",
+      "url": "https://roboticsandautomationnews.com/2025/09/26/global-robot-demand-in-factories-doubles-over-10-years-according-to-new-report/94863/",
+      "citation_index": 13
+    },
+    {
+      "id": "83b2a6cd-0d22-4f1e-9a66-887f662afb00",
+      "score": 0.95724994,
+      "title": "China Leads Global Industrial Robot Adoption: A 2024 Overview",
+      "url": "https://www.youtube.com/watch?v=9vGy6PauQnY"
+    },
+    {
+      "id": "7f8bb3f1-dd69-4a3f-b5ca-4c52c3fe99fc",
+      "score": 0.95667076,
+      "title": "Annual installations of robotics hit 500k for fourth year in row",
+      "url": "https://www.electronicspecifier.com/industries/robotics/annual-installations-of-robotics-hit-500k-for-fourth-year-in-row/"
+    },
+    {
+      "id": "3e0039e3-116b-4b78-99df-26e15921fc7d",
+      "score": 0.9558869,
+      "title": "China Installed Nearly 300,000 Industrial Robots in 2024, More Than All Other Markets Combined \u00b7 TechNode",
+      "url": "https://technode.com/2025/10/02/china-installed-nearly-300000-industrial-robots-in-2024-more-than-all-other-markets-combined/"
+    },
+    {
+      "id": "449b84cc-f83b-4820-bbb3-bc0576fc2c66",
+      "score": 0.95529,
+      "title": "Global Robot Demand in Factories Doubles Over 10 Years",
+      "url": "https://www.home-of-welding.com/news/global-robot-demand-in-factories-doubles-over-10-years-5835"
+    },
+    {
+      "id": "73e61ba3-7217-48ae-b0d3-54121e0b31c9",
+      "score": 0.95154464,
+      "title": "China's Industrial Robot Market Surges 5% Amid Global Decline",
+      "url": "https://www.youtube.com/watch?v=S0Vx_3Tjjoo"
+    },
+    {
+      "id": "c15450c1-f327-4651-b8f3-edc73a43841f",
+      "score": 0.94276565,
+      "title": "Japan hits industrial robot 5 year record - IoT M2M Council",
+      "url": "https://www.iotm2mcouncil.org/iot-library/news/connected-industries-news/japan-hits-industrial-robot-5-year-high/"
+    },
+    {
+      "id": "71b753e9-2a84-4197-af18-eb4685ce5281",
+      "score": 0.9409691,
+      "title": "Global Robotics Market Surges: Comprehensive Analysis of IFR World Robotics Report 2024",
+      "url": "https://statzon.com/insights/global-robotics-market-surges-comprehensive-analysis-of-ifr-world-robotics-report-2024"
+    },
+    {
+      "id": "46999dc2-6b93-40cd-a5f9-7d867274f0fe",
+      "score": 0.9407083,
+      "title": "China's Robot Army: The $6 Billion Plan to Dominate Global Industry",
+      "url": "https://www.youtube.com/watch?v=Jp_co2ZdkUA"
+    },
+    {
+      "id": "d278a69f-25eb-4745-bd3b-8eac1e5c58d5",
+      "score": 0.9392538,
+      "title": "China Surges Ahead: Industrial Robot Installations Defy Global Slump | Robotics Market Insights",
+      "url": "https://www.youtube.com/watch?v=rG5VRgvR5-s"
+    },
+    {
+      "id": "2fee2e02-8b65-41ca-ae16-7bbbbdc96e7b",
+      "score": 0.9387167,
+      "title": "Japan: number of industrial robot installations 2023 | Statista",
+      "url": "https://www.statista.com/statistics/869489/japan-estimated-supply-industrial-robots/"
+    },
+    {
+      "id": "4c0a2ede-3847-48b4-9eb9-94ab544c232e",
+      "score": 0.93707865,
+      "title": "Japan\u2019s Car Industry has Highest Robot Installations in Five Years - International Federation of Robotics",
+      "url": "https://ifr.org/ifr-press-releases/news/japans-car-industry-has-highest-robot-installations-in-five-years"
+    },
+    {
+      "id": "e110e65d-3cd8-4512-832b-f967efb59c96",
+      "score": 0.93694025,
+      "title": "Japan's Car Industry Has Highest Robot Installations in Five Years - Rockingrobots",
+      "url": "https://www.rockingrobots.com/japans-car-industry-has-highest-robot-installations-in-five-years/"
+    },
+    {
+      "id": "f7a7994b-5d70-476c-9a0b-3d6900524883",
+      "score": 0.93694025,
+      "title": "Japan's Car Industry Has Highest Robot Installations in ...",
+      "url": "https://www.businesswire.com/news/home/20250714601866/en/Japans-Car-Industry-Has-Highest-Robot-Installations-in-Five-Years"
+    },
+    {
+      "id": "71935157-ee10-4763-90e1-b398a8381edf",
+      "score": 0.933534,
+      "title": "Your Car, Built by Robots: The Rise of Industrial Robots in China",
+      "url": "https://techbuzzchina.substack.com/p/your-car-built-by-robots-the-rise"
+    },
+    {
+      "id": "702c9ff2-7e31-4514-bc13-ce1d14032273",
+      "score": 0.93161833,
+      "title": "Japanese automotive industry hits five year high in ...",
+      "url": "https://www.therobotreport.com/japanese-automotive-industry-hits-five-year-high-automation/"
+    },
+    {
+      "id": "d94bc149-a600-425c-89ac-eba799e0cb21",
+      "score": 0.9305657,
+      "title": "EV commitment boosts industrial robot installation in Japan",
+      "url": "https://www.automotivelogistics.media/ev-and-battery/japans-auto-industry-sees-increase-in-robot-installations/645775"
+    },
+    {
+      "id": "1b8872f1-a70e-459d-997e-a6b45b0d340d",
+      "score": 0.9257218,
+      "title": "Industrial Robotics - South Korea | Market Forecast",
+      "url": "https://www.statista.com/outlook/tmo/robotics/industrial-robotics/south-korea"
+    },
+    {
+      "id": "3dfc7728-d7ce-4916-b0ac-0cf36ca10fae",
+      "score": 0.9158166,
+      "title": "IFR World Robotics report says 4M robots are operating in factories globally - The Robot Report",
+      "url": "https://www.therobotreport.com/ifr-4-million-robots-operating-globally-world-robotics-report/"
+    },
+    {
+      "id": "86adf707-7d16-4c54-b826-1f0549b7ee07",
+      "score": 0.915091,
+      "title": "Record of 4 Million Robots in Factories Worldwide - International Federation of Robotics",
+      "url": "https://ifr.org/ifr-press-releases/news/record-of-4-million-robots-working-in-factories-worldwide"
+    },
+    {
+      "id": "1bc975d6-3d24-424c-9c38-5c377756ae1b",
+      "score": 0.90849644,
+      "title": "Is China Winning the Race for Robotics?",
+      "url": "https://theaiinsider.tech/2025/10/04/is-china-winning-the-race-for-robotics/"
+    },
+    {
+      "id": "f5aaa2b8-fed1-4611-94a3-89b8db543164",
+      "score": 0.90593183,
+      "title": "World Robotics 2025 - Industrial Robots press conference",
+      "url": "https://www.youtube.com/watch?v=w1xGp-S3Mf4"
+    },
+    {
+      "id": "e968c9a0-7439-4f6b-8a91-cde051a88f8f",
+      "score": 0.9053309,
+      "title": "World Robotics 2023 report: Asia ahead of Europe and the Americas",
+      "url": "https://robohub.org/world-robotics-2023-report-asia-ahead-of-europe-and-the-americas/"
+    },
+    {
+      "id": "1d738054-da51-4b37-8dbc-a0b632d7d18a",
+      "score": 0.89279664,
+      "title": "Articulated Robot Market Size, Trends, Demand & Growth by 2033",
+      "url": "https://straitsresearch.com/report/articulated-robot-market"
+    },
+    {
+      "id": "f6493348-79d5-4f77-b905-58b1935cf88c",
+      "score": 0.89166987,
+      "title": "As China's population falls, 300000-strong robot army ...",
+      "url": "https://www.scmp.com/economy/china-economy/article/3327793/chinas-population-falls-300000-strong-robot-army-keeps-factories-humming"
+    },
+    {
+      "id": "60f39edd-bdb6-4cb9-a4ac-3e1cef8a536d",
+      "score": 0.8909888,
+      "title": "Robot Market Size, Share & Industry Forecast Report, 2025-2034",
+      "url": "https://www.gminsights.com/industry-analysis/robot-market"
+    },
+    {
+      "id": "c6c73b8f-e394-4bf8-bd5d-54bf2b6769c0",
+      "score": 0.86713725,
+      "title": "100+ Must-Know Robotics Statistics 2025",
+      "url": "https://www.aiprm.com/robotics-statistics/"
+    },
+    {
+      "id": "32ffa65c-1360-4efe-9295-a10cf7d6fa47",
+      "score": 0.8415267,
+      "title": "Industrial Robotics Market Size, Share, Forecast 2024-2032",
+      "url": "https://www.inkwoodresearch.com/reports/industrial-robotics-market/"
+    },
+    {
+      "id": "d6629abf-8d74-4c4d-8a36-969aec8a42f5",
+      "score": 0.8315952,
+      "title": "Industrial Robotics - United States | Market Forecast",
+      "url": "https://www.statista.com/outlook/tmo/robotics/industrial-robotics/united-states"
+    },
+    {
+      "id": "6948f2c8-e354-4b36-a964-49fd6733108b",
+      "score": 0.8282873,
+      "title": "Industrial Robots Market Size & Share Trends, 2034",
+      "url": "https://www.industryresearch.biz/market-reports/industrial-robots-market-108918"
+    },
+    {
+      "id": "7e630ea3-5a4f-4369-a105-062537bdc9f3",
+      "score": 0.7827459,
+      "title": "Japan: industrial robot installations by industry | Statista",
+      "url": "https://www.statista.com/statistics/1319858/japan-number-industrial-robot-installations-by-industry/"
+    },
+    {
+      "id": "2c00c603-f9b1-4eb7-a49b-0d317e1a85c6",
+      "score": 0.78194773,
+      "title": "China Aims To Mass-Produce Humanoid Robots By 2025",
+      "url": "https://www.ubergizmo.com/2023/11/china-mass-produce-humanoid-robots-by-2025/"
+    },
+    {
+      "id": "fbc6146c-d571-4361-af77-02b1656c2e0f",
+      "score": 0.76951396,
+      "title": "Record 1.7 million Robots Working in China's Factories",
+      "url": "https://ifr.org/downloads/press2018/2024-SEP-24_IFR_press_release_World_Robotics_2024_-_China.pdf"
+    },
+    {
+      "id": "cfa6386f-8ac6-4fb8-ad39-308c4af78606",
+      "score": 0.767638,
+      "title": "Which Countries Have the Most Industrial Robots?",
+      "url": "https://www.visualcapitalist.com/which-countries-have-the-most-industrial-robots/"
+    },
+    {
+      "id": "022a82bd-2c63-42b2-a276-fe82e8611cef",
+      "score": 0.6959795,
+      "title": "Industrial Robot Forecast Update: Wide Variations Across ...",
+      "url": "https://interactanalysis.com/insight/industrial-robot-forecast-update-wide-variations-across-robot-types-regions-and-industries/"
+    },
+    {
+      "id": "5a42d315-a175-45b3-8792-2dbf0d135058",
+      "score": 0.6824261,
+      "title": "China installed 290000 industrial robots in 2024; twice as ...",
+      "url": "https://www.reddit.com/r/Futurology/comments/1msrsmn/china_installed_290000_industrial_robots_in_2024/"
+    },
+    {
+      "id": "489212a1-651d-445c-a111-23d1b7ca34e3",
+      "score": 0.57952,
+      "title": "China Surges Ahead in Industrial Robotics | Global Decline Reversed",
+      "url": "https://www.youtube.com/watch?v=ZfIA5AiPHeE"
+    },
+    {
+      "id": "88770475-a61b-4ccd-9174-0e0cb9c5ee23",
+      "score": 0.5717911,
+      "title": "Robot Installations Top 500,000 a Year; China Dominates",
+      "url": "https://www.iotworldtoday.com/robotics/robot-installations-top-500-000-a-year-china-dominates"
+    },
+    {
+      "id": "958696f6-929f-4b97-9a27-8840d594d4e3",
+      "score": 0.5617203,
+      "title": "Chart: Asia Leads Industrial Robot Installations",
+      "url": "https://www.statista.com/chart/32238/annual-installations-of-industrial-robots/?srsltid=AfmBOoqgipdH3IQvQ9R-LU5RSitnjUM7g5xnoCuTwKIXfispWBJgYycc"
+    },
+    {
+      "id": "56bc9854-9f2c-4727-8e08-0bc1e3e1632a",
+      "score": 0.5550741,
+      "title": "Chart: Asia Races Ahead in Industrial Robot Installations | Statista",
+      "url": "https://www.statista.com/chart/32238/annual-installations-of-industrial-robots/"
+    },
+    {
+      "id": "ab31aaa2-4237-4dd1-9e8b-28ce54471716",
+      "score": 0.5481178,
+      "title": "Industrial Robotics - South Korea | Market Forecast",
+      "url": "https://www.statista.com/outlook/tmo/robotics/industrial-robotics/south-korea?currency=USD&srsltid=AfmBOorfkTlTDS5L2OwfcaQUf6t-LEemR1JZNGRjYTpnBt94Hhqpe-G4"
+    },
+    {
+      "id": "d1f1d89b-6fa7-441e-8060-cac33d849096",
+      "score": 0.52115494,
+      "title": "Charted: The Growth of Industrial Robots by Country",
+      "url": "https://www.visualcapitalist.com/the-growth-of-industrial-robots-by-country/"
+    },
+    {
+      "id": "f83469ba-130d-40c1-94c6-f9188d774975",
+      "score": 0.514718,
+      "title": "There Are More Robots Working in China Than the Rest of the World Combined - The New York Times",
+      "url": "https://www.nytimes.com/2025/09/25/business/china-factory-robots.html"
+    },
+    {
+      "id": "bb7d0b3b-6b94-4aa8-bd65-3c5474b3a962",
+      "score": 0.49963441,
+      "title": "International Federation of Robotics (IFR) Secretariat President Marina Bill",
+      "url": "https://ifr.org/downloads/press2018/2024-SEP-24_IFR_press_release_World_Robotics_2024_-_Japan.pdf"
+    },
+    {
+      "id": "e4075b65-6e93-4c05-8206-e5956c4b5c13",
+      "score": 0.49582586,
+      "title": "World Robotics - Industrial Robots",
+      "url": "https://ifr.org/wr-industrial-robots/"
+    },
+    {
+      "id": "e0726078-347f-489f-bcd7-de82b69efbe0",
+      "score": 0.4948006,
+      "title": "Demand For Industrial Robots On The Rise",
+      "url": "https://www.youtube.com/watch?v=QeUY9rEfuJA"
+    },
+    {
+      "id": "97e85ab8-dc5a-450b-8ad4-7780d61efaee",
+      "score": 0.49392182,
+      "title": "Global Collaborative Robot Industry Report 2023-2028: Increasing Competition in the Co-Bot Marketspace/increased Adoption of Robot-as-a-Service Model",
+      "url": "https://www.globenewswire.com/news-release/2023/06/27/2694984/28124/en/Global-Collaborative-Robot-Industry-Report-2023-2028-Increasing-Competition-in-the-Co-Bot-Marketspace-increased-Adoption-of-Robot-as-a-Service-Model.html"
+    },
+    {
+      "id": "d0d726b9-9aaa-4453-8190-4a10689e78aa",
+      "score": 0.48499045,
+      "title": "Chart: Asia Leads Industrial Robot Installations",
+      "url": "https://www.statista.com/chart/32238/annual-installations-of-industrial-robots/?srsltid=AfmBOorXg3QISxgrY3fAfRdWkttqWdQSwArKhGTmCvN9AeD3OtSh5Tdn"
+    },
+    {
+      "id": "2779018f-f0d9-4e15-8835-2f5ac048b04d",
+      "score": 0.3899187,
+      "title": "Chinese Robots Hit the Factory Floor - The Wire China",
+      "url": "https://www.thewirechina.com/2024/12/15/chinese-robots-hit-the-factory-floor-industrial/"
+    },
+    {
+      "id": "1670b343-0546-4daf-8037-3ce53dddca82",
+      "score": 0.37703645,
+      "title": "How Innovative Is China in the Robotics Industry? | ITIF",
+      "url": "https://itif.org/publications/2024/03/11/how-innovative-is-china-in-the-robotics-industry/"
+    },
+    {
+      "id": "4a52a389-55af-4023-b9b3-3dbe08f18f68",
+      "score": 0.3510001,
+      "title": "Demand for factory robots doubles in 10 years | Manufacturing Asia",
+      "url": "https://manufacturing.asia/industrial/in-focus/demand-factory-robots-doubles-in-10-years"
+    },
+    {
+      "id": "7a829ba9-a537-4515-81f7-e88f670f6e9d",
+      "score": 0.3142825,
+      "title": "All Eyes on K-Robots: The Status and Strategy of Korea's Robotics IndustryView Details | Industry Focus | InvestKOREA(ENG)",
+      "url": "https://www.investkorea.org/ik-en/bbs/i-5025/detail.do?ntt_sn=490807"
+    }
+  ]
+}

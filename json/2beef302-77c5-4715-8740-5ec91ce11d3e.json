@@ -1,0 +1,209 @@
+{
+  "id": "2beef302-77c5-4715-8740-5ec91ce11d3e",
+  "status": "completed",
+  "content": "TRUE.\n\nResearchers at the University of Washington (UW) have developed a shape-changing smart speaker system that allows users to mute specific areas within a room[1][2][3]. The system uses a swarm of self-deploying mobile microphones to divide a room into distinct \"speech zones,\" track the location of individual speakers, and selectively manage audio capture[4][5].\n\n## System Design and Functionality\n\nThe technology, referred to as a robotic \"acoustic swarm,\" utilizes a fleet of small, inch-in-diameter robots that function as mobile microphones[7]. These robots, likened to a \"fleet of Roombas,\" automatically deploy from a central charging station and position themselves for optimal sound differentiation[2][1]. The prototype consists of seven such robots that disperse across a surface, using high-frequency sound to navigate and avoid obstacles[7][8].\n\nBy spreading out, the microphones maximize the distance between each other, which enhances the system's ability to locate and differentiate speakers[7]. This automated deployment allows the system to be moved between environments and set itself up without manual configuration[1].\n\n## Core Technology and Performance\n\nThe system's capabilities are driven by deep-learning algorithms developed by the UW team[2][9]. These neural networks analyze the time-delayed signals of a person's voice arriving at the different microphones[1]. As explained by co-lead author Tuochao Chen, a voice will arrive first at the microphone closest to the speaker, and this time difference is used to separate what each person is saying and track their position[1][11].\n\nThis allows the system to separate simultaneous conversations and isolate individual voices, even when speakers are adjacent and have similar voice timbres[3][2].\n\n*   **Accuracy**: In tests conducted in various environments with three to five speakers, the system could distinguish between different voices within 1.6 feet (50 centimeters) of each other 90% of the time[7].\n*   **Speed**: The system processes three seconds of audio in an average of 1.82 seconds, which is fast enough for live streaming applications, though slightly too slow for real-time communications like video calls[7].\n\n## Applications and Future Directions\n\nA primary application of the technology is enhanced privacy and audio control[9]. According to co-lead author Malek Itani, a UW doctoral student, a user could command the system to create a \"mute zone\" or a \"sound bubble\" where audio is not recorded[7][12]. For instance, a user could say, \"Don\u2019t record anything around my desk,\" and the system would create a three-foot bubble in which nothing is recorded[4][13]. This could also be used to keep a private conversation from being recorded while another conversation nearby is being captured[1].\n\nOther potential uses include:\n*   **Smart Homes**: Deploying acoustic swarms to better differentiate commands given to smart speakers. For example, creating an \"active zone\" on a couch where only people sitting there can vocally control a TV[15].\n*   **Conference Rooms**: Using the system in place of a central microphone to allow for better control and clarity of in-room audio[16][11].\n\nThe research team plans to develop microphone robots that can move around entire rooms, not just on tables, and is also investigating whether the speakers can emit sound to create real-world active zones where people in different parts of a room can hear different audio.\n\nThis research is distinct from other UW audio projects like \"Target Speech Hearing\" and \"semantic hearing,\" which focus on AI-powered headphones that allow a wearer to filter or select specific sounds in their environment[18][19].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "6d930d25-248a-4c80-9dbd-65910365f898",
+      "score": 0.9053309,
+      "title": "UW team\u2019s shape-changing smart speaker lets users mute different areas of a room | UW News",
+      "url": "https://www.washington.edu/news/2023/09/21/shape-changing-smart-speaker-ai-noise-canceling-alexa-robot/",
+      "citation_index": 1
+    },
+    {
+      "id": "2434d06f-426f-4a2e-b476-7575587c8016",
+      "score": 0.9443876,
+      "title": "Sound control: Shape-shifting smart speaker can mute specific areas of rooms",
+      "url": "https://studyfinds.org/shape-shifting-smart-speaker/",
+      "citation_index": 2
+    },
+    {
+      "id": "b917d582-57dd-4936-87f3-92233ae2e847",
+      "score": 0.89030397,
+      "title": "Shape-changing smart speaker lets users mute different areas of a room",
+      "url": "https://www.sciencedaily.com/releases/2023/09/230921105720.htm",
+      "citation_index": 3
+    },
+    {
+      "id": "411d0414-8b60-4da0-977a-e433bc295119",
+      "score": 0.9159971,
+      "title": "Research team's shape-changing smart speaker lets users mute different areas of a room",
+      "url": "https://techxplore.com/news/2023-09-team-shape-changing-smart-speaker-users.html",
+      "citation_index": 4
+    },
+    {
+      "id": "d1d7d4ae-fed6-4112-8ccc-8a973db27ed1",
+      "score": 0.6762998,
+      "title": "'Acoustic Swarming' Smart Speakers ...",
+      "url": "https://www.eenewseurope.com/en/acoustic-swarming-smart-speakers/",
+      "citation_index": 5
+    },
+    {
+      "id": "6125f1f8-4e2a-4356-a03a-b02bb2e77d41",
+      "score": 0.923268,
+      "title": "University of Washington Team Develops Shape-Changing Smart Speaker Allowing Users to Mute Specific Areas of a Room \u2013 India Education | Latest Education News | Global Educational News | Recent Educational News",
+      "url": "https://indiaeducationdiary.in/university-of-washington-team-develops-shape-changing-smart-speaker-allowing-users-to-mute-specific-areas-of-a-room/",
+      "citation_index": 7
+    },
+    {
+      "id": "655ca99c-c8f6-43b7-9fff-73fa53a9aa04",
+      "score": 0.9106172,
+      "title": "Shape-changing smart speaker lets users mute certain areas of a room",
+      "url": "https://www.techexplorist.com/shape-changing-smart-speaker-lets-users-mute-certain-areas-room/70710/",
+      "citation_index": 8
+    },
+    {
+      "id": "8ad5db68-18d7-45b1-908e-b7f4298b8d12",
+      "score": 0.9065293,
+      "title": "Researchers build robotic 'acoustic swarm' to mute areas of a room | Robotics and Automation",
+      "url": "https://www.roboticsandautomationmagazine.co.uk/video/researchers-build-robotic-acoustic-swarm-to-mute-areas-of-a-room.html",
+      "citation_index": 9
+    },
+    {
+      "id": "5a3a8a65-5cf6-412b-a2b6-70384a22421d",
+      "score": 0.875031,
+      "title": "University of Washington's Smart Speaker Can Change Shape, Mute Different Sections of a Room - TechEBlog",
+      "url": "https://www.techeblog.com/university-of-washington-smart-speaker-shape-change-mute/",
+      "citation_index": 11
+    },
+    {
+      "id": "7f0b8d18-6467-43d5-a430-49b380cfa852",
+      "score": 0.81133276,
+      "title": "Autonomous audio robot swarm can mute conversations in chaotic rooms",
+      "url": "https://newatlas.com/technology/uw-room-noise-cancellation/",
+      "citation_index": 12
+    },
+    {
+      "id": "e79b7abe-767f-4d87-a8ca-11e150c1bcfd",
+      "score": 0.91936076,
+      "title": "Shape-Changing Smart Speaker Lets Users Mute Areas of a Room - Tech Briefs",
+      "url": "https://www.techbriefs.com/component/content/article/49335-shape-changing-smart-speaker-lets-users-mute-areas-of-a-room",
+      "citation_index": 13
+    },
+    {
+      "id": "5437f2de-fa72-4653-bea5-e83bce478a35",
+      "score": 0.92857105,
+      "title": "Mute on Demand: Researchers Develop Shape-Changing Speaker to Allow Control Over Room Sound | Hearing Health & Technology Matters",
+      "url": "https://hearinghealthmatters.org/hearing-technologies/2023/smart-speakers-mute-room-noise/",
+      "citation_index": 15
+    },
+    {
+      "id": "bc577284-d66e-4ff0-88c3-f2f232ccb253",
+      "score": 0.609455,
+      "title": "New smart speaker could mute your room, shows study",
+      "url": "https://knowridge.com/2023/09/new-smart-speaker-could-mute-your-room-shows-study/",
+      "citation_index": 16
+    },
+    {
+      "id": "00f4e919-3fce-418a-a337-36dcbcc1f8f7",
+      "score": 0.65252984,
+      "title": "AI headphones let wearer listen to a single person in ...",
+      "url": "https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/",
+      "citation_index": 18
+    },
+    {
+      "id": "324d4441-6179-4d4a-a6d0-6d54f3cefb0b",
+      "score": 0.54855317,
+      "title": "New AI noise-canceling headphone technology lets wearers pick which sounds they hear | UW News",
+      "url": "https://www.washington.edu/news/2023/11/09/ai-noise-canceling-headphones/",
+      "citation_index": 19
+    },
+    {
+      "id": "b722c804-4552-4e86-ac7a-3127a9963ae7",
+      "score": 0.9037116,
+      "title": "These robotic acoustic swarms that can mute different areas of a room - The Robot Report",
+      "url": "https://www.therobotreport.com/these-robotic-acoustic-swarms-that-can-mute-different-areas-of-a-room/"
+    },
+    {
+      "id": "466b6253-f85c-4cb8-89cc-2b1a0d4a427d",
+      "score": 0.8989177,
+      "title": "UW team\u2019s shape-changing smart speaker lets users mute different areas of a room | EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/1001914"
+    },
+    {
+      "id": "ce8619ad-5876-45f3-aaf7-faa5c677f8bb",
+      "score": 0.70263255,
+      "title": "AI headphones create a \u2018sound bubble,\u2019 quieting all sounds more than a few feet away | UW News",
+      "url": "https://www.washington.edu/news/2024/11/14/ai-headphones-sound-bubble-noise-cancelling/"
+    },
+    {
+      "id": "3a62c9ad-f2e5-4aaf-abc4-f14ca6d71ba4",
+      "score": 0.53225553,
+      "title": "Shape-changing smart speaker can mute and separate conversations",
+      "url": "https://www.thedailyscience.org/shape-changing-smart-speaker-can-mute-and-separate-conversations.html"
+    },
+    {
+      "id": "92216682-0616-4f28-afec-63f7f310e3b0",
+      "score": 0.47110215,
+      "title": "A team of researchers at the University of Washington has ...",
+      "url": "https://www.facebook.com/uwnews/videos/look-once-to-hear/946332760622631/"
+    },
+    {
+      "id": "5c0182ba-d435-49b4-af75-ad3f626a278d",
+      "score": 0.4040141,
+      "title": "Robotic Acoustic Swarms: Shape-Changing Smart Speaker for Ultimate Audio Control in Any Room",
+      "url": "https://scitechdaily.com/robotic-acoustic-swarms-shape-changing-smart-speaker-for-ultimate-audio-control-in-any-room/"
+    },
+    {
+      "id": "28db3cd2-fcaf-4c43-8347-0dec9fb354e3",
+      "score": 0.37209493,
+      "title": "University of Washington North Sound - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/University_of_Washington_North_Sound"
+    },
+    {
+      "id": "8f9d3389-5c85-43fc-8e61-a5d64dad5403",
+      "score": 0.3183691,
+      "title": "AI headphones filter out noise so you hear one voice in a crowd",
+      "url": "https://www.youtube.com/watch?v=ArGKgodEUSo"
+    },
+    {
+      "id": "96746930-49d2-4267-ae20-01fb987a4c2e",
+      "score": 0.22306421,
+      "title": "ClearBuds: Wireless Binaural Earbuds for Learning-based Speech Enhancement",
+      "url": "https://clearbuds.cs.washington.edu/"
+    },
+    {
+      "id": "28ded9fb-056d-4911-a82d-3cc05fc9fbf1",
+      "score": 0.17694198,
+      "title": "New AI technology from UW researchers lets noise ...",
+      "url": "https://www.opb.org/article/2023/11/21/noise-canceling-headphones-shyam-gollakota/"
+    },
+    {
+      "id": "e598bff7-8f30-4b7e-a385-f7aeab909083",
+      "score": 0.14732224,
+      "title": "Sound Bubble - University of Washington",
+      "url": "https://soundbubble.cs.washington.edu/"
+    },
+    {
+      "id": "941b0e93-0d3d-4049-ae42-523a1a6ef012",
+      "score": 0.111251086,
+      "title": "University Link Light Rail Extension; Seattle, WA",
+      "url": "https://www.transit.dot.gov/sites/fta.dot.gov/files/2021-11/University-Link-bna-study-2021.pdf"
+    },
+    {
+      "id": "80363ffd-0ab3-4029-8429-0fe67cb1015d",
+      "score": 0.07727375,
+      "title": "Univ. of Washington researchers use AI to help noise ...",
+      "url": "https://www.geekwire.com/2023/univ-of-washington-researchers-use-ai-to-help-noise-canceling-headphones-filter-certain-sounds/"
+    },
+    {
+      "id": "9856a061-f73f-4b19-9446-3c39c558a2d2",
+      "score": 0.065563075,
+      "title": "The Cone of Silence: Speech Separation by Localization",
+      "url": "https://grail.cs.washington.edu/projects/cone-of-silence/"
+    },
+    {
+      "id": "84511300-8662-4233-8339-d83ab91575a1",
+      "score": 0.052643407,
+      "title": "Target conversation extraction: Source separation using turn-taking dynamics",
+      "url": "https://tce.cs.washington.edu/"
+    },
+    {
+      "id": "b7db3618-5fec-44b8-a89d-4c359c3309f0",
+      "score": 0.01640464,
+      "title": "Global WAR-NING: Geoengineering Is Wrecking Our Planet and Humanity",
+      "url": "https://www.globalresearch.ca/global-war-ning-geoengineering-is-wrecking-our-planet-and-humanity/5753754"
+    }
+  ]
+}

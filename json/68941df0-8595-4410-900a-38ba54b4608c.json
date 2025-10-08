@@ -1,0 +1,414 @@
+{
+  "id": "68941df0-8595-4410-900a-38ba54b4608c",
+  "status": "completed",
+  "content": "TRUE.\n\nThe statement that Britpop band Blur announced they would be playing a one-off gig at Wembley in 2023 is factually correct based on the initial public announcements[1][2]. However, a second date was subsequently added, and the band ultimately performed on two consecutive nights[3][4].\n\n## Detailed Analysis\n\n### The Initial Announcement\nOn November 14, 2022, Blur officially announced a reunion concert scheduled for Saturday, July 8, 2023, at London's Wembley Stadium[3][5]. This event was widely reported as the band's first headline show since 2015 and their first-ever performance at the iconic venue[2][1][6].\n\nInitial press coverage and official statements from the event promoter, Metropolis Music, consistently described the concert as a singular event[7]:\n*   News outlets referred to it as a \"one-off UK reunion gig\" and \"their only UK appearance\"[2][6].\n*   *The Guardian* headlined its report: \"Blur to reunite for one-off Wembley show next year\"[1].\n*   *The Daily Mail* reported the band was returning \"for one night only on Saturday 8 July, 2023\"[8].\n\nBand members expressed their excitement for the single date in the announcement. Bassist Alex James stated, \"It\u2019s nice to think that on July 8 that room will be Wembley Stadium\"[2][9].\n\n### Expansion to a Two-Night Event\nWhile the initial plan was for a single concert, a second performance was added for Sunday, July 9, 2023[4][9]. The two shows were the biggest of the band's career, with a combined attendance of over 150,000 fans[10][11][12]. In a later interview, frontman Damon Albarn confirmed that Blur \"chose to perform two sold-out shows at Wembley during their comeback in 2023\"[13].\n\n### Commemoration of the Concerts\nThe weekend event was commemorated with a live album and concert film, both titled `blur: Live at Wembley Stadium`[14][10]. Marketing materials for these releases explicitly state that the content was \"captured across two unforgettable nights\"[15][10]. The film was released in UK and Irish cinemas on September 6, 2024, with the live album released on July 26, 2024[16][10].\n\nThe support acts differed for each night[3][7]:\n*   **Saturday, July 8:** Self Esteem, Sleaford Mods, and Jockstrap[7].\n*   **Sunday, July 9:** Paul Weller and The Selecter[7].\n\nIn conclusion, the original statement is accurate as it describes the initial announcement of a single, \"one-off\" concert. The subsequent addition of a second date does not invalidate the factual nature of how the event was first presented to the public.",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "e090c138-fccd-41b5-b7a8-0910a943843b",
+      "score": 0.9348309,
+      "title": "Blur to reunite for one-off Wembley show next year",
+      "url": "https://www.theguardian.com/music/2022/nov/14/blur-to-reunite-for-one-off-wembley-show-next-year",
+      "citation_index": 1
+    },
+    {
+      "id": "24e50bfa-60c7-4781-bc45-de201ec696bd",
+      "score": 0.9408388,
+      "title": "Blur announce 2023 Wembley Stadium gig: how to buy tickets",
+      "url": "https://www.nme.com/news/music/blur-2023-london-wembley-stadium-reunion-gig-buy-tickets-3348354",
+      "citation_index": 2
+    },
+    {
+      "id": "d34a7e3b-2aa7-43a8-9992-3f6f30e08e99",
+      "score": 0.92142147,
+      "title": "Blur (band) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blur_(band)",
+      "citation_index": 3
+    },
+    {
+      "id": "ae09deea-0600-4244-aeec-b154f47e3a70",
+      "score": 0.5530473,
+      "title": "Blur all you need to know - Wembley Stadium",
+      "url": "https://www.wembleystadium.com/news/2023/06/29/11/48/Blur-all-you-need-to-know",
+      "citation_index": 4
+    },
+    {
+      "id": "ff9f7d0f-fddd-450c-954f-c1ab24263aee",
+      "score": 0.55565286,
+      "title": "Blur announce Wembley Stadium show in 2023 - their only UK live date",
+      "url": "https://www.londonworld.com/whats-on/blur-wembley-stadium-2023-3917097",
+      "citation_index": 5
+    },
+    {
+      "id": "a49c32cc-f08f-42d6-9025-ec68e8e46798",
+      "score": 0.933969,
+      "title": "Blur have announced a huge Wembley Stadium live show for 2023 | Dork",
+      "url": "https://readdork.com/news/blur-wembley-stadium-july-2023/",
+      "citation_index": 6
+    },
+    {
+      "id": "97edbb46-57bb-45e3-b36f-180ab4f7476d",
+      "score": 0.7382357,
+      "title": "Blur",
+      "url": "https://www.wembleystadium.com/events/2023/Blur",
+      "citation_index": 7
+    },
+    {
+      "id": "7fbdf58f-d85f-42aa-9e5d-f44125d4cb96",
+      "score": 0.9368016,
+      "title": "Blur at Wembley 2023: Tickets, prices and dates | Daily Mail Online",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-11426745/Blur-reunite-Wembley-2023-playing-tickets.html",
+      "citation_index": 8
+    },
+    {
+      "id": "72541a47-331c-4406-92cd-cd53f66c49fc",
+      "score": 0.9242583,
+      "title": "Blur Tickets Wembley Stadium 08 + 09 July 2023",
+      "url": "https://www.eventtravel.com/blur-tickets-2023",
+      "citation_index": 9
+    },
+    {
+      "id": "0d567fea-a6f2-4aa0-8767-744d0c53f395",
+      "score": 0.8674071,
+      "title": "BLUR announce Live Album 'Live At Wembley' out July 26th",
+      "url": "https://warnermusic-ie-4.nds.acquia-psi.com/news/2024/blur-announce-live-album-live-at-wembley-out-july-26th/",
+      "citation_index": 10
+    },
+    {
+      "id": "b4969cec-00af-460a-9d3f-3114535c5a40",
+      "score": 0.85186684,
+      "title": "Blur / Live at Wembley Stadium \u2013 SuperDeluxeEdition",
+      "url": "https://superdeluxeedition.com/news/blur-live-at-wembley-stadium/",
+      "citation_index": 11
+    },
+    {
+      "id": "2f7e4519-d3aa-4aa7-96fa-30dd9ffa4cee",
+      "score": 0.90018827,
+      "title": "Blur - Live At Wembley Stadium",
+      "url": "https://blood-records.co.uk/products/blurwembley",
+      "citation_index": 12
+    },
+    {
+      "id": "beb343ea-6cb0-4477-a334-559db3ba80b0",
+      "score": 0.7552947,
+      "title": "Damon Albarn warns Oasis about leaning into nostalgia: \u201cThey\u2019re brave\u2026 I hope it\u2019s worth it.\u201d\n\nIn a recent interview with The Sun, while reflecting on how both Oasis and Pulp are both back and touring, Blur frontman Damon Albarn compared the Gallagher brothers\u2019 recent reunion to Blur\u2019s.\n\nOasis have already performed five shows at Wembley Stadium, with two more scheduled for September, adding up to a total of seven shows at the massive venue. Blur, on the other hand, only chose to perform two sold-out shows at Wembley during their comeback in 2023.\n\n\u201cNostalgia\u2019s OK but I try and stay away from it as much as possible. Sometimes you can\u2019t help but be lost in it,\u201d Albarn told The Sun.\n\nHe continued, explaining that Blur\u2019s two Wembley shows made him quite emotional, warning that Oasis may find performing that many shows tougher than they think.\n\n\u201cI couldn\u2019t do as many gigs as they\u2019re doing,\u201d he says. \u201cThat\u2019s a lot of the same emotion. They\u2019re very brave and I hope it\u2019s worth it. You know, money isn\u2019t everything.\u201d",
+      "url": "https://x.com/OasisMania/status/1956099215014121830",
+      "citation_index": 13
+    },
+    {
+      "id": "789ddbec-c845-4f34-9445-bca1d23cfc42",
+      "score": 0.5826579,
+      "title": "Blur Announce Live at Wembley Stadium Album and Film",
+      "url": "https://pitchfork.com/news/blur-announce-live-at-wembley-stadium-album-and-film/",
+      "citation_index": 14
+    },
+    {
+      "id": "20824455-89a0-413e-a7cf-f27063c9201c",
+      "score": 0.79041743,
+      "title": "Blur: Live at Wembley Stadium - Apple TV",
+      "url": "https://tv.apple.com/gb/movie/blur-live-at-wembley-stadium/umc.cmc.5au4poo4neghtr86cdmtwz1kq",
+      "citation_index": 15
+    },
+    {
+      "id": "4b24a476-bec8-4f8d-bfde-c13658403e2b",
+      "score": 0.8665964,
+      "title": "Blur Announce Wembley Stadium Live Album and Concert Film - Rock and Roll Globe",
+      "url": "https://rockandrollglobe.com/britpop/blur-announce-wembley-stadium-live-album-and-concert-film/",
+      "citation_index": 16
+    },
+    {
+      "id": "436b881c-4f52-482a-9a84-3c50706e3484",
+      "score": 0.9344013,
+      "title": "Blur concert - London, Wembley Stadium, Jul 08, 2023",
+      "url": "https://www.shazam.com/event/fc8d1a94-fdc1-4d70-ad9e-73b6e0dd2034"
+    },
+    {
+      "id": "3f97845b-f264-4816-b66b-70dac27b764b",
+      "score": 0.90330297,
+      "title": "Blur to Headline London\u2019s Wembley Stadium With July 2023 Concert | Pitchfork",
+      "url": "https://pitchfork.com/news/blur-to-headline-londons-wembley-stadium-with-july-2023-concert/"
+    },
+    {
+      "id": "68f89adc-42ce-407f-ad82-ca5cea38dcad",
+      "score": 0.8993429,
+      "title": "Blur to play Wembley Stadium next summer 2023",
+      "url": "https://www.classicpopmag.com/news/blur-wembley-2023/"
+    },
+    {
+      "id": "4987c742-8b97-4ebd-a522-bfbcc17db040",
+      "score": 0.88564163,
+      "title": "Andy Vermaut shares:Blur to Headline London\u2019s Wembley Stadium With July 2023 Concert: Jockstrap, Slowthai, and Self Esteem complete the bill for the Britpop band\u2019s return https://t.co/D9UwTSmnpp Thank you. https://t.co/Yu2dqCsDS2",
+      "url": "https://x.com/AndyVermaut/status/1592155933211529218"
+    },
+    {
+      "id": "d45bbd95-dd8a-4dfc-84c9-da7e8018fe86",
+      "score": 0.8851659,
+      "title": "Live at Wembley Stadium triple vinyl, CD and cassette available to pre-order now\nEach format features tracks from blur's concert on Sunday 9th July 2023\nhttps://t.co/f3d0J6jya7\n\n\ud83d\udcf8 Reuben Bastienne-Lewis https://t.co/LtOTagVvst",
+      "url": "https://x.com/blurofficial/status/1801640037647257683"
+    },
+    {
+      "id": "a5e20bac-98b6-4169-8dc4-5fa801d68233",
+      "score": 0.8729662,
+      "title": "Blur - Wembley Park",
+      "url": "https://wembleypark.com/whats-on/wembley-stadium-blur-8-july-2023/"
+    },
+    {
+      "id": "75a80dda-1f79-40d3-b833-d4c4600695b8",
+      "score": 0.8622012,
+      "title": "Blur fans rejoice as band reunites for 2023 Wembley show with tickets on sale this week - Chronicle Live",
+      "url": "https://www.chroniclelive.co.uk/whats-on/music-nightlife-news/blur-fans-rejoice-band-reunites-25508537"
+    },
+    {
+      "id": "856a1d7f-ac11-448b-90ed-025265d61782",
+      "score": 0.85797083,
+      "title": "r/blur on Reddit: Blur - Wembley Stadium Saturday 8th July 2023 - Anyone feel this show needs a bit more love?",
+      "url": "https://www.reddit.com/r/blur/comments/1dk876h/blur_wembley_stadium_saturday_8th_july_2023/"
+    },
+    {
+      "id": "a10caa29-4544-4550-8198-6b6b0827f897",
+      "score": 0.8390101,
+      "title": "blur: Live At Wembley Stadium.\nA cinematic two-hour concert film immortalising blur\u2019s historic 2023 show @wembleystadium.\n\nIn Cinemas from September 6 \n\ud83c\udf9f\ufe0f Tickets on sale now! \ud83c\udf9f\ufe0f\nhttps://t.co/7WKLupxNBG https://t.co/4NEqEZr7mt",
+      "url": "https://x.com/AltitudeFilms/status/1816767307764629520"
+    },
+    {
+      "id": "975686f6-78ee-407f-b596-c09a830e58d9",
+      "score": 0.83549726,
+      "title": "Blur at Wembley Stadium, Saturday, 8th of July, 2023",
+      "url": "https://scruffystorms.com/2024/12/29/blur-at-wembley-stadium-saturday-8th-of-july-2023/"
+    },
+    {
+      "id": "a87613ae-d199-4f60-821c-9160f53cfb58",
+      "score": 0.83549726,
+      "title": "Damon Albarn about Blur Wembley Stadium show in 2023 (The Matt Wilkinson Show)",
+      "url": "https://www.youtube.com/watch?v=aplKPLzt7EI"
+    },
+    {
+      "id": "afa24bf3-1ed9-441a-8d46-ffdcd56dd3d7",
+      "score": 0.8252664,
+      "title": "Blur Concert Setlist at Wembley Stadium, London on July 9, 2023 | setlist.fm",
+      "url": "https://www.setlist.fm/setlist/blur/2023/wembley-stadium-london-england-33a73c41.html"
+    },
+    {
+      "id": "494a351a-e112-4af7-aa2a-fa5bbc71c86e",
+      "score": 0.82492816,
+      "title": "Blur\nWembley Stadium, London\n08.07.2023\n#BlurWembley \nVery good concert, played all the hits, crowd were in good form. https://t.co/I8pntks1Hc",
+      "url": "https://x.com/n_a_iwanicki/status/1677809321105580033"
+    },
+    {
+      "id": "e857b545-da13-44ea-a837-311fcf4abcb9",
+      "score": 0.8201387,
+      "title": "Blur Concert Setlist at Wembley Stadium, London on July 8, 2023 | setlist.fm",
+      "url": "https://www.setlist.fm/setlist/blur/2023/wembley-stadium-london-england-33a7c849.html"
+    },
+    {
+      "id": "4f3b3d8e-8864-4308-8930-e812d90e2132",
+      "score": 0.80405265,
+      "title": "From stadium to screen, \u2018blur: To The End\u2019 and \u2018blur Live at Wembley Stadium\u2019 to premiere 29 December on Sky Arts and NOW | Sky Group",
+      "url": "https://www.skygroup.sky/article/from-stadium-to-screen-blur-to-the-end-and-blur-live-at-wembley-stadium-to-premiere-28-december-on-sky-arts-and-now"
+    },
+    {
+      "id": "34b5b333-24b1-435d-a074-de38399c4e2e",
+      "score": 0.79901963,
+      "title": "Blur cancel festival appearance due to injury ahead of their Wembley Stadium shows",
+      "url": "https://www.thelineofbestfit.com/news/blur-cancel-festival-appearance-due-to-injury-ahead-of-their-wembley-stadium-shows"
+    },
+    {
+      "id": "58399b48-2a5a-4c96-84e2-76ef4f729035",
+      "score": 0.7931224,
+      "title": "Blur: Live at Wembley Stadium | Sydney Opera House",
+      "url": "https://www.sydneyoperahouse.com/cinema/blur-live-wembley-stadium"
+    },
+    {
+      "id": "bd1b47cf-cb79-440e-bfa5-8897c17f6101",
+      "score": 0.779339,
+      "title": "Blur Tickets | 2025-26 Tour & Concert Dates | Ticketmaster UK",
+      "url": "https://www.ticketmaster.co.uk/blur-tickets/artist/945150"
+    },
+    {
+      "id": "628374f0-bd2f-4161-a571-fea9a4798976",
+      "score": 0.7570233,
+      "title": "Blur on playing Wembley Stadium - ITV News 2023",
+      "url": "https://www.youtube.com/watch?v=EUO_CAHUEPg"
+    },
+    {
+      "id": "54d286fa-baf8-4955-8293-8d801aaf740b",
+      "score": 0.74785584,
+      "title": "Blur announce first live show in eight years - Treble",
+      "url": "https://www.treblezine.com/blur-announce-first-live-show-in-eight-years/"
+    },
+    {
+      "id": "225b27f3-4ed3-40b5-b11d-25d4434ba539",
+      "score": 0.6972179,
+      "title": "Blur: Live at Wembley Stadium (2024) \u2b50 8.0 | Documentary, Music",
+      "url": "https://www.imdb.com/title/tt32778124/"
+    },
+    {
+      "id": "c102f68b-4fc6-4201-af80-da59c98fcf06",
+      "score": 0.69672287,
+      "title": "blur: Live at Wembley Stadium | Showtimes and Tickets",
+      "url": "https://www.picturehouses.com/movie-details/000/HO00014974/blur-live-at-wembley-stadium"
+    },
+    {
+      "id": "c8932635-1ba7-4843-8f1a-a07bfbc92feb",
+      "score": 0.6922474,
+      "title": "This epic is a two-hour cinematic concert experience that captures the 2023 historic shows which occurred at the historic Wembley stadium. Stream blur: Live at Wembley Stadium only on DocPlay. https://t.co/EqUMXDMD1E",
+      "url": "https://x.com/DocPlayNow/status/1882935857847660973"
+    },
+    {
+      "id": "e492dc09-3013-493c-9422-3c93f95cdf87",
+      "score": 0.6216563,
+      "title": "BLUR announce Live Album 'Live At Wembley' out July 26th",
+      "url": "https://www.warnermusic.ie/news/2024/blur-announce-live-album-live-at-wembley-out-july-26th/"
+    },
+    {
+      "id": "3ebdeb2c-a79b-4119-ae96-1b7d19ccca94",
+      "score": 0.6100127,
+      "title": "Blur Concert at Wembley Stadium",
+      "url": "https://www.wembleystadium.com/experiences/events/2023/Blur-at-Wembley-Stadium"
+    },
+    {
+      "id": "e0820b98-6d99-48c1-96da-796a3d1dd90b",
+      "score": 0.5999311,
+      "title": "Music legends to throng UK in 2023. See the names",
+      "url": "https://economictimes.indiatimes.com/news/international/uk/music-legends-to-throng-uk-in-2023-see-the-names/articleshow/96485006.cms"
+    },
+    {
+      "id": "c2ce23b3-f78e-479c-8d8f-de35ea338489",
+      "score": 0.5806618,
+      "title": "Here's what Blur performed at Wembley",
+      "url": "https://www.nme.com/news/music/blur-wembley-2023-set-list-footage-3466454"
+    },
+    {
+      "id": "f5ef07de-387f-4b88-a937-048a964d2b3d",
+      "score": 0.57064295,
+      "title": "blur's biggest shows to date, experience the weekend again with \u2018Live at Wembley Stadium\u2019 - new album out today \nConcert film coming to UK and Irish cinemas on 6th September, tickets on sale now.\n\nDirected by @mrtobyl\n\nProduction Company @upthegameco \n\nhttps://t.co/f3d0J6jya7 https://t.co/mRXNQPp4I7",
+      "url": "https://x.com/blurofficial/status/1816745789365870673"
+    },
+    {
+      "id": "8ab82e1a-c75c-44a8-9d8e-662c6d82433a",
+      "score": 0.56661874,
+      "title": "\ud83d\udea8 Blur will release a concert film and a documentary later this year. \n\nThe documentary will follow the band as they record the new album culminating in their 2 nights at Wembley Stadium. The concert film will then showcase one of those shows.\n https://t.co/rROxaFjxp8",
+      "url": "https://x.com/DamonUnofficial/status/1755662530322592021"
+    },
+    {
+      "id": "dcd8806e-0340-4171-8d0c-1831defa8d61",
+      "score": 0.5501488,
+      "title": "\ud83c\udfb5 'All the people so many people' \ud83c\udfb5 \n\nA cinematic two-hour concert film immortalising blur's historic 2023 show for 150,000 fans.\n\n\ud83c\udf9f\ufe0f Book now: https://t.co/8YRNTDbiAA https://t.co/HGjki6o2ga",
+      "url": "https://x.com/IFI_Dub/status/1831029608105300142"
+    },
+    {
+      "id": "055bafb6-41f5-49d2-a9a2-f347c9d44c64",
+      "score": 0.5465209,
+      "title": "Blur review \u2013 glorious reunion buzzes with energy and ragged joy | Pop and rock | The Guardian",
+      "url": "https://www.theguardian.com/music/2023/jul/09/blur-review-glorious-reunion-wembley-stadium-london"
+    },
+    {
+      "id": "9006f02f-201a-4e45-8e8d-600eeb36c73f",
+      "score": 0.5409972,
+      "title": "\u201cOh for God\u2019s sake, **** off, **** that, get on with the song\u2026\u201d\n\n@blurofficial launching into Song 2 at Wembley Stadium tonight! \n\nListen to that \u201cWoohooo\u201d \ud83d\udc9c https://t.co/j5rvehRnUx",
+      "url": "https://x.com/absoluteradio/status/1678139296765583361"
+    },
+    {
+      "id": "b767fad4-83a8-41c2-9d66-622f0cea9454",
+      "score": 0.518815,
+      "title": "Reliving the good times with the new \u2018blur - Live at Wembley Stadium\u2019 album - out today. \n\nThe concert film will also be coming to UK and Irish cinemas on 6th September. \n\n@blurofficial #blur https://t.co/rvKDPeZuaM",
+      "url": "https://x.com/alexjameshq/status/1816787715762884789"
+    },
+    {
+      "id": "530677c3-8036-4e09-af05-d876de3613d4",
+      "score": 0.5068117,
+      "title": "The biggest showbiz stories of 2023: From Hollywood shutting down to Barbie",
+      "url": "https://www.independent.ie/style/celebrity/celebrity-news/the-biggest-showbiz-stories-of-2023-from-hollywood-shutting-down-to-barbie/a386887962.html"
+    },
+    {
+      "id": "4f5582f6-4a21-4f8a-a221-0e1a5801484e",
+      "score": 0.46584973,
+      "title": "blur: Live at Wembley Stadium. Out this Friday. \n\nThis truly was a moment we'll treasure forever. \n\n@blurofficial #blur #Wembley https://t.co/DhkiwIhugx",
+      "url": "https://x.com/alexjameshq/status/1815400922073235916"
+    },
+    {
+      "id": "eb024802-2ff5-4914-a629-6de3d4a84907",
+      "score": 0.43438992,
+      "title": "Celebrating the anniversary of blur's Wembley Stadium shows!\n\nLive album out 26th July. \nPre-order here: \nhttps://t.co/f3d0J6jya7 https://t.co/ImMpwZMnHP",
+      "url": "https://x.com/blurofficial/status/1810368893354995759"
+    },
+    {
+      "id": "11ecb061-7fa6-47f4-b9c2-0edde825e78b",
+      "score": 0.42090955,
+      "title": "Blur playing \u2018Parklife\u2019 tonight in Wembley Stadium \ud83d\udd25 \n\n\ud83c\udfa5 @MARKCHAPPELLINO \n\n https://t.co/dgoVmC5Lv1",
+      "url": "https://x.com/TheRockRevival_/status/1678155373822222337"
+    },
+    {
+      "id": "bf3d620c-46b2-4a56-80ea-62d2c4f59e35",
+      "score": 0.418341,
+      "title": "The trailer for \u2018blur: Live at Wembley Stadium\u2019 has been released.\n\nIn UK and Irish cinemas September 6. https://t.co/jTuUu4V2KJ",
+      "url": "https://x.com/FilmUpdates/status/1817609856079069537"
+    },
+    {
+      "id": "1e94f996-821e-42f3-b2eb-11b482f4d85c",
+      "score": 0.3880387,
+      "title": "blur: To the End and Live at Wembley Stadium global release dates \ud83c\udf9f\ufe0f https://t.co/ZNxiBe7mf8",
+      "url": "https://x.com/blurofficial/status/1833161410370482612"
+    },
+    {
+      "id": "4cf5756c-055c-4cb9-a6b1-9d015c966cb6",
+      "score": 0.38421932,
+      "title": "\"Look it\u2019s the done thing now isn\u2019t it? Kind of everybody\u2019s getting back together and Blur are playing Wembley stadium, everyone\u2019s getting back together. https://t.co/Mj5kzFqTHk",
+      "url": "https://x.com/OasisMania/status/1617944195691601920"
+    },
+    {
+      "id": "3521f90d-fa5d-40f1-8711-68880b2e922f",
+      "score": 0.35300484,
+      "title": "blur: Live at Wembley Stadium\nOnly in UK &amp; Irish cinemas 6th - 8th\n\nhttps://t.co/unPncIVzlL https://t.co/uecBpQ2s16",
+      "url": "https://x.com/blurofficial/status/1831996630872068361"
+    },
+    {
+      "id": "7a28ca88-ffb7-4f9f-a802-8a3c51bc1014",
+      "score": 0.3341118,
+      "title": "Paul Weller opens for Blur. Now that\u2019s Entertainment, THAT! #Wembley https://t.co/C0s0hbg3ss",
+      "url": "https://x.com/SangitaMyska/status/1678094405104721920"
+    },
+    {
+      "id": "b20013d7-89f2-42de-9f82-3fced793b3d9",
+      "score": 0.31469303,
+      "title": "If you\u2019re thinking about going to see Blur tomorrow at Wembley, GO! It\u2019s amazing and joyous and FUN https://t.co/lOtG0VB4Vx",
+      "url": "https://x.com/pollybirkbeck/status/1677791286659633155"
+    },
+    {
+      "id": "afcfc4cf-6980-4dc7-961a-270a183320fc",
+      "score": 0.2921311,
+      "title": "Blur setlist from the Wembley Stadium, night 1\n(@drknesstolight thanks!) https://t.co/A7VuLr34xP",
+      "url": "https://x.com/DamonUnofficial/status/1677797780419379201"
+    },
+    {
+      "id": "d704d96c-8e84-40ba-ac81-9db45065ff62",
+      "score": 0.25178608,
+      "title": "blur performing \u2018the universal\u2019 at wembley, the stadium looked like it was covered in starlight\u2026 just phenomenal \ud83e\udea9\u2728 https://t.co/XAVxa4egNg",
+      "url": "https://x.com/iffytmrrw/status/1677851847791353856"
+    },
+    {
+      "id": "6a9c829a-2530-4932-9bd0-7a0521c73983",
+      "score": 0.19141869,
+      "title": "Beetlebum Live at Wembley Stadium\nJuly 2023 \n\nhttps://t.co/f3d0J6k5ZF https://t.co/obodD4X85H",
+      "url": "https://x.com/blurofficial/status/1818318303041028411"
+    },
+    {
+      "id": "2833c077-ade5-45d6-84a0-cb42a03a09a7",
+      "score": 0.18772796,
+      "title": "Tender\nWembley Stadium, 2023\n\nPre-order Live at Wembley Stadium:\nhttps://t.co/f3d0J6jya7 https://t.co/TCrJH3wu7e",
+      "url": "https://x.com/blurofficial/status/1811428238863781893"
+    },
+    {
+      "id": "8f5de60e-ee12-4f9a-9303-ce7c1b171fe3",
+      "score": 0.16202202,
+      "title": "Live at Wembley Stadium, new album out Friday.  https://t.co/f3d0J6k5ZF https://t.co/9t8uQlqCwy",
+      "url": "https://x.com/blurofficial/status/1816157221182660635"
+    },
+    {
+      "id": "6832aede-61cc-48a7-9ce5-28dc63a0ec96",
+      "score": 0.06527648,
+      "title": "Coffee &amp; TV Live at Wembley Stadium\nhttps://t.co/OzpX04EeST \n\nWatch the full film, only in UK &amp; Irish cinemas 6th - 8th September. Live album out now.\nhttps://t.co/unPncIVzlL https://t.co/oyX8eoMhdp",
+      "url": "https://x.com/blurofficial/status/1824015857191694689"
+    }
+  ]
+}

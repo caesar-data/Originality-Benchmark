@@ -1,0 +1,596 @@
+{
+  "id": "44c2918e-86e7-4a28-950d-03e4f58d949e",
+  "status": "completed",
+  "content": "TRUE.\n\nThe statement that ChatGPT possesses real-time web browsing capability is factually correct[1][2]. OpenAI has integrated features that allow the ChatGPT application to access, process, and cite information from the live internet, thereby overcoming the knowledge cutoff of its static training data[3][4]. This capability, which has evolved through different implementations, is now available to all users, including those on the free tier[2][5]. However, this functionality is distinct to the ChatGPT application and is not an inherent feature of the OpenAI API, which requires developers to build their own web browsing infrastructure[6][7].\n\n## Evolution of Web Access in ChatGPT\n\nChatGPT's ability to access the internet has progressed through several distinct phases and features, moving from an experimental plugin to a core, integrated function.\n\n### Initial Implementation: Plugins and \"Browse with Bing\"\nOpenAI first introduced web browsing to ChatGPT via a plugin system in May 2023, which was available in beta to ChatGPT Plus subscribers[8][3]. OpenAI created a specific \"Browsing\" plugin that allowed the model to retrieve information from the web[9][10]. This functionality was later integrated more deeply and branded as \"Browse with Bing\"[8].\n\nThe feature was temporarily disabled on July 3, 2023, after it was discovered that it could inadvertently bypass website paywalls and display the full text of a URL if specifically requested[8][11][12]. After implementing fixes, OpenAI re-enabled browsing for Plus users on September 27, 2023, and the feature moved out of beta for Plus and Enterprise users on October 17, 2023[8].\n\nThe browsing mechanism uses the Bing search API to retrieve content[10]. To respect website policies, the browser identifies itself with the user-agent token `ChatGPT-User` and is configured to honor `robots.txt` files[10].\n\n### Current Implementation: Integrated ChatGPT Search\nThe current primary web access feature is \"ChatGPT search\"[1]. This capability allows ChatGPT to determine if a query would benefit from current information and automatically search the web to provide timely answers with direct links to sources[2][13]. This functionality leverages a fine-tuned version of GPT-4o and utilizes third-party search providers[2]. As of February 5, 2025, ChatGPT search is available to all users, including free and logged-out users, in supported regions[2][13].\n\n### Advanced Capability: ChatGPT Agent and Operator\nFor more complex tasks, OpenAI has introduced \"ChatGPT agent\" (formerly a research preview called \"Operator\"), an AI agent that can perform actions on the web[14][15]. This agent uses both a text-based browser for simple queries and a visual browser that can \"see\" screenshots of a webpage and interact with it by typing, clicking, and scrolling[16][15]. This allows it to handle tasks like filling out forms, booking travel, and creating presentations from online data[15]. This capability is integrated into ChatGPT as \"agent mode\"[14].\n\n## Key Limitations and Nuances\n\nWhile ChatGPT has real-time browsing, the capability is subject to significant limitations.\n\n### Application vs. API\nThe web browsing functionality is native to the ChatGPT application (web and mobile) but is not included in the OpenAI API[17]. Developers using the API must implement their own web search functionality by defining \"functions\" that the model can call to query an external search service[6].\n\n### Performance and Reliability\nThe browsing feature has faced criticism for performance issues, including being slow, inconsistent, and sometimes failing to execute searches[18][19]. At times, the model may unpredictably default to its internal knowledge base instead of performing a live web search for the same prompt[20]. Some analyses have found the feature disappointing compared to third-party plugins like WebPilot[21]. The system may also rely on a single web source for an answer, which can be a significant limitation[20].\n\n### Accuracy and Transparency\nDespite having web access, the model can still produce inaccurate information or \"hallucinate\"[22]. Tests have shown the browsing feature providing factually incorrect real-time data, such as stock market valuations, due to retrieving outdated search results[23]. Furthermore, the \"Browse with Bing\" feature was criticized for a lack of transparency, as it did not always \"show its work\" by detailing the steps it took or the pages it visited to formulate a response[24][25]. The current ChatGPT Search feature addresses this by providing inline citations and a \"Sources\" button[2][13].\n\n### Access Restrictions\nChatGPT's browsing tool cannot access all websites. It is designed to honor `robots.txt` files, which allows site administrators to block crawlers[10]. Some major websites, such as Amazon, block OpenAI's bot, preventing the feature from accessing their content[20]. Additionally, workspace owners on team plans can request to block specific websites from being accessed by the ChatGPT agent[16].\n\n## Availability Across Subscription Tiers\n\nWeb browsing capabilities are available across all primary ChatGPT subscription tiers, though access to more advanced tools and higher usage limits is reserved for paid plans.\n\n| Subscription Tier | Cost | Web Access Capability |\n| :--- | :--- | :--- |\n| **Free** | $0 | Includes ChatGPT Search for web-augmented responses[5][26]. As of Feb 2025, search is available to all free users[2]. |\n| **Plus** | $20/month | Includes ChatGPT Search and access to advanced tools like Deep Research, which performs web-assisted research with citations[27][28]. |\n| **Pro** | $200/month | Includes all features of Plus with higher/unlimited usage, plus access to the Operator/agent research preview for performing interactive tasks on the web[29][30]. |\n| **Team / Enterprise** | Custom | Includes all features of lower tiers, with administrative controls that can include blocking agent access to certain websites[16][30]. |",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "742ae500-ab0f-40f2-8c5a-f5cdf7de2fcf",
+      "score": 0.5925965,
+      "title": "ChatGPT Capabilities Overview | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview",
+      "citation_index": 1
+    },
+    {
+      "id": "b337f8c3-5a3f-42a3-a168-21c41fe385e9",
+      "score": 0.57293844,
+      "title": "Introducing ChatGPT search | OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-search/",
+      "citation_index": 2
+    },
+    {
+      "id": "8c079adf-c694-4e88-9629-5404c5b01877",
+      "score": 0.8945781,
+      "title": "OpenAI Supercharges ChatGPT by Adding Web-Browsing Support | PCMag",
+      "url": "https://www.pcmag.com/news/openai-supercharges-chatgpt-by-adding-web-browsing-support",
+      "citation_index": 3
+    },
+    {
+      "id": "595129f5-46b3-4fe5-9327-258a98800bc4",
+      "score": 0.6301622,
+      "title": "Major ChatGPT Update: AI Program No Longer Restricted To Sept. 2021 Knowledge Cutoff After Internet Browser Revamp",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2023/09/27/major-chatgpt-update-ai-program-no-longer-restricted-to-sept-2021-knowledge-cutoff-after-internet-browser-revamp/",
+      "citation_index": 4
+    },
+    {
+      "id": "538b326a-3524-4145-b94f-86e792088a9f",
+      "score": 0.77179235,
+      "title": "ChatGPT Free Tier FAQ | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq",
+      "citation_index": 5
+    },
+    {
+      "id": "11847c49-dce5-4530-903d-a7d8cfbbf514",
+      "score": 0.75027883,
+      "title": "Does the OpenAI API Provide Internet Access for Web ...",
+      "url": "https://community.openai.com/t/does-the-openai-api-provide-internet-access-for-web-browsing/696799",
+      "citation_index": 6
+    },
+    {
+      "id": "a68deabe-346e-4a1b-846b-24b9eedee9e3",
+      "score": 0.7311551,
+      "title": "ChatGPT can now access the live Internet. Can the API? - API - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/chatgpt-can-now-access-the-live-internet-can-the-api/401928",
+      "citation_index": 7
+    },
+    {
+      "id": "117cdbd4-0922-4153-b73e-2cdb2d959129",
+      "score": 0.6862234,
+      "title": "ChatGPT \u2014 Release Notes | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "citation_index": 8
+    },
+    {
+      "id": "53257fd8-f266-405f-9720-4f738eae0916",
+      "score": 0.82391036,
+      "title": "OpenAI is massively expanding ChatGPT\u2019s capabilities to let it browse the web and more | The Verge",
+      "url": "https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party",
+      "citation_index": 9
+    },
+    {
+      "id": "72182f59-1ac8-4e81-97d1-428bc8bcfd4a",
+      "score": 0.65914243,
+      "title": "ChatGPT plugins | OpenAI",
+      "url": "https://openai.com/index/chatgpt-plugins/",
+      "citation_index": 10
+    },
+    {
+      "id": "802f8299-f20a-440f-81d7-db6834aecdcb",
+      "score": 0.7653308,
+      "title": "ChatGPT\u2019s Bing browsing feature disabled over paywall flaw | Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/chatgpts-bing-browsing-feature-disabled-over-paywall-flaw/",
+      "citation_index": 11
+    },
+    {
+      "id": "f207bf26-c64e-4199-b734-47f1f463ae56",
+      "score": 0.7817479,
+      "title": "ChatGPT Disables 'Browse With Bing' Amid Legal Challenges",
+      "url": "https://www.searchenginejournal.com/chatgpt-disables-browse-with-bing/490775/",
+      "citation_index": 12
+    },
+    {
+      "id": "adeecfba-0f27-4174-95a0-866a4b563d29",
+      "score": 0.28410947,
+      "title": "ChatGPT search | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/9237897-chatgpt-search",
+      "citation_index": 13
+    },
+    {
+      "id": "08d02369-2ede-48e8-bf40-48e2403082d2",
+      "score": 0.58721006,
+      "title": "Introducing Operator",
+      "url": "https://openai.com/index/introducing-operator/",
+      "citation_index": 14
+    },
+    {
+      "id": "f6f799ba-0de3-4827-9996-516b395bb9d7",
+      "score": 0.522617,
+      "title": "Introducing ChatGPT agent: bridging research and action | OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-agent/",
+      "citation_index": 15
+    },
+    {
+      "id": "2a9ffd72-1e1e-46d8-9d9e-7ad1d19c6e9c",
+      "score": 0.5815176,
+      "title": "ChatGPT agent | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+      "citation_index": 16
+    },
+    {
+      "id": "ff9a1145-e7ca-41dc-8ed4-3a51406eb313",
+      "score": 0.79637206,
+      "title": "Do chatGPT 4o Plus API has web browsing access - API - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/do-chatgpt-4o-plus-api-has-web-browsing-access/814927",
+      "citation_index": 17
+    },
+    {
+      "id": "d5e64200-2101-4160-bc47-5db6c3326525",
+      "score": 0.7604555,
+      "title": "OpenAI enables Browse with Bing for live web results in ChatGPT | The Verge",
+      "url": "https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing",
+      "citation_index": 18
+    },
+    {
+      "id": "e9dbfdc5-156f-4d1e-868a-f76c136fd2bc",
+      "score": 0.5920305,
+      "title": "ChatGPT's new 'Browse with Bing': Watching AIs stalk you ...",
+      "url": "https://www.pluralsight.com/blog/machine-learning/chatgpt-browse-with-bing-feature",
+      "citation_index": 19
+    },
+    {
+      "id": "1b964dd8-2a32-4b48-b32c-9e37ea5febe4",
+      "score": 0.8700796,
+      "title": "Exploring the Unseen: Limitations of ChatGPT's Browse with Bing Feature",
+      "url": "https://www.youtube.com/watch?v=217lOeB2pB8",
+      "citation_index": 20
+    },
+    {
+      "id": "70dcddde-8168-4fa5-bd04-42cb805a240d",
+      "score": 0.8752871,
+      "title": "ChatGPT's new web browsing feature is a big disappointment. Use this plugin instead | ZDNET",
+      "url": "https://www.zdnet.com/article/chatgpts-new-web-browsing-feature-is-a-big-disappointment-use-this-plugin-instead/",
+      "citation_index": 21
+    },
+    {
+      "id": "f94ee681-3a30-4765-b760-c80cc1a3dd5f",
+      "score": 0.74385756,
+      "title": "How to Use ChatGPT\u2019s \u2018Browse With Bing\u2019 Tool\u2014Plus 6 Starter Prompts | WIRED",
+      "url": "https://www.wired.com/story/chatgpt-browse-with-bing-internet-connected-openai/",
+      "citation_index": 22
+    },
+    {
+      "id": "cc7d195d-b645-4567-ad3c-a85650ef4cc4",
+      "score": 0.6072213,
+      "title": "The dangers of Browse with Bing inside of ChatGPT \u2620\ufe0f",
+      "url": "https://www.youtube.com/watch?v=gaPh4-pf4Ok",
+      "citation_index": 23
+    },
+    {
+      "id": "95778e2d-7531-454e-8a06-9023be6593fe",
+      "score": 0.8482825,
+      "title": "Ep 112: Browse with Bing - The New ChatGPT Feature You Shouldn't Use",
+      "url": "https://www.youreverydayai.com/browse-with-bing-the-new-chatgpt-feature-you-shouldnt-use/",
+      "citation_index": 24
+    },
+    {
+      "id": "d4d38538-ba5b-489c-a7d5-4cc16bb0a030",
+      "score": 0.74251556,
+      "title": "Browse with Bing: The new ChatGPT feature you shouldn\u2019t use",
+      "url": "https://www.youtube.com/watch?v=0MW57-lnJZg",
+      "citation_index": 25
+    },
+    {
+      "id": "317613a7-cef6-4470-b545-02cfd1080317",
+      "score": 0.8095324,
+      "title": "ChatGPT Pricing in 2025: Plans, Features & Real Costs Explained",
+      "url": "https://www.techi.com/chatgpt-pricing-plans-comparison/",
+      "citation_index": 26
+    },
+    {
+      "id": "00b6b19c-355b-46b6-9546-8e13802010b6",
+      "score": 0.80844593,
+      "title": "ChatGPT Plus Subscription Features: All You Need to Know",
+      "url": "https://blog.piax.org/chatgpt-plus-subscription-features-all-you-need-to-know/",
+      "citation_index": 27
+    },
+    {
+      "id": "1edad9cd-3e2c-4d5e-9d16-4749db968e69",
+      "score": 0.7917732,
+      "title": "ChatGPT Plus Subscription Features: All You Need to Know",
+      "url": "https://cabina.ai/blog/chatgpt-plus-subscription-features-all-you-need-to-know/",
+      "citation_index": 28
+    },
+    {
+      "id": "e486f5be-051d-4818-9847-9c81e5bd4489",
+      "score": 0.81133276,
+      "title": "Is a ChatGPT Plus subscription still worth it?",
+      "url": "https://www.revolgy.com/insights/blog/is-a-chatgpt-plus-subscription-still-worth-it",
+      "citation_index": 29
+    },
+    {
+      "id": "17a2e23e-4711-48c3-abc8-e143f7da3624",
+      "score": 0.7309246,
+      "title": "How much does ChatGPT cost? Everything you need to know about OpenAI's pricing plans | TechCrunch",
+      "url": "https://techcrunch.com/2025/02/25/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/",
+      "citation_index": 30
+    },
+    {
+      "id": "d7aeee97-aba2-4f0c-ab7a-3228f9097acd",
+      "score": 0.8900749,
+      "title": "ChatGPT Subscription Tiers: Comparative Analysis of Usage Limits - Wizbrand",
+      "url": "https://www.wizbrand.com/tutorials/chatgpt-subscription-tiers-comparative-analysis-of-usage-limits/"
+    },
+    {
+      "id": "6cab41ca-4d94-4b3e-811c-3ecd18bcf3ba",
+      "score": 0.8684817,
+      "title": "What is ChatGPT Plus? | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus"
+    },
+    {
+      "id": "96c7aaa1-470f-47bb-87b9-f7573709e4c6",
+      "score": 0.85097736,
+      "title": "The Limitations of Bing Chat: How Does it Compare with ChatGPT?",
+      "url": "https://medium.com/@asarav/the-limitations-of-bing-chat-how-does-it-compare-with-chatgpt-1d167a032be9"
+    },
+    {
+      "id": "f4a8cbbc-5b13-4d0b-9cef-1db97ca5afe9",
+      "score": 0.834852,
+      "title": "ChatGPT iOS App Adds Microsoft Bing Integration",
+      "url": "https://www.thurrott.com/cloud/284922/chatgpt-ios-app-bing-integration"
+    },
+    {
+      "id": "9e570956-ff1e-44f5-a89f-794a6792f3e0",
+      "score": 0.81204927,
+      "title": "Which AI App Is Best for My Marketing Team?",
+      "url": "https://www.cmswire.com/digital-marketing/which-ai-app-is-best-for-my-marketing-team/"
+    },
+    {
+      "id": "272993a6-6276-4a75-b1b8-1c84d7388adb",
+      "score": 0.8010817,
+      "title": "r/OpenAI on Reddit: Is it possible to use the API and have ChatGPT browse the web as part of the query?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/17tk7ll/is_it_possible_to_use_the_api_and_have_chatgpt/"
+    },
+    {
+      "id": "d8172ac0-ce1d-48ed-bff8-9ce8f708a9a7",
+      "score": 0.7882741,
+      "title": "Introducing ChatGPT Plus | OpenAI",
+      "url": "https://openai.com/index/chatgpt-plus/"
+    },
+    {
+      "id": "69395008-34c4-4723-871e-f28ce2141f6f",
+      "score": 0.7880784,
+      "title": "ChatGPT Go explained \u2013 5 things you need to know about the new cheap subscription plan | TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-go-explained-5-things-you-need-to-know-about-the-new-cheap-subscription-plan"
+    },
+    {
+      "id": "3c28c1bf-5f38-4aae-876b-cdfea5e28ac8",
+      "score": 0.7811474,
+      "title": "Reviving Real-Time Insights: ChatGPT\u2019s \u2018Browse with Bing\u2019 Makes a Comeback | by Avinash A | Medium",
+      "url": "https://medium.com/@avinash2060/reviving-real-time-insights-chatgpts-browse-with-bing-makes-a-comeback-6ae7957314a6"
+    },
+    {
+      "id": "2caf1b4b-4b8f-4884-8beb-5d81cd145966",
+      "score": 0.7715858,
+      "title": "Here\u2019s everything OpenAI announced in the past 12 days",
+      "url": "https://www.digitaltrends.com/computing/12-days-of-openai-everything-the-company-has-announced/"
+    },
+    {
+      "id": "3814e3cf-2386-4e21-aa25-06dd6d4ec63c",
+      "score": 0.76554126,
+      "title": "\u2757\ufe0f\ud83d\udd0c ChatGPT has TURNED OFF the Browse With Bing Feature \ud83d\udd0c\u2757\ufe0f #shorts #chatgpt #bing #copyright",
+      "url": "https://www.youtube.com/watch?v=udDMORl4PMM"
+    },
+    {
+      "id": "8c15ece0-ee28-408d-bb23-4d37f4fbf1fe",
+      "score": 0.76300776,
+      "title": "GPT4 not browsing the web or is very reluctant to do so",
+      "url": "https://community.openai.com/t/gpt4-not-browsing-the-web-or-is-very-reluctant-to-do-so/688884"
+    },
+    {
+      "id": "0b72ce6c-78a4-46e2-8064-d9a4e7e4de3c",
+      "score": 0.7533401,
+      "title": "ChatGPT 4o Plus vs. Pro: Which Plan Suits Your Needs?",
+      "url": "https://www.creolestudios.com/chatgpt-4-plus-pro-which-to-choose/"
+    },
+    {
+      "id": "965f9c07-4fc1-4e30-9a45-8885dd83801b",
+      "score": 0.7447496,
+      "title": "ChatGPT Pricing Guide: Plans, Features, and Alternatives",
+      "url": "https://www.cloudeagle.ai/blogs/blog-chatgpt-pricing-guide"
+    },
+    {
+      "id": "3df8f54b-cf31-4597-91f3-8b2b95c2f3d7",
+      "score": 0.74363416,
+      "title": "Understanding ChatGPT web browsing - methodologies for accessing and interpreting web pages - Plugins / Actions builders - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/understanding-chatgpt-web-browsing-methodologies-for-accessing-and-interpreting-web-pages/210114"
+    },
+    {
+      "id": "763f2410-4e5e-465c-80f0-c2734fa3abd2",
+      "score": 0.72254705,
+      "title": "GPT-5 in ChatGPT | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/11909943-gpt-5-in-chatgpt"
+    },
+    {
+      "id": "f0bfdcea-a962-4107-93e9-5e71b77982bd",
+      "score": 0.72207695,
+      "title": "Are AI Subscription Models Sustainable?",
+      "url": "https://tidbits.com/2025/08/28/are-ai-subscription-models-sustainable/"
+    },
+    {
+      "id": "bc6ac03a-28bf-4e10-beba-da104df5a830",
+      "score": 0.7065353,
+      "title": "EP 112: Browse with Bing - The New ChatGPT Feature You Shouldn't Use",
+      "url": "https://www.youtube.com/watch?v=2eLc6IC_670"
+    },
+    {
+      "id": "a6a7517f-27f9-4a4a-b297-8f76a583b6e2",
+      "score": 0.7060491,
+      "title": "r/ChatGPT on Reddit: Why has the browse with Bing feature been disabled from chatGPT 4?",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/14qmli0/why_has_the_browse_with_bing_feature_been/"
+    },
+    {
+      "id": "04797e1f-aaeb-401a-8730-9f0d49a7a9ff",
+      "score": 0.70067,
+      "title": "ChatGPT Browse with Bing temporarily disabled",
+      "url": "https://searchengineland.com/chatgpt-browse-with-bing-temporarily-disabled-428996"
+    },
+    {
+      "id": "f868563b-d8a0-435f-b4c6-f1c24104adb7",
+      "score": 0.6977124,
+      "title": "Gpt-4o web browsing capability where? - API - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/gpt-4o-web-browsing-capability-where/744458"
+    },
+    {
+      "id": "094349fe-a508-4d7d-98ed-d01738b8cac6",
+      "score": 0.69049704,
+      "title": "Some ChatGPT Plus users are quietly losing the Browse with Bing feature | ZDNET",
+      "url": "https://www.zdnet.com/article/some-chatgpt-plus-users-are-quietly-losing-the-browse-with-bing-feature/"
+    },
+    {
+      "id": "f8387c6f-b66c-4a0e-b633-50334e1d1379",
+      "score": 0.6811549,
+      "title": "r/OpenAI on Reddit: How to enable web browsing feature in ChatGPT Plus",
+      "url": "https://www.reddit.com/r/OpenAI/comments/17kgr5c/how_to_enable_web_browsing_feature_in_chatgpt_plus/"
+    },
+    {
+      "id": "2aa3a456-400a-4da9-a258-273482ba2c52",
+      "score": 0.6796259,
+      "title": "The best AI tools of 2024: all the generative AI apps you need to try",
+      "url": "https://www.digitaltrends.com/computing/best-ai-tools-of-2024/"
+    },
+    {
+      "id": "7a04a6c5-bfff-499e-a04d-3bd7f6856789",
+      "score": 0.67166495,
+      "title": "ChatGPT Browse with Bing is Temporarily Disabled by OpenAI - AI News",
+      "url": "https://www.youtube.com/watch?v=PdUzyoMzoqc"
+    },
+    {
+      "id": "de8e736a-50f0-4929-853a-8f4b8bbf9ab8",
+      "score": 0.6654328,
+      "title": "Prompt for GPT-4 web browsing? - Prompting - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/prompt-for-gpt-4-web-browsing/479021"
+    },
+    {
+      "id": "95dd8301-3af4-482a-acc6-8a68285d7179",
+      "score": 0.66203266,
+      "title": "ChatGPT Review - One Year Later",
+      "url": "https://www.youtube.com/watch?v=57HTFN3YqSQ"
+    },
+    {
+      "id": "047faab3-7639-4234-99df-cd9226ed0c05",
+      "score": 0.6551821,
+      "title": "ChatGPT will soon be more up to date than ever",
+      "url": "https://www.businessinsider.com/open-ai-chatgpt-training-up-to-date-gpt4-turbo-2023-11"
+    },
+    {
+      "id": "16fc686b-1676-4312-8b05-5ecaf04c916d",
+      "score": 0.6519982,
+      "title": "Un an de ChatGPT : d'une simple preview \u00e0 la coqueluche de la tech californienne",
+      "url": "https://www.clubic.com/dossier-511144-un-an-de-chatgpt-d-une-simple-preview-a-la-coqueluche-de-la-tech-californienne.html"
+    },
+    {
+      "id": "532afea2-01d3-4310-a581-978d069223fd",
+      "score": 0.63939893,
+      "title": "ChatGPT usage limits explained: free vs plus vs enterprise",
+      "url": "https://northflank.com/blog/chatgpt-usage-limits-free-plus-enterprise"
+    },
+    {
+      "id": "f0be545f-efe0-49f6-85c8-48863e5e9803",
+      "score": 0.63750535,
+      "title": "Why a Conversation With Bing\u2019s Chatbot Left Me Deeply Unsettled - The New York Times",
+      "url": "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html"
+    },
+    {
+      "id": "e147ddf5-5455-4657-8ece-90dbea976201",
+      "score": 0.61140573,
+      "title": "OpenAI Disables \"Browse with Bing\" Feature in ChatGPT",
+      "url": "https://www.analyticsvidhya.com/blog/2023/07/openai-disables-browse-with-bing-feature-in-chatgpt/"
+    },
+    {
+      "id": "a450f70b-e3e2-4867-8fa1-1b055a318622",
+      "score": 0.5996498,
+      "title": "How to Begin a Career in Prompt Engineering",
+      "url": "https://www.makeuseof.com/career-in-prompt-engineering/"
+    },
+    {
+      "id": "49d68941-22f9-485e-b6aa-1471dc8f6778",
+      "score": 0.57952,
+      "title": "Firefox vs Edge: Which browser is better between the two?",
+      "url": "https://www.androidauthority.com/firefox-vs-edge-3316348/"
+    },
+    {
+      "id": "3bcf4104-fb0a-46b6-b991-5b0b657f2d8c",
+      "score": 0.5746579,
+      "title": "ChatGPT Pricing Plans 2025 (Is ChatGPT Premium Worth It?)",
+      "url": "https://www.youtube.com/watch?v=tLchrZqj360"
+    },
+    {
+      "id": "b98769c4-c3a9-4f21-925c-dfed966966a2",
+      "score": 0.5709301,
+      "title": "OpenAI yanks Bing integration from ChatGPT after users \"exploit\" bug to bypass paywalls",
+      "url": "https://www.techspot.com/news/99297-openai-yanks-bing-integration-chatgpt-after-users-exploit.html"
+    },
+    {
+      "id": "028ee802-df96-4f96-86bb-1261d4cf3509",
+      "score": 0.56690645,
+      "title": "What is ChatGPT Go? | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/11989085-what-is-chatgpt-go"
+    },
+    {
+      "id": "d98fead8-da23-46f6-9dc4-28642398c9f4",
+      "score": 0.5518883,
+      "title": "ChatGPT Browse with Bing - What Websites Can ...",
+      "url": "https://originality.ai/blog/what-websites-can-chatgpt-browse-with-bing"
+    },
+    {
+      "id": "affbbd34-9374-4a12-9421-d6d6216cdc6d",
+      "score": 0.55072874,
+      "title": "ChatGPT Pricing Plans (Is ChatGPT Premium Worth It?)",
+      "url": "https://www.youtube.com/watch?v=g8U4nA9oCb0"
+    },
+    {
+      "id": "1ccec168-581b-47f2-8ec6-159cc7e91577",
+      "score": 0.54666615,
+      "title": "How to use the new Bing with ChatGPT \u2014 and what you can do with it | Tom's Guide",
+      "url": "https://www.tomsguide.com/how-to/how-to-use-the-new-bing-with-chatgpt-and-what-you-can-do-with-it"
+    },
+    {
+      "id": "91892600-8129-4c70-8a63-b0109ad79999",
+      "score": 0.53196377,
+      "title": "Browse with Bing is Back (and disappearing again)! - Community - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/browse-with-bing-is-back-and-disappearing-again/401104"
+    },
+    {
+      "id": "d17ee464-995a-4204-9434-9ea8e5ddf263",
+      "score": 0.52612424,
+      "title": "OpenAI Announces ChatGPT Voice and Image Features",
+      "url": "https://www.infoq.com/news/2023/10/chatgpt-voice-image/"
+    },
+    {
+      "id": "e87e2285-7365-45d1-aee6-11560b87c55e",
+      "score": 0.51866865,
+      "title": "OpenAI Temporarily Disables Browse with Bing Beta Feature | AI Limitations and User Frustration",
+      "url": "https://www.youtube.com/watch?v=B88AuPQ6xZY"
+    },
+    {
+      "id": "1b874eac-afa5-45c2-bcab-d27e3d03b53e",
+      "score": 0.493336,
+      "title": "What is ChatGPT Search (and how does it use Bing data)? \u2022 Yoast",
+      "url": "https://yoast.com/chatgpt-search/"
+    },
+    {
+      "id": "391287d7-962a-4dda-98dc-294c3bb404ae",
+      "score": 0.4882108,
+      "title": "Introducing ChatGPT Pro | OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-pro/"
+    },
+    {
+      "id": "9b0e6370-83ba-4c5f-922e-44f550dcec69",
+      "score": 0.48528314,
+      "title": "Introducing ChatGPT | OpenAI",
+      "url": "https://openai.com/index/chatgpt/"
+    },
+    {
+      "id": "8f788913-6be5-40a0-8029-950cf71d74d1",
+      "score": 0.48440504,
+      "title": "r/ChatGPT on Reddit: Lost the mode \"browse with Bing\"",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/17jxsmb/lost_the_mode_browse_with_bing/"
+    },
+    {
+      "id": "b6afb378-e071-46b5-9c8a-d03e172a45b9",
+      "score": 0.48162505,
+      "title": "Pricing | OpenAI",
+      "url": "https://openai.com/api/pricing/"
+    },
+    {
+      "id": "eb48e296-918f-49ff-88ad-2bf81b65e910",
+      "score": 0.47811517,
+      "title": "r/ChatGPT on Reddit: Is Bing chat just ChatGPT 4 but for free?",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/18lfvl8/is_bing_chat_just_chatgpt_4_but_for_free/"
+    },
+    {
+      "id": "de455c4a-7eda-4a86-b9eb-852187fcdc66",
+      "score": 0.44724357,
+      "title": "What Does OpenAI\u2019s New $200 Plan Get You with ChatGPT Pro?",
+      "url": "https://www.youtube.com/watch?v=Zzwxw13HDGg"
+    },
+    {
+      "id": "2ae328d0-9c47-47d5-9ff3-67e42a357c17",
+      "score": 0.44565076,
+      "title": "The difference Between ChatGPT web browsing and Bing AI",
+      "url": "https://www.reddit.com/r/bing/comments/13hk17y/the_difference_between_chatgpt_web_browsing_and/"
+    },
+    {
+      "id": "026e1f40-b4a8-4e29-ae7a-2a9204b5fe0a",
+      "score": 0.41805586,
+      "title": "\ud83d\ude80 ChatGPT Browse By Bing Is Actually INSANE?",
+      "url": "https://www.youtube.com/watch?v=tswo1LFefu0"
+    },
+    {
+      "id": "77a09ac7-4d5a-4429-9b81-c4f7b21fcf0a",
+      "score": 0.4048609,
+      "title": "ChatGPT Free vs. ChatGPT Plus: Paying $20 Per Month Is Worth It - CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/chatgpt-free-vs-chatgpt-plus/"
+    },
+    {
+      "id": "06a030f2-2318-4666-b7b8-64500b2df66c",
+      "score": 0.35293794,
+      "title": "ChatGPT Pricing | OpenAI",
+      "url": "https://openai.com/chatgpt/pricing/"
+    },
+    {
+      "id": "b55143f0-a58a-4a7b-8253-0dd5994f94ef",
+      "score": 0.33157462,
+      "title": "ChatGPT | OpenAI Help Center",
+      "url": "https://help.openai.com/en/collections/3742473-chatgpt"
+    },
+    {
+      "id": "1d959ffe-bc09-49eb-9e65-a306b9feee57",
+      "score": 0.31481943,
+      "title": "Why is ChatGPT suddenly using Bing Search to answer my questions instead of answering it itself - Bugs - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/why-is-chatgpt-suddenly-using-bing-search-to-answer-my-questions-instead-of-answering-it-itself/578344"
+    },
+    {
+      "id": "baff3acd-b8c7-417c-a37c-941fdcf1ff78",
+      "score": 0.30962926,
+      "title": "Browse with Bing is not available - ChatGPT - OpenAI Developer Community",
+      "url": "https://community.openai.com/t/browse-with-bing-is-not-available/605112"
+    },
+    {
+      "id": "b74fc7bb-b7c6-4653-af59-a3e2af184f32",
+      "score": 0.2354866,
+      "title": "Perplexity Pro vs ChatGPT Plus - Which Is Better For You?",
+      "url": "https://www.youtube.com/watch?v=dZLxOVschkM"
+    },
+    {
+      "id": "66ba073d-8761-475b-a337-6c04ed8670fa",
+      "score": 0.15491249,
+      "title": "ChatGPT - Web Browser",
+      "url": "https://chatgpt.com/g/g-3w1rEXGE0-web-browser"
+    },
+    {
+      "id": "de0003be-392f-424a-8a5c-feee96d99970",
+      "score": 0.15384161,
+      "title": "Big tech will pull the plug on free AI. Can creatives afford to pay?",
+      "url": "https://www.creativebloq.com/ai/big-tech-will-pull-the-plug-on-free-ai-can-creatives-afford-to-pay"
+    },
+    {
+      "id": "e66fd336-9cbb-4998-94c1-60f4d2f013b2",
+      "score": 0.10421286,
+      "title": "4 Ways AI-Powered Search Is Better Than Traditional Search",
+      "url": "https://www.makeuseof.com/ways-ai-powered-search-better/"
+    },
+    {
+      "id": "746ee1c2-c5ed-4fb0-838a-e51b5ff55470",
+      "score": 0.04389152,
+      "title": "Why would you pay 20 bucks for ChatGPT Plus besides ...",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1gw7xqg/why_would_you_pay_20_bucks_for_chatgpt_plus/"
+    },
+    {
+      "id": "a70459ea-8a51-40fa-8ae6-dbd2bc444eee",
+      "score": 0.030585974,
+      "title": "The 11 Best ChatGPT Alternatives",
+      "url": "https://backlinko.com/chatgpt-alternatives"
+    }
+  ]
+}

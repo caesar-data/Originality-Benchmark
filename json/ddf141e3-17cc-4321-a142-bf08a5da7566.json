@@ -1,0 +1,439 @@
+{
+  "id": "ddf141e3-17cc-4321-a142-bf08a5da7566",
+  "status": "completed",
+  "content": "TRUE: The statement is factual. Following Elon Musk's acquisition of Twitter in late October 2022, Mastodon experienced a 488% increase in donations for the 2022 fiscal year and its monthly active users reached 1.8 million by the end of that year.\n\n## Verification of Claims\n\nThe assertion is composed of three interconnected claims: the timing of Elon Musk's Twitter acquisition, the subsequent growth in Mastodon's donations, and the increase in its active user base. Analysis of provided sources confirms all three elements are accurate.\n\n### Twitter Acquisition Timeline\n\nElon Musk's acquisition of Twitter was a prolonged process that began in April 2022 and, after a period of legal disputes, concluded in late October of the same year[1][2].\n\n*   **Initiation:** Musk made an offer to buy Twitter for approximately $44 billion on April 14, 2022[1][3]. The board accepted the deal on April 25, 2022[1][4].\n*   **Completion Date:** The deal was officially closed on October 27, 2022[1][5][6][7][8]. Musk took control as the new owner that day, tweeting \"the bird is freed\" and immediately firing several top executives[1][10][11]. The transaction was valued at $44 billion, or $54.20 per share[1][12][11].\n\n### Mastodon Donation Growth\n\nMastodon, a non-profit organization that relies on user donations, experienced a significant financial surge directly coinciding with the disruption at Twitter[13][14].\n\n*   **Donation Increase:** According to its 2022 annual report, Mastodon's donations grew by 488%[13][15][14].\n*   **Revenue Figures:** Total donations for fiscal year 2022 reached \u20ac325.9K (approximately $341,985), a substantial increase from the \u20ac55.6K received in fiscal year 2021[13][15][14].\n*   **Donor Growth:** The number of individual supporters grew from 560 at the end of 2021 to 9,603 in 2022, a 1,614% increase[13][14]. The number of Patreon donors alone increased sixfold from 1,428 in September 2022 to 7,962 in October 2022, the month Musk finalized the acquisition[15].\n\n### Mastodon Active User Growth\n\nMastodon's user base expanded dramatically in the final quarter of 2022 as users sought alternatives to Twitter[16][17].\n\n*   **Year-End User Count:** By the end of 2022, Mastodon had 1.8 million monthly active users[17][13]. This figure is also reported for the first week of January 2023, reflecting the user base at the close of the year[18][19]. This was a significant increase from the 294,000 monthly active users at the start of 2022[17][13].\n*   **Peak Activity:** User activity peaked higher before settling at the 1.8 million year-end figure. Between October and November 2022, monthly active users surged from approximately 300,000 to a high of 2.5 million[16][20]. This peak occurred in early December 2022[18][21][19].\n*   **Growth Correlation:** The growth was explicitly linked to Musk's takeover. Mastodon gained nearly half a million new users in the days immediately following the October 27 acquisition[22][23]. Daily app downloads rose from 3,400 on October 27 to 113,400 by November 6, 2022[18].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "96499599-fe3e-4c02-8571-a4481bef9c8e",
+      "score": 0.8891543,
+      "title": "Acquisition of Twitter by Elon Musk - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
+      "citation_index": 1
+    },
+    {
+      "id": "bcd23b07-04e8-4622-8cc9-3112951e9e11",
+      "score": 0.80771893,
+      "title": "Timeline of events: Elon Musk and X (formerly Twitter)",
+      "url": "https://www.statista.com/topics/11533/timeline-of-events-elon-musk-and-x-formerly-twitter/?srsltid=AfmBOooCqmWQ5s3juPZRK2mWnmOZ61Dys565__SQ2Zq9FTmGPWZNfF60",
+      "citation_index": 2
+    },
+    {
+      "id": "833fcaed-84b6-4c1b-bbcf-f18123cbf296",
+      "score": 0.8066246,
+      "title": "Timeline of events: Elon Musk and X (formerly Twitter) | Statista",
+      "url": "https://www.statista.com/topics/11533/timeline-of-events-elon-musk-and-x-formerly-twitter/",
+      "citation_index": 2
+    },
+    {
+      "id": "d0c0bfea-4db6-473a-943a-0da8195e4852",
+      "score": 0.7304634,
+      "title": "Twitter to X Corp: A complete timeline of Elon Musk's Twitter takeover - TheStreet",
+      "url": "https://www.thestreet.com/technology/twitter-to-x-the-complete-timeline-of-elon-musks-twitter-purchase",
+      "citation_index": 3
+    },
+    {
+      "id": "25fcb0cf-c9cd-4d61-86f8-be875623d734",
+      "score": 0.8091708,
+      "title": "Elon Musk to Acquire Twitter",
+      "url": "https://www.prnewswire.com/news-releases/elon-musk-to-acquire-twitter-301532245.html",
+      "citation_index": 4
+    },
+    {
+      "id": "a67d58f6-8ce6-457c-8406-d6ceac1ce1e2",
+      "score": 0.741169,
+      "title": "Elon Musk Completes $44 Billion Deal to Own Twitter",
+      "url": "https://www.nytimes.com/2022/10/27/technology/elon-musk-twitter-deal-complete.html",
+      "citation_index": 5
+    },
+    {
+      "id": "a7ff963a-dbd3-4a0b-bb3e-fe569acceb9e",
+      "score": 0.7959917,
+      "title": "Why Elon Musk Finally Bought Twitter \u2013 Fordham Journal of Corporate and Financial Law",
+      "url": "https://news.law.fordham.edu/jcfl/2022/11/25/why-elon-musk-finally-bought-twitter/",
+      "citation_index": 6
+    },
+    {
+      "id": "b5d963cb-348c-4df3-bdab-c1cf32591c87",
+      "score": 0.70263255,
+      "title": "Elon Musk has finally bought Twitter: A timeline of the twists ...",
+      "url": "https://www.npr.org/2022/10/27/1131378869/twitter-elon-musk-timeline",
+      "citation_index": 7
+    },
+    {
+      "id": "f1d56828-bd64-4639-bd98-f37984b4cfd5",
+      "score": 0.6638657,
+      "title": "Timeline of billionaire Elon Musk\u2019s bid to control Twitter | AP News",
+      "url": "https://apnews.com/article/twitter-elon-musk-timeline-c6b09620ee0905e59df9325ed042a609",
+      "citation_index": 8
+    },
+    {
+      "id": "0280724c-993e-475f-a7e4-29d3e379de9e",
+      "score": 0.67527276,
+      "title": "Explainer: How Elon Musk funded the $44 billion Twitter deal | Reuters",
+      "url": "https://www.reuters.com/markets/us/how-will-elon-musk-pay-twitter-2022-10-07/",
+      "citation_index": 10
+    },
+    {
+      "id": "25736e7d-b98a-4bcb-a850-ae3c45a18d44",
+      "score": 0.8201387,
+      "title": "A timeline of Elon Musk's tumultuous Twitter acquisition",
+      "url": "https://abcnews.go.com/Business/timeline-elon-musks-tumultuous-twitter-acquisition-attempt/story?id=86611191",
+      "citation_index": 11
+    },
+    {
+      "id": "39b1cbfe-6b0b-42ac-85a6-fa131bcb3ac8",
+      "score": 0.81204927,
+      "title": "X | Company, History, Twitter, Elon Musk, & Uses | Britannica Money",
+      "url": "https://www.britannica.com/money/Twitter",
+      "citation_index": 12
+    },
+    {
+      "id": "afd0c25f-20df-4a03-9db2-161b72a7d623",
+      "score": 0.68191797,
+      "title": "Amid Twitter chaos, Mastodon grew donations 488% in 2022, reached 1.8M monthly active users | TechCrunch",
+      "url": "https://techcrunch.com/2023/10/02/amid-twitter-chaos-mastodon-grew-donations-488-in-2022-reached-1-8m-monthly-active-users/",
+      "citation_index": 13
+    },
+    {
+      "id": "9330f298-2b8c-459e-91dd-c509524ef839",
+      "score": 0.8467682,
+      "title": "Mastodon Sees 488% Increase in Donations and Reaches 1.8 Million Monthly Active Users Amid Twitter Chaos | Robots.net",
+      "url": "https://robots.net/news/mastodon-sees-488-increase-in-donations-and-reaches-1-8-million-monthly-active-users-amid-twitter-chaos/",
+      "citation_index": 14
+    },
+    {
+      "id": "fb34a750-e8c0-4c37-a328-ecaae18c4c9d",
+      "score": 0.6664756,
+      "title": "Amid Twitter chaos, Mastodon grew donations 488% in 2022, reached 1.8M monthly active users",
+      "url": "https://www.yahoo.com/news/amid-twitter-chaos-mastodon-grew-181420038.html",
+      "citation_index": 15
+    },
+    {
+      "id": "f1ed3ca4-cf47-41e9-9477-3488c3b6f52d",
+      "score": 0.5914643,
+      "title": "More than two million users have flocked to Mastodon since Elon Musk took over Twitter | The Verge",
+      "url": "https://www.theverge.com/2022/12/20/23518325/mastodon-monthly-active-users-twitter-elon-musk",
+      "citation_index": 16
+    },
+    {
+      "id": "4e76266d-2403-4fde-9706-f83a21b98369",
+      "score": 0.72768575,
+      "title": "Twitter flight helped Mastodon grow to 1.8m active users in 2022 - Music Ally",
+      "url": "https://musically.com/2023/10/03/twitter-flight-helped-mastodon-grow-to-1-8m-active-users-in-2022/",
+      "citation_index": 17
+    },
+    {
+      "id": "1f1c8ecb-7bde-4d6b-8b23-c0dec9965b04",
+      "score": 0.63750535,
+      "title": "Mastodon (social network) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mastodon_(social_network)",
+      "citation_index": 18
+    },
+    {
+      "id": "ed8ef119-ce43-4f01-8f98-5214155f7796",
+      "score": 0.7402687,
+      "title": "Mastodon Sees Dip in Active Users After Twitter Exodus Surge | PCMag",
+      "url": "https://www.pcmag.com/news/mastodons-active-users-are-declining",
+      "citation_index": 19
+    },
+    {
+      "id": "a0679de0-7c37-4678-94b7-31d0e5235b24",
+      "score": 0.8585411,
+      "title": "Mastodon User Statistics (2023) | Mobile Marketing Reads",
+      "url": "https://mobilemarketingreads.com/mastodon-user-statistics/",
+      "citation_index": 20
+    },
+    {
+      "id": "0df10563-0ee9-4f10-962d-2f2dc236cf6a",
+      "score": 0.9123193,
+      "title": "Mastodon has way more active users than it thought | Mashable",
+      "url": "https://mashable.com/article/mastodon-monthly-users",
+      "citation_index": 21
+    },
+    {
+      "id": "6bd9c61f-acac-4b3c-9410-d0728de24bf2",
+      "score": 0.75464433,
+      "title": "Boosted by Twitter drama, Mastodon reaches 1 million active monthly users | TechCrunch",
+      "url": "https://techcrunch.com/2022/11/07/boosted-by-twitter-drama-mastodon-reaches-1-million-active-monthly-users/",
+      "citation_index": 22
+    },
+    {
+      "id": "67381498-eee5-4485-809c-bf4f554872e0",
+      "score": 0.69024646,
+      "title": "Mastodon hits 1m monthly users amid Twitter upheaval, but experts doubt brands will follow | The Drum",
+      "url": "https://www.thedrum.com/news/2022/11/08/mastodon-hits-1m-monthly-users-amid-twitter-upheaval-experts-doubt-brands-will",
+      "citation_index": 23
+    },
+    {
+      "id": "42d27d73-8602-4159-bb65-da83bed925d2",
+      "score": 0.9582926,
+      "title": "Is Mastodon the new Twitter?",
+      "url": "https://www.wegewerk.com/en/blog/is-mastodon-the-new-twitter/"
+    },
+    {
+      "id": "2f6d2936-c4c1-4dc8-b8c7-93f6941c8b06",
+      "score": 0.9520821,
+      "title": "Mastodon (social network)",
+      "url": "https://en.wikipedia.org/wiki/John_Mastodon?oldformat=true"
+    },
+    {
+      "id": "c0c1754e-56be-4cef-91a9-b5f4ec5f187d",
+      "score": 0.93898576,
+      "title": "Threads, Bluesky, and Mastodon growing at X's expense",
+      "url": "https://www.newsweek.com/how-top-twitter-rivals-fared-since-elon-musk-exodus-1984404"
+    },
+    {
+      "id": "b5b21f39-4770-4df4-acae-f2a933afa750",
+      "score": 0.91813606,
+      "title": "The Mastodon Bump Is Now a Slump | WIRED",
+      "url": "https://www.wired.com/story/the-mastodon-bump-is-now-a-slump/"
+    },
+    {
+      "id": "12a219bc-3dbc-4654-a514-bcffae61f093",
+      "score": 0.90039873,
+      "title": "Mastodon users worldwide 2023 | Statista",
+      "url": "https://www.statista.com/statistics/1376022/global-registered-mastodon-users/"
+    },
+    {
+      "id": "84db7bc3-7fe3-4573-bd66-7745df1ceec6",
+      "score": 0.8991304,
+      "title": "Mastodon users worldwide 2023",
+      "url": "https://www.statista.com/statistics/1376022/global-registered-mastodon-users/?srsltid=AfmBOor9tA_AMsumYNGrjsUJeRrrKTZf16egJk61a-hi4l2fC1Upd-HZ"
+    },
+    {
+      "id": "64e6f88f-8121-4da1-9d27-95396b66fb9e",
+      "score": 0.8690161,
+      "title": "r/Mastodon on Reddit: Why is Mastodon struggling to survive?",
+      "url": "https://www.reddit.com/r/Mastodon/comments/1g1g844/why_is_mastodon_struggling_to_survive/"
+    },
+    {
+      "id": "9ebba832-0bb5-4be2-9012-ea55d30c572d",
+      "score": 0.8449346,
+      "title": "Disney\u2019s Kimmel suspension shows Trump\u2019s increasing grip over media",
+      "url": "https://www.reuters.com/business/media-telecom/disneys-kimmel-suspension-shows-trumps-increasing-grip-over-media-2025-09-20/"
+    },
+    {
+      "id": "79a487a9-ee74-4695-b76d-c89e36f05e19",
+      "score": 0.8449346,
+      "title": "A timeline of Elon Musk's takeover of Twitter",
+      "url": "https://www.nbcnews.com/business/business-news/twitter-elon-musk-timeline-what-happened-so-far-rcna57532"
+    },
+    {
+      "id": "87a516af-00f1-454d-8afe-3cc018dee852",
+      "score": 0.8386933,
+      "title": "Twitter under Elon Musk - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Twitter_under_Elon_Musk"
+    },
+    {
+      "id": "f4117275-b40a-4e72-b4f1-0e77b2c9ce69",
+      "score": 0.8386933,
+      "title": "Mastodon.social had revenue (donations) of 326K EUR ...",
+      "url": "https://news.ycombinator.com/item?id=38117385"
+    },
+    {
+      "id": "4fd4b0a4-b353-4d52-a369-21408c8cb5c8",
+      "score": 0.8386933,
+      "title": "Elon Musk Bought Twitter to Push Right-Wing Political Agenda, Book Claims - Newsweek",
+      "url": "https://www.newsweek.com/elon-musk-bought-twitter-to-push-right-wing-political-agenda-book-claims-10800245"
+    },
+    {
+      "id": "3d1cd5bb-bdb3-46f9-83ec-6dc9cb8a7ce9",
+      "score": 0.82994765,
+      "title": "A timeline of Elon Musk's takeover of Twitter",
+      "url": "https://finance.yahoo.com/news/timeline-elon-musks-takeover-twitter-220822839.html"
+    },
+    {
+      "id": "60101543-97e7-47b2-afe7-2db1d00e1027",
+      "score": 0.82795376,
+      "title": "New Data Reveals Mastodon's Declining Monthly Active Users",
+      "url": "https://42matters.com/blog/?p=new-data-reveals-mastodons-declining-monthly-active-users"
+    },
+    {
+      "id": "28ab524c-66c0-4a9a-b5a9-bb5be3a6bbca",
+      "score": 0.8131201,
+      "title": "Twitter - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Twitter"
+    },
+    {
+      "id": "e46b70b3-84ca-4f10-af1f-8a0506cf8c3b",
+      "score": 0.8088086,
+      "title": "Twitter Stockholders Approve Acquisition by Elon Musk",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418091/000119312522244289/d403306dex991.htm"
+    },
+    {
+      "id": "f54a04b9-314d-49e0-bc46-9e0762cf75f6",
+      "score": 0.78709817,
+      "title": "How Does Mastodon Make Money? Dissecting Its Business Model (2025)",
+      "url": "https://productmint.com/how-does-mastodon-make-money/"
+    },
+    {
+      "id": "b75a4e8b-64f8-4bd5-9fb8-28af073691dd",
+      "score": 0.78493005,
+      "title": "Charitable Giving Statistics | NPTrust",
+      "url": "http://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/"
+    },
+    {
+      "id": "a27902a2-c0f2-4cdf-a2f4-9bdc8d26340b",
+      "score": 0.76279575,
+      "title": "Mastodon Users 2025",
+      "url": "https://www.thinkimpact.com/mastodon-statistics/"
+    },
+    {
+      "id": "a263f78d-2dcf-4fac-99ae-afc73eaa825a",
+      "score": 0.75831425,
+      "title": "Mastodon Growth Numbers Might Not Mean What You Think They Mean - Absolutely Maybe",
+      "url": "https://absolutelymaybe.plos.org/2022/12/05/mastodon-growth-numbers-might-not-mean-what-you-think-they-mean/"
+    },
+    {
+      "id": "83f56111-223e-4c0a-b01b-700a621d2d0b",
+      "score": 0.7474137,
+      "title": "r/Mastodon on Reddit: How are \"active users\" estimated in Mastodon?",
+      "url": "https://www.reddit.com/r/Mastodon/comments/10bimq2/how_are_active_users_estimated_in_mastodon/"
+    },
+    {
+      "id": "de900da6-f605-4ad2-8e2e-4b5e247bd916",
+      "score": 0.73459625,
+      "title": "Musk begins his Twitter ownership with firings, declares the 'bird is freed' | Reuters",
+      "url": "https://www.reuters.com/markets/deals/elon-musk-completes-44-bln-acquisition-twitter-2022-10-28/"
+    },
+    {
+      "id": "815e2fe2-5e7a-48ae-9245-e968b31af5d2",
+      "score": 0.73138535,
+      "title": "Mastodon actually has 407K+ more monthly users than it thought | TechCrunch",
+      "url": "https://techcrunch.com/2023/10/09/mastodon-actually-has-407k-more-monthly-users-than-it-thought/"
+    },
+    {
+      "id": "94c0ae33-2262-4344-b1d6-2b95042f3fb3",
+      "score": 0.7309246,
+      "title": "Here's everything that's happened to Twitter since Elon Musk bought it and renamed it X",
+      "url": "https://www.businessinsider.com/elon-musk-twitter"
+    },
+    {
+      "id": "7df8a368-1e98-4920-aac8-21363a678bb4",
+      "score": 0.70944256,
+      "title": "About - Mastodon",
+      "url": "https://joinmastodon.org/about"
+    },
+    {
+      "id": "74bee55e-d36c-4ad4-8dff-cbfa45cdb941",
+      "score": 0.7065353,
+      "title": "Twitter is now X. Here's what that means. - CBS News",
+      "url": "https://www.cbsnews.com/news/twitter-rebrand-x-name-change-elon-musk-what-it-means/"
+    },
+    {
+      "id": "909d20f6-24ee-4225-929a-8da687125ae6",
+      "score": 0.7016523,
+      "title": "Elon Musk and X reach tentative settlement with laid-off Twitter employees",
+      "url": "https://www.theguardian.com/technology/2025/aug/22/elon-musk-x-settlement-twitter-employees"
+    },
+    {
+      "id": "0db419f1-4a17-413a-ae6e-02ac3efdea4f",
+      "score": 0.6999322,
+      "title": "Decentralized social media searches rise as Bluesky hits ...",
+      "url": "https://explodingtopics.com/blog/decentralized-social-media"
+    },
+    {
+      "id": "dc41d38f-0b0e-42c5-affc-fa4ce6c3fcc0",
+      "score": 0.6693348,
+      "title": "Musk names veteran banker Anthony Armstrong as xAI finance chief, FT says",
+      "url": "https://www.channelnewsasia.com/business/musk-names-veteran-banker-anthony-armstrong-xai-finance-chief-ft-says-5387591"
+    },
+    {
+      "id": "0d6e09d1-0b6f-4dc0-941c-da045fe157a7",
+      "score": 0.6664756,
+      "title": "Mastodon Analytics - How many users uses Mastodon?",
+      "url": "https://mastodon-analytics.com/"
+    },
+    {
+      "id": "0fa59bcb-338f-41f6-8a53-f2a09512b9d1",
+      "score": 0.64236575,
+      "title": "Musk names veteran banker Anthony Armstrong as xAI finance chief, FT says",
+      "url": "https://finance.yahoo.com/news/musk-names-former-morgan-stanley-033941171.html"
+    },
+    {
+      "id": "141bee07-7b80-401a-a645-0bf54e2468db",
+      "score": 0.6266047,
+      "title": "Elon Musk Names Former Morgan Stanley Banker Anthony Armstrong As xAI CFO Amid $200 Billion Valuation Push: Report",
+      "url": "https://www.benzinga.com/markets/tech/25/10/48063236/elon-musk-names-former-morgan-stanley-banker-anthony-armstrong-as-xai-cfo-amid-200-billion-valuation-push-report"
+    },
+    {
+      "id": "9d2505e5-f755-491c-8747-638a4f9a0417",
+      "score": 0.58465123,
+      "title": "How Mastodon Makes Money",
+      "url": "https://www.investopedia.com/how-mastodon-makes-money-7482865"
+    },
+    {
+      "id": "c61d9118-aaad-4e9c-8039-c77e043cf484",
+      "score": 0.5803764,
+      "title": "Has Elon Musk really been awarded a $1 trillion pay deal?",
+      "url": "https://www.aljazeera.com/news/2025/9/17/has-elon-musk-really-been-awarded-a-1-trillion-pay-deal"
+    },
+    {
+      "id": "1ee3a5f5-84a6-4c29-b5a6-c4ecc876a2f5",
+      "score": 0.51793724,
+      "title": "Musk's X Corp wins spat with former employees over arbitration fees",
+      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/musks-x-corp-wins-spat-with-former-employees-over-arbitration-fees-2025-09-02/"
+    },
+    {
+      "id": "698a4ab0-fdfd-4c5b-a3f0-22e8d8c63189",
+      "score": 0.4833807,
+      "title": "Twitter is now owned by Elon Musk \u2014 here's a brief history from the app's founding in 2006 to the present",
+      "url": "https://www.cnbc.com/2022/10/29/a-brief-history-of-twitter-from-its-founding-in-2006-to-musk-takeover.html"
+    },
+    {
+      "id": "c0b9f7e8-54f2-477f-80dd-04144ee5c209",
+      "score": 0.39985907,
+      "title": "Former Twitter CEO Parag Agrawal Raises $30M For Parallel Web Systems To Challenge OpenAI GPT-5 With Deep Research API",
+      "url": "https://www.benzinga.com/news/topics/25/08/47319819/former-twitter-ceo-parag-agrawal-raises-30m-for-parallel-web-systems-to-challenge-openai-gpt-5-with-deep-research-api"
+    },
+    {
+      "id": "18c78219-390a-4dd0-a340-a18afcfc0e2b",
+      "score": 0.37188962,
+      "title": "How Does Mastodon Make Money: Donations, Grants, Sponsorships",
+      "url": "https://tradersunion.com/interesting-articles/decentralized-social-media/mastodon/revenue-model/"
+    },
+    {
+      "id": "946427cc-8ff7-4f81-99da-b21d90273f89",
+      "score": 0.34733838,
+      "title": "Elon Musk Settles Case With Former Twitter Employees Who Were Purged",
+      "url": "https://gizmodo.com/elon-musk-twitter-2000647131"
+    },
+    {
+      "id": "cbb39583-7e15-4c0d-ac1f-0cd3c0519f81",
+      "score": 0.34654185,
+      "title": "r/Mastodon on Reddit: Mastodon released their 2022 Annual Report",
+      "url": "https://www.reddit.com/r/Mastodon/comments/16yrcku/mastodon_released_their_2022_annual_report/"
+    },
+    {
+      "id": "7f76c65e-276c-4d94-8ef6-b189ecf23b90",
+      "score": 0.34323218,
+      "title": "Highlights of the Wikimedia Foundation's fiscal year 2022- ...",
+      "url": "https://diff.wikimedia.org/2023/11/09/highlights-of-the-wikimedia-foundations-fiscal-year-2022-2023-audit-report/"
+    },
+    {
+      "id": "f9011cd6-42b2-4d27-97aa-ba18422b77ee",
+      "score": 0.3370513,
+      "title": "Mastodon has a new plan to make money: Hosting and support services for the open social web | TechCrunch",
+      "url": "https://techcrunch.com/2025/09/19/mastodon-has-a-new-plan-to-make-money-hosting-and-support-services-for-the-open-social-web/"
+    },
+    {
+      "id": "4dea3124-d3dc-44e2-83a7-edd0d6b99400",
+      "score": 0.3365932,
+      "title": "Mastodon has a new plan to make money: Hosting and ...",
+      "url": "https://www.newsbreak.com/techcrunch-com-332114314/4243632706872-mastodon-has-a-new-plan-to-make-money-hosting-and-support-services-for-the-open-social-web"
+    },
+    {
+      "id": "c561db52-d2b0-466f-bd68-ada54767314e",
+      "score": 0.2865439,
+      "title": "Ten years after selling Periscope to Twitter, startup's co-founder raises $40 million for Macroscope",
+      "url": "https://www.cnbc.com/2025/09/17/periscopes-beykpour-raises-40-million-for-macroscope-to-track-code.html"
+    },
+    {
+      "id": "352cc4a7-5903-4841-a931-f32950db05c3",
+      "score": 0.13947868,
+      "title": "Elon Musk and X reach settlement with axed Twitter workers",
+      "url": "https://www.bbc.com/news/articles/c1ejq154nqzo"
+    }
+  ]
+}

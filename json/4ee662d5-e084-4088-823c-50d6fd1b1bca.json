@@ -1,0 +1,470 @@
+{
+  "id": "4ee662d5-e084-4088-823c-50d6fd1b1bca",
+  "status": "completed",
+  "content": "FALSE. The statement that the Department of Justice (DOJ) filed 9 civil charges against Kraken CEO Jesse Powell is factually incorrect on multiple grounds. The DOJ conducted a *criminal* investigation that it closed *without filing any charges*. Separately, other federal agencies have brought civil enforcement actions against the company Kraken, not Jesse Powell personally, and none of the provided documentation substantiates the number of nine charges.\n\n## Department of Justice (DOJ) Criminal Investigation\n\nThe U.S. Department of Justice and the Federal Bureau of Investigation (FBI) concluded a multi-year *criminal* investigation into Jesse Powell, co-founder of the cryptocurrency exchange Kraken, without filing any charges[1][2]. The probe, which began in 2023, was unrelated to Kraken's crypto operations[2]. Instead, it centered on a management dispute and allegations of \"hacking and cyber-stalking\" related to the Verge Center for the Arts, a Sacramento-based nonprofit organization Powell co-founded[4].\n\nThe key outcomes of the federal investigation were:\n*   **No Charges Filed**: Federal prosecutors formally closed the investigation and confirmed that no criminal action would proceed[1][2][5].\n*   **Declination Letter**: Powell's legal team received a formal \"declination letter\" from the DOJ, a document officially confirming the case's closure[2][6].\n*   **Return of Seized Devices**: Dozens of electronic devices, including laptops and mobile phones seized during a 2023 FBI raid on Powell's home, were returned to him[1][4][7].\n\nWhile the federal criminal matter is closed, Powell is actively pursuing his own *civil* lawsuit against board members of the Verge Center for the Arts, alleging they conspired to unlawfully remove him[1][5].\n\n## Civil Actions by Other Federal Agencies\n\nWhile the DOJ did not file civil charges against Powell, his company, Kraken, has faced civil enforcement actions from other U.S. regulators. This may be a source of confusion.\n\n### Securities and Exchange Commission (SEC)\nThe SEC has filed civil complaints against the Kraken exchange.\n*   **November 2023 Lawsuit**: The SEC sued Kraken, alleging it operated as an unregistered securities broker, clearing agency, and dealer, and that it commingled customer and corporate funds[8][9]. Kraken denied the allegations and stated its intent to defend its position in court[10][11].\n*   **February 2023 Settlement**: Prior to the lawsuit, Kraken agreed to pay a $30 million penalty to the SEC and cease its crypto staking-as-a-service program for U.S. customers to settle charges of failing to register the offer and sale of that program[10][12]. Powell publicly criticized the SEC for filing a new lawsuit months after this settlement[10][11].\n\n### Commodity Futures Trading Commission (CFTC)\nThe CFTC has also taken civil action against Kraken.\n*   **2021 Penalty**: The CFTC imposed a $1.25 million civil monetary penalty on Kraken for offering a prohibited margined retail commodity trading service to U.S. customers[13][14][15].\n\n## Unsubstantiated Number of Charges\n\nThere is no information in the provided materials to support the claim of \"9 civil charges.\" Research into legal cases involving a \"Powell\" revealed several unrelated individuals, including:\n*   **Sidney Powell**: A lawyer who initially faced seven felony counts in Georgia related to the 2020 election and later pleaded guilty to six misdemeanor charges[16][17].\n*   **Jerome Powell**: The Chair of the Federal Reserve who was referred to the DOJ by a member of Congress for a criminal investigation over alleged perjury, but has not been charged with any crime[18][19].\n\nThe legal actions involving Kraken's Jesse Powell are limited to the now-closed DOJ criminal investigation (no charges) and civil actions from the SEC and CFTC directed at his company, Kraken[1][8][15].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "d3d56926-a5e2-4694-a647-f6f29a049c44",
+      "score": 0.8941352,
+      "title": "DOJ Closes Multi-Year Investigation Into Kraken Co-Founder Jesse Powell Without Charges",
+      "url": "https://www.ainvest.com/news/doj-closes-multi-year-investigation-kraken-founder-jesse-powell-charges-2507/",
+      "citation_index": 1
+    },
+    {
+      "id": "f4d430d8-5502-450a-87a6-e860ccebe551",
+      "score": 0.8939131,
+      "title": "FBI Ends Verge-Linked Probe No Charges Filed Against Kraken Founder",
+      "url": "https://www.ainvest.com/news/fbi-ends-verge-linked-probe-charges-filed-kraken-founder-2507/",
+      "citation_index": 2
+    },
+    {
+      "id": "06b6904b-7c6b-47aa-9066-de7a388abe1f",
+      "score": 0.84183896,
+      "title": "FBI drops probe of Kraken founder, returns dozens ...",
+      "url": "https://www.msn.com/en-us/news/other/fbi-drops-probe-of-kraken-founder-returns-dozens-of-seized-devices/ar-AA1J4rVn?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+      "citation_index": 4
+    },
+    {
+      "id": "fe611f26-145f-4a0a-a5b2-57d0e3fb22c8",
+      "score": 0.86413884,
+      "title": "Federal Prosecutors Decline to Charge Kraken Founder Jesse Powell",
+      "url": "https://coinedition.com/federal-prosecutors-decline-to-charge-kraken-founder-jesse-powell/",
+      "citation_index": 5
+    },
+    {
+      "id": "4fe0558a-f804-4382-ab68-6c71f520ed5c",
+      "score": 0.7185356,
+      "title": "FBI Ends Kraken Founder Jesse Powell Probe, Returns Seized Devices",
+      "url": "https://beincrypto.com/fbi-ends-jesse-powell-kraken-investigation/",
+      "citation_index": 6
+    },
+    {
+      "id": "39956c6e-1e79-4e30-833c-e20636b4ed30",
+      "score": 0.82492816,
+      "title": "Justice Department Drops Case Against Kraken Founder Jesse Powell - Benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/25/07/46549894/justice-department-drops-case-against-kraken-founder-jesse-powell",
+      "citation_index": 7
+    },
+    {
+      "id": "e69ebc3f-d0fc-4aca-b6a3-cb354d0b8b2b",
+      "score": 0.83225065,
+      "title": "Kraken Accused by SEC of Operating Unregistered Platform, Improperly Mixing Customer Funds",
+      "url": "https://www.coindesk.com/policy/2023/11/20/kraken-accused-by-sec-of-operating-unregistered-platform-improperly-mixing-customer-funds",
+      "citation_index": 8
+    },
+    {
+      "id": "654ee49a-540a-4098-95a7-8841d86f78c2",
+      "score": 0.7463059,
+      "title": "SEC drops case against Kraken",
+      "url": "https://www.bankingdive.com/news/sec-drops-case-kraken-crypto/741428/",
+      "citation_index": 9
+    },
+    {
+      "id": "75ec2e47-4bcb-4aad-b1f8-a3fd2518d684",
+      "score": 0.8338803,
+      "title": "Kraken co-founder slams \u2018decel\u2019 SEC, warns others should flee US",
+      "url": "https://cointelegraph.com/news/kraken-jesse-powell-slams-sec-warns-us-crypto-firms",
+      "citation_index": 10
+    },
+    {
+      "id": "4c8c54d8-3dc4-4ec1-8c26-25b45c5686d0",
+      "score": 0.67885995,
+      "title": "Kraken Exchange CEO Jesse Powell Slams SEC for 'Assault on America'",
+      "url": "https://cryptonews.com/news/kraken-exchange-ceo-jesse-powell-slams-sec-for-assault-on-america/",
+      "citation_index": 11
+    },
+    {
+      "id": "4b17eb85-2283-46fc-bcc0-9f7d74cb8c9b",
+      "score": 0.7653308,
+      "title": "Kraken Founder Slams SEC, Accuses It Of 'Returning For Seconds' Despite $30M Settlement | IBTimes",
+      "url": "https://www.ibtimes.com/kraken-founder-slams-sec-accuses-it-returning-seconds-despite-30m-settlement-3719063",
+      "citation_index": 12
+    },
+    {
+      "id": "855ffc02-c434-487a-8571-a6261325e4e9",
+      "score": 0.73596483,
+      "title": "Kraken, a U.S. Crypto Exchange, Is Suspected of Violating ...",
+      "url": "https://www.nytimes.com/2022/07/26/technology/kraken-crypto-iran.html",
+      "citation_index": 13
+    },
+    {
+      "id": "58359cb3-f6ed-461d-814a-9f6fbc0bea3f",
+      "score": 0.70847535,
+      "title": "Crypto Exchange Kraken Reportedly Under Investigations For Sanctions Breach",
+      "url": "https://bitcoinist.com/crypto-exchange-kraken-under-investigations/",
+      "citation_index": 14
+    },
+    {
+      "id": "67a1fa33-ab25-4dc9-9f39-af5d329c4e0d",
+      "score": 0.54695654,
+      "title": "Did US Regulators Began Offensive Against Crypto Platforms? CFTC Fines Kraken",
+      "url": "https://www.newsbtc.com/derivatives/cftc-fines-kraken/",
+      "citation_index": 15
+    },
+    {
+      "id": "deba643e-17dc-4016-90ae-17a76a600696",
+      "score": 0.63234437,
+      "title": "Backgrounder: Sidney Powell's disciplinary hearing - States United Democracy Center",
+      "url": "https://statesunited.org/resources/powell-hearing/",
+      "citation_index": 16
+    },
+    {
+      "id": "7cd5b75e-8220-4307-9237-ce6a09b7a55e",
+      "score": 0.32549962,
+      "title": "What you need to know about Sidney Powell\u2019s 2020 election charges | PBS News",
+      "url": "https://www.pbs.org/newshour/politics/what-you-need-to-know-about-sidney-powells-2020-election-charges",
+      "citation_index": 17
+    },
+    {
+      "id": "862084e0-3285-4f94-bde1-4e751450f01e",
+      "score": 0.6747586,
+      "title": "Trump Ally Accuses Jerome Powell of Lying Under Oath, Rec... - Newsweek",
+      "url": "https://www.newsweek.com/jerome-powell-criminal-charges-doj-trump-ally-fed-2101884",
+      "citation_index": 18
+    },
+    {
+      "id": "42fb5860-095d-4fef-996e-5928fbcc7a89",
+      "score": 0.54521364,
+      "title": "Rep. Anna Paulina Luna Refers Federal Reserve Chair Jerome Powell for Criminal Investigation Over False Testimony",
+      "url": "https://luna.house.gov/posts/rep-anna-paulina-luna-refers-federal-reserve-chair-jerome-powell-for-criminal-investigation-over-false-testimony",
+      "citation_index": 19
+    },
+    {
+      "id": "6f278cc3-581c-422d-bb79-bb4f7862607e",
+      "score": 0.8449346,
+      "title": "Justice Department Drops Case Against Kraken Founder ...",
+      "url": "https://www.webull.com/news/13204927344829440"
+    },
+    {
+      "id": "75faf584-f8ec-4ce2-9744-e0a237fcb7e5",
+      "score": 0.8437023,
+      "title": "FBI Concludes Investigation into Jesse Powell",
+      "url": "https://forklog.com/en/fbi-concludes-investigation-into-jesse-powell/"
+    },
+    {
+      "id": "40b850e9-8427-4fcc-8606-5fa8110ce86c",
+      "score": 0.83710164,
+      "title": "DOJ Quietly Closes 2-Year Investigation Into Kraken's Jesse Powell",
+      "url": "https://bitcoinethereumnews.com/tech/doj-quietly-closes-2-year-investigation-into-krakens-jesse-powell/"
+    },
+    {
+      "id": "8d45acfa-6881-49a0-bd4a-43aa40dbde0e",
+      "score": 0.81630427,
+      "title": "FBI ends probe of Kraken co-founder, returns confiscated devices \u2014 Report",
+      "url": "https://cointelegraph.com/news/fbi-investigation-closed-kraken-jesse-powell"
+    },
+    {
+      "id": "2355c2ce-1569-4393-8da3-f825500afbdd",
+      "score": 0.776708,
+      "title": "Kraken\u2019s Co-Founder Jesse Powell Cleared of Hacking Charges After FBI Investigation",
+      "url": "https://www.financemagnates.com/cryptocurrency/krakens-jesse-powell-cleared-of-hacking-charges-after-fbi-investigation/"
+    },
+    {
+      "id": "f7a430e9-7a98-4c07-adc7-0e7992be0294",
+      "score": 0.7672197,
+      "title": "Kraken Under Fire: Jesse Powell's Response To SEC Accusations",
+      "url": "https://bitcoinist.com/kraken-jesse-powells-response-to-sec-accusations/"
+    },
+    {
+      "id": "4bea4a14-685a-4890-a621-79178467185b",
+      "score": 0.75312227,
+      "title": "FBI drops probe of Kraken founder, returns dozens of ...",
+      "url": "https://finance.yahoo.com/news/fbi-drops-probe-kraken-founder-142956563.html"
+    },
+    {
+      "id": "34e1268a-4681-41fb-95d8-6ae11923f44f",
+      "score": 0.7487387,
+      "title": "Kraken\u2019s Powell claims in lawsuit he was denied housing due to crypto ties",
+      "url": "https://cointelegraph.com/news/kraken-jesse-powell-denied-house-crypto-ties-discrimination-lawsuit"
+    },
+    {
+      "id": "660b1157-5089-40ed-93d0-bb6e2c31d20e",
+      "score": 0.7476348,
+      "title": "CFTC drops baseless investigation against Kraken's Jesse Powell - a rare win for crypto regulatory clarity and a shift away from indiscriminate lawfare against legitimate businesses.\n\nPowell, who founded Kraken in 2011, established industry-leading security practices while advocating for user privacy and open financial systems.\n\nThis case signals regulators may be adopting more nuanced approaches to crypto oversight, though significant challenges remain: jurisdictional fragmentation, inconsistent enforcement, and unclear securities classifications.\n\nThe industry must continue building robust compliance programs while engaging policymakers to shape balanced frameworks.\n\n#CryptoRegulation",
+      "url": "https://x.com/fenzlabs/status/1947829523212321002"
+    },
+    {
+      "id": "d36eb8ee-4414-4e53-9310-b7dd78bf08ae",
+      "score": 0.7467494,
+      "title": "FBI ends probe into Kraken founder Jesse Powell over alleged hacking of nonprofit accounts",
+      "url": "https://cryptobriefing.com/kraken-founder-investigation-ended/"
+    },
+    {
+      "id": "237ec6f3-de0a-4535-8ff2-38c078d3bd7d",
+      "score": 0.73596483,
+      "title": "Kraken Co-Founder Jesse Powell: SEC 'USA's Top Decel' - Decrypt",
+      "url": "https://decrypt.co/206814/kraken-co-founder-jesse-powell-sec-usas-top-decel"
+    },
+    {
+      "id": "da34f1ae-62e8-40b1-b9f1-39d1bfd389b5",
+      "score": 0.73299384,
+      "title": "FBI Drops Criminal Probe Into Kraken Founder Jesse Powell",
+      "url": "https://www.coindesk.com/policy/2025/07/22/fbi-drops-criminal-probe-into-kraken-founder-jesse-powell"
+    },
+    {
+      "id": "21605156-31e3-464e-9c52-a5a4f09a7980",
+      "score": 0.71995544,
+      "title": "FBI ends probe of Kraken co-founder, returns confiscated devices \u2014 Report",
+      "url": "https://www.tradingview.com/news/cointelegraph:546bdd46e094b:0-fbi-ends-probe-of-kraken-co-founder-returns-confiscated-devices-report/"
+    },
+    {
+      "id": "4a6b8a50-26f4-4888-a6e4-5eb99b281e18",
+      "score": 0.70944256,
+      "title": "Jerome Powell referred for criminal charges by GOP House member - report | Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4469455-jerome-powell-referred-for-criminal-charges-by-gop-house-member---report"
+    },
+    {
+      "id": "b914d78d-d38d-4ec4-a705-689aca4e7cfc",
+      "score": 0.7050753,
+      "title": "Kraken CEO Is a Chokepoint 2.0 Victim: Lawsuit Reveals Jesse Powell was Denied Housing Over Crypto Ties | CCN.com",
+      "url": "https://www.ccn.com/news/crypto/kraken-ceo-chokepoint-2-0-victim-lawsuit-denied-housing-crypto-ties/"
+    },
+    {
+      "id": "395e3d1d-f30e-4667-9482-6fad2bdfaf16",
+      "score": 0.7045877,
+      "title": "Kraken Co-Founder Jesse Powell Blasts SEC as \u2018Top Decel,\u2019 Says Crypto",
+      "url": "https://www.youtube.com/watch?v=4LW63tqMI8c"
+    },
+    {
+      "id": "728d5e48-e27f-41e0-be42-bd030470b942",
+      "score": 0.7036111,
+      "title": "United States of America, Plaintiff-appellee, v. Jesse C. Powell, Defendant-appellant, 835 F.2d 1095 (5th Cir. 1988) :: Justia",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/F2/835/1095/296766/"
+    },
+    {
+      "id": "e27a8a6c-7a1c-4e61-9912-28e80a2489f8",
+      "score": 0.70263255,
+      "title": "Department of Justice Drops Investigation Into Kraken Founder Jesse Powell: Report",
+      "url": "https://cryptonews.com/news/department-of-justice-drops-investigation-into-kraken-founder-jesse-powell-report/"
+    },
+    {
+      "id": "5eb0bc51-982c-4670-bacd-cad754abfd49",
+      "score": 0.6972179,
+      "title": "DOJ Closes Investigation Into Kraken Co-Founder Jesse Powell",
+      "url": "https://cryptopotato.com/doj-closes-investigation-into-kraken-co-founder-jesse-powell/"
+    },
+    {
+      "id": "f51f9cc4-8754-4237-841d-ed7700409ce2",
+      "score": 0.6479992,
+      "title": "FBI drops probe of Kraken founder Jesse Powell, returns devices | Fortune Crypto",
+      "url": "https://fortune.com/crypto/2025/07/22/kraken-jesse-powell-fbi/"
+    },
+    {
+      "id": "ee92bd39-6e0d-415c-a0b1-1e759979f341",
+      "score": 0.63939893,
+      "title": "Testing",
+      "url": "https://www.gibsondunn.com/testing/"
+    },
+    {
+      "id": "0657ec22-67ba-43e0-b15f-e6dfb8dc9fac",
+      "score": 0.62523276,
+      "title": "Digital Assets Recent Updates - July 2025",
+      "url": "https://www.gibsondunn.com/digital-assets-recent-updates-july-2025/"
+    },
+    {
+      "id": "52c2e1c1-1710-4876-8490-1b185d434908",
+      "score": 0.61363083,
+      "title": "Kraken vs. SEC Update",
+      "url": "https://www.youtube.com/watch?v=g-BnM1mTyh4"
+    },
+    {
+      "id": "7c031859-8354-4ac3-8b91-8344f5dc3b02",
+      "score": 0.59457535,
+      "title": "r/CryptoCurrency on Reddit: FBI drops probe of Kraken founder, returns dozens of seized devices",
+      "url": "https://www.reddit.com/r/CryptoCurrency/comments/1m6hhhf/fbi_drops_probe_of_kraken_founder_returns_dozens/"
+    },
+    {
+      "id": "2ce0751d-7ba6-4edf-9c62-96b89770c940",
+      "score": 0.562874,
+      "title": "Federal Prosecutors Close Inquiry Into Co-Founder of Kraken Crypto Exchange - The New York Times",
+      "url": "https://www.nytimes.com/2025/07/22/technology/jesse-powell-kraken-verge-investigation.html"
+    },
+    {
+      "id": "24bd9b17-91a4-462e-ab60-94983277547e",
+      "score": 0.5170594,
+      "title": "Kraken founder Jesse Powell's fight with a San Francisco co-op | Fortune Crypto",
+      "url": "https://fortune.com/crypto/2025/03/23/an-og-crypto-founder-on-the-triumph-of-bitcoin-and-rejection-by-san-francisco-liberals/"
+    },
+    {
+      "id": "31c1f512-343a-4f5b-a06e-19e83654ad53",
+      "score": 0.51310796,
+      "title": "Enforcement Actions | CFTC",
+      "url": "https://www.cftc.gov/LawRegulation/EnforcementActions/index.htm"
+    },
+    {
+      "id": "3636eaab-1943-4641-b427-fa34921075f8",
+      "score": 0.48762518,
+      "title": "Kraken Archives",
+      "url": "https://www.securitiesdocket.com/tag/kraken/"
+    },
+    {
+      "id": "72ca43f0-08a1-4245-bf1d-e053f8631fc2",
+      "score": 0.48572227,
+      "title": "Fed's Powell denies perjury amid Congress probe on $2.5bn headquarters renovation | Mortgage Professional",
+      "url": "https://www.mpamag.com/us/news/general/feds-powell-denies-perjury-amid-congress-probe-on-25bn-headquarters-renovation/543068"
+    },
+    {
+      "id": "752fbefb-1aba-4b49-88ce-5083a773a746",
+      "score": 0.4813325,
+      "title": "US Justice Department has dropped its criminal ...",
+      "url": "https://www.mitrade.com/insights/news/live-news/article-3-978089-20250723"
+    },
+    {
+      "id": "07a66649-344a-4cfc-9f12-547b26527d5f",
+      "score": 0.42892754,
+      "title": "Sidney Powell Pleads Guilty to Six Criminal Charges in Fulton County Election Subversion Case - Democracy Docket",
+      "url": "https://www.democracydocket.com/news-alerts/sidney-powell-pleads-guilty-to-six-criminal-charges-in-fulton-county-election-subversion-case/"
+    },
+    {
+      "id": "3c2fad46-ce20-40d3-97e1-f7b18627d30b",
+      "score": 0.42534322,
+      "title": "Trump and his advisors are shrugging off DOJ's Capitol riot probe. But they see danger in the Georgia and New York investigations.",
+      "url": "https://www.businessinsider.com/trump-legal-jeopardy-new-york-georgia-doj-capitol-riot-investigation-2021-4"
+    },
+    {
+      "id": "44ef1d1c-6e3d-4443-b995-cd829b093a89",
+      "score": 0.38964,
+      "title": "powell-2500-steiner-complaint.pdf",
+      "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/02/powell-2500-steiner-complaint.pdf"
+    },
+    {
+      "id": "106d659d-d889-4bfd-a96b-e2bca2cafe71",
+      "score": 0.36581963,
+      "title": "Kraken\u2019s Powell criticizes SEC\u2019s \u2018convenience-based\u2019 enforcement actions in crypto industry",
+      "url": "https://biztoc.com/x/2061a6de79f9572a"
+    },
+    {
+      "id": "ff8fe259-3fda-40b9-a80d-6b2f412f895f",
+      "score": 0.3312176,
+      "title": "How a crypto pioneer lost $1 million to the Gavin Newsom ...",
+      "url": "https://www.politico.com/news/2024/04/10/jesse-powell-newsom-recall-lawsuit-00151337"
+    },
+    {
+      "id": "9f221e06-5d5a-4dd6-ba27-5e18e7eafb8f",
+      "score": 0.30454868,
+      "title": "UNITED STATES v. Charles Powell, Jr., Defendant-Appellant/Cross-Appellee. (2007) | FindLaw",
+      "url": "https://caselaw.findlaw.com/court/us-7th-circuit/1072722.html"
+    },
+    {
+      "id": "ead65367-7448-4bab-80c3-be20a6fe5a50",
+      "score": 0.2883441,
+      "title": "CFTC announces crypto fraud action after enforcement priorities shift",
+      "url": "https://cointelegraph.com/news/cftc-crypto-fraud-enforcement-priorities"
+    },
+    {
+      "id": "3d4b582f-8854-4293-97e3-dd24879894d6",
+      "score": 0.27551624,
+      "title": "Ex-Trump lawyer Sidney Powell pleads guilty, could testify in Georgia case | Reuters",
+      "url": "https://www.reuters.com/legal/former-trump-lawyer-powell-pleads-guilty-georgia-election-subversion-case-2023-10-19/"
+    },
+    {
+      "id": "092f4983-83a8-4e08-8eb1-47aa9f3e5721",
+      "score": 0.2624912,
+      "title": "Energy Enforcement Insider: CFTC Enforcement - Recent HSBC Cases - Remedial Undertakings",
+      "url": "https://www.youtube.com/watch?v=HaARDKL6JHo"
+    },
+    {
+      "id": "96a27f81-e0a6-4e36-b3e5-90d7a8450b00",
+      "score": 0.23212774,
+      "title": "Crypto founder sues board of elite SF buildings for ' ...",
+      "url": "https://www.sfchronicle.com/realestate/article/sf-crypto-housing-discrimination-20149209.php"
+    },
+    {
+      "id": "bbbd65be-a757-4d57-b6a7-c1d3a13018da",
+      "score": 0.23139746,
+      "title": "Jesse Powell and Kevin Zhou on How FTX and Alameda Lost $10 Billion - Ep. 423 \u2013 Unchained \u2013 Podcast",
+      "url": "https://podtail.com/en/podcast/unchained-2/jesse-powell-and-kevin-zhou-on-how-ftx-and-alameda/"
+    },
+    {
+      "id": "6e3bc3e9-93a9-4708-a226-d91fb9b7528e",
+      "score": 0.21368915,
+      "title": "U.S. CFTC Enforcement Advisory on Self-Reporting, Cooperation, and Remediation | Insights | Sidley Austin LLP",
+      "url": "https://www.sidley.com/en/insights/newsupdates/2025/03/us-cftc-enforcement-advisory-on-selfreporting-cooperation-and-remediation"
+    },
+    {
+      "id": "e88c876f-719c-4e98-8ce8-41f7ecd6bb90",
+      "score": 0.19200887,
+      "title": "People v. Powell (1986) :: :: California Court of Appeal Decisions :: California Case Law :: California Law :: U.S. Law :: Justia",
+      "url": "https://law.justia.com/cases/california/court-of-appeal/3d/178/36.html"
+    },
+    {
+      "id": "b81c9006-e3bb-47ed-9952-f1020272f4c6",
+      "score": 0.16450334,
+      "title": "Press Releases | CFTC",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases?field_press_release_types_value=Enforcement&year=all"
+    },
+    {
+      "id": "869f5903-8f55-44c2-876a-a91c054fefd3",
+      "score": 0.15957099,
+      "title": "Jesse Powell: Kraken\nCameron Winklevoss: Gemini\nTyler Winklevoss: Gemini\nBinance Representative: Binance\nScott Bessent: \ud83c\uddfa\ud83c\uddf2 Treasury Secretary \u2705\nHoward Lutnick: U.S. Commerce Secretary \u2705\nPam Bondi: \ud83c\uddfa\ud83c\uddf2 Attorney General \u2705\n\ud83c\uddfa\ud83c\uddf2SEC Chair: \u2705\n\ud83c\uddfa\ud83c\uddf2CFTC Chair \u2705  \n\n3/",
+      "url": "https://x.com/mwendwa_dre/status/1897491633790189741"
+    },
+    {
+      "id": "5a22080b-6457-4371-b332-7660d2963906",
+      "score": 0.15878677,
+      "title": "CFTC\u2019s Annual Enforcement Results: Another Blockbuster Year | BCLP - Bryan Cave Leighton Paisner",
+      "url": "https://www.bclplaw.com/en-US/events-insights-news/cftcs-annual-enforcement-results-another-blockbuster-year.html"
+    },
+    {
+      "id": "791926bb-2c1a-415b-8dd2-cc28786eb1dc",
+      "score": 0.15831774,
+      "title": "US DOJ drops probe into Kraken co-founder Jesse Powell ...",
+      "url": "https://www.theblock.co/post/363846/us-doj-drops-probe-into-kraken-co-founder-jesse-powell-over-nonprofit-allegations-fortune"
+    },
+    {
+      "id": "259e599b-2b2b-4858-9840-d6b9080f7809",
+      "score": 0.12105074,
+      "title": "U.S. CFTC Gives Go-Ahead for Polymarket's New ...",
+      "url": "https://www.coindesk.com/policy/2025/09/03/u-s-cftc-gives-go-ahead-for-polymarket-s-new-exchange-qcx"
+    },
+    {
+      "id": "64d4f292-b5cd-4f94-9aa2-1148208cc982",
+      "score": 0.11218141,
+      "title": "United States v. Powell | 469 U.S. 57 (1984) | Justia U.S. Supreme Court Center",
+      "url": "https://supreme.justia.com/cases/federal/us/469/57/"
+    },
+    {
+      "id": "9f4607a3-8607-4e09-a667-441d4d9d121f",
+      "score": 0.10986823,
+      "title": "Judge allows defamation lawsuits against Sidney Powell, Rudy Giuliani and MyPillow CEO to go forward | CNN Politics",
+      "url": "https://amp.cnn.com/cnn/2021/08/11/politics/defamation-lawsuits-sidney-powell-rudy-giuliani-mike-lindell/index.html"
+    },
+    {
+      "id": "4a26fa83-7032-417a-be95-c67b64e455b8",
+      "score": 0.09048623,
+      "title": "Addendum: FY 2023 Enforcement Actions",
+      "url": "https://www.cftc.gov/media/9716/DOE_ResultsFY23_AddendumA110723/download"
+    },
+    {
+      "id": "0b39bfe9-042e-4242-858c-28a383a2a769",
+      "score": 0.08943091,
+      "title": "Sidney Powell - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sidney_Powell"
+    },
+    {
+      "id": "1a6d6cbc-fa4b-43ae-a16a-47c4d09fe090",
+      "score": 0.08735358,
+      "title": "CFTC Releases FY 2023 Enforcement Results | CFTC",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/8822-23"
+    },
+    {
+      "id": "6b30e39d-b9cb-48c8-a9e1-36b298f75fe3",
+      "score": 0.06337227,
+      "title": "Fed Chair Jerome Powell faces DOJ referral over statements on Fed renovations | Fox News",
+      "url": "https://www.foxnews.com/politics/fed-chair-jerome-powell-hit-criminal-referral-house-gop-trump-ally"
+    },
+    {
+      "id": "09a14ac2-8cbc-44e8-9abe-eb59b63b0f19",
+      "score": 0.024574842,
+      "title": "Donald Trump Is Once Again In Court Arguing He Can\u2019t Be Sued For What He Said While President",
+      "url": "https://www.buzzfeednews.com/article/zoetillman/trump-january-6-sued-rally-speech"
+    },
+    {
+      "id": "fa65d114-a394-43a7-9f41-6e92621b73e7",
+      "score": 0.021469228,
+      "title": "Just-In: Founder Jesse Powell Open Up About US SEC Lawsuit Against Kraken",
+      "url": "https://coingape.com/just-in-founder-jesse-powell-open-up-about-us-sec-lawsuit-against-kraken/"
+    }
+  ]
+}

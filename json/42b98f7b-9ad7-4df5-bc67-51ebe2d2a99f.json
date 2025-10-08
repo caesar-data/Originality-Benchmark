@@ -1,0 +1,93 @@
+{
+  "id": "42b98f7b-9ad7-4df5-bc67-51ebe2d2a99f",
+  "status": "completed",
+  "content": "FALSE. The claim that 20 women were serving in the U.S. Senate at the start of the 118th Congress in 2023 is not factual. Evidence from multiple sources indicates the correct number was 25.\n\n## Correct Figure for the 118th Congress\n\nAt the beginning of the 118th Congress in January 2023, 25 women were serving as U.S. Senators[1][3]. This figure of 25 women senators represented 25% of the 100 seats in the chamber[3]. This total tied the record for the highest number of women serving in the Senate, which was previously set in the 116th Congress[3][5].\n\n### Party Affiliation Breakdown\n\nThe composition of the 25 women senators at the start of the 118th Congress included:\n*   16 Democratic women. Another source specifies 15 Democratic women and 1 Independent who caucused with the Democrats.\n*   9 Republican women, which matched a previous record for the party.\n*   1 Independent, Senator Kyrsten Sinema, who was the first woman to serve as an independent in the U.S. Congress.\n\n## Data Comparison and Discrepancies\n\nWhile the predominant figure cited for the start of the 118th Congress is 25, some sources note a figure of 24 women senators[6][7]. This lower number likely reflects changes that occurred after the start of the Congress in January 2023[8]. For historical context, the number of women in the Senate during the 113th and 114th Congresses was 20[9]. However, by the start of the 118th Congress, the number had clearly risen. No provided source supports the claim of 20 women senators in January 2023.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "758a7409-7379-41fd-9e4a-6af30059a674",
+      "score": 0.94989765,
+      "title": "Data on Women Leaders in the U.S. | Pew Research Center",
+      "url": "https://www.pewresearch.org/social-trends/fact-sheet/the-data-on-women-leaders/",
+      "citation_index": 1
+    },
+    {
+      "id": "aa447ed3-b726-40d7-9570-6b192a9bc36b",
+      "score": 0.54681134,
+      "title": "118th Congress has a record number of women | Pew Research Center",
+      "url": "https://www.pewresearch.org/short-reads/2023/01/03/118th-congress-has-a-record-number-of-women/",
+      "citation_index": 3
+    },
+    {
+      "id": "fe3d3194-c775-4213-a7ab-209d56eb0e6b",
+      "score": 0.635879,
+      "title": "The changing face of Congress in 8 charts: Race, ethnicity, gender, generation, immigrant status, education and more | Pew Research Center",
+      "url": "https://www.pewresearch.org/short-reads/2023/02/07/the-changing-face-of-congress/",
+      "citation_index": 5
+    },
+    {
+      "id": "b0a62120-ebb7-4e97-84d4-bca0e127adb6",
+      "score": 0.8170061,
+      "title": "Membership of the 118th Congress: A Profile | Congress.gov | Library ...",
+      "url": "https://crsreports.congress.gov/product/pdf/R/R47470",
+      "citation_index": 6
+    },
+    {
+      "id": "5637f107-6740-47b3-a888-7a279d4621f9",
+      "score": 0.7900289,
+      "title": "History of Women in the U.S. Congress",
+      "url": "https://cawp.rutgers.edu/facts/levels-office/congress/history-women-us-congress",
+      "citation_index": 7
+    },
+    {
+      "id": "852b9325-eddf-4129-8a68-62fd4d2ecc7b",
+      "score": 0.61251885,
+      "title": "Women in the U.S. Senate 2024",
+      "url": "https://cawp.rutgers.edu/facts/levels-office/congress/women-us-senate-2024",
+      "citation_index": 8
+    },
+    {
+      "id": "4b3e717b-05e2-4d4e-a993-61489296d5de",
+      "score": 0.9088853,
+      "title": "Senators in Congress by gender U.S. 2023 | Statista",
+      "url": "https://www.statista.com/statistics/198423/senators-in-the-us-congress-by-gender-since-1975/",
+      "citation_index": 9
+    },
+    {
+      "id": "a11984cf-49d6-4771-8e8b-64138e0374c2",
+      "score": 0.91813606,
+      "title": "New Records for Women in the U.S. Congress and House",
+      "url": "https://cawp.rutgers.edu/news-media/press-releases/new-records-women-us-congress-and-house"
+    },
+    {
+      "id": "aca9deaa-a9a1-43ab-8355-b4e3ff457ea6",
+      "score": 0.8415267,
+      "title": "Women account for 28% of lawmakers in the 119th Congress \u2013 unchanged from the last Congress | Pew Research Center",
+      "url": "https://www.pewresearch.org/short-reads/2025/02/21/women-account-for-28-of-lawmakers-in-the-119th-congress-unchanged-from-the-last-congress/"
+    },
+    {
+      "id": "567373e0-1b40-42f8-99f4-66a4efa9fefa",
+      "score": 0.6937432,
+      "title": "Women in the 118th Congress",
+      "url": "https://cawp.rutgers.edu/news-media/press-releases/women-118th-congress"
+    },
+    {
+      "id": "e8e7b987-ce8f-4264-ad39-3d31ce790413",
+      "score": 0.6617704,
+      "title": "Membership of the 118th Congress: A Profile",
+      "url": "https://www.congress.gov/crs_external_products/R/PDF/R47470/R47470.20.pdf"
+    },
+    {
+      "id": "793a75b6-e43b-4a75-b22b-1277d9d89019",
+      "score": 0.65676886,
+      "title": "U.S. Senate: Women Senators",
+      "url": "https://www.senate.gov/senators/ListofWomenSenators.htm"
+    },
+    {
+      "id": "eab0f9a7-5ee8-4ac8-a000-e1f2a3351b07",
+      "score": 0.62633044,
+      "title": "Women In Congress [2025 Update]",
+      "url": "https://www.quorum.us/data-driven-insights/women-in-congress/"
+    }
+  ]
+}

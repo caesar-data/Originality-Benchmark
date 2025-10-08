@@ -1,0 +1,421 @@
+{
+  "id": "d8524c30-cce5-4e18-a061-309ca856721c",
+  "status": "completed",
+  "content": "TRUE. The herb basil, particularly the species *Ocimum tenuiflorum* (Holy Basil/Tulsi) and *Ocimum basilicum* (Sweet Basil), has documented anti-anxiety and anti-stress effects supported by systematic reviews, human clinical trials, and preclinical animal studies.\n\n## *Ocimum tenuiflorum* (Holy Basil/Tulsi): Human Clinical Evidence\n\n*Ocimum tenuiflorum* is classified as an adaptogen, a substance that helps the body adapt to stress and promotes mental balance[1][2][3]. A 2017 systematic review of 24 human studies concluded that the evidence for its therapeutic efficacy was favorable, particularly for addressing psychological stress[4][5][6][7][8]. This review highlighted three clinical studies showing significant reductions in anxiety and stress levels, with two reporting a 31.6% to 39% decrease in overall stress-related symptoms[4].\n\n### Randomized Controlled Trials (RCTs)\n\nMultiple randomized, double-blind, placebo-controlled trials have documented the efficacy of Holy Basil extracts:\n*   **Lopresti et al. (2022):** An 8-week trial involving 100 volunteers found that supplementation with a standardized extract (Holixer\u2122) at 125 mg twice daily was associated with greater improvements on the Perceived Stress Scale (p = 0.003) and the Athens Insomnia Scale (p = 0.025) compared to placebo[9]. Objective measures of stress were also reduced, including lower hair cortisol concentrations at week 8 (p = 0.025) and buffered stress responses (salivary cortisol, blood pressure, subjective stress ratings) during an acute stress test[9][10][11].\n*   **Saxena et al. (2012):** This 6-week study evaluated an extract (OciBest) at a daily dose of 1200 mg in 150 adults[8][12]. The treatment group showed a 39% greater improvement in the control of general stress symptoms\u2014such as forgetfulness, sleep problems, and exhaustion\u2014compared to the placebo group (P \u2264 0.05)[13][14][15].\n*   **Sampath et al. (2015):** A 30-day trial with 300 mg per day of an ethanolic leaf extract in healthy adults showed improvement over time in the treatment group on the State-Trait Anxiety Inventory; however, the difference between the extract and placebo groups was not statistically significant for this specific measure[16][12].\n\n### Other Clinical Evidence\n\nSome human trials, while showing positive results, lack the rigor of a placebo control group. A notable study by Bhattacharyya et al. (2008) administered 500 mg of Holy Basil extract twice daily for 60 days to 35 individuals with Generalized Anxiety Disorder (GAD)[3][17]. The study reported a significant attenuation of GAD, as well as correlated stress and depression (p<0.001)[3]. Though influential, its open-label design is a limitation[7][3].\n\n## *Ocimum basilicum* (Sweet Basil): Preclinical and Mechanistic Evidence\n\nWhile human clinical trials on *Ocimum basilicum*'s anxiolytic effects are limited and have produced mixed results, extensive animal and in vitro research documents its potential.\n\n### Animal and In Vitro Studies\n\n*   **Anxiolytic and Sedative Effects:** Studies in mice have shown that both the essential oil and hydroalcoholic extract of *O. basilicum* exhibit significant anxiolytic and sedative effects, with the essential oil being more potent at the same dose[18][19][20]. Rat studies also demonstrate that extracts can produce a marked anxiolytic effect (p <0.03)[21][22].\n*   **Neurotransmitter Modulation:** Research using adult zebrafish found that *O. basilicum* essential oil and its primary constituent, estragole, have anxiolytic-like effects. Molecular docking assays suggest these effects involve the GABAergic (GABA-A) and serotonergic (5-HT\u2081, 5-HT\u2082A/2C, and 5-HT\u2083A/3B) systems[23][24].\n*   **Stress Model Improvement:** Inhalation of *O. basilicum* essential oil significantly improved the behavior of rats in a \u03b2-amyloid-induced model of Alzheimer's disease, suggesting anxiolytic- and antidepressant-like properties[25].\n\n### Implicated Anxiolytic Compounds\n\nResearch has identified numerous compounds in *O. basilicum* that may contribute to its anti-anxiety effects[18].\n*   **Essential Oil Components:** Key constituents include methyl chavicol (estragole), linalool, eugenol, 1,8-cineole, geranial, neral, and \u03b2-caryophyllene[18][25][19]. Linalool, in particular, is noted for inducing sedative and relaxing effects via inhalation[26].\n*   **Hydroalcoholic Extract Components:** Compounds such as malic acid, caffeic acid, kaempferol, and oleanolic acid are also believed to contribute to sedative effects[18][27].\n\n## Limitations and Contradictory Evidence\n\nDespite the body of positive evidence, there are limitations and conflicting findings.\n*   **Negative Human Trial:** A 2024 triple-blind, randomized controlled clinical trial on 78 postpartum women found that consuming two 500 mg capsules of dried basil leaf powder daily for eight weeks did not prevent postpartum depression or improve sleep quality compared to placebo[28]. The authors suggest future studies should test higher doses or extract forms[28].\n*   **Need for Further Research:** Many studies conclude by calling for more robust, high-quality research to confirm findings, clarify effective dosages, and fully understand the mechanisms of action[4][5][7].\n*   **Conflicting Overviews:** One general health resource states there is \"no good scientific evidence\" to support the use of Holy Basil for anxiety or stress, which is contrary to the findings of multiple peer-reviewed systematic reviews and RCTs[29].\n\n## Biochemical Mechanisms of Action\n\nThe anxiolytic effects of basil appear to be mediated through the regulation of the neuroendocrine system.\n*   ***O. tenuiflorum*:** Evidence suggests it works by modulating the hypothalamic-pituitary-adrenal (HPA) axis and the sympatho-adrenal system (SAM)[7]. It has been shown to inhibit corticosterone/cortisol release, act as a corticotropin-releasing hormone receptor 1 (CRHR1) antagonist, and regulate key enzymes involved in stress hormone metabolism[7][2][13].\n*   ***O. basilicum*:** Its effects are linked to bioactive compounds like estragole that interact with key neurotransmitter systems, including the GABAergic and serotonergic pathways, which are primary targets for conventional anxiolytic medications[23][24].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "894cd2b4-34ae-41e2-83f9-231f02bc14ca",
+      "score": 0.07084848,
+      "title": "Holy Basil: Benefits for Your Brain and Your Body",
+      "url": "https://www.healthline.com/health/food-nutrition/basil-benefits",
+      "citation_index": 1
+    },
+    {
+      "id": "c49996e9-8ce3-49ef-904f-98f913126e27",
+      "score": 0.5553635,
+      "title": "Ocimum tenuiflorum extract (HOLIXERTM): Possible effects on ...",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285012",
+      "citation_index": 2
+    },
+    {
+      "id": "26e032ea-6254-4e8e-9c40-1528c75a6618",
+      "score": 0.19650257,
+      "title": "(PDF) Controlled programmed trial of Ocimum sanctum leaf on generalized anxiety disorders",
+      "url": "https://www.researchgate.net/publication/24170302_Controlled_programmed_trial_of_Ocimum_sanctum_leaf_on_generalized_anxiety_disorders",
+      "citation_index": 3
+    },
+    {
+      "id": "e474d0bc-932c-41e6-ad26-13a1132b9366",
+      "score": 0.63723457,
+      "title": "The Clinical Efficacy and Safety of Tulsi in Humans: A Systematic Review of the Literature - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5376420/",
+      "citation_index": 4
+    },
+    {
+      "id": "8fbfe57c-e0c3-4ca5-a598-6e36ad2c2c8c",
+      "score": 0.8170061,
+      "title": "Frontiers | A randomized, double-blind, placebo-controlled trial investigating the effects of an Ocimum tenuiflorum (Holy Basil) extract (HolixerTM) on stress, mood, and sleep in adults experiencing stress",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.965130/full",
+      "citation_index": 5
+    },
+    {
+      "id": "1e7f17b9-5df0-4394-b495-3fd6cee2987b",
+      "score": 0.80735475,
+      "title": "A randomized, double-blind, placebo-controlled",
+      "url": "https://researchportal.murdoch.edu.au/view/pdfCoverPage?instCode=61MUN_INST&filePid=13136746020007891&download=true",
+      "citation_index": 6
+    },
+    {
+      "id": "f588b96d-52a4-4328-979a-b08cbcdbe256",
+      "score": 0.79369855,
+      "title": "A randomized, double-blind, placebo-controlled trial investigating the effects of an Ocimum tenuiflorum (Holy Basil) extract (HolixerTM) on stress, mood, and sleep in adults experiencing stress - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9524226/",
+      "citation_index": 7
+    },
+    {
+      "id": "63126db5-c0a4-4e75-b7fc-22e63faa1bf1",
+      "score": 0.7777226,
+      "title": "Ashwagandha & Holy Basil for Stress and Sleep | NutriChem",
+      "url": "https://nutrichem.com/blog/ashwagandha-basil-for-stress-and-sleep/",
+      "citation_index": 8
+    },
+    {
+      "id": "df0f0618-b758-494b-b87e-4bb87d81c5ba",
+      "score": 0.487918,
+      "title": "A randomized, double-blind, placebo-controlled trial investigating the effects of an Ocimum tenuiflorum (Holy Basil) extract (HolixerTM) on stress, mood, and sleep in adults experiencing stress - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36185698/",
+      "citation_index": 9
+    },
+    {
+      "id": "7b7ff090-3df7-46b9-9963-133957d92be6",
+      "score": 0.74541736,
+      "title": "Basil for cortisol",
+      "url": "https://www.youtube.com/watch?v=VmyOiwX0irU",
+      "citation_index": 10
+    },
+    {
+      "id": "fafbbff9-7f53-408e-825d-ff92af3ada23",
+      "score": 0.10720379,
+      "title": "Harnessing the Antibacterial, Anti-Diabetic and Anti-Carcinogenic Properties of Ocimum sanctum Linn (Tulsi)",
+      "url": "https://www.mdpi.com/2223-7747/13/24/3516",
+      "citation_index": 11
+    },
+    {
+      "id": "d132181e-26b0-48fe-9074-20a0b5ca982d",
+      "score": 0.6565047,
+      "title": "Holy basil (Ocimum sanctum Linn.) leaf extract enhances ...",
+      "url": "https://www.researchgate.net/publication/282204912_Holy_basil_Ocimum_sanctum_Linn_leaf_extract_enhances_specific_cognitive_parameters_in_healthy_adult_volunteers_A_placebo_controlled_study",
+      "citation_index": 12
+    },
+    {
+      "id": "eab740ce-b5a9-4ce4-a5d2-3723d63fc385",
+      "score": 0.49128565,
+      "title": "Efficacy of an Extract of Ocimum tenuiflorum (OciBest) in the ...",
+      "url": "https://www.hindawi.com/journals/ecam/2012/894509/",
+      "citation_index": 13
+    },
+    {
+      "id": "56d3ca95-b071-4086-852a-771a6df8d649",
+      "score": 0.8409005,
+      "title": "Holy basil: a key herb for stress, anxiety, depression and fatigue",
+      "url": "https://www.naturimedica.com/holy-basil-key-herb-stress-anxiety-depression-fatigue/",
+      "citation_index": 14
+    },
+    {
+      "id": "b75c2170-0946-4447-857e-ec7a857973a1",
+      "score": 0.6954834,
+      "title": "NATURAL TRANQUALITY: MELISSA OFFICINALIS AND OCIMUM TENUIFLORUM FOR STRESS AND ANXIETY RELIEF.",
+      "url": "https://www.researchgate.net/publication/387045670_NATURAL_TRANQUALITY_MELISSA_OFFICINALIS_AND_OCIMUM_TENUIFLORUM_FOR_STRESS_AND_ANXIETY_RELIEF",
+      "citation_index": 15
+    },
+    {
+      "id": "2729269c-2a64-4ced-aed2-30ab4062ab00",
+      "score": 0.81595254,
+      "title": "Holy basil (Ocimum sanctum Linn.) leaf extract enhances specific cognitive parameters in healthy adult volunteers: A placebo controlled study - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26571987/",
+      "citation_index": 16
+    },
+    {
+      "id": "82b1df1c-0374-45f4-a35a-0e1a5da6df0e",
+      "score": 0.71829855,
+      "title": "Holy Basil (Tulsi)  - better than Valium?",
+      "url": "https://www.youtube.com/watch?v=ribD6Y3A91c",
+      "citation_index": 17
+    },
+    {
+      "id": "838698fc-b217-47d8-ab8f-005c5c8e0f36",
+      "score": 0.8923472,
+      "title": "Evaluation of anxiolytic and sedative effect of essential oil and hydroalcoholic extract of Ocimum basilicum L. and chemical composition of its essential oil - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4698864/",
+      "citation_index": 18
+    },
+    {
+      "id": "1e9e5bb6-e1b2-4660-8a9e-411cf32aa0e0",
+      "score": 0.8668671,
+      "title": "Evaluation of anxiolytic and sedative effect of essential oil ...",
+      "url": "https://www.researchgate.net/publication/291136279_Evaluation_of_anxiolytic_and_sedative_effect_of_essential_oil_and_hydroalcoholic_extract_of_Ocimum_basilicum_L_and_chemical_composition_of_its_essential_oil",
+      "citation_index": 19
+    },
+    {
+      "id": "bceb88b2-3089-4e6e-994e-bf10a26b4687",
+      "score": 0.5809471,
+      "title": "Sweet Basil Uses, Benefits & Dosage",
+      "url": "https://www.drugs.com/npp/sweet-basil.html",
+      "citation_index": 20
+    },
+    {
+      "id": "9953ef66-223d-46d0-b281-9a75aa912924",
+      "score": 0.8437023,
+      "title": "Comparative Analysis of Secondary Metabolites and ...",
+      "url": "https://archives.jyoungpharm.org/8434/",
+      "citation_index": 21
+    },
+    {
+      "id": "276eab4d-ff85-4a9e-b549-ed949103d164",
+      "score": 0.66308063,
+      "title": "Comparative Analysis of Secondary Metabolites and ...",
+      "url": "https://jyoungpharm.org/10.5530/jyp.20251509",
+      "citation_index": 22
+    },
+    {
+      "id": "ccc319ea-8f24-48ab-bef0-2d1f1191fe73",
+      "score": 0.82082915,
+      "title": "Anticonvulsant and anxiolytic-like potential of the essential oil from the Ocimum basilicum Linn leaves and its major constituent estragole on adult zebrafish (Danio rerio) - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38936553/",
+      "citation_index": 23
+    },
+    {
+      "id": "afa564df-4ec6-47a8-866f-057d45ef7119",
+      "score": 0.8051581,
+      "title": "Anticonvulsant and anxiolytic-like potential of the essential oil from the Ocimum basilicum Linn leaves and its major constituent estragole on adult zebrafish (Danio rerio) - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0197018624001232",
+      "citation_index": 24
+    },
+    {
+      "id": "157527ee-7144-47da-a7ee-ebe37d59fc25",
+      "score": 0.8952393,
+      "title": "Comparative efficacy of Ocimum sanctum L. and Ocimum basilicum L. essential oils against amyloid beta (1\u201342)-induced anxiety and depression in laboratory rats | Phytochemistry Reviews",
+      "url": "https://link.springer.com/article/10.1007/s11101-014-9389-6",
+      "citation_index": 25
+    },
+    {
+      "id": "7b42d72e-013c-4f9e-87c3-b3bf47134a45",
+      "score": 0.7715858,
+      "title": "Olfactory Stimulation with Volatile Aroma Compounds of Basil (Ocimum basilicum L.) Essential Oil and Linalool Ameliorates White Fat Accumulation and Dyslipidemia in Chronically Stressed Rats - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9105046/",
+      "citation_index": 26
+    },
+    {
+      "id": "f1d0d9d8-1f6c-4bb5-bbb9-1c1a09447a3b",
+      "score": 0.57637566,
+      "title": "Perspectives on the Combined Effects of Ocimum ...",
+      "url": "https://www.mdpi.com/2223-7747/10/7/1390",
+      "citation_index": 27
+    },
+    {
+      "id": "e405d665-331c-477e-89e3-921dfa3b3bca",
+      "score": 0.5674818,
+      "title": "A triple-blind randomized controlled clinical trial: Heliyon",
+      "url": "https://www.cell.com/heliyon/fulltext/S2405-8440(25)00476-1",
+      "citation_index": 28
+    },
+    {
+      "id": "a24df980-4184-4bd9-9822-952af3e70f4a",
+      "score": 0.39375854,
+      "title": "HOLY BASIL: Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews",
+      "url": "https://www.webmd.com/vitamins/ai/ingredientmono-1101/holy-basil",
+      "citation_index": 29
+    },
+    {
+      "id": "41f91c79-ba5b-4b95-8895-896344a4cee1",
+      "score": 0.8773195,
+      "title": "Frontiers | Ocimum basilicum (Basil) Modulates Apoptosis and Neurogenesis in Olfactory Pulp of Mice Exposed to Chronic Unpredictable Mild Stress",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2020.569711/full"
+    },
+    {
+      "id": "16455358-4291-4ca5-a3ae-20a25ceda3ce",
+      "score": 0.8548001,
+      "title": "NATURAL TRANQUALITY: MELISSA OFFICINALIS AND OCIMUM TENUIFLORUM FOR STRESS AND ANXIETY RELIEF. | Journal of Population Therapeutics and Clinical Pharmacology",
+      "url": "https://www.jptcp.com/index.php/jptcp/article/view/8831?articlesBySameAuthorPage=2"
+    },
+    {
+      "id": "17edec41-4b31-4d6e-829a-c5a6b133e848",
+      "score": 0.8506799,
+      "title": "MELISSA OFFICINALIS AND OCIMUM TENUIFLORUM ...",
+      "url": "https://www.jptcp.com/index.php/jptcp/article/view/8831?articlesBySameAuthorPage=6"
+    },
+    {
+      "id": "91f06edb-9e1e-471c-9aaa-180f67b4b8bf",
+      "score": 0.8467682,
+      "title": "MELISSA OFFICINALIS AND OCIMUM TENUIFLORUM ...",
+      "url": "https://www.jptcp.com/index.php/jptcp/article/view/8831?articlesBySameAuthorPage=7"
+    },
+    {
+      "id": "2dd141a7-ef0a-4cf9-93b5-278b68f7f01b",
+      "score": 0.83290404,
+      "title": "Evaluation of anxiolytic and sedative effect of essential oil ...",
+      "url": "https://journals.lww.com/rips/fulltext/2015/10060/evaluation_of_anxiolytic_and_sedative_effect_of.8.aspx"
+    },
+    {
+      "id": "8714e64b-2e6d-4c1b-949b-4c075a462743",
+      "score": 0.826278,
+      "title": "A randomized, double-blind, placebo-controlled trial ...",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.965130/pdf"
+    },
+    {
+      "id": "e5a3ecd9-9648-4a55-9fa7-ae9e4a46dc03",
+      "score": 0.82391036,
+      "title": "A randomized, double-blind, placebo-controlled",
+      "url": "https://research.usc.edu.au/view/pdfCoverPage?instCode=61USC_INST&filePid=13167023210002621&download=true"
+    },
+    {
+      "id": "b77e8a3b-36a0-4c60-841c-1805c9b228e5",
+      "score": 0.77792513,
+      "title": "Exploring the Chemistry of Ocimum Species under Specific Extractions and Chromatographic Methods: A Systematic Review | ACS Omega",
+      "url": "https://pubs.acs.org/doi/10.1021/acsomega.3c00043"
+    },
+    {
+      "id": "ff85b63c-6b8e-4561-90ed-12e328990948",
+      "score": 0.77137923,
+      "title": "Does lemon balm significantly improve anxiety and ...",
+      "url": "https://consensus.app/results/?q=Does%20lemon%20balm%20significantly%20improve%20anxiety%20and%20depression%20without%20serious%20side%20effects?"
+    },
+    {
+      "id": "1e977799-68ea-4868-b9d1-0e150f90975c",
+      "score": 0.6773251,
+      "title": "The anxiolytic effects of exercise: a meta-analysis of randomized trials and dose-response analysis - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18723899/"
+    },
+    {
+      "id": "75d56a26-a944-42a9-937c-62b0303d6c73",
+      "score": 0.65676886,
+      "title": "Ocimum basilicum and Ocimum americanum: A Systematic Literature Review on Chemical Compositions and Antimicrobial Properties - Shuma Fayera Wirtu, Ashutosh Kumar Mishra, Leta Tesfaye Jule, Krishnaraj Ramaswamy, 2024",
+      "url": "https://journals.sagepub.com/doi/10.1177/1934578X241247640"
+    },
+    {
+      "id": "7e5e370b-86cf-4061-bb3d-eff388393799",
+      "score": 0.5951402,
+      "title": "Effect of Saffron Versus Selective Serotonin Reuptake Inhibitors (SSRIs) in Treatment of Depression and Anxiety: A Meta-analysis of Randomized Controlled Trials - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38913392/"
+    },
+    {
+      "id": "112de935-179b-4891-944c-1254404b4ffc",
+      "score": 0.55998856,
+      "title": "Comparative Analysis of Secondary Metabolites and Anxiolytic Effects in Hydroponic and Soil-Grown Basil (Ocimum basilicum) \u2013 Journal of Young Pharmacists",
+      "url": "https://jyoungpharm.org/8434/"
+    },
+    {
+      "id": "7c7250c9-e2cb-4f9e-b205-41d3d97c415a",
+      "score": 0.55796635,
+      "title": "Pharmacotherapy of Anxiety Disorders: Current and Emerging Treatment Options - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7786299/"
+    },
+    {
+      "id": "cf02b23b-ca6f-4e23-8b52-e39586f8752a",
+      "score": 0.55623144,
+      "title": "Evaluation of anxiolytic and sedative effect of essential oil and hydroalcoholic extract of Ocimum basilicum L. and chemical composition of its essential oil - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26779273/"
+    },
+    {
+      "id": "bfc8f4d2-6775-4f93-aa86-945138370318",
+      "score": 0.54187006,
+      "title": "How Strong is the Evidence for the Anxiolytic Efficacy of Lavender?: Systematic Review and Meta-analysis of Randomized Controlled Trials - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31743795/"
+    },
+    {
+      "id": "1a25256f-59dd-4d41-b349-3008db61852b",
+      "score": 0.49509352,
+      "title": "Ocimum Tenuiflorum - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/ocimum-tenuiflorum"
+    },
+    {
+      "id": "1dff3f70-6cb3-406f-b444-0e1d65344502",
+      "score": 0.459586,
+      "title": "Neuropharmacological\u200eeffects\u200eof\u200eOcimum basilicum\u200eand\u200e its\u200e ...",
+      "url": "https://ppj.phypha.ir/article-1-1450-en.pdf"
+    },
+    {
+      "id": "78118d13-3e60-4d99-934a-effd8f344451",
+      "score": 0.42663267,
+      "title": "Efficacy of drug treatments for generalised anxiety disorder: systematic review and meta-analysis | The BMJ",
+      "url": "https://www.bmj.com/content/342/bmj.d1199"
+    },
+    {
+      "id": "e9d8ba6b-8c6d-4ea7-80a7-70aab7636599",
+      "score": 0.40825373,
+      "title": "The effect of adaptogenic plants on stress: A systematic ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1756464623002955"
+    },
+    {
+      "id": "f53c035c-686f-423e-8076-532187baeb57",
+      "score": 0.37896514,
+      "title": "The safety and efficacy of low oral doses of cannabidiol: An evaluation of the evidence - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9841308/"
+    },
+    {
+      "id": "6cbf745f-4663-4a91-a320-48650a1885bd",
+      "score": 0.26700526,
+      "title": "Central Properties and Chemical Composition of Ocimum ...",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/13880200600897544"
+    },
+    {
+      "id": "5ff0eaac-a3ad-4559-96b7-478d303ed10b",
+      "score": 0.25652733,
+      "title": "The anxiolytic effects of exercise: a meta-analysis of randomized trials and dose-response analysis - Database of Abstracts of Reviews of Effects (DARE): Quality-assessed Reviews - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK75463/"
+    },
+    {
+      "id": "c621b39c-cbbf-47b8-8adb-4fbe5eb2ed28",
+      "score": 0.24159268,
+      "title": "A randomized, double-blind, placebo-controlled trial ...",
+      "url": "https://sapphire.bg/wp-content/uploads/2024/11/hollybasil.pdf"
+    },
+    {
+      "id": "f8242c0b-1f50-49cf-bd94-9e3dd4be369e",
+      "score": 0.2405475,
+      "title": "(PDF) Ocimum Basilicum: A Review on Phytochemical and Pharmacological Studies",
+      "url": "https://www.researchgate.net/publication/274286672_Ocimum_Basilicum_A_Review_on_Phytochemical_and_Pharmacological_Studies"
+    },
+    {
+      "id": "5bdd7d2b-9e1c-4486-b483-87d034487b8e",
+      "score": 0.18523903,
+      "title": "Tulsi Consumption and Its Effects on Cognition, Stress ...",
+      "url": "https://clinicaltrials.gov/study/NCT03184909"
+    },
+    {
+      "id": "22f541d6-1c0e-43b9-ac63-2688f1060514",
+      "score": 0.1766435,
+      "title": "Selective Publication of Antidepressant Trials and Its Influence on Apparent Efficacy | New England Journal of Medicine",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMsa065779"
+    },
+    {
+      "id": "2174e76f-5020-4b48-b433-903af2deddb4",
+      "score": 0.16178352,
+      "title": "Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis - The Lancet",
+      "url": "https://www.thelancet.com/article/S0140-6736(17)32802-7/fulltext"
+    },
+    {
+      "id": "c69eb4fa-394a-4f78-84a0-289cce96feb1",
+      "score": 0.1493951,
+      "title": "Ocimum Sanctum: An All-Round Treatment for Cancer? - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34331753/"
+    },
+    {
+      "id": "2f9f1039-ff43-49a6-8977-a08a4b043829",
+      "score": 0.1238843,
+      "title": "Mind-Blowing Tulsi Benefits You NEED to Know! \ud83c\udf3f #HolyBasilMagic\u201d",
+      "url": "https://www.youtube.com/watch?v=A6vnpRm4D94"
+    },
+    {
+      "id": "fdbd8398-9413-4dc8-922a-45879a1ad6b9",
+      "score": 0.10992555,
+      "title": "Beyond Religion: Can Holy Basil Be Your New Superfood? #tulsi #holybasil  #naturesmedicine",
+      "url": "https://www.youtube.com/watch?v=xS6G2ESeF-A"
+    },
+    {
+      "id": "43881d7a-284c-42c9-b6f5-3c17957e4157",
+      "score": 0.106142916,
+      "title": "Anxiolytic effects of endocannabinoid enhancing compounds: A systematic review and meta-analysis - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924977X23000676"
+    },
+    {
+      "id": "b52eed1b-3d3a-414f-b713-fee666cd8571",
+      "score": 0.08679465,
+      "title": "How Strong is the Evidence for the Anxiolytic Efficacy of Lavender?: Systematic Review and Meta-analysis of Randomized Controlled Trials - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1976131719305262"
+    },
+    {
+      "id": "75b3fb0d-3843-4c38-ac7c-540a943e8cad",
+      "score": 0.063302755,
+      "title": "Systematic literature review of human studies assessing the efficacy of cannabidiol for social anxiety - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2772598722000551"
+    },
+    {
+      "id": "469041bd-09a1-49d5-87ba-662c6432b67b",
+      "score": 0.03887651,
+      "title": "Phytochemical Analysis of Ocimum Tenuiflorum (Tulsi): A Review",
+      "url": "https://www.researchgate.net/publication/392959970_Phytochemical_Analysis_of_Ocimum_Tenuiflorum_Tulsi_A_Review"
+    }
+  ]
+}

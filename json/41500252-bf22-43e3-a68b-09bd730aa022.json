@@ -1,0 +1,580 @@
+{
+  "id": "41500252-bf22-43e3-a68b-09bd730aa022",
+  "status": "completed",
+  "content": "FALSE. The available data indicates the opposite of the query's claim. United Nations reports from 2023 confirm that India's population grew and surpassed China's, making India the world's most populous country. China's population, in contrast, experienced a decline in 2023[1][2].\n\n## Summary of Findings\n\nAnalysis of demographic data and United Nations reports shows that the query makes two factually incorrect assertions: that India's population decreased and that it fell behind China's in 2023. Evidence from multiple sources confirms that India's population continued to grow and that it officially overtook China as the world's most populous nation during that year[3][4][5].\n\n### Assertion 1: India's Population Decrease (Incorrect)\n\nIndia's population did not decrease in 2023; it continued to grow, albeit at a slowing rate compared to previous decades[6][7].\n\n*   **Population Growth Rate:** The population growth rate for India in 2023 was positive, with estimates ranging from 0.81% to 0.89%[6][8][9]. One source reported the 2023 growth rate at 0.88%, an increase from 0.79% in 2022[10][9].\n*   **Total Population Figures:** In absolute numbers, India's population increased from approximately 1.417 billion in 2022 to about 1.428 billion by mid-2023[11][12].\n*   **Fertility Rate:** While India's total fertility rate has declined to 2.0, which is below the replacement level of 2.1, the population continues to experience positive growth due to demographic momentum[13][14].\n\n### Assertion 2: India Falling Behind China (Incorrect)\n\nIn 2023, India surpassed China to become the world's most populous nation, marking the first time China has not held this position since the United Nations began keeping records in 1950[15][16].\n\n*   **UN Projections:** The United Nations Department of Economic and Social Affairs (UN DESA) projected that India's population would match and then surpass mainland China's in April 2023[3][17].\n*   **Mid-2023 Estimates:** The UN Population Fund's (UNFPA) \"State of World Population Report, 2023\" estimated India's population would reach 1.4286 billion (142.86 crore) by mid-2023, which was 2.9 million more than China's population of 1.4257 billion (142.57 crore)[18][5][19][12].\n*   **Uncertainty on Exact Date:** While the crossover happened in 2023, UN officials noted that due to data uncertainties, particularly the delay of India's 2021 census, it is not possible to pinpoint the exact date of the transition[5][20][21].\n\n## Divergent Demographic Trajectories\n\nThe shift in population rankings is due to opposing demographic trends in the two nations[17].\n\n*   **China's Population Decline:** China's National Bureau of Statistics reported that the country's population fell for the second consecutive year in 2023, decreasing by 2.08 million people to 1.40967 billion[1][22][2]. This decline is attributed to a record-low birth rate and an aging workforce[1][23]. China's population peaked in 2022 at 1.426 billion and has been falling since[24].\n*   **India's Continued Growth:** In contrast, India's population is projected to continue growing for several decades[24]. UN projections estimate India's population will peak around 1.7 billion in 2064[7]. India also has a significantly younger population, with a median age of 28 in 2023 and the world's largest youth cohort of 254 million people aged 15-24[7][25][26].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "c332eb0a-1d1a-41f1-ba7d-b9e2395db9ca",
+      "score": 0.93952066,
+      "title": "China's population drops for second year, with record low birth rate | Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-population-drops-2nd-year-raises-long-term-growth-concerns-2024-01-17/",
+      "citation_index": 1
+    },
+    {
+      "id": "c1bc8c82-4f2a-4fa4-82d7-4d8ea2f735d2",
+      "score": 0.8961153,
+      "title": "STATISTICAL COMMUNIQU\u00c9 OF THE PEOPLE'S REPUBLIC OF CHINA ON THE 2023 NATIONAL ECONOMIC AND SOCIAL DEVELOPMENT",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202402/t20240228_1947918.html",
+      "citation_index": 2
+    },
+    {
+      "id": "7413a55e-96da-4537-8feb-b68e1ff13dac",
+      "score": 0.9379027,
+      "title": "India to overtake China as world\u2019s most populous country in April 2023, United Nations projects | United Nations",
+      "url": "https://www.un.org/en/desa/india-overtake-china-world-most-populous-country-april-2023-united-nations-projects",
+      "citation_index": 3
+    },
+    {
+      "id": "b9b152c3-954d-4892-800d-a30b81382d60",
+      "score": 0.9441409,
+      "title": "India to surpass China as most populous country in 2023, UN report says | CNN",
+      "url": "https://www.cnn.com/2022/07/11/india/india-surpassing-china-population-2023-un-intl-hnk/index.html",
+      "citation_index": 4
+    },
+    {
+      "id": "54b74264-4f6b-4524-a729-98b1f39ea92e",
+      "score": 0.9400512,
+      "title": "India will surpass China as world\u2019s most populous country by mid-year, UN says | CNN",
+      "url": "https://us.cnn.com/2023/04/19/asia/india-china-population-intl/index.html",
+      "citation_index": 5
+    },
+    {
+      "id": "23c8f788-4d94-4a9c-9031-1fe7063416cf",
+      "score": 0.8965509,
+      "title": "Data: India\u2019s Population Growth Rate & TFR, Both Below Global Average Now",
+      "url": "https://factly.in/data-indias-population-growth-rate-tfr-both-below-global-average-now/",
+      "citation_index": 6
+    },
+    {
+      "id": "b4a92cec-104d-4b32-98e2-33d3e8ea1d68",
+      "score": 0.90593183,
+      "title": "How India\u2019s population exploded to overtake China\u2019s and what\u2019s next | CNN",
+      "url": "https://www.cnn.com/2023/04/28/asia/india-population-overtakes-china-graphics-intl-hnk-dst-dg",
+      "citation_index": 7
+    },
+    {
+      "id": "6d37ef49-5705-445b-8a80-c94fe4382c19",
+      "score": 0.87981987,
+      "title": "Demographics of India - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_India",
+      "citation_index": 8
+    },
+    {
+      "id": "0464d7b0-9d88-43ce-8eee-06547a644c4b",
+      "score": 0.9247491,
+      "title": "India Population Growth Rate | Historical Chart & Data",
+      "url": "https://www.macrotrends.net/global-metrics/countries/ind/india/population-growth-rate",
+      "citation_index": 9
+    },
+    {
+      "id": "9428ab96-6962-41ae-931f-c79373d9c0e5",
+      "score": 0.8773195,
+      "title": "India - population growth 2023 | Statista",
+      "url": "https://www.statista.com/statistics/271308/population-growth-in-india/",
+      "citation_index": 10
+    },
+    {
+      "id": "bdb3f87e-52f1-4cea-9b81-fb7a3d9d8a66",
+      "score": 0.846159,
+      "title": "India - total population 2019-2029| Statista",
+      "url": "https://www.statista.com/statistics/263766/total-population-of-india/",
+      "citation_index": 11
+    },
+    {
+      "id": "a75c6f59-8d29-4617-90bf-fffdf7df7d4b",
+      "score": 0.9404462,
+      "title": "India's population set to surpass China's in summer 2023, U.N. says - CBS News",
+      "url": "https://www.cbsnews.com/news/india-population-2023-china-new-most-populous-nation-challenges-un-data/",
+      "citation_index": 12
+    },
+    {
+      "id": "634107a3-fa4e-4d21-b880-22508430966b",
+      "score": 0.853046,
+      "title": "The 360\u00b0 UPSC Debate: India\u2019s Growing Population- Dividend or Burden?",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/the-360-upsc-debate-indias-growing-population-dividend-or-burden-8626421/",
+      "citation_index": 13
+    },
+    {
+      "id": "990ff18d-3d3e-42a1-b265-32f52d95a01a",
+      "score": 0.8020137,
+      "title": "UNFPA India | India\u2019s Population Growth and Policy Implications",
+      "url": "https://india.unfpa.org/en/publications/indias-population-growth-and-policy-implications",
+      "citation_index": 14
+    },
+    {
+      "id": "1ac25606-cd72-4d28-b950-cb54da50a738",
+      "score": 0.91988057,
+      "title": "India Is Surpassing China in Population",
+      "url": "https://www.nytimes.com/2023/04/19/briefing/india-population.html",
+      "citation_index": 15
+    },
+    {
+      "id": "5a4b6617-cb8b-4b68-917e-7d1a647caf30",
+      "score": 0.84858394,
+      "title": "India overtakes China to become world\u2019s most populous country | India | The Guardian",
+      "url": "https://www.theguardian.com/world/2023/apr/24/india-overtakes-china-to-become-worlds-most-populous-country",
+      "citation_index": 16
+    },
+    {
+      "id": "6c587200-f7f9-4aef-92f3-b19f910c7049",
+      "score": 0.9438932,
+      "title": "UN DESA Policy Brief No. 153: India overtakes China as the world\u2019s most populous country | UN DESA Publications",
+      "url": "https://desapublications.un.org/policy-briefs/un-desa-policy-brief-no-153-india-overtakes-china-worlds-most-populous-country",
+      "citation_index": 17
+    },
+    {
+      "id": "80e6dbd8-1e0a-4e85-95e6-e1ab4922bf96",
+      "score": 0.9600365,
+      "title": "#India surpasses #China to become the world's most populous nation with 142.86 crore people, says the United Nations. \n\nAccording to UNFPA's The State of World Population Report, 2023, India's population has reached 1,428.6 million while China's stands at 1,425.7 million, a difference of 2.9 million. (ANI)",
+      "url": "https://x.com/ArgusNews_in/status/1648611259447738369",
+      "citation_index": 18
+    },
+    {
+      "id": "c234307d-74fb-4af7-96b2-cdf61f196b01",
+      "score": 0.9387167,
+      "title": "India to overtake China as the world\u2019s most populous country by mid-2023, U.N. says",
+      "url": "https://www.nbcnews.com/news/world/india-overtakes-china-worlds-most-populous-country-rcna80364",
+      "citation_index": 19
+    },
+    {
+      "id": "701dad38-4a2b-4be3-bef1-c5527d9d24dd",
+      "score": 0.9071234,
+      "title": "India to pass China this week as world\u2019s most populous nation: UN | Demographics News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2023/4/25/india-to-pass-china-this-week-as-worlds-most-populous-nation-un",
+      "citation_index": 20
+    },
+    {
+      "id": "10bc244d-11c6-4fa7-b096-ebe8d5fb976b",
+      "score": 0.8215175,
+      "title": "India to have more people than China by mid-2023, UN says",
+      "url": "https://www.bbc.com/news/world-asia-india-65320690",
+      "citation_index": 21
+    },
+    {
+      "id": "31c22bce-78ec-467a-810c-6caa6739ff71",
+      "score": 0.9328032,
+      "title": "China\u2019s population decreases by 2.08 million in 2023 to 1.40967 billion - Global Times",
+      "url": "https://www.globaltimes.cn/page/202401/1305550.shtml",
+      "citation_index": 22
+    },
+    {
+      "id": "fb790087-980d-4ddb-8208-347549cc2a38",
+      "score": 0.63152665,
+      "title": "The most auspicious year for Chinese births is almost over. For dragon babies, the competition is just getting started.",
+      "url": "https://www.businessinsider.com/chinese-parents-dragon-babies-experts-drawbacks-singapore-competition-education-personality-2024-8",
+      "citation_index": 23
+    },
+    {
+      "id": "aa31f8c0-d9af-4ec7-9e5c-a1a8ecb14d52",
+      "score": 0.9325087,
+      "title": "India to surpass China as world's most populous country in April, UN says | Reuters",
+      "url": "https://www.reuters.com/world/india/india-surpass-china-worlds-most-populous-country-april-un-says-2023-04-24/",
+      "citation_index": 24
+    },
+    {
+      "id": "d593de14-f842-417e-8ade-7c3e8159dba3",
+      "score": 0.93191636,
+      "title": "India will pass China to be most populous nation by mid-2023 | AP News",
+      "url": "https://apnews.com/article/india-worlds-largest-population-china-un-47bcd360aba6b7e3ecc4020702fa685f",
+      "citation_index": 25
+    },
+    {
+      "id": "fa6f6314-8782-43f0-b7c9-d3268238bffc",
+      "score": 0.933969,
+      "title": "India\u2019s population now world\u2019s largest surpassing China, hints UN report",
+      "url": "https://timesofindia.indiatimes.com/india/indias-population-now-worlds-largest-surpassing-china-hints-un-report/articleshow/99622675.cms",
+      "citation_index": 26
+    },
+    {
+      "id": "e28f30c9-22b6-489f-90d5-9c7634ae2079",
+      "score": 0.9521889,
+      "title": "India surpasses China to become the world's most populous nation with 142.86 crore people, says the United Nations.\nAccording to UNFPA's The State of World Population Report, 2023, India's population has reached 1,428.6 million while China's stands at 1,425.7 million.\nANI\n\ud83e\udd73\ud83e\udd72\ud83e\udd72",
+      "url": "https://x.com/naren_dr1103/status/1648610322125848578"
+    },
+    {
+      "id": "59a5e3c8-1e9e-4c5c-ad4f-a751231b6a0c",
+      "score": 0.9470345,
+      "title": "India surpasses China to become the world's most populous nation with 142.86 crore people, says the United Nations.\n\nAccording to UNFPA's The State of World Population Report, 2023, India's population has reached 1,428.6 million while China's stands at 1,425.7 million https://t.co/OAmWsCHXJG",
+      "url": "https://x.com/Satyendra_VHP/status/1648658228379803648"
+    },
+    {
+      "id": "b4009af5-ba4b-4bdb-95fa-b75ac69ba532",
+      "score": 0.9403148,
+      "title": "India to surpass China as most populous country in 2023, U.N. report says | Reuters",
+      "url": "https://www.reuters.com/world/india/india-surpass-china-most-populous-country-2023-un-report-2022-07-11/"
+    },
+    {
+      "id": "d5dd0a1d-802f-4a29-8673-c2b8f38ba529",
+      "score": 0.93707865,
+      "title": "India's population is on the brink of overtaking China's, UN says",
+      "url": "https://www.cnbc.com/2023/04/19/indias-population-is-on-the-brink-of-overtaking-chinas-un-says.html"
+    },
+    {
+      "id": "568e5300-70bf-4a0c-b4f8-5791ae06c9b1",
+      "score": 0.9363841,
+      "title": "India Passes China as World\u2019s Most Populous Nation, UN Says - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2023-04-19/india-surpasses-china-as-world-s-most-populous-nation-un-says"
+    },
+    {
+      "id": "ddc29379-ca14-41d1-b91a-aa7fe03a48f7",
+      "score": 0.9356824,
+      "title": "India\u2019s population set to overtake China\u2019s by June, UN figures show | Population | The Guardian",
+      "url": "https://www.theguardian.com/world/2023/apr/19/india-almost-3m-more-people-than-china-june-un-world-most-populous-country"
+    },
+    {
+      "id": "272badc3-2204-495b-8e5a-ad34c085d121",
+      "score": 0.9328032,
+      "title": "China's population decreases by 2.08 million in 2023 to ...",
+      "url": "http://en.people.cn/n3/2024/0117/c90000-20123401.html"
+    },
+    {
+      "id": "7aabcb86-8582-40e8-9630-b2a8cb27892a",
+      "score": 0.9325087,
+      "title": "India To Surpass China In Population... | Newsmo",
+      "url": "https://www.youtube.com/watch?v=a8d_YLrQoNY"
+    },
+    {
+      "id": "977bbb32-ab1e-4bbc-8005-41ff78434498",
+      "score": 0.9307171,
+      "title": "China posts sluggish GDP growth in 2023, population declines again",
+      "url": "https://www.aljazeera.com/news/2024/1/17/china-posts-sluggish-gdp-growth-in-2023-population-declines-again"
+    },
+    {
+      "id": "828e262b-6e72-4618-93e0-eae301ffed73",
+      "score": 0.9287263,
+      "title": "China Population (1950-2025)",
+      "url": "https://www.macrotrends.net/global-metrics/countries/chn/china/population"
+    },
+    {
+      "id": "f30606ef-e22d-47fe-823a-c7f08f17a6db",
+      "score": 0.92620385,
+      "title": "India to overtake China as world's most populous country in 2023, says UN report",
+      "url": "https://www.youtube.com/watch?v=3dqHe4XulLQ"
+    },
+    {
+      "id": "11d84725-865d-4d5b-b2ef-a109c5f08d8f",
+      "score": 0.92142147,
+      "title": "India may overtake China\u2019s population in 2023",
+      "url": "https://www.youtube.com/watch?v=JW7lp-tEBIw"
+    },
+    {
+      "id": "4c7be847-9538-40ef-8651-adab0630d03c",
+      "score": 0.92074,
+      "title": "Demographics of China - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_China"
+    },
+    {
+      "id": "5d2016b6-b6c2-4737-9bea-8f95e441a183",
+      "score": 0.9195344,
+      "title": "India to surpass China as most - populous country in 2023, UN report says...",
+      "url": "https://www.youtube.com/watch?v=k3J9nodqHyU"
+    },
+    {
+      "id": "2b9ee1e6-6e03-48c2-bb17-164c16efe77b",
+      "score": 0.91813606,
+      "title": "India to Surpass China as Most Populous Country by Month's End",
+      "url": "https://www.voanews.com/a/india-to-surpass-china-as-most-populous-country-by-month-s-end/7064806.html"
+    },
+    {
+      "id": "50f96eec-e7fa-431c-b03c-ac7e82916e43",
+      "score": 0.91813606,
+      "title": "India Overtakes China as the World\u2019s Most Populous Country | United Nations iLibrary",
+      "url": "https://www.un-ilibrary.org/content/papers/10.18356/27081990-153"
+    },
+    {
+      "id": "5c45751a-983c-4d35-bbf1-ee834064ce94",
+      "score": 0.9152729,
+      "title": "China Population",
+      "url": "https://tradingeconomics.com/china/population"
+    },
+    {
+      "id": "6749ced4-1f80-415f-945f-c38a8c13e4ad",
+      "score": 0.9152729,
+      "title": "India becoming world\u2019s most populous country may strengthen its claim for permanent UNSC membership: United Nations official",
+      "url": "https://indianexpress.com/article/india/india-most-populous-unsc-membership-claim-strengthens-8024063/"
+    },
+    {
+      "id": "f236564a-589e-44b6-993d-ca88bee2f115",
+      "score": 0.91399205,
+      "title": "India to have 2.9 million more people than China by mid- ...",
+      "url": "https://www.aljazeera.com/news/2023/4/19/india-to-have-2-9-million-more-people-than-china-by-mid-2023-un"
+    },
+    {
+      "id": "780b07db-fb65-4c43-bd41-af07b7aed66f",
+      "score": 0.91288006,
+      "title": "India Likely To Surpass China As Most Populous Country In 2023: UN Report",
+      "url": "https://www.youtube.com/watch?v=DXt8CjCSuJE"
+    },
+    {
+      "id": "e01c27af-4496-4be6-9cdc-7215ba4f2b15",
+      "score": 0.9035075,
+      "title": "China - WHO Data",
+      "url": "https://data.who.int/countries/156"
+    },
+    {
+      "id": "5b952951-9e62-4301-9b12-2d4fcfb70178",
+      "score": 0.8893851,
+      "title": "China: total population 1980-2029| Statista",
+      "url": "https://www.statista.com/statistics/263765/total-population-of-china/"
+    },
+    {
+      "id": "adf5e36b-075e-40a5-886c-882f01b6dc56",
+      "score": 0.8863518,
+      "title": "India surpasses China, becomes most populated country says UN report | Oneindia News",
+      "url": "https://www.youtube.com/watch?v=w2QhQ0HY9go"
+    },
+    {
+      "id": "446035b3-6293-44e7-8bf7-ffaadce1c4b5",
+      "score": 0.8808076,
+      "title": "India to surpass China as the most populous country by 2030: United Nations | Oneindia News *News",
+      "url": "https://www.youtube.com/watch?v=vLykE_NuIMs"
+    },
+    {
+      "id": "59c197b0-bb42-4bca-93e0-0d953909981c",
+      "score": 0.8808076,
+      "title": "India's Population Is Set To Overtake China's This Month",
+      "url": "https://itif.org/publications/2023/04/24/indias-population-set-to-overtake-chinas-this-month/"
+    },
+    {
+      "id": "b3d8c48b-1acb-48e3-ac73-e45c0a11aee8",
+      "score": 0.86303437,
+      "title": "India set to surpass China, UN population report shows 'we are in a demographic transition period'",
+      "url": "https://www.youtube.com/watch?v=Kh1loJPa0tU"
+    },
+    {
+      "id": "e82eb2cd-fa27-4eda-bd7e-5604dd6f2e35",
+      "score": 0.86024034,
+      "title": "India Population (2025) - Worldometer",
+      "url": "https://www.worldometers.info/world-population/india-population/"
+    },
+    {
+      "id": "897f57f9-ed00-4b2f-b5e5-b47cb314e85e",
+      "score": 0.85995835,
+      "title": "List of states and union territories of India by population - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_population"
+    },
+    {
+      "id": "e72a6e39-27ff-4892-9390-46338eeff68b",
+      "score": 0.8415267,
+      "title": "India Population (1950-2025)",
+      "url": "https://www.macrotrends.net/global-metrics/countries/ind/india/population"
+    },
+    {
+      "id": "268ef2e9-e5ce-4dc3-80f0-187a6491c9c5",
+      "score": 0.8409005,
+      "title": "UN Report: India is expected to surpass China as the world\u2019s most populous country in 2023",
+      "url": "https://www.youtube.com/watch?v=G3ru6bXB6bU"
+    },
+    {
+      "id": "409cdd49-893a-4340-aaac-36d631343550",
+      "score": 0.83932644,
+      "title": "India's population set to surpass China by mid-2023",
+      "url": "https://www.youtube.com/watch?v=3qoj2YcFpxA"
+    },
+    {
+      "id": "6973392f-0f7a-496a-8ec7-14d081d4853b",
+      "score": 0.83710164,
+      "title": "India - Data Commons",
+      "url": "https://datacommons.org/place/country/IND"
+    },
+    {
+      "id": "a204c5af-3ef8-44c8-acd5-780dfb7d8be3",
+      "score": 0.8315952,
+      "title": "Society & Social Justice | Population and associated issues (Part 1)",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/society-social-justice-population-and-associated-issues-8592727/"
+    },
+    {
+      "id": "a68413ac-93e5-41e5-8ad9-d94b806e9f3a",
+      "score": 0.82994765,
+      "title": "Over one-fifth of Chinese population older than 60, says official report",
+      "url": "https://english.www.gov.cn/news/202410/12/content_WS6709cb9ac6d0868f4e8ebbda.html"
+    },
+    {
+      "id": "06efb9b3-2d2d-4aa5-9b68-836823a45c16",
+      "score": 0.82254606,
+      "title": "India surpasses China to become world's most populous nation: UN data",
+      "url": "https://www.youtube.com/watch?v=T6N38uIO0cQ"
+    },
+    {
+      "id": "ad3775b9-6de8-4880-8d70-bd5468a52120",
+      "score": 0.8005209,
+      "title": "China records 520,000 more births in 2024 compared to 2023: NBS - Global Times",
+      "url": "https://www.globaltimes.cn/page/202501/1327070.shtml"
+    },
+    {
+      "id": "6cddf4c8-ccc9-4e62-b278-ff244881d690",
+      "score": 0.79099923,
+      "title": "Insight: China's AI-powered humanoid robots aim to transform manufacturing",
+      "url": "https://www.reuters.com/world/china/chinas-ai-powered-humanoid-robots-aim-transform-manufacturing-2025-05-13/"
+    },
+    {
+      "id": "4756f842-0672-47ab-9a88-bb0a784bb0ab",
+      "score": 0.77589405,
+      "title": "\u201cIndia has likely surpassed China to become the most populous country in the world, according to new estimates released Wednesday by the United Nations.\u201d https://t.co/8u1S9PXcaN",
+      "url": "https://x.com/TheDailySeeker/status/1648670025169944578"
+    },
+    {
+      "id": "44971f8c-768b-40ae-98d3-afe542039eaf",
+      "score": 0.76512027,
+      "title": "China\u2019s Low Birthrate and Aging Population May Weaken It, but Can US Take Advantage?",
+      "url": "https://www.dailysignal.com/2023/07/25/chinas-low-birthrate-aging-population-may-weaken-can-take-advantage/"
+    },
+    {
+      "id": "30e0d3ed-bc09-47d4-b231-eda6f0cf2612",
+      "score": 0.76194656,
+      "title": "India To Surpass China As Most Populous Country In 2023: UN Report | What does this mean for India?",
+      "url": "https://www.youtube.com/watch?v=MWz1pk0h3oY"
+    },
+    {
+      "id": "6ca4c7e1-15c5-4647-a433-f8b8da1869f8",
+      "score": 0.74541736,
+      "title": "India surpasses China to become the world\u2019s most populous nation with 142.86 crore people: United Nations\n\n#population #UnitedNations \n https://t.co/kWF8uS1Bd0",
+      "url": "https://x.com/eOrganiser/status/1648868725918154752"
+    },
+    {
+      "id": "39643fdc-bd68-47f1-9707-2b5f873a5685",
+      "score": 0.7050753,
+      "title": "India becomes most populous nation, overtakes China, says UN report",
+      "url": "https://www.youtube.com/watch?v=ME1ZkVAkLCA"
+    },
+    {
+      "id": "27156212-cab4-4d99-ac7f-4c97dde5e7a7",
+      "score": 0.66308063,
+      "title": "India, Not China, Is Most Populous Nation Now: UN",
+      "url": "https://www.youtube.com/watch?v=poJylZyhZMQ"
+    },
+    {
+      "id": "b4c97323-5de7-4a50-a7b7-fc943940ccf1",
+      "score": 0.6612456,
+      "title": "India - Population Growth (annual %) - 2025 Data 2026 Forecast 1960-2024 Historical",
+      "url": "https://tradingeconomics.com/india/population-growth-annual-percent-wb-data.html"
+    },
+    {
+      "id": "ab38723a-357b-4583-9546-4475422d7ce7",
+      "score": 0.64746445,
+      "title": "India surpasses China to become world's most populous nation, shows UN data- The New Indian Express",
+      "url": "https://www.newindianexpress.com/nation/2023/apr/19/india-surpasses-china-to-become-worlds-most-populous-nation-shows-un-data-2567409.html"
+    },
+    {
+      "id": "7b372696-018f-4f36-9268-22903c52218b",
+      "score": 0.6326168,
+      "title": "",
+      "url": "https://www.wolframalpha.com/input/?i=population+of+China+2023"
+    },
+    {
+      "id": "0354954a-73f5-47d2-b860-2eddd1e33c65",
+      "score": 0.6058229,
+      "title": "India Demographics 2025 (Population, Age, Sex, Trends) - Worldometer",
+      "url": "https://www.worldometers.info/demographics/india-demographics/"
+    },
+    {
+      "id": "6de51adb-9e64-4733-aae3-6ec1431dd909",
+      "score": 0.5573882,
+      "title": "India",
+      "url": "https://data.who.int/countries/356"
+    },
+    {
+      "id": "12da0e4a-018d-464d-a98f-d74bacb8e414",
+      "score": 0.5462305,
+      "title": "China's population falls by 2.08 million to 1.4097 billion in ...",
+      "url": "https://www.scmp.com/economy/economic-indicators/article/3248695/chinas-population-falls-208-million-14097-billion-2023-births-tumble-adding-demographic-concerns"
+    },
+    {
+      "id": "cc718036-9b36-450b-994a-7f85ba4a21b4",
+      "score": 0.49948794,
+      "title": "Key facts as India surpasses China as the world\u2019s most populous country",
+      "url": "https://www.pewresearch.org/short-reads/2023/02/09/key-facts-as-india-surpasses-china-as-the-worlds-most-populous-country/"
+    },
+    {
+      "id": "41f68d43-c597-4ba6-90c8-df631e76a88c",
+      "score": 0.49436116,
+      "title": "UN: India Overtakes China as World\u2019s Most Populous Nation",
+      "url": "https://www.youtube.com/watch?v=v93cQg7lqBI"
+    },
+    {
+      "id": "c1cf8c51-a072-4951-84bd-851db34d3799",
+      "score": 0.45522344,
+      "title": "China announces first population decline in recent years",
+      "url": "https://news.yahoo.com/china-announces-first-population-decline-024017509.html"
+    },
+    {
+      "id": "d2708f5a-0989-4ace-8218-69d731edc368",
+      "score": 0.37367067,
+      "title": "India population (2025) live \u2014 Countrymeters",
+      "url": "https://countrymeters.info/en/India"
+    },
+    {
+      "id": "5b361fcd-8c9f-4ec6-9f25-4b926fcace8e",
+      "score": 0.35669366,
+      "title": "India Population 2025",
+      "url": "https://worldpopulationreview.com/countries/india"
+    },
+    {
+      "id": "294f803a-6e42-409a-bf3c-1b27af1d45dd",
+      "score": 0.26586187,
+      "title": "National Bureau of Statistics of China - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Bureau_of_Statistics_of_China"
+    },
+    {
+      "id": "99f92232-ee88-4942-a955-0ed83a44f92b",
+      "score": 0.25491032,
+      "title": "National Bureau of Statistics of China >> Yearbook",
+      "url": "https://www.stats.gov.cn/english/Statisticaldata/"
+    },
+    {
+      "id": "fba985ef-bbd1-4673-9fdd-ea2f0936defd",
+      "score": 0.25251812,
+      "title": "China's population is now inexorably shrinking",
+      "url": "https://phys.org/news/2023-01-china-population-inexorably.html"
+    },
+    {
+      "id": "57d5ada2-ad57-4eb6-a794-4166e6297779",
+      "score": 0.25167572,
+      "title": "National Bureau of Statistics of China | GHDx",
+      "url": "https://ghdx.healthdata.org/organizations/national-bureau-statistics-china"
+    },
+    {
+      "id": "1e2a746b-30fe-4d4e-a75e-44cd0860dae2",
+      "score": 0.23792146,
+      "title": "Leaked Data Show China\u2019s Population Is Shrinking Fast",
+      "url": "https://www.project-syndicate.org/commentary/chinese-population-smaller-than-stated-and-shrinking-fast-by-yi-fuxian-2022-07"
+    },
+    {
+      "id": "9e50b398-90ff-41c3-b61c-812eb734bc6d",
+      "score": 0.21586311,
+      "title": "India, set to be most populous, doesn\u2019t know its number of people",
+      "url": "https://www.aljazeera.com/news/2023/2/15/india-set-to-be-the-most-populous-doesnt-know-number-of-people"
+    },
+    {
+      "id": "7d653551-0ffc-43c6-b80f-a321f4e1afa9",
+      "score": 0.17638801,
+      "title": "When will China\u2019s population peak? It depends who you ask",
+      "url": "https://www.nature.com/articles/d41586-022-02304-8"
+    },
+    {
+      "id": "af4a063b-2128-4a8b-a6f1-2c29e283bf87",
+      "score": 0.16106966,
+      "title": "World Population Dashboard -India | United Nations Population Fund",
+      "url": "https://www.unfpa.org/data/world-population/IN"
+    },
+    {
+      "id": "d618b80e-90c2-44d1-8386-f9edc1cac9e4",
+      "score": 0.12496949,
+      "title": "National Bureau of Statistics of China",
+      "url": "https://data.stats.gov.cn/english/easyquery.htm?cn=C01"
+    },
+    {
+      "id": "d917adca-12b9-449b-8040-dc9c7ef09d11",
+      "score": 0.12490542,
+      "title": "China's 1.4 billion population can't fill the country's millions of empty homes. Here's 3 things that would.",
+      "url": "https://www.businessinsider.com/china-vacant-homes-3-billion-people-housing-crisis-ex-official-2023-9"
+    },
+    {
+      "id": "69316db6-6f52-4345-a958-c1db544b8525",
+      "score": 0.11229818,
+      "title": "Central Bank Digital Currency (CBDC) Projects Are Foundering in Five-Eye Nations. What Gives?",
+      "url": "https://www.nakedcapitalism.com/2024/10/central-bank-digital-currency-cbdc-projects-are-foundering-in-all-five-eye-nations.html"
+    }
+  ]
+}

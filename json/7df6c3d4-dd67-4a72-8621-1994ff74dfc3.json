@@ -1,0 +1,64 @@
+{
+  "id": "7df6c3d4-dd67-4a72-8621-1994ff74dfc3",
+  "status": "completed",
+  "content": "FALSE. The claim that California experienced 6,300 wildfires in 2021 is not supported by official data, which indicates a significantly higher number of incidents.\n\n## Official Wildfire Counts for 2021\n\nData from the California Department of Forestry and Fire Protection (CAL FIRE) and other sources present two primary figures for the total number of wildfires in 2021, both of which are substantially greater than 6,300.\n\n### CAL FIRE Incident Archive Data\nThe official 2021 Incident Archive from CAL FIRE states there were 7,396 wildfires that year[1][2]. This figure is corroborated by multiple independent analyses and databases sourcing CAL FIRE data[3][4][5].\n\nAccording to these records, the 2021 wildfire season had the following impact:\n*   **Total Wildfires**: 7,396[1][3]\n*   **Acres Burned**: 2,569,386[1][3]\n*   **Fatalities**: 3 (all firefighters)[1][3]\n*   **Structures Destroyed or Damaged**: Approximately 3,629 to 3,846 structures were impacted[3][1]. The total count included 286 damaged and 3,560 destroyed[1].\n\n### Alternative Official Statistics\nOther official statistical compilations, also citing CAL FIRE as the source, report a higher total of 8,835 fires in 2021[6][7][8]. These sources report a similar number of acres burned at 2,568,948[6][7].\n\nIn either case, the lowest recorded official number of wildfires for 2021 is 7,396, which is more than 1,000 fires above the claimed figure of 6,300[1].",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "18003f84-babd-4656-a830-9fd2bbd2327c",
+      "score": 0.918838,
+      "title": "2021 Fire Season Incident Archive | CAL FIRE",
+      "url": "https://www.fire.ca.gov/incidents/2021",
+      "citation_index": 1
+    },
+    {
+      "id": "cede4a8c-3996-4b9f-95c5-aca4b00e570d",
+      "score": 0.78154784,
+      "title": "2021 Fire Season Incident Archive | CAL FIRE",
+      "url": "https://www.fire.ca.gov/incidents/2021?ref=goodcover.ghost.io",
+      "citation_index": 2
+    },
+    {
+      "id": "ea893934-e524-4982-8f4c-812326a0a69f",
+      "score": 0.9071234,
+      "title": "2021 California wildfires - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2021_California_wildfires",
+      "citation_index": 3
+    },
+    {
+      "id": "bd813946-84ed-4e76-a15a-49c0ce7ad346",
+      "score": 0.8909888,
+      "title": "Live California Fire Map and Tracker | Frontline",
+      "url": "https://www.frontlinewildfire.com/california-wildfire-map/",
+      "citation_index": 4
+    },
+    {
+      "id": "d13ae641-b362-4c2f-ac04-739485ca5c07",
+      "score": 0.78413767,
+      "title": "History of California Wildfires | WFCA",
+      "url": "https://wfca.com/wildfire-articles/history-of-california-wildfires/",
+      "citation_index": 5
+    },
+    {
+      "id": "5c75c4e8-17cd-49af-9bfc-f47aa31dc7fd",
+      "score": 0.9396537,
+      "title": "California Fire Season: In-Depth Guide | WFCA",
+      "url": "https://wfca.com/wildfire-articles/california-fire-season-in-depth-guide/",
+      "citation_index": 6
+    },
+    {
+      "id": "4499e4e0-1a48-4143-b0ee-561613438868",
+      "score": 0.8773195,
+      "title": "California Wildfires History & Statistics | Frontline Wildfire Defense",
+      "url": "https://www.frontlinewildfire.com/wildfire-news-and-resources/california-wildfires-history-statistics/",
+      "citation_index": 7
+    },
+    {
+      "id": "3b9889da-1c88-430b-b5e6-5f17e8cd63e1",
+      "score": 0.60917604,
+      "title": "List of California wildfires - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_California_wildfires",
+      "citation_index": 8
+    }
+  ]
+}

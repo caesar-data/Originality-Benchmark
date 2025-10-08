@@ -1,0 +1,336 @@
+{
+  "id": "f4347f99-f0f1-41c7-9d77-ac751baa33e7",
+  "status": "completed",
+  "content": "TRUE. The statement is factual, as Happywhale is an online whale identification database that uses fluke patterns and its catalog of individual humpback whales significantly exceeds 30,000. However, the number provided is a substantial understatement of the database's actual size.\n\n## Function: Online Whale Identification Database\n\nHappywhale is a web-based platform designed to identify individual marine mammals using photos submitted by citizen scientists, researchers, and whale watching enthusiasts for both scientific and recreational purposes[1][2]. Established in 2015, the organization's mission is to enhance the understanding and protection of whales and their marine environments through citizen science[3][4]. The platform functions as an online database where fluke photos can be collected, organized, and studied, providing powerful collaborative tools for the research community[5][6]. Its stated goals are to help humanity better understand the world\u2019s whales and use that knowledge for their protection[3]. By harnessing contributions from the public, Happywhale aims to expand scientific knowledge of whale migration, behavior, and population dynamics exponentially[7][8].\n\n## Methodology: Humpback Whale Fluke Patterns\n\nHappywhale's identification system for humpback whales is centered on analyzing the unique characteristics of their tail flukes, which function like a natural fingerprint[9][10]. The process, known as photo identification, has been used by scientists since the 1970s but has been automated by Happywhale using artificial intelligence and machine learning algorithms[11][12][13].\n\nThe AI system analyzes several key features of the fluke's ventral (underside) surface[9][14]:\n*   **Pigmentation Patterns**: The distinct black-and-white markings on the fluke are unique to each whale and are a primary identifier[11][10][15].\n*   **Trailing Edge Shape**: The pattern of serrations, nicks, and curves along the fluke's trailing edge is highly reliable for identification, as it remains relatively stable throughout a whale's life[10][16]. The algorithm can detect these shapes with high accuracy, even when pigmentation changes[17].\n*   **Acquired Marks and Scars**: Scars from interactions with killer whales, fishing gear, or barnacles create additional unique markings that aid in identification[11][10].\n\nThis automated system can process images and find matches within seconds with an estimated 97-99% accuracy, a significant improvement over the time-intensive manual matching process[9][18]. Every match proposed by the AI is then manually verified by a trained observer to ensure data integrity[17][18].\n\n## Database Scale: Number of Identified Whales\n\nThe claim that Happywhale's database contains records for 30,000 humpback whales is factually correct, but it significantly understates the platform's current scale. The total number of individually identified humpback whales is more than triple the stated figure.\n\nRecent figures from Happywhale and associated reports confirm a much larger catalog:\n*   As of June 2024, Happywhale's global dataset surpassed **100,000** identified humpback whales[19].\n*   A recent social media update from the organization stated it has identified **110,000+** humpback whales[20].\n*   One publication noted the database contained over **112,000** known whales[17].\n*   Happywhale's main website features a counter for all identified individuals (including other species), which currently shows **128,481**[1].\n\nA single collaborative research project focusing on the North Pacific from 2001 to 2021 documented 27,956 unique humpback whales, a figure close to 30,000 but representing only a subset of the global database[21]. Therefore, while the database does contain 30,000 individuals, its comprehensive size is well over 100,000.",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "7ba56f3c-444e-4520-8785-036c49678879",
+      "score": 0.78393924,
+      "title": "Happywhale",
+      "url": "https://happywhale.com/",
+      "citation_index": 1
+    },
+    {
+      "id": "12b55f0e-1e98-4efd-85f1-30f1a65f4221",
+      "score": 0.7931224,
+      "title": "Happywhale",
+      "url": "https://polarcollective.org/projects/happywhale",
+      "citation_index": 2
+    },
+    {
+      "id": "a38d2ab3-2908-47dc-aaf2-800908ab44af",
+      "score": 0.7623715,
+      "title": "An Invitation to Join Our Community",
+      "url": "https://happywhale.com/campaign",
+      "citation_index": 3
+    },
+    {
+      "id": "3144b971-30ca-483d-96e3-4d66d6e9c921",
+      "score": 0.72605723,
+      "title": "Happywhale | HX Hurtigruten Expeditions US",
+      "url": "https://www.hurtigruten.com/en-us/expeditions/stories/happywhale/",
+      "citation_index": 4
+    },
+    {
+      "id": "00694b9e-e99d-4145-b8e1-21841bef54e0",
+      "score": 0.7515939,
+      "title": "Conservation Connection: Oceanwide and Happywhale",
+      "url": "https://oceanwide-expeditions.com/blog/conservation-connection-oceanwide-and-happywhale",
+      "citation_index": 5
+    },
+    {
+      "id": "1228008f-ff3c-4649-85bb-8ad7f94e715d",
+      "score": 0.7445268,
+      "title": "Happywhale and ExplorEarth",
+      "url": "https://explorearth.com/happywhale/",
+      "citation_index": 6
+    },
+    {
+      "id": "f8f6a9dc-17ca-455c-b6d3-f07375f38ede",
+      "score": 0.57006866,
+      "title": "Happy Whale - World Cetacean Alliance",
+      "url": "https://worldcetaceanalliance.org/partners/happy-whale/",
+      "citation_index": 7
+    },
+    {
+      "id": "bb0fbd95-5dab-4fbc-ad40-6f4de22f053b",
+      "score": 0.7750779,
+      "title": "Happywhale | LinkedIn",
+      "url": "https://www.linkedin.com/company/happywhale-com",
+      "citation_index": 8
+    },
+    {
+      "id": "173cd7cd-2d44-4a67-9636-57dd88ded0eb",
+      "score": 0.8571119,
+      "title": "Revolutionizing marine mammal research with AI-powered ...",
+      "url": "https://datacrunch.io/blog/revolutionizing-marine-mammal-research-with-ai-powered-photo-identification",
+      "citation_index": 9
+    },
+    {
+      "id": "1b0bd2f1-e983-4dff-9d31-3d397978502c",
+      "score": 0.51530343,
+      "title": "How do you Identify Humpback Whales?",
+      "url": "http://whalesense.org/2021/06/25/how-do-you-identify-humpback-whales/",
+      "citation_index": 10
+    },
+    {
+      "id": "ead4ec61-239b-4e2a-95fc-a7883de3ba72",
+      "score": 0.79580134,
+      "title": "Happywhale",
+      "url": "https://happywhale.com/whaleid",
+      "citation_index": 11
+    },
+    {
+      "id": "d3bd216b-e901-4326-ac91-23911b09ab85",
+      "score": 0.7489592,
+      "title": "Facial recognition? How about tail recognition? Identifying individual humpback whales online - CBS News",
+      "url": "https://www.cbsnews.com/news/identifying-individual-humpback-whales-online-happywhale/",
+      "citation_index": 12
+    },
+    {
+      "id": "3b95f557-4a00-468d-a096-37fdbfd52131",
+      "score": 0.72629017,
+      "title": "Identifying humpback whales online",
+      "url": "https://www.youtube.com/watch?v=twnh6X0DzNo",
+      "citation_index": 13
+    },
+    {
+      "id": "e018beb8-40c3-421d-90b4-863f29c36bfa",
+      "score": 0.77751994,
+      "title": "Tending the sick: Observations of epimeletic behavior in humpback whales towards conspecifics during entanglement events",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321284",
+      "citation_index": 14
+    },
+    {
+      "id": "910feaae-edbb-43f2-a9d2-97267d13a1b9",
+      "score": 0.5492786,
+      "title": "Audible changes in marine trophic ecology: Baleen whale song tracks foraging conditions in the eastern North Pacific",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318624",
+      "citation_index": 14
+    },
+    {
+      "id": "e9b26405-d7f1-49c9-b842-071b4952fa54",
+      "score": 0.61057013,
+      "title": "Fluke ID Catalog",
+      "url": "https://www.alaskahumpbacks.org/flukeIDcatalog.html",
+      "citation_index": 15
+    },
+    {
+      "id": "2ebc825f-f695-450c-a969-3875e241bba9",
+      "score": 0.48162505,
+      "title": "How to Identify a Humpback Whale",
+      "url": "https://www.alaskahumpbacks.org/matching.html",
+      "citation_index": 16
+    },
+    {
+      "id": "e5c3984d-4b6f-4a4b-b111-0fd99ec12d34",
+      "score": 0.71040785,
+      "title": "Decoding the fingerprint of a humpback whale | Popular Science",
+      "url": "https://www.popsci.com/environment/humpback-whale-flukes/",
+      "citation_index": 17
+    },
+    {
+      "id": "516eb6fc-31b0-4b23-8e9f-d72254078110",
+      "score": 0.5066652,
+      "title": "A collaborative and near-comprehensive North Pacific humpback whale photo-ID dataset | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-023-36928-1",
+      "citation_index": 18
+    },
+    {
+      "id": "a67d9658-8d4e-4338-8d9c-6f1433ded73a",
+      "score": 0.8565368,
+      "title": "Guess what just surpassed 100000!? The Happywhale ...",
+      "url": "https://www.instagram.com/p/C7uPNi4veyv/",
+      "citation_index": 19
+    },
+    {
+      "id": "6b9c165e-aaeb-4f56-8510-22a385e398bb",
+      "score": 0.8245895,
+      "title": "Happywhale",
+      "url": "https://www.facebook.com/photo.php?fbid=985581240235448&id=100063507432429&set=a.338239124969666",
+      "citation_index": 20
+    },
+    {
+      "id": "619273a7-bc22-46e8-8dec-dc31bec8db6d",
+      "score": 0.5712171,
+      "title": "(Almost) all the humpback whales of the North Pacific: A collaborative and comprehensive photo-ID dataset | Research Square",
+      "url": "https://www.researchsquare.com/article/rs-2294878/v1",
+      "citation_index": 21
+    },
+    {
+      "id": "f09609f8-6dc3-403f-bd72-81870dc3b0cd",
+      "score": 0.85421735,
+      "title": "Humpback Whale",
+      "url": "https://happywhale.com/individual/2945"
+    },
+    {
+      "id": "de37c6bf-099f-4c1a-b433-6d6967c3ee43",
+      "score": 0.85421735,
+      "title": "Humpback Whale",
+      "url": "https://happywhale.com/individual/2774;enc=162280"
+    },
+    {
+      "id": "38ea9801-0482-4e37-848e-7d2ce8b8c337",
+      "score": 0.7933146,
+      "title": "About Photo ID",
+      "url": "https://www.juneauflukes.org/about-photo-id.html"
+    },
+    {
+      "id": "11d62bfd-284d-432c-9f0b-ccf11046bd39",
+      "score": 0.779339,
+      "title": "OBIS-SEAMAP - Happywhale.com Contributions",
+      "url": "https://seamap.env.duke.edu/partner/Happywhale"
+    },
+    {
+      "id": "1ab4caf2-1313-4489-a9bf-9d7625dfe20e",
+      "score": 0.779339,
+      "title": "East coast humpback numbers are now higher than pre-whaling levels",
+      "url": "https://www.abc.net.au/news/science/2025-10-07/humpback-whales-eastern-population-numbers-rebound-estimate/105843256"
+    },
+    {
+      "id": "cee7efed-c09a-4eb1-ba81-491d23829e2a",
+      "score": 0.7734393,
+      "title": "Happywhale | Nature Nation | Blog | Nature | PBS",
+      "url": "https://www.pbs.org/wnet/nature/blog/happy-whale-nature-nation/"
+    },
+    {
+      "id": "307a66b6-365f-419e-bc17-164aa005ed14",
+      "score": 0.7680558,
+      "title": "Happywhale - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/happywhale"
+    },
+    {
+      "id": "37d83cea-8073-4a92-9ed7-61306d85f923",
+      "score": 0.750937,
+      "title": "A whale of a tale: Citizen science aids whale identification",
+      "url": "https://www.greenzine.org/post/a-whale-of-a-tale-citizen"
+    },
+    {
+      "id": "8954d950-c1ac-4c1d-b759-9ce11c96ea28",
+      "score": 0.7343678,
+      "title": "Humpback Whale Tail ID: Fluke Patterns & Research - Scienceinsider.blog",
+      "url": "https://scienceinsider.blog/whale-tail-id/"
+    },
+    {
+      "id": "d5ceaa37-3a1f-499f-9d40-62c338606a35",
+      "score": 0.7163977,
+      "title": "Whale Identification \u2014 Pacific Whale Watch Association",
+      "url": "https://www.pacificwhalewatchassociation.com/whaleid"
+    },
+    {
+      "id": "7ce59f84-bf38-4eaf-88ed-19fbab2cba5c",
+      "score": 0.70750624,
+      "title": "Happywhale",
+      "url": "https://www.freerangeocean.org/projects/happywhale"
+    },
+    {
+      "id": "cbe2929a-517b-4433-99d2-5f108b1cbf92",
+      "score": 0.7018975,
+      "title": "Happywhale",
+      "url": "https://www.happywhale.com/"
+    },
+    {
+      "id": "dc604882-b091-4d48-a612-08a3ac19c5f5",
+      "score": 0.6867278,
+      "title": "Humpback Whale Identification. UT Austin \u2014 MS Business Analytics Term\u2026 | by Qingzi Zeng | Medium",
+      "url": "https://medium.com/@qingzi.zeng/humpback-whale-detection-590d4f864b5a"
+    },
+    {
+      "id": "297cc072-417a-4264-9a67-0f4125950370",
+      "score": 0.6698534,
+      "title": "Photographing Whales for Science - Oceanic Society",
+      "url": "https://www.oceanicsociety.org/news-and-announcements/photographing-whales-for-science/"
+    },
+    {
+      "id": "331832df-eb15-4d22-8a42-e797bcb4dea4",
+      "score": 0.6554468,
+      "title": "How do you Identify Humpback Whales? - Whale SENSE",
+      "url": "https://whalesense.org/2021/06/25/how-do-you-identify-humpback-whales/"
+    },
+    {
+      "id": "7d92d500-b6f0-4465-bc66-f9b39244b0ff",
+      "score": 0.6466616,
+      "title": "How Do You Identify A Whale Fluke On San Diego Tours? - Everything About San Diego",
+      "url": "https://www.youtube.com/watch?v=rahrY3pnCK0"
+    },
+    {
+      "id": "60a300ec-2e84-4998-a3c9-66f0be72ebc1",
+      "score": 0.6453216,
+      "title": "Humpback Whale Photo Identification",
+      "url": "http://jupiterfoundation.org/whale-id"
+    },
+    {
+      "id": "80fddcf8-e7dc-4005-a24b-8bbf73828e65",
+      "score": 0.6255073,
+      "title": "Privacybeleid - HappyWhale",
+      "url": "https://happywhale.nl/en/privacybeleid-2/"
+    },
+    {
+      "id": "96057335-71ee-48e0-ac0b-ffbd58707e06",
+      "score": 0.5948579,
+      "title": "Whale Identification Through Tail Patterns and",
+      "url": "https://www.facebook.com/groups/246155630548233/posts/1074486541048467/"
+    },
+    {
+      "id": "4fea48a2-6724-4b20-a961-e87b310e92fd",
+      "score": 0.5883458,
+      "title": "The Fantastic Feedback Loop: how Happywhale attracts ...",
+      "url": "https://worldcetaceanalliance.org/2020/07/30/the-fantastic-feedback-loop-how-happywhale-attracts-and-holds-public-interest-in-science-antarctica-and-its-whales/"
+    },
+    {
+      "id": "d5af5685-0ac3-4cf8-8c9d-bf76dbc04934",
+      "score": 0.55478466,
+      "title": "Happywhale | Santa Cruz CA | Facebook",
+      "url": "https://www.facebook.com/happywhales/"
+    },
+    {
+      "id": "fe27c9e3-78c9-485a-a08b-84a932e26c8b",
+      "score": 0.54666615,
+      "title": "Help and FAQ",
+      "url": "https://happywhale.com/help"
+    },
+    {
+      "id": "2f40849f-eeb2-4528-be72-2ee50437bdac",
+      "score": 0.41648865,
+      "title": "Tracking Giants: BCSS and Happywhale Unite for Whale Conservation - BCSS",
+      "url": "https://bcssmz.org/bcss-and-happywhale-unite/"
+    },
+    {
+      "id": "060e1233-e5fb-4c0e-8abb-974f0d016c6d",
+      "score": 0.35213548,
+      "title": "Flukebook",
+      "url": "https://www.flukebook.org/"
+    },
+    {
+      "id": "9a4aea23-f64e-423f-be35-ecb76545a99b",
+      "score": 0.33215925,
+      "title": "(PDF) WHAT IDENTIFIES A WHALE BY ITS FLUKE? ON THE BENEFIT OF INTERPRETABLE MACHINE LEARNING FOR WHALE IDENTIFICATION",
+      "url": "https://www.researchgate.net/publication/343401524_WHAT_IDENTIFIES_A_WHALE_BY_ITS_FLUKE_ON_THE_BENEFIT_OF_INTERPRETABLE_MACHINE_LEARNING_FOR_WHALE_IDENTIFICATION"
+    },
+    {
+      "id": "a93a7211-0260-4c5d-9a93-e50fa8794997",
+      "score": 0.33160707,
+      "title": "Whale Fluke Identification: A Visual Guide - Oceanic Society",
+      "url": "https://www.oceanicsociety.org/resources/whale-fluke-identification-guide/"
+    },
+    {
+      "id": "4ac78cce-5a7a-4f14-ba9a-1ffa0e9d1520",
+      "score": 0.32649738,
+      "title": "Humpback Flukes are Like Fingerprints for Whale Scientists",
+      "url": "https://www.youtube.com/watch?v=HDVGJu8Iefw"
+    },
+    {
+      "id": "dadbca38-240c-4daf-9221-60da4dd91f65",
+      "score": 0.2856314,
+      "title": "Aaron Purdy: Flukes, Fins and Blows Whale ID 101",
+      "url": "https://www.youtube.com/watch?v=sxNIU4vyyVg"
+    },
+    {
+      "id": "2a69b1a4-8aa8-40a2-9d04-c9499fc085cd",
+      "score": 0.1544528,
+      "title": "Happywhale (@happywhale_official) \u2022 Instagram photos and videos",
+      "url": "https://www.instagram.com/happywhale_official/"
+    }
+  ]
+}

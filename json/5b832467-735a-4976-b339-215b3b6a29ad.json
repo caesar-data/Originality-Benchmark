@@ -1,0 +1,633 @@
+{
+  "id": "5b832467-735a-4976-b339-215b3b6a29ad",
+  "status": "completed",
+  "content": "TRUE: Multiple meta-analyses, clinical trials, and physiological studies provide substantial evidence that service dogs help reduce the severity of Post-Traumatic Stress Disorder (PTSD) symptoms in military veterans. The intervention is associated with statistically significant and clinically meaningful reductions in self-reported symptom severity, a lower likelihood of a PTSD diagnosis, and objective improvements in biological stress markers.\n\nHowever, the official 2023 U.S. Department of Veterans Affairs/Department of Defense (VA/DoD) Clinical Practice Guideline concludes there is \"insufficient evidence to recommend for or against... animal-assisted therapy,\" reflecting a high threshold for evidence quality and study design that has not yet been met, rather than a contradiction of the positive findings.\n\n## Quantitative Evidence of Symptom Reduction\n\nA significant body of research demonstrates that partnership with a psychiatric service dog is linked to lower PTSD symptom severity. This is confirmed through meta-analyses synthesizing multiple studies and individual clinical trials using both self-reported and clinician-administered assessments[1][2].\n\n### Meta-Analytic Findings\n\nSystematic reviews and meta-analyses, which represent a high level of scientific evidence, consistently support the efficacy of service dogs for PTSD:\n*   A 2022 meta-analysis of nine articles found that partnership with an assistance dog had a \"clinically meaningful, significant, and large effect on PTSD severity scores\" (g = -1.129; p <0.0001)[3][4]. The analysis revealed a weighted average reduction of 15.13 points on the PTSD Checklist (PCL), a self-report scale where a 10-point change is considered clinically significant[3][5].\n*   A 2021 systematic review and meta-analysis that included 41 studies and 1,111 participants found that acquiring a service dog was superior to being on a waitlist for one in reducing PTSD symptom severity (Standardized Mean Difference [SMD] = -0.58)[6]. While animal-assisted interventions (AAI) broadly were found to be only slightly, and not statistically significantly, superior to standard PTSD psychotherapy (SMD = -0.26), they were superior to being on a waitlist (SMD = -0.82)[6].\n\n### Clinical Trial Outcomes\n\nRecent clinical trials provide specific quantitative comparisons that reinforce these findings:\n*   The largest nationwide nonrandomized controlled trial to date (Leighton et al., 2024), involving 156 veterans, compared those with service dogs to a control group receiving usual care over three months[1][7]. The study, which used gold-standard blinded clinician ratings, found significantly lower symptom severity in the service dog group across two key measures[7][1]:\n    *   **PCL-5 (self-reported):** 41.9 for the service dog group vs. 51.7 for the control group[1].\n    *   **CAPS-5 (clinician-rated):** 30.2 for the service dog group vs. 36.9 for the control group[1].\n*   This trial also found that veterans with a service dog had 66% lower odds of receiving a PTSD diagnosis from an expert clinician compared to the control group[8][7]. Furthermore, after three months, 85% of the control group still met the criteria for PTSD, compared to 75% of the service dog group[1].\n*   Another cross-sectional study found a significant association between having a service dog and lower total PCL-5 scores (B = -14.52, p < .001)[9].\n\n## Objective Physiological Evidence\n\nBeyond subjective self-report measures, objective biological data supports the therapeutic effect of service dogs on the body's stress-response system[1]. Research has focused on the Cortisol Awakening Response (CAR), a physiological marker of chronic stress[10]. In healthy adults, cortisol levels rise by 50-75% within 30 minutes of waking; in individuals with chronic stress or PTSD, this response is often blunted or lower[11][12].\n\nA short-term longitudinal clinical trial (NCT03245814) assessed the CAR in 161 veterans at baseline and after three months, comparing a group that received a service dog with a control group receiving usual care[13][14].\n*   The results demonstrated that veterans with a service dog had a statistically significant higher (less blunted) CAR compared to the control group[15][13].\n*   Specific metrics confirmed this: the area under the curve with respect to increase (AUCi, \u03b2 = 1.46, p = 0.046) and the absolute increase (AINC, \u03b2 = 0.05, p = 0.035) were both significantly higher in the service dog group[14][15].\n*   Researchers concluded that this pattern is closer to the cortisol profile expected in healthy adults without PTSD, suggesting that service dog placement may help restore balance to veterans\u2019 stress response systems[1][16].\n\n## Mechanisms of Action: How Service Dogs Help\n\nService dogs are trained to perform specific tasks that directly mitigate PTSD symptoms. A 2020 study by Rodriguez et al. surveyed veterans on the perceived importance and frequency of these tasks[1].\n\n### Key Trained Tasks\n*   **Calm/comfort anxiety:** The most frequently used task, involving physical contact like leaning or laying on the veteran to reduce distress[17][1].\n*   **Interrupt/alert to anxiety:** Nudging or making contact to interrupt escalating anxiety[18][1].\n*   **Cover (watch back):** Positioning behind the veteran to reduce hypervigilance in public spaces[17][1].\n*   **Block (create space):** Standing in front of the veteran to create personal space[18].\n*   **Wake from nightmare:** Gently waking the veteran during a nightmare[1].\n\nThese tasks address symptoms across nearly all DSM-5 PTSD clusters, with calming and interrupting behaviors being particularly helpful for intrusive thoughts and flashbacks[1]. Interestingly, one study found that veterans rated their service dog's untrained behaviors and general companionship as more important for their PTSD on average than the specifically trained tasks[19].\n\n## Institutional Position and Clinical Guidelines\n\nDespite the substantial positive evidence, the formal clinical guidance from the U.S. Department of Veterans Affairs (VA) and Department of Defense (DoD) maintains a neutral position, highlighting the distinction between emerging research and established standards of care.\n\n### The 2023 VA/DoD Clinical Practice Guideline\n\nThe most recent VA/DoD Clinical Practice Guideline (CPG) for the Management of PTSD, updated in 2023, includes 34 evidence-based recommendations[20][21]. These guidelines are developed through a rigorous systematic review process (GRADE methodology) that requires a very high standard of evidence, often from multiple, large-scale randomized controlled trials (RCTs)[22].\n*   **Recommendation 28** of the guideline states: \"There is insufficient evidence to recommend for or against the following interventions for the treatment of PTSD: recreational therapy, aerobic or nonaerobic exercise, **animal-assisted therapy (e.g., canine, equine)**, or nature experiences...\"[20].\n*   This neutral stance (\"neither for nor against\") does not conclude that the therapy is ineffective. Instead, it signifies that the CPG workgroup determined the existing body of evidence\u2014while promising\u2014did not meet its stringent methodological threshold for quality, quantity, and lack of bias to issue a formal recommendation *for* the practice[24]. The 2017 version of the guideline noted that no studies on animal-assisted therapy met the threshold for inclusion in its review[25].\n\n### VA Policy and Pilot Programs\n\nThe VA's policies reflect this cautious but evolving position:\n*   **Service Dog Provision:** The VA does not directly provide service dogs for PTSD[26].\n*   **Veterinary Benefits:** The VA does provide a veterinary health benefit for service dogs, but eligibility has traditionally been for veterans with a \"visual, hearing, or substantial mobility impairment\"[27]. A mental health condition like PTSD can qualify if it causes substantial mobility limitations[28]. To receive this benefit, the veteran and dog must have completed a training program from an organization accredited by Assistance Dogs International (ADI) or the International Guide Dog Federation (IGDF)[29].\n*   **PAWS Act Pilot Program:** In 2021, the Puppies Assisting Wounded Service Members (PAWS) for Veterans Therapy Act was signed into law, requiring the VA to establish a five-year pilot program to provide canine training to veterans with PTSD as a complementary health program[30][31]. This indicates the VA is actively studying the intervention to inform future policy[32].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "397c56e9-361a-465f-b597-7f0bf654fbbc",
+      "score": 0.86024034,
+      "title": "PTSD Service Dogs, Between Statistics and Veterans' Voices | Hill & Ponton, P.A.",
+      "url": "https://www.hillandponton.com/resources/ptsd-service-dogs/",
+      "citation_index": 1
+    },
+    {
+      "id": "9e3cfec9-e3b3-4bf9-ac62-e9cae0359b95",
+      "score": 0.8571119,
+      "title": "Service Dogs for Veterans and Military Members With Posttraumatic Stress Disorder: A Nonrandomized Controlled Trial - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11151141/",
+      "citation_index": 2
+    },
+    {
+      "id": "7db4633c-3c2f-4d25-acfc-9eb2a25ef1a2",
+      "score": 0.90633047,
+      "title": "Assistance dogs for military veterans with PTSD: A systematic review, meta-analysis, and meta-synthesis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9491613/",
+      "citation_index": 3
+    },
+    {
+      "id": "8bec3326-71b2-468c-8fd2-b23b4bec26dd",
+      "score": 0.8997663,
+      "title": "Assistance dogs for military veterans with PTSD: A systematic review, meta-analysis, and meta-synthesis - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36129950/",
+      "citation_index": 4
+    },
+    {
+      "id": "0f6152c2-7c2e-4d29-8a63-2b9502007a94",
+      "score": 0.79041743,
+      "title": "Assistance dogs for military veterans with PTSD: A systematic review, meta-analysis, and meta-synthesis | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274960",
+      "citation_index": 5
+    },
+    {
+      "id": "8d6a127c-72b3-4a15-9870-3d8589f1b11e",
+      "score": 0.90810597,
+      "title": "Effectiveness of animal-assisted interventions for children and adults with post-traumatic stress disorder symptoms: a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34377357/",
+      "citation_index": 6
+    },
+    {
+      "id": "ade90815-f085-4209-9131-7561cdfdbf6c",
+      "score": 0.8412138,
+      "title": "Service Dogs lower severity of PTSD symptoms in Veterans",
+      "url": "https://news.va.gov/132029/service-dogs-lower-ptsd-symptoms-in-veterans/",
+      "citation_index": 7
+    },
+    {
+      "id": "2f92d57d-8bea-4c3b-b159-df45338ee5fa",
+      "score": 0.6161283,
+      "title": "Arizona researchers say scientific evidence shows service dogs help improve veterans' PTSD symptoms",
+      "url": "https://www.youtube.com/watch?v=SUXWJxRE_6o",
+      "citation_index": 8
+    },
+    {
+      "id": "2b440e57-3e28-4281-a95d-24f5be70ca08",
+      "score": 0.86928266,
+      "title": "Service Dogs for Veterans and Military Members With Posttraumatic Stress Disorder: Replication With the PTSD Checklist for DSM-5 - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33090609/",
+      "citation_index": 9
+    },
+    {
+      "id": "d2e9115a-f3d2-4802-9e55-56b8eef52642",
+      "score": 0.8872928,
+      "title": "Physiological benefits may be experienced by veterans with PTSD who use service dogs",
+      "url": "https://www.sciencedaily.com/releases/2018/06/180612083633.htm",
+      "citation_index": 10
+    },
+    {
+      "id": "4e66abeb-8fd4-486d-856e-e70f8093709d",
+      "score": 0.93898576,
+      "title": "Do Service Dogs Help Military Veterans with PTSD? | Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/fellow-creatures/201806/do-service-dogs-help-military-veterans-ptsd?msockid=1f1cc4ccc899651325b1d2efc9566486",
+      "citation_index": 11
+    },
+    {
+      "id": "b358d3de-80d7-4204-971a-ed0ac12d6d99",
+      "score": 0.92763275,
+      "title": "Do Service Dogs Help Military Veterans With PTSD?",
+      "url": "https://www.psychologytoday.com/ca/blog/fellow-creatures/201806/do-service-dogs-help-military-veterans-ptsd",
+      "citation_index": 12
+    },
+    {
+      "id": "b4219b89-6576-438d-bd7e-268bcd1cc37d",
+      "score": 0.93911994,
+      "title": "The cortisol awakening response in a 3 month clinical trial ...",
+      "url": "https://escholarship.org/uc/item/3md126m8",
+      "citation_index": 13
+    },
+    {
+      "id": "a88984b0-d076-4711-ac59-ad2d9babc5b6",
+      "score": 0.93735445,
+      "title": "The cortisol awakening response in a 3 month clinical trial of service dogs for veterans with posttraumatic stress disorder - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38238350/",
+      "citation_index": 14
+    },
+    {
+      "id": "08049012-73f8-4f0b-be70-bc84701666c0",
+      "score": 0.93707865,
+      "title": "The cortisol awakening response in a 3 month clinical trial of service dogs for veterans with posttraumatic stress disorder | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-023-50626-y",
+      "citation_index": 15
+    },
+    {
+      "id": "ae0c4345-40a7-4750-8b98-ce1a06c15660",
+      "score": 0.9195344,
+      "title": "Research shows how service dogs can help veterans with PTSD - Purdue University News",
+      "url": "https://www.purdue.edu/newsroom/archive/releases/2018/Q4/research-shows-how-service-dogs-can-help-veterans-with-ptsd.html",
+      "citation_index": 16
+    },
+    {
+      "id": "508696f2-0170-4348-b16e-c95ec39c747f",
+      "score": 0.8325776,
+      "title": "Characterizing veteran and PTSD service dog teams: Exploring potential mechanisms of symptom change and canine predictors of efficacy - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35895599/",
+      "citation_index": 17
+    },
+    {
+      "id": "0a7417bd-e1ec-4f52-86b5-29e1d6904e50",
+      "score": 0.72207695,
+      "title": "Psychiatry.org - Service Dogs Can Be Invaluable in Helping People with PTSD",
+      "url": "https://www.psychiatry.org/news-room/apa-blogs/service-dogs-helping-people-with-ptsd",
+      "citation_index": 18
+    },
+    {
+      "id": "8acc9657-20d5-4679-a3e4-018b6bc6bd2c",
+      "score": 0.6654328,
+      "title": "Defining the PTSD Service Dog Intervention: Perceived Importance, Usage, and Symptom Specificity of Psychiatric Service Dogs for Military Veterans - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32849004/",
+      "citation_index": 19
+    },
+    {
+      "id": "bb0ab5a5-e4ed-47e8-8577-67a09ec133f9",
+      "score": 0.9446333,
+      "title": "The Management of Posttraumatic Stress Disorder and Acute Stress Disorder: Synopsis of the 2023 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline | Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/10.7326/M23-2757",
+      "citation_index": 20
+    },
+    {
+      "id": "dda5228e-dc2e-4841-b846-068e127686e4",
+      "score": 0.95386744,
+      "title": "Management of Posttraumatic Stress Disorder and Acute Stress Disorder 2023 - VA/DOD Clinical Practice Guidelines",
+      "url": "https://www.healthquality.va.gov/guidelines/mh/ptsd/",
+      "citation_index": 21
+    },
+    {
+      "id": "8bcfd370-405f-4d5e-ac7b-7bb361fdfedc",
+      "score": 0.9522955,
+      "title": "The Management of Posttraumatic Stress Disorder and Acute Stress Disorder: Synopsis of the 2023 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38408360/",
+      "citation_index": 22
+    },
+    {
+      "id": "4b39a524-9e59-4205-8c62-5513f092122f",
+      "score": 0.82761955,
+      "title": "Using the 2023 VA/DoD Clinical Practice Guideline for Management of Posttraumatic Stress Disorder and Acute Stress Disorder \u2013 Ariel J. Lang, Jessica L. Hamblen, Paul Holtzheimer, Ursula Kelly, Sonya B. Norman, David Riggs, Paula P. Schnurr, & Ilse Wiechers | International Society for Traumatic Stress Studies",
+      "url": "https://istss.org/using-the-2023-va-dod-clinical-practice-guideline-for-management-of-posttraumatic-stress-disorder-and-acute-stress-disorder-ariel-j-lang-jessica-l-hamblen-paul-holtzheimer-ursula-kelly-sonya-b/",
+      "citation_index": 24
+    },
+    {
+      "id": "600adf5e-f397-4908-beaa-3ec33dc2919a",
+      "score": 0.6675167,
+      "title": "VA/DOD Clinical Practice Guideline for the Management of Posttraumatic Stress Disorder and Acute Stress Disorder: Clinician Summary | Focus",
+      "url": "https://psychiatryonline.org/doi/10.1176/appi.focus.16408",
+      "citation_index": 25
+    },
+    {
+      "id": "66ada3b0-e7c6-4939-9a7a-5542aca83e1e",
+      "score": 0.78650844,
+      "title": "Dogs and PTSD - PTSD: National Center for PTSD",
+      "url": "https://www.ptsd.va.gov/gethelp/dogs_ptsd.asp",
+      "citation_index": 26
+    },
+    {
+      "id": "d7c00aca-d31e-4b48-93dd-9f2b9b2b89f2",
+      "score": 0.27099466,
+      "title": "VA Prosthetic and Sensory Aids Service (PSAS) - Service Dog Veterinary Health Benefit - Rehabilitation and Prosthetic Services",
+      "url": "https://www.prosthetics.va.gov/serviceandguidedogs.asp",
+      "citation_index": 27
+    },
+    {
+      "id": "aa24afb2-f46e-4b1a-9a2e-d5cc0daf970a",
+      "score": 0.73914057,
+      "title": "Steps for Veterans to Get a Service Dog | Service Dog Certifications",
+      "url": "https://www.servicedogcertifications.org/steps-for-veterans-service-dog/",
+      "citation_index": 28
+    },
+    {
+      "id": "c1482494-5417-4877-9383-27c636f071a5",
+      "score": 0.68798697,
+      "title": "NewsFlash | Service Dogs - MIRECC / CoE",
+      "url": "https://www.mirecc.va.gov/visn20/Newsflash/ServiceDogs.asp",
+      "citation_index": 29
+    },
+    {
+      "id": "b9ccc7b6-b12d-4589-a122-001b0ea062ac",
+      "score": 0.69795954,
+      "title": "Does The VA Cover The Cost Of Service Dogs For PTSD? - PTSD Support Channel",
+      "url": "https://www.youtube.com/watch?v=cwBn4mq6Fxg",
+      "citation_index": 30
+    },
+    {
+      "id": "036da6d1-ba60-44f6-b3d4-d088598d8012",
+      "score": 0.64478505,
+      "title": "Puppies Assisting Wounded Service Members (PAWS) | VA West Palm Beach health care | Veterans Affairs",
+      "url": "https://www.va.gov/west-palm-beach-health-care/programs/puppies-assisting-wounded-service-members-paws/",
+      "citation_index": 31
+    },
+    {
+      "id": "441499c2-91f3-4298-94e4-3e0fa4fc1603",
+      "score": 0.86413884,
+      "title": "Results of VA study on PTSD and service dogs",
+      "url": "https://www.research.va.gov/ptsd-service-dogs.cfm",
+      "citation_index": 32
+    },
+    {
+      "id": "86527d9b-cfe4-4c1d-a9c7-8fd61539fc50",
+      "score": 0.96339977,
+      "title": "VA/DoD 2023 Clinical Practice Guideline for the Management of PTSD - PTSD: National Center for PTSD",
+      "url": "https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp"
+    },
+    {
+      "id": "b3d6403d-e315-4101-a143-f651d822e17a",
+      "score": 0.960216,
+      "title": "Clinical Practice Guideline for PTSD 2023: Psychotherapy Recommendations - PTSD: National Center for PTSD",
+      "url": "https://www.ptsd.va.gov/professional/continuing_ed/cpg_psychotherapy_recommendations.asp"
+    },
+    {
+      "id": "44145c28-e9ee-4eb4-8f45-f5a64196401f",
+      "score": 0.9565735,
+      "title": "Clinical Practice Guideline for PTSD 2023: Complimentary, Integrative and Alternative Approaches - PTSD: National Center for PTSD",
+      "url": "https://www.ptsd.va.gov/professional/continuing_ed/cpg_approaches.asp"
+    },
+    {
+      "id": "18c944fa-114b-4fa8-a41c-cf8269d02107",
+      "score": 0.9488842,
+      "title": "VA/DoD clinical practice guideline for management of posttraumatic stress disorder and acute stress disorder (Department of Veterans Affairs & Department of Defense) - EMDR International Association",
+      "url": "https://www.emdria.org/resource/va-dod-clinical-practice-guideline-for-management-of-posttraumatic-stress-disorder-and-acute-stress-disorder-department-of-veterans-affairs-department-of-defense/"
+    },
+    {
+      "id": "8827ad84-e101-460d-9620-7bec971678be",
+      "score": 0.94225764,
+      "title": "A clinician's guide to the 2023 VA/DoD Clinical Practice Guideline for Management of Posttraumatic Stress Disorder and Acute Stress Disorder - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38184799/"
+    },
+    {
+      "id": "1b4ffba5-2c4d-418d-8376-37ddb12a34ea",
+      "score": 0.94135845,
+      "title": "Management of Posttraumatic Stress Disorder and Acute ...",
+      "url": "https://www.healthquality.va.gov/guidelines/mh/ptsd/index.asp"
+    },
+    {
+      "id": "03f786d8-9be2-4641-af40-0b7e790fb781",
+      "score": 0.9242583,
+      "title": "Physiological benefits may be experienced by veterans with PTSD who use service dogs",
+      "url": "https://www.eurekalert.org/pub_releases/2018-06/pu-pbm060718.php"
+    },
+    {
+      "id": "b2ac1b69-b670-41e8-a523-e26bfef0602d",
+      "score": 0.92392945,
+      "title": "Do Service Dogs Help Military Veterans with PTSD? | Psychology Today United Kingdom",
+      "url": "https://www.psychologytoday.com/gb/blog/fellow-creatures/201806/do-service-dogs-help-military-veterans-ptsd"
+    },
+    {
+      "id": "4206b58b-7929-4ba4-9429-20d3a2deaa10",
+      "score": 0.92142147,
+      "title": "Integrating Animal-Assisted Interventions in United States Veterans With Self-Reported Posttraumatic Stress Disorder - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S155541552100057X"
+    },
+    {
+      "id": "730f8d50-94cb-4116-9332-736d91bcb181",
+      "score": 0.91118777,
+      "title": "Impacts of service dogs on military veterans' PTSD ...",
+      "url": "https://habri.org/grants/projects/5610-2/"
+    },
+    {
+      "id": "a2f708be-23a6-4967-811f-78c7d4114d01",
+      "score": 0.9108078,
+      "title": "Management of Posttraumatic Stress Disorder and Acute ...",
+      "url": "https://www.healthquality.va.gov/guidelines/MH/ptsd/VA-DoD-CPG-PTSD-Provider-Summary.pdf"
+    },
+    {
+      "id": "eb2585ae-4215-4229-aa86-4e94b0159443",
+      "score": 0.9104262,
+      "title": "A clinician's guide to the 2023 VA/DoD Clinical Practice ...",
+      "url": "https://www.ptsd.va.gov/professional/articles/article-pdf/id1629192.pdf"
+    },
+    {
+      "id": "62b19fdd-b87f-4899-9882-a00118795ef5",
+      "score": 0.90965873,
+      "title": "Do PTSD Service Dogs for War Veterans Suffer From Stress?",
+      "url": "https://www.psychologytoday.com/ca/blog/canine-corner/202203/do-ptsd-service-dogs-war-veterans-suffer-stress"
+    },
+    {
+      "id": "5beee154-2344-4cb9-aea9-36ee50254406",
+      "score": 0.9067276,
+      "title": "PVM-led Study Shows Veterans with PTSD Who Have Service Dogs May Experience Physiological Benefits | Purdue University College of Veterinary Medicine",
+      "url": "https://vet.purdue.edu/news/pvm-led-study-shows-veterans-with-ptsd-who-have-service-dogs-may-experience-physiological-benefits.php"
+    },
+    {
+      "id": "8a621e5e-6a41-4522-9a87-58801cc61331",
+      "score": 0.90593183,
+      "title": "Biomarker suggests another perk of service dogs for veterans",
+      "url": "https://www.futurity.org/service-dogs-veterans-ptsd-1782692-2/"
+    },
+    {
+      "id": "cbf15c0a-69b8-4010-b206-df9c6d5a7430",
+      "score": 0.90452427,
+      "title": "Impact of the revised VA/DoD Clinical Practice Guideline for Management of Posttraumatic Stress Disorder and Acute Stress Disorder for couples and families: Commentary on Lang et al. (2024) - Monson - 2024 - Journal of Traumatic Stress - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jts.23039"
+    },
+    {
+      "id": "f62be097-c089-44f4-a536-e766335d2c88",
+      "score": 0.9008183,
+      "title": "Veterans report healthier cortisol levels from the support and companionship of service dogs",
+      "url": "https://www.dvm360.com/view/veterans-report-healthier-cortisol-levels-from-the-support-and-companionship-of-service-dogs"
+    },
+    {
+      "id": "4b044c62-eb76-43d5-92c4-0bc8043cabb3",
+      "score": 0.8991304,
+      "title": "Study shows physiological and behavioral benefits may be experienced by veterans with PTSD who have service dogs - Purdue University News",
+      "url": "https://www.purdue.edu/newsroom/archive/releases/2018/Q2/study-shows-physiological-and-behavioral-benefits-may-be-experienced-by-veterans-with-ptsd-who-have-service-dogs.html"
+    },
+    {
+      "id": "b3baeede-ae78-4bed-8a77-376eee6a7ede",
+      "score": 0.89567816,
+      "title": "Clinical Practice Guideline for PTSD 2023 - AMA Ed Hub",
+      "url": "https://edhub.ama-assn.org/vha-education/module/2825553"
+    },
+    {
+      "id": "ddf869e2-4c47-4c52-a094-497898a30d06",
+      "score": 0.8945781,
+      "title": "Frontiers | The influence of service dog partnerships on perceived and objective sleep quality for military veterans with PTSD",
+      "url": "https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1432919/full"
+    },
+    {
+      "id": "9185d52f-af54-45ea-b68b-8ab4bc4b24ea",
+      "score": 0.8923472,
+      "title": "Do PTSD Service Dogs for War Veterans Suffer From Stress? | Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/canine-corner/202203/do-ptsd-service-dogs-war-veterans-suffer-stress"
+    },
+    {
+      "id": "37e8e58b-18cb-4851-8e16-f44d350356aa",
+      "score": 0.87782305,
+      "title": "The Impact of Service Dogs on Military Veterans and (Ex) First Aid Responders With Post-traumatic Stress Disorder - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9114472/"
+    },
+    {
+      "id": "8a0760c1-df8a-477f-952b-c4ade1675cac",
+      "score": 0.875031,
+      "title": "New Study: Service Dogs Improve Cortisol Levels in Veterans with PTSD | College of Veterinary Medicine",
+      "url": "https://vetmed.arizona.edu/news/new-study-service-dogs-improve-cortisol-levels-veterans-ptsd"
+    },
+    {
+      "id": "e97bd6eb-2a67-4d25-94e4-0bbf70eeea67",
+      "score": 0.8740022,
+      "title": "Expectations versus Experiences of Veterans with Posttraumatic Stress Disorder (PTSD) Service Dogs: An Inductive Conventional Content Analysis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8483598/"
+    },
+    {
+      "id": "bb73c791-6c61-4b08-b67e-aba0f7c4403f",
+      "score": 0.8703443,
+      "title": "A Randomized Trial of Differential Effectiveness of Service ...",
+      "url": "https://www.research.va.gov/REPORT-Study-of-Costs-and-Benefits-Associated-with-the-Use-of-Service-Dogs-Monograph1.pdf"
+    },
+    {
+      "id": "18457dc5-2f15-43b2-adf5-826259a20cf0",
+      "score": 0.86108357,
+      "title": "The effect of a service dog on salivary cortisol awakening response in a military population with posttraumatic stress disorder (PTSD) - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8454180/"
+    },
+    {
+      "id": "1eab480a-42b9-4082-acf0-4f47c06d5e0b",
+      "score": 0.84858394,
+      "title": "Service dogs and PTSD",
+      "url": "https://www.youtube.com/watch?v=614CyaUyFoQ"
+    },
+    {
+      "id": "edb97faa-fc62-47d0-b758-808f240f6d41",
+      "score": 0.8449346,
+      "title": "Review of VA/DOD Clinical Practice Guideline on management of acute stress and interventions to prevent posttraumatic stress disorder - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23015576/"
+    },
+    {
+      "id": "c90c68c4-8f8b-4505-9793-2de01e3a1a5e",
+      "score": 0.8266142,
+      "title": "PTSD Assistance Dogs research trial | Department of Veterans' Affairs",
+      "url": "https://www.dva.gov.au/documents-and-publications/ptsd-assistance-dogs-research-trial"
+    },
+    {
+      "id": "8f14ca4f-70db-412e-8b13-29bd60d97a0a",
+      "score": 0.8047902,
+      "title": "Do Service Dogs for Veterans with PTSD Mount a Cortisol Response in Response to Training?",
+      "url": "https://www.mdpi.com/2076-2615/11/3/650"
+    },
+    {
+      "id": "6adad4c2-bd55-4b8c-b7e3-a4ceb6f20c74",
+      "score": 0.7933146,
+      "title": "How Can Veterans Obtain A Service Dog For PTSD? - PTSD Support Channel",
+      "url": "https://www.youtube.com/watch?v=Nj6SoNaRAEQ"
+    },
+    {
+      "id": "7eecbf25-012f-42a8-a5f0-fdbd3c4136a7",
+      "score": 0.79080546,
+      "title": "NCT01329341 | Service Dogs for Veterans With PTSD",
+      "url": "https://www.clinicaltrials.gov/study/NCT01329341"
+    },
+    {
+      "id": "f48938fb-61c3-49f0-ba3e-5739c75876d2",
+      "score": 0.76888984,
+      "title": "Do Service Dogs for Veterans with PTSD Mount a Cortisol Response in Response to Training? - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7998945/"
+    },
+    {
+      "id": "8f1263ae-a04c-4e80-880b-817802a1281d",
+      "score": 0.7593865,
+      "title": "Military Veterans and Their PTSD Service Dogs: Associations Between Training Methods, PTSD Severity, Dog Behavior, and the Human-Animal Bond - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30805353/"
+    },
+    {
+      "id": "cd4fd7a2-8d5f-4cce-bd6a-7b67a6002a60",
+      "score": 0.7471924,
+      "title": "New law provides for service dogs for veterans with PTSD",
+      "url": "https://avmajournals.avma.org/display/post/news/new-law-provides-for-service-dogs-for-veterans-with-ptsd.xml"
+    },
+    {
+      "id": "9d4725f6-1fec-4154-9071-413d162855f1",
+      "score": 0.72977066,
+      "title": "Are Service Dogs Covered By Insurance Or Provided By The VA? - PTSD Support Channel",
+      "url": "https://www.youtube.com/watch?v=SMqQTfI_ub0"
+    },
+    {
+      "id": "b8cdb548-152d-43aa-af78-61b6759ebc10",
+      "score": 0.70799106,
+      "title": "K9s For Warriors - Service Dogs for Veterans with PTSD",
+      "url": "https://k9sforwarriors.org/"
+    },
+    {
+      "id": "14f4340e-50ef-4179-853d-b7dede782886",
+      "score": 0.67063034,
+      "title": "Canine Assisted Therapy for Posttraumatic Stress Disorder",
+      "url": "https://health.mil/Reference-Center/Publications/2021/04/26/PHCoE-Evidence-Brief-Canine-Assisted-Therapy-for-Posttraumatic-Stress-Disorder-508"
+    },
+    {
+      "id": "66ec1e7a-8358-40a5-ae4d-f48aeb64b7e7",
+      "score": 0.64639384,
+      "title": "Service Dogs for Veterans and Military Members With ...",
+      "url": "https://dogs.arizona.edu/sites/default/files/publications-files/Pubs2024/Leighton%20et%20al.%20-%202024%20-%20Service%20Dogs%20for%20Veterans%20and%20Military%20Members%20With%20PTSD.pdf"
+    },
+    {
+      "id": "f702c71f-2c04-41f9-814f-18e616cc7dad",
+      "score": 0.6108487,
+      "title": "The Effect of a PTSD Service Dog on Military Veterans\u2019 Medication Regimens: A Cross-Sectional Pilot Study - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8204643/"
+    },
+    {
+      "id": "ab66c98a-ba8e-46d4-96f4-329755281541",
+      "score": 0.6052631,
+      "title": "VA/DOD Clinical Practice Guidelines Home",
+      "url": "https://www.healthquality.va.gov/"
+    },
+    {
+      "id": "736fcb07-b274-47cf-8273-bb94e3639942",
+      "score": 0.5737984,
+      "title": "Pilot Study of the Effects of Service Dogs on Mental Health and Wellness in War Veterans with PTSD and/or TBI | Funded Projects | Grants & Funding | HABRI",
+      "url": "https://habri.org/grants/projects/pilot-study-of-the-effects-of-service-dogs-on-mental-health-and-wellness-in-war-veterans-with-ptsd-and-or-tbi"
+    },
+    {
+      "id": "bd6b0c24-7a1b-4799-96e7-69fb2aaa1a19",
+      "score": 0.56719416,
+      "title": "What Is Animal-assisted Therapy For PTSD? - PTSD Support Channel",
+      "url": "https://www.youtube.com/watch?v=EgB1KN7Ev48"
+    },
+    {
+      "id": "59279b30-9875-4000-adc6-5ae74700825b",
+      "score": 0.55796635,
+      "title": "Physiological benefits may be experienced by veterans with PTSD who use service dogs",
+      "url": "https://scienceblog.com/501477/physiological-benefits-may-be-experienced-by-veterans-with-ptsd-who-use-service-dogs/"
+    },
+    {
+      "id": "f45a8af2-f060-4302-9121-fe8635ac7452",
+      "score": 0.54666615,
+      "title": "VA/DoD CLINICAL PRACTICE GUIDELINE FOR MANAGEMENT OF",
+      "url": "https://www.healthquality.va.gov/guidelines/MH/ptsd/VA-DoD-CPG-PTSD-Full-CPG-Edited-111624-V5-81825.pdf"
+    },
+    {
+      "id": "3ecfaf95-9124-4cf9-b7ae-6de65249b474",
+      "score": 0.5342973,
+      "title": "How can veterans with post-traumatic stress disorder (PTSD) obtain a service animal? Does the United States Department of Veterans Affairs (VA) help with this? - Quora",
+      "url": "https://www.quora.com/How-can-veterans-with-post-traumatic-stress-disorder-PTSD-obtain-a-service-animal-Does-the-United-States-Department-of-Veterans-Affairs-VA-help-with-this"
+    },
+    {
+      "id": "3cf0ee96-ef93-4227-84fe-efd0b056f815",
+      "score": 0.522617,
+      "title": "The effect of a service dog on salivary cortisol awakening ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306453018300441"
+    },
+    {
+      "id": "53e773f4-df73-498d-b448-5ad6ddcd1046",
+      "score": 0.51032627,
+      "title": "Is Animal-Assisted Therapy Effective For PTSD? - PTSD Support Channel",
+      "url": "https://www.youtube.com/watch?v=5ZqUxnPDW4U"
+    },
+    {
+      "id": "63de3c48-be06-4b40-b695-9a3807cc09d6",
+      "score": 0.49802306,
+      "title": "The effects of assistance dogs on psychosocial health and wellbeing: A systematic literature review - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7710121/"
+    },
+    {
+      "id": "ae395c5f-8ff2-4b84-8bcf-5c66c8844187",
+      "score": 0.49450764,
+      "title": "How Does Animal-Assisted Therapy Help With PTSD Symptoms? - PTSD Support Channel",
+      "url": "https://www.youtube.com/watch?v=BAl-AOV3-1M"
+    },
+    {
+      "id": "ff55639b-523e-492e-bfda-1702db50ce1a",
+      "score": 0.48996773,
+      "title": "How Does Animal-Assisted Therapy Reduce Avoidance Behaviors In PTSD? - PTSD Support Channel",
+      "url": "https://www.youtube.com/watch?v=A7IIOgInLBY"
+    },
+    {
+      "id": "8d66826e-682b-4533-b520-978a27172763",
+      "score": 0.46964246,
+      "title": "Effectiveness of animal-assisted interventions for children ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8330800/"
+    },
+    {
+      "id": "9311d55f-3fdf-445b-809b-d3ff3dd50f0e",
+      "score": 0.4465194,
+      "title": "Clinical Practice Guidelines for PTSD",
+      "url": "https://www.ptsd.va.gov/publications/rq_docs/V35N1.pdf"
+    },
+    {
+      "id": "4bc73913-ccf4-48e3-8ae0-b8137650380a",
+      "score": 0.4434805,
+      "title": "What Are The Risks Of Animal-Assisted Therapy? - PTSD Support Channel",
+      "url": "https://www.youtube.com/watch?v=-XztMijfxLM"
+    },
+    {
+      "id": "51ef62e9-d4c3-41f1-9df0-8f97235f673e",
+      "score": 0.43208793,
+      "title": "VA/DOD Clinical Practice Guideline for the Management of Posttraumatic Stress Disorder and Acute Stress Disorder: Clinician Summary - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32021581/"
+    },
+    {
+      "id": "8c8f17c6-d9e8-4b52-b9aa-888926954888",
+      "score": 0.42591617,
+      "title": "How Long Does Animal-Assisted Therapy Last? - PTSD Support Channel",
+      "url": "https://www.youtube.com/watch?v=_cJOs43VEbI"
+    },
+    {
+      "id": "0c336615-241c-4475-8886-5faf79659945",
+      "score": 0.41520765,
+      "title": "Service Animals - Illinois Department of Veterans Affairs",
+      "url": "https://veterans.illinois.gov/services-benefits/service-animal.html"
+    },
+    {
+      "id": "04b7cc3e-9e6c-4f5d-b20f-8ab55599d840",
+      "score": 0.4120811,
+      "title": "Get Help Now: Service Dogs for PTSD and Other Conditions",
+      "url": "https://www.dav.org/get-help-now/veteran-topics-resources/service-animals/"
+    },
+    {
+      "id": "6ee739bb-0185-4018-aa87-299eeb5142bc",
+      "score": 0.40924495,
+      "title": "Full article: Hair Cortisol in Service Dogs for Veterans with Post-traumatic Stress Disorder Compared to Companion Dogs (Canis Familiaris)",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10888705.2022.2033119"
+    },
+    {
+      "id": "bd40589e-dc10-4708-8db7-7ecc9c682988",
+      "score": 0.374837,
+      "title": "The Healing Power of Assistance Dogs for Veterans with PTSD - College of Veterinary Medicine - Purdue University",
+      "url": "https://vet.purdue.edu/discovery/nieforth/research/articles/the-healing-power-of-assistance-dogs-for-veterans-with-ptsd.php"
+    },
+    {
+      "id": "d94c027c-02ca-437e-9334-e1f129658d39",
+      "score": 0.3665676,
+      "title": "Equine Assisted Psychotherapy for Veterans with PTSD | Healthcare Humanized\u2122 #Pets #Cats #Shorts",
+      "url": "https://www.youtube.com/watch?v=68rzuIxkSGE"
+    },
+    {
+      "id": "16c0a53e-8138-4b2c-884b-be227b0f3e89",
+      "score": 0.36473283,
+      "title": "PTSD service dogs for military veterans: What are they, what do they do, and are they effective?",
+      "url": "https://www.youtube.com/watch?v=PsNleJPodYU"
+    },
+    {
+      "id": "e71a9b4c-78c7-4741-a712-011c8e7fa856",
+      "score": 0.22512728,
+      "title": "Animal Assisted Activities and Animal Assisted Therapy:Structuring Visits for RT Programs #28",
+      "url": "https://www.youtube.com/watch?v=a2I-7zL8KA4"
+    },
+    {
+      "id": "d87b4f39-6375-4356-9d53-b996101c32ec",
+      "score": 0.17973235,
+      "title": "VA cutting funding for post-traumatic stress disorder service dogs",
+      "url": "https://www.youtube.com/watch?v=ZUrBnwjoMfQ"
+    },
+    {
+      "id": "4511f51b-7f6c-46b9-a944-ba9458157455",
+      "score": 0.1387769,
+      "title": "Service Dogs for Veterans and Military Members With PTSD",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2819452"
+    },
+    {
+      "id": "6da90b38-a247-4e30-9f46-87ab4661e806",
+      "score": 0.13065127,
+      "title": "Five first responders to the Pulse massacre. One diagnosis: PTSD",
+      "url": "https://www.salon.com/2018/06/23/five-first-responders-to-the-pulse-massacre-one-diagnosis-ptsd_partner/"
+    },
+    {
+      "id": "9e194767-3072-4e71-ac6d-61799c5f2065",
+      "score": 0.027861731,
+      "title": "Autostraddle\u2019s Comprehensive 2020 LGBTQ Voting Guide: Lesbian, Bisexual, Queer, and Trans Candidates, Ballot Measures and More!",
+      "url": "https://www.autostraddle.com/2020-lgbtq-voting-guide/"
+    },
+    {
+      "id": "4847331e-b677-47fb-8be0-9b37ed7afc50",
+      "score": 0.009007212,
+      "title": "Bullshit Jobs by David Graeber (2018)",
+      "url": "https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs"
+    }
+  ]
+}

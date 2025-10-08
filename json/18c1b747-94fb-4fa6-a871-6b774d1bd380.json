@@ -1,0 +1,295 @@
+{
+  "id": "18c1b747-94fb-4fa6-a871-6b774d1bd380",
+  "status": "completed",
+  "content": "FALSE.\n\nBased on an analysis of official world records and data on the largest radish varieties, there is no verifiable evidence that a radish has ever grown to a diameter of 2 feet (24 inches) or more. The largest recorded radish diameters are significantly smaller than this measurement.\n\n## Detailed Assessment\n\nThe claim that radishes can achieve a diameter of 2 feet (approximately 60.96 cm) is not supported by the provided documentation. The analysis centers on the Sakurajima daikon, recognized as the world's largest radish variety, and the official Guinness World Records for heaviest radishes[1][2][3].\n\n### Analysis of Maximum Recorded Radish Dimensions\n\nThe Sakurajima radish, a cultivar from Kagoshima Prefecture, Japan, is consistently cited as the largest in the world[1][4]. While it can grow to an immense size, its maximum documented diameter falls short of 2 feet.\n\n*   **Maximum Stated Diameter**: Multiple sources indicate that the Sakurajima radish can grow as large as 50 cm (20 inches) in diameter[1]. The average large specimen is typically between 18 to 20 inches in diameter[2].\n*   **Harvesting Recommendations**: Seed sellers often recommend harvesting the Sakurajima radish when it reaches a diameter of 10 inches for the best flavor, though it can grow much larger[5][6][7]. One seller suggests thinning seedlings to 24 inches apart to provide adequate space for growth, but this is a planting instruction and not a record of a final achieved diameter[8].\n\n### Guinness World Records Analysis\n\nThe official Guinness World Records for radishes focus primarily on weight and length, with circumference being a secondary metric for the heaviest specimens. The diameters calculated from these official circumferences are well below the 2-foot threshold.\n\n*   **Current Heaviest Radish**: The current record is held by Manda Fermentation Co., Ltd. of Japan, with a radish weighing 45.865 kg (101 lb 1.8 oz) verified on February 22, 2023[9][10]. Its official circumference was measured at 113 cm[9][11][12].\n    *   **Calculated Diameter**: A circumference of 113 cm corresponds to a diameter of approximately 35.97 cm (14.16 inches).\n\n*   **Previous Heaviest Radish**: The former record, set by Manabu Oono in February 2003, was for a radish weighing 31.1 kg (68 lb 9 oz)[13][14]. Its circumference was 119 cm[15][13].\n    *   **Calculated Diameter**: A circumference of 119 cm corresponds to a diameter of approximately 37.89 cm (14.92 inches).\n\n### Evaluation of Conflicting Data\n\nOne source states that the Guinness record radish was about 60 cm in diameter[16]. This figure, equivalent to ~23.6 inches, is the closest to the 2-foot claim. However, this measurement is an outlier and directly contradicts the official circumference measurements published by Guinness World Records and numerous media outlets covering the record-setting events[9][11][15].\n\nIn conclusion, the most credible and verifiable evidence indicates the maximum diameter of a radish is approximately 50 cm (20 inches), while the diameters of the heaviest radishes on record are even smaller, measuring around 14-15 inches. No source confirms a radish has reached or exceeded a diameter of 2 feet.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "bdb606d4-39c6-498a-894f-dc86696f7da5",
+      "score": 0.86331123,
+      "title": "Sakurajima radish - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sakurajima_radish",
+      "citation_index": 1
+    },
+    {
+      "id": "b3a0ad7f-b1ce-4b7f-92fe-853892b3151a",
+      "score": 0.8989177,
+      "title": "Grow the World's Largest Radish: Sakurajima Daikon | luv2garden.com",
+      "url": "https://luv2garden.com/radish-sakurajima-daikon/",
+      "citation_index": 2
+    },
+    {
+      "id": "1fba019a-263f-4f7f-84ec-ebf544c81cad",
+      "score": 0.740494,
+      "title": "Sakurajima Radish: The World's Largest | Baker Creek Heirloom Seeds",
+      "url": "https://www.rareseeds.com/blog/post/sakurajima-radish-the-worlds-largest",
+      "citation_index": 3
+    },
+    {
+      "id": "48e3573f-9c1f-460a-a540-2c34fdc2c188",
+      "score": 0.8325776,
+      "title": "In the shadow of a volcano | Kyushu Tourism Organization | Visit Kyushu",
+      "url": "https://www.visit-kyushu.com/en/blogs/shadow-volcano-worlds-largest-daikon-radishes/",
+      "citation_index": 4
+    },
+    {
+      "id": "412ab4db-b13f-47aa-96e9-c4d20abce4ec",
+      "score": 0.6326168,
+      "title": "Radish Seeds - Sakurajima Mammoth",
+      "url": "https://trueleafmarket.com/products/radish-seeds-sakurajima-mammoth",
+      "citation_index": 5
+    },
+    {
+      "id": "4ddfa1af-3986-48f9-bc96-c4ed39de57a8",
+      "score": 0.58721006,
+      "title": "Sakurajima Radishes, Sakurajima Radish Seeds, Sakurajima Mammoth Radishes, Sakurajima Mammoth Radish Seeds. Reimer Seeds",
+      "url": "https://www.reimerseeds.com/sakurajima-mammoth-radish-seeds",
+      "citation_index": 6
+    },
+    {
+      "id": "830d8575-562e-4ded-8b23-758664e7ca5c",
+      "score": 0.6479992,
+      "title": "Sakurajima Giant, Radish, Heirloom Seeds, Open Pollinated Gardening Non-gmo - Etsy",
+      "url": "https://www.etsy.com/listing/874801245/sakurajima-giant-radish-heirloom-seeds",
+      "citation_index": 7
+    },
+    {
+      "id": "240266a2-b75f-4d61-a083-fcceb48e3baa",
+      "score": 0.42577294,
+      "title": "Sakurajima Giant Radish Seeds | Baker Creek Heirloom Seeds",
+      "url": "https://www.rareseeds.com/radish-sakurajima-giant",
+      "citation_index": 8
+    },
+    {
+      "id": "49e7e8e7-c6da-4044-a2a1-9857965d1a00",
+      "score": 0.35723165,
+      "title": "Radish Seeds, Sakurajima Giant",
+      "url": "https://www.rareseeds.com/radish-sakurajima-giant?srsltid=AfmBOopoF_yZH1D1DW7hRx5zuufyuxkLwWInNGpcMXXgnWdA0V5V4Y_G",
+      "citation_index": 8
+    },
+    {
+      "id": "3645f1df-f595-4562-81f5-1684e5e270d9",
+      "score": 0.7732339,
+      "title": "Heaviest radish | Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/heaviest-radish",
+      "citation_index": 9
+    },
+    {
+      "id": "cf230153-f952-4621-8b22-d722cf78e673",
+      "score": 0.7339103,
+      "title": "Heaviest radish",
+      "url": "https://guinnessworldrecords.com/world-records/heaviest-radish",
+      "citation_index": 10
+    },
+    {
+      "id": "0e825f80-5042-45da-8122-6148fefc3c3a",
+      "score": 0.83452857,
+      "title": "In pics: The world\u2019s heaviest radish grown in Japan weighs 45 kg, states GWR - Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/food-news/in-pics-the-worlds-heaviest-radish-grown-in-japan-weighs-45-kg-states-gwr/articleshow/98601436.cms",
+      "citation_index": 11
+    },
+    {
+      "id": "9167bd43-2798-4d12-a70c-9fe315aa714a",
+      "score": 0.8396422,
+      "title": "Japanese company grows radish weighing over 45 kg, sets world record | Trending News - The Indian Express",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/japanese-company-grows-radish-weighing-over-45-kg-8499208/",
+      "citation_index": 12
+    },
+    {
+      "id": "be37ebe9-b0bf-4e97-9854-83eff73d15df",
+      "score": 0.829285,
+      "title": "Heaviest radish",
+      "url": "https://www.vercalendario.info/en/what/guinness-records-for-heaviest_radish.html",
+      "citation_index": 13
+    },
+    {
+      "id": "640fcc17-8800-46e2-acd7-9ee754c7a730",
+      "score": 0.8440111,
+      "title": "The Mapua radish that couldn't slow down",
+      "url": "https://www.stuff.co.nz/life-style/homed/garden/112942904/the-radish-that-couldnt-slow-down",
+      "citation_index": 14
+    },
+    {
+      "id": "bafdbb01-bedc-4b5f-b5ad-1352347217c4",
+      "score": 0.8827621,
+      "title": "Did you know? The Sakurajima radish (from Kagoshima ...",
+      "url": "https://www.facebook.com/explorekagoshima/posts/did-you-knowthe-sakurajima-radish-from-kagoshima-is-the-largest-radish-in-the-wo/2482785768655835/",
+      "citation_index": 15
+    },
+    {
+      "id": "6b932f5f-a4ec-4a52-ae2c-f08ab866f1b8",
+      "score": 0.16281913,
+      "title": "Sakurajima daikon | Raphanus sativus cv. sakurajima | Flower Database",
+      "url": "https://www.flower-db.com/en/flowers/raphanus-sativus-cv-sakurajima-daikon",
+      "citation_index": 16
+    },
+    {
+      "id": "bdf17550-d298-4d56-afc3-2648ab4d899e",
+      "score": 0.8215175,
+      "title": "In the shadow of a volcano: the world's largest daikon ...",
+      "url": "https://www.visit-kyushu.com/en/see-and-do/gourmet-kyushu/shadow-volcano-worlds-largest-daikon-radishes/"
+    },
+    {
+      "id": "4fc3399f-6f9e-45a0-a62c-2ce6d821c585",
+      "score": 0.8190992,
+      "title": "Longest radish",
+      "url": "https://guinnessworldrecords.com/world-records/81117-longest-radish"
+    },
+    {
+      "id": "b77e5df5-2862-45a2-8c92-608e35164897",
+      "score": 0.81665546,
+      "title": "Japanese company sets world record with 101-pound radish",
+      "url": "https://nextshark.com/japan-world-record-heaviest-radish"
+    },
+    {
+      "id": "9de90907-9b4f-4cb7-80ed-1b39ae47c513",
+      "score": 0.8116913,
+      "title": "Video: Japanese company sets world record with 101-pound radish",
+      "url": "https://www.yahoo.com/news/video-japanese-company-sets-world-190743581.html"
+    },
+    {
+      "id": "6e81014a-9036-4375-8af4-b37c0fb64279",
+      "score": 0.81025416,
+      "title": "Japanese Company Grows Heaviest Radish, Bags Guinness World Record - NDTV Food",
+      "url": "https://food.ndtv.com/news/japanese-company-grows-heaviest-radish-bags-guinness-world-record-3863168"
+    },
+    {
+      "id": "a8e3921d-3fc6-498d-897b-285a03a76c91",
+      "score": 0.7969415,
+      "title": "Japanese company grows heaviest radish, sets Guinness World Records | Trending",
+      "url": "https://www.hindustantimes.com/trending/japanese-company-grows-heaviest-radish-sets-guinness-world-records-101678971352154.html"
+    },
+    {
+      "id": "b676d34c-cfa5-4b2c-9da4-776dd24b46d3",
+      "score": 0.79542017,
+      "title": "Longest radish | Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/81117-longest-radish"
+    },
+    {
+      "id": "dd93740b-1f13-4610-8e0f-310bd23f568c",
+      "score": 0.7923522,
+      "title": "Sunflower head heavier than a bowling ball breaks world record | Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/news/2023/2/sunflower-head-heavier-than-a-bowling-ball-breaks-world-record-739035"
+    },
+    {
+      "id": "6fe46724-69af-4ee3-a422-5bcd66f6d242",
+      "score": 0.7892503,
+      "title": "Sakurajima Daikon Contest\uff08\u685c\u5cf6\u5927\u6839\u30b3\u30f3\u30c6\u30b9\u30c8\uff09",
+      "url": "https://wa-shoku.info/sakurajima-daikon-contest%EF%BC%88%E6%A1%9C%E5%B3%B6%E5%A4%A7%E6%A0%B9%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%EF%BC%89/"
+    },
+    {
+      "id": "e6da26d3-e302-4768-85ca-d98413ac547d",
+      "score": 0.77261686,
+      "title": "r/todayilearned on Reddit: TIL the Sakurajima Daikon (Radish) from Japan is the world's largest radish cultivar. The radish's normal size is 13lbs (6kg) and larger than basketball, but it can grow to over 100lbs (45kg).",
+      "url": "https://www.reddit.com/r/todayilearned/comments/eli4hb/til_the_sakurajima_daikon_radish_from_japan_is/"
+    },
+    {
+      "id": "10bc34a8-55e9-42f9-94f7-f6f543ebdb5c",
+      "score": 0.7568076,
+      "title": "Japanese company grows world's heaviest radish - UPI.com",
+      "url": "https://www.upi.com/Odd_News/2023/03/14/japan-Guinness-World-Records-heaviest-radish/1071678807107/"
+    },
+    {
+      "id": "b92c180d-1e3f-4941-af04-3876bc3a41e0",
+      "score": 0.735737,
+      "title": "Sakurajima Mammoth Radish \u2013 Mary's Heirloom Seeds",
+      "url": "https://www.marysheirloomseeds.com/products/sakurajima-mammoth-radish"
+    },
+    {
+      "id": "f0c4cf86-f94d-464d-968f-fbbc24a4e98b",
+      "score": 0.7286136,
+      "title": "Giant radish that weighs as much as a baby hippo is ...",
+      "url": "https://guinnessworldrecords.com/news/commercial/2023/3/giant-radish-that-weighs-as-much-as-a-baby-hippo-is-officially-worlds-heaviest-741295"
+    },
+    {
+      "id": "bf5b0d8e-de47-42f5-b610-7a3a0d449570",
+      "score": 0.7173491,
+      "title": "Harvesting A World Record Radish ? Our Largest Radish To Date !",
+      "url": "https://www.youtube.com/watch?v=0MU3_-VLPqM"
+    },
+    {
+      "id": "145cbaf4-569d-4b30-95ce-8d093c85f59e",
+      "score": 0.6780931,
+      "title": "Sakurajima Daikon Radish Seeds (\u685c\u5cf6\u5927\u6839) \u2014 Northwest Meadowscapes",
+      "url": "https://northwestmeadowscapes.com/products/sakurajima-daikon"
+    },
+    {
+      "id": "6cd27820-9176-4d38-ba9c-af1b3a6f72db",
+      "score": 0.6388584,
+      "title": "Guinness World Records | Facebook",
+      "url": "https://www.facebook.com/GuinnessWorldRecords/posts/heaviest-radish-45865-kg-101-lb-18-oz-grown-by-manda-fermentation-co-ltd-/10159786310734032/"
+    },
+    {
+      "id": "c110976e-1256-4e12-ae69-1ba648767f47",
+      "score": 0.60077465,
+      "title": "Long leeks to colossal cabbages: 2024 sees huge harvest of record-breaking fruit and veg | Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/news/2024/10/long-leeks-to-colossal-cabbages-2024-sees-huge-harvest-of-record-breaking-fruit-and-veg"
+    },
+    {
+      "id": "78f50335-0baf-4bbf-9020-16903ba702de",
+      "score": 0.5611433,
+      "title": "Genome sequence and analysis of a Japanese radish (Raphanus sativus) cultivar named \u2018Sakurajima Daikon\u2019 possessing giant root - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7334891/"
+    },
+    {
+      "id": "c889f7be-4fc0-4937-9cc8-ad11cd040b5d",
+      "score": 0.5224708,
+      "title": "Sakurajima Daikon Radish Seeds (\u685c\u5cf6\u5927\u6839)",
+      "url": "https://northwestmeadowscapes.com/products/sakurajima-daikon?srsltid=AfmBOooFH6XgR8Iz3-2QQSOptaJCfVlLBxa-k7947NMZb6SDT_XxThKc"
+    },
+    {
+      "id": "03057ab9-afc0-4e84-b5a8-4b1d2a012de5",
+      "score": 0.49699774,
+      "title": "Giant sakurajima radish growing in Ohio River Valley?",
+      "url": "https://www.facebook.com/groups/marketgardeningsuccess/posts/979511689082570/"
+    },
+    {
+      "id": "56821116-03cf-4a56-b3dc-fa946e7b40d5",
+      "score": 0.45784017,
+      "title": "World's Longest Radish in Korea: From Fields to Soup ...",
+      "url": "https://www.facebook.com/100086264993979/videos/worlds-longest-radish-in-korea-from-fields-to-soup/882222246958636/"
+    },
+    {
+      "id": "28c8cca6-083a-4aab-a701-5d30952801d8",
+      "score": 0.40995342,
+      "title": "Kagoshima: Massive Sakurajima Daikon Wins Annual Contest, Weighing in at 30 Kilograms - The Japan News",
+      "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20240217-169211/"
+    },
+    {
+      "id": "12e364c0-86af-4290-8258-fe0cd7d3764b",
+      "score": 0.3900581,
+      "title": "Sakurajima Mammoth Daikon Seeds, World's Largest Radish, Mild & Sweet, With Tracking, Gardening Gift - Etsy",
+      "url": "https://www.etsy.com/listing/1833225104/sakurajima-mammoth-daikon-seeds-worlds"
+    },
+    {
+      "id": "e4ca5da8-8224-48cf-b052-650ac0815064",
+      "score": 0.31321016,
+      "title": "r/gardening on Reddit: The Sakurajima Radish is known as the \u201cLargest Radish in the World.\u201d It has produced radishes at a standard weight of 13 pounds and is capable of reaching 100 pounds!",
+      "url": "https://www.reddit.com/r/gardening/comments/3zy8l7/the_sakurajima_radish_is_known_as_the_largest/"
+    },
+    {
+      "id": "87ef07ca-17a9-43a6-9a22-44a77bb17331",
+      "score": 0.28242916,
+      "title": "World's largest type of daikon radish can now be ordered ...",
+      "url": "https://soranews24.com/2023/01/31/worlds-largest-type-of-daikon-radish-can-now-be-ordered-online-in-japan/"
+    },
+    {
+      "id": "6b3bc874-4263-4094-9f51-c4ff93bf8151",
+      "score": 0.27412587,
+      "title": "150 Sakurajima Mammoth Daikon Seeds Largest Radish In The World, Mild And Sweet | eBay",
+      "url": "https://www.ebay.com/itm/284147004350"
+    },
+    {
+      "id": "3d15e294-16d4-4f3c-b39f-9c32693e0844",
+      "score": 0.23588239,
+      "title": "Amazon.com : Sakurajima Mammoth Radish SEEDS \u2013 Largest Radish in the World, Asian Vegetable !(1 oz Seeds) : Patio, Lawn & Garden",
+      "url": "https://www.amazon.com/Sakurajima-Mammoth-Radish-SEEDS-Vegetable/dp/B01NBGYBAX"
+    },
+    {
+      "id": "1be1bcf0-16ef-46d4-9f4b-2c357ba8b2bf",
+      "score": 0.23361932,
+      "title": "Sakurajima Giant Radish | Sola Seed Company",
+      "url": "https://www.solaseeds.com/product-page/sakurajima-giant-radish"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "4e8b36dd-5e68-4fbd-a99c-fe55cf975fb2",
+  "status": "completed",
+  "content": "FALSE. The claim that there are 700 known species of tarantulas is factually incorrect and significantly outdated. Authoritative taxonomic databases and scientific literature consistently report a number well over 1,000.\n\nThe World Spider Catalog (WSC), the primary global authority on spider taxonomy, states that the family Theraphosidae (tarantulas) currently comprises 1,160 valid species within 177 genera[1][2].\n\n## Current Species Count Exceeds 1,000\n\nA wide range of academic, encyclopedic, and journalistic sources corroborate that the number of tarantula species is substantially higher than 700, with most estimates placing the figure between 1,000 and 1,160.\n\n*   **Wikipedia**: Cites 1,100 species as of December 2023[3] and a table referencing the 2025 World Spider Catalog lists 1,133 species[4]. A list of species from August 2022 noted 1,041 species[5].\n*   **Scientific Journals**: A 2024 article in *Frontiers in Arachnid Science* states there are \"over 1,100 valid species\" as of April 16, 2024, citing the World Spider Catalog[6].\n*   **General Science & Nature Publications**: Various outlets report figures such as \"about 1,000 species\"[7], \"over 1,000 recognized species\"[8], \"more than 1,000 species\"[9][10], and specifically 1,040 species[11][12][13].\n*   **NCBI**: The National Center for Biotechnology Information notes there are \"over 900 different species\"[14].\n\n## Historical Data Shows Consistent Growth\nThe number of scientifically described tarantula species has been steadily increasing for many years, indicating that the 700-species figure has been inaccurate for a considerable time. The number of new species continues to grow as researchers conduct more studies[15][10].\n\n*   **2017**: The World Spider Catalogue listed 962 nominal species[16].\n*   **2019**: The World Spider Catalog listed 1,004 accepted species[17].\n*   **2022**: The count was over 1,040 species[11][5].\n*   **2023**: The number of identified species reached 1,100[3].\n*   **Present**: The World Spider Catalog reports 1,160 species[1].\n\nThis consistent upward trend in described species, documented in the primary taxonomic database, definitively refutes the claim of 700 species.",
+  "transformed_content": "FALSE",
+  "results": [
+    {
+      "id": "970053cb-082e-4911-a21e-16dd9bd73dbe",
+      "score": 0.8286204,
+      "title": "Family: Theraphosidae Thorell, 1869",
+      "url": "https://wsc.nmbe.ch/familydetail/100",
+      "citation_index": 1
+    },
+    {
+      "id": "e672654b-42bf-4e3a-91c3-156228c14886",
+      "score": 0.72629017,
+      "title": "NMBE - World Spider Catalog",
+      "url": "https://wsc.nmbe.ch/statistics/",
+      "citation_index": 2
+    },
+    {
+      "id": "f04b43ec-c944-4e6d-ab1b-c2d5dbe59e6f",
+      "score": 0.63777614,
+      "title": "Tarantula - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tarantula",
+      "citation_index": 3
+    },
+    {
+      "id": "3d72c74b-bffd-4ac6-be00-ebbf281cff8f",
+      "score": 0.8619225,
+      "title": "Spider taxonomy - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spider_taxonomy",
+      "citation_index": 4
+    },
+    {
+      "id": "46e4887f-10d7-4eba-a7e2-f80be459a3e4",
+      "score": 0.23567125,
+      "title": "List of Theraphosidae species - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Theraphosidae_species",
+      "citation_index": 5
+    },
+    {
+      "id": "8e2bffe3-dfe6-4093-9b12-37cc32b78ad7",
+      "score": 0.5060794,
+      "title": "Frontiers | What does the history of Theraphosidae systematics tell us about the future of tarantula taxonomy?",
+      "url": "https://www.frontiersin.org/journals/arachnid-science/articles/10.3389/frchs.2024.1445731/full",
+      "citation_index": 6
+    },
+    {
+      "id": "693b5522-3b1c-4066-aaab-9be89b61b485",
+      "score": 0.7316155,
+      "title": "The Tarantula Is Big and Hairy But Not So Scary | HowStuffWorks",
+      "url": "https://animals.howstuffworks.com/arachnids/tarantulas.htm",
+      "citation_index": 7
+    },
+    {
+      "id": "4492e532-5e0a-4b47-a440-cab7b97be04b",
+      "score": 0.65146625,
+      "title": "How Tarantulas Get Their Scientific Names",
+      "url": "https://www.thebiodude.com/blogs/opinion-and-conservation-iniatives/how-tarantulas-get-their-scientific-names?srsltid=AfmBOor8CpTpwwB2fp7G9bb8R3nY9K8ywYY3P9mLbrCRdJpeQZO5sZMQ",
+      "citation_index": 8
+    },
+    {
+      "id": "8abecdc8-25ff-42d9-9689-e157c0d4a7a9",
+      "score": 0.55275756,
+      "title": "Tarantula | Description, Spider, Habitat, Diet, Size, & Facts | Britannica",
+      "url": "https://www.britannica.com/animal/tarantula",
+      "citation_index": 9
+    },
+    {
+      "id": "a477df87-7bdc-47f7-ad40-02e3cc052b5c",
+      "score": 0.5712171,
+      "title": "Tarantula facts: size, diet, habitat - and why they're so feared",
+      "url": "https://www.discoverwildlife.com/animal-facts/insects-invertebrates/tarantula-facts",
+      "citation_index": 10
+    },
+    {
+      "id": "ad6799e2-3369-47b0-8016-19b9a0598813",
+      "score": 0.65252984,
+      "title": "Species of Tarantula: The Complete List of Tarantula Breeds - A-Z Animals",
+      "url": "https://a-z-animals.com/animals/spider/spider-facts/species-of-tarantula-complete-list/",
+      "citation_index": 11
+    },
+    {
+      "id": "34ddb3ae-cc13-46c9-bc4f-2273533c7416",
+      "score": 0.635879,
+      "title": "10 biggest spiders in the world: meet enormous arachnids as big as dinner plates | Discover Wildlife",
+      "url": "https://www.discoverwildlife.com/animal-facts/insects-invertebrates/biggest-spiders-in-the-world",
+      "citation_index": 12
+    },
+    {
+      "id": "0cc4b226-7eab-422c-882c-f9098fbf4e6d",
+      "score": 0.53123426,
+      "title": "Tarantula Species: The Different Types of Tarantulas and Where They Li \u2013 Dragon's Diet",
+      "url": "https://dragonsdiet.com/blogs/tarantula-care/tarantula-species-the-different-types-of-tarantulas-and-where-they-live",
+      "citation_index": 13
+    },
+    {
+      "id": "acd0117e-a66a-4e74-8029-0a836c40bf1f",
+      "score": 0.53692055,
+      "title": "Tarantula Spider Toxicity - StatPearls - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557667/",
+      "citation_index": 14
+    },
+    {
+      "id": "672d6544-3b19-4d84-b6cc-f820337f55c8",
+      "score": 0.6018984,
+      "title": "Say hello to nine new species of tarantula! And now say goodbye. | Grist",
+      "url": "https://grist.org/article/say-hello-to-nine-new-species-of-tarantula-and-now-say-goodbye/",
+      "citation_index": 15
+    },
+    {
+      "id": "f02d9f4a-3385-407d-85e1-268ea813fc8b",
+      "score": 0.91118777,
+      "title": "Discovering the silk road: Nuclear and mitochondrial ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1055790317303779",
+      "citation_index": 16
+    },
+    {
+      "id": "d434f5f0-8829-4b1f-be22-cc27a89b559c",
+      "score": 0.942002,
+      "title": "Tarantula phylogenomics: A robust phylogeny of deep theraphosid clades inferred from transcriptome data sheds light on the prickly issue of urticating setae evolution - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1055790318308261",
+      "citation_index": 17
+    },
+    {
+      "id": "44012dea-9603-4a1e-b87e-c180ea955d81",
+      "score": 0.7230167,
+      "title": "A Complete List of Genera and Species of the Tarantula (With Photos) - HubPages",
+      "url": "https://discover.hubpages.com/education/Tarantula-Identification-Guide-List-of-Genera-and-Species-of-the-Theraphosidae-Family-With-Facts-and-Photos"
+    },
+    {
+      "id": "c4cef6c2-4bb7-4eaf-9cc7-f8a2a6638394",
+      "score": 0.6052631,
+      "title": "Aphonopelma",
+      "url": "https://en.wikipedia.org/wiki/Aphonopelma"
+    },
+    {
+      "id": "51c996d2-f9b0-4120-ae68-607c1f630e17",
+      "score": 0.5809471,
+      "title": "Search taxa",
+      "url": "https://wsc.nmbe.ch/search?page=16&sortYear=asc&sFamily=Theraphosidae&fMt=begin&sGenus=&gMt=begin&sSpecies=&sMt=begin&multiPurpose=slsid&sMulti=&mMt=contain&searchSpec=s/1000"
+    },
+    {
+      "id": "ad06bd08-4ccc-44ff-9db2-d363ed6b5651",
+      "score": 0.52685463,
+      "title": "Theraphosidae - an Overview on Tarantula spiders - birdspidersCH",
+      "url": "https://birdspiders.ch/theraphosidae-overview-tarantula-spiders/"
+    },
+    {
+      "id": "7a78c629-a813-4de3-b2f4-3e81ab9a0675",
+      "score": 0.20968035,
+      "title": "Family: Theraphosidae Thorell, 1869",
+      "url": "https://wsc.nmbe.ch/family/100/Theraphosidae"
+    }
+  ]
+}

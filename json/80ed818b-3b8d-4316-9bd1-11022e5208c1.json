@@ -1,0 +1,314 @@
+{
+  "id": "80ed818b-3b8d-4316-9bd1-11022e5208c1",
+  "status": "completed",
+  "content": "TRUE. Cats possess the genetic and molecular framework required to taste umami, a savory flavor profile. However, the mechanism of their umami receptors differs significantly from that of humans, leading to distinct taste preferences, particularly a strong attraction to foods like tuna that are rich in specific combinations of nucleotides and amino acids.\n\n## Genetic and Molecular Basis of Feline Umami Perception\n\nIn mammals, the perception of umami taste is mediated by a heterodimeric G protein-coupled receptor (GPCR) formed by the assembly of two protein subunits: T1R1 and T1R3[2]. These proteins are encoded by the genes `TAS1R1` and `TAS1R3`, respectively[3].\n\nScientific research has definitively confirmed that cats possess both of these crucial genes in a functional form[5][2]. Early studies established that the `Tas1r3` gene is functional and expressed in feline taste buds[6][7]. Since the `Tas1r3` subunit is also required for sweet taste (in a dimer with T1R2), and cats are known to be indifferent to sweets due to a non-functional `Tas1r2` gene (a pseudogene), the functionality of `Tas1r3` pointed toward its role in umami perception[7][8]. More recent work, involving the genetic sequencing of a cat's biopsied tongue tissue, provided the first direct evidence that the `Tas1r1` gene is also expressed in their taste buds, confirming felines have all the necessary molecular machinery to detect umami[9][10].\n\n## Unique Mechanism of Feline Umami Receptors\n\nDespite having the required T1R1/T1R3 receptor, the way it functions in cats is markedly different from humans[11].\n\n*   **Human Umami Perception**: In humans, amino acids like L-glutamic acid (the primary component of MSG) and L-aspartic acid are the main agonists that activate the receptor[13]. Nucleotides, such as inosine monophosphate (IMP) and guanosine monophosphate (GMP), act as potent enhancers, synergistically increasing the taste intensity[14][15].\n\n*   **Feline Umami Perception**: In cats, the roles are reversed due to mutations at critical binding sites on the T1R1 protein that recognize glutamic and aspartic acid in humans[9][11]. Consequently, the cat umami receptor does not respond to these amino acids when presented alone[10]. Instead, nucleotides (which are abundant in meat) act as the primary agonists that activate the receptor. Various L-amino acids then function as enhancers, amplifying the nucleotide-triggered signal[10][11]. This unique mechanism explains why cats are obsessed with tuna, as it contains particularly high concentrations of both IMP and L-histidine (an amino acid), a combination that strongly activates their umami receptors[11][5].\n\n## Behavioral Evidence and Dietary Preferences\n\nBehavioral studies corroborate the genetic and molecular findings, demonstrating that this specialized umami perception is a key driver of feline food choice[11].\n\n*   **Preference for Umami Compounds**: In a two-choice taste test, a panel of 25 cats showed a strong preference for water bowls containing combinations of nucleotides and amino acids that were found to activate their umami receptors most effectively[11][5].\n\n*   **Response to Monosodium Glutamate (MSG)**: Due to the unique mechanism of their receptors, cats do not show a significant preference for solutions of MSG alone when compared to water[16][17]. They may even avoid acidic amino acids like L-glutamic acid because of the sour taste rather than the umami flavor[16]. However, other research indicates that when added to cat foods, MSG and nucleotides can act synergistically to improve palatability[18]. While some studies have explored the metabolic effects of dietary MSG in cats, such as increased weight gain and reduced insulin sensitivity, these focus on physiological responses post-ingestion rather than taste-driven preference[19][20].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "c798b59d-5129-46f8-8bf0-7ca02c4ffe4a",
+      "score": 0.87218446,
+      "title": "Pseudogenization of the Umami Taste Receptor Gene ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3108379/",
+      "citation_index": 2
+    },
+    {
+      "id": "fb37e2b7-0462-444f-903c-a01fdf64d124",
+      "score": 0.83290404,
+      "title": "A vertebrate-wide catalogue of T1R receptors reveals ...",
+      "url": "https://www.nature.com/articles/s41559-023-02258-8",
+      "citation_index": 3
+    },
+    {
+      "id": "36370caa-8b89-4d23-92b5-3f31efb98e47",
+      "score": 0.90830135,
+      "title": "Why your cat is a pickier eater than your dog | National Geographic",
+      "url": "https://www.nationalgeographic.com/premium/article/cats-dogs-taste-genetics-umami-sweet",
+      "citation_index": 5
+    },
+    {
+      "id": "d4627cc4-9694-4f1f-80f4-a4ca220473f7",
+      "score": 0.902687,
+      "title": "Pseudogenization of a Sweet-Receptor Gene Accounts for ...",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003",
+      "citation_index": 6
+    },
+    {
+      "id": "56a7bca7-15cf-4829-a6a6-7840eb00a5be",
+      "score": 0.8319231,
+      "title": "Pseudogenization of a sweet-receptor gene accounts for cats' indifference toward sugar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16103917/",
+      "citation_index": 7
+    },
+    {
+      "id": "9f4dc340-73c7-4b3b-bf25-05621d23f2e4",
+      "score": 0.8690161,
+      "title": "Differentiated adaptive evolution, episodic relaxation of selective constraints, and pseudogenization of umami and sweet taste genes TAS1Rs in catarrhine primates | Frontiers in Zoology | Full Text",
+      "url": "https://frontiersinzoology.biomedcentral.com/articles/10.1186/s12983-014-0079-4",
+      "citation_index": 8
+    },
+    {
+      "id": "9f959819-6dfc-46da-b8e2-c4b9f0b392fe",
+      "score": 0.8965509,
+      "title": "Why do cats love tuna so much? Scientists may finally know",
+      "url": "https://www.science.org/content/article/why-do-cats-love-tuna-so-much-scientists-may-finally-know",
+      "citation_index": 9
+    },
+    {
+      "id": "cfa2f08a-6000-45e1-a968-b035f54568d2",
+      "score": 0.8747745,
+      "title": "Umami taste perception and preferences of the domestic cat (Felis catus), an obligate carnivore.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37551788/",
+      "citation_index": 10
+    },
+    {
+      "id": "bdcc7886-1cc9-4ad8-befb-d917ad4e7161",
+      "score": 0.9220975,
+      "title": "Scientists finally figure out why cats are obsessed with tuna | Live Science",
+      "url": "https://www.livescience.com/animals/domestic-cats/scientists-finally-figure-out-why-cats-are-obsessed-with-tuna",
+      "citation_index": 11
+    },
+    {
+      "id": "87139205-9141-4c95-bfbf-dfcb6aac6050",
+      "score": 0.79958355,
+      "title": "Perceptual variation in umami taste and polymorphisms in TAS1R taste receptor genes1 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3136006/",
+      "citation_index": 13
+    },
+    {
+      "id": "9fe22f09-8782-4b53-bfa0-5d8b51335416",
+      "score": 0.7557276,
+      "title": "TAS1R1 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TAS1R1",
+      "citation_index": 14
+    },
+    {
+      "id": "94dc8f1a-6b2d-444b-8295-00ccf5e4b954",
+      "score": 0.8430832,
+      "title": "Genetic and Molecular Basis of Individual Differences in Human Umami Taste Perception | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006717",
+      "citation_index": 15
+    },
+    {
+      "id": "20ccf34c-db87-4158-ac5e-a0c08b9b369c",
+      "score": 0.81347597,
+      "title": "Biophysical and functional characterization of the N-terminal domain of the cat T1R1 umami taste receptor expressed in Escherichia coli | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187051",
+      "citation_index": 15
+    },
+    {
+      "id": "a0bb387a-be7e-4183-951e-710baf5a010e",
+      "score": 0.6186197,
+      "title": "Umami taste perception and preferences of the domestic cat (Felis catus), an obligate carnivore | Chemical Senses | Oxford Academic",
+      "url": "https://academic.oup.com/chemse/article/doi/10.1093/chemse/bjad026/7238703",
+      "citation_index": 16
+    },
+    {
+      "id": "2a908a3b-b7f4-497e-8cad-4647645d0c07",
+      "score": 0.57894874,
+      "title": "Umami taste perception and preferences of the domestic ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10468298/",
+      "citation_index": 17
+    },
+    {
+      "id": "4650b7f6-6f77-45a4-b8a6-5d912fbdbaa4",
+      "score": 0.63288915,
+      "title": "Diagnostic and Therapeutic Approach to the Anorectic Cat",
+      "url": "https://www.vin.com/apputil/content/defaultadv1.aspx?id=3843813&pid=8708&print=1",
+      "citation_index": 18
+    },
+    {
+      "id": "a28b3c1b-66e8-44f2-9fa7-c595e4e6f492",
+      "score": 0.6897452,
+      "title": "Effect of trans-fat, fructose and monosodium glutamate feeding on feline weight gain, adiposity, insulin sensitivity, adipokine and lipid profile - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21429276/",
+      "citation_index": 19
+    },
+    {
+      "id": "112d646f-7956-4294-b675-21ef46cc2ca6",
+      "score": 0.7380092,
+      "title": "Nutrigenomics of hepatic steatosis in a feline model: effect of monosodium glutamate, fructose, and Trans-fat feeding | Genes & Nutrition | Full Text",
+      "url": "https://genesandnutrition.biomedcentral.com/articles/10.1007/s12263-011-0261-7",
+      "citation_index": 20
+    },
+    {
+      "id": "56e21f6d-6984-4fcb-8ec2-0a48311e31ea",
+      "score": 0.8655088,
+      "title": "Genes from the TAS1R and TAS2R Families of Taste Receptors: Looking for Signatures of Their Adaptive Role in Human Evolution - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5905477/"
+    },
+    {
+      "id": "c794d30a-b546-451a-a22c-b5a0bb145fde",
+      "score": 0.8506799,
+      "title": "TAS1R3 - Taste receptor type 1 member 3 - Felis catus (Cat)",
+      "url": "https://www.uniprot.org/uniprotkb/Q49KI5/entry"
+    },
+    {
+      "id": "35e9f8ca-c4f6-4166-9b75-2ac8a77a4f61",
+      "score": 0.8266142,
+      "title": "The Umami taste receptor TAS1R1/TAS1R3 is expressed and potentiates contraction of airway smooth muscle | Physiology | American Physiological Society",
+      "url": "https://journals.physiology.org/doi/abs/10.1152/physiol.2023.38.S1.5731901"
+    },
+    {
+      "id": "49a8277c-a8cc-40db-8786-3ae7804bc3e9",
+      "score": 0.82425016,
+      "title": "Cats Lack a Sweet Taste Receptor - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2063449/"
+    },
+    {
+      "id": "19a8c115-39d2-49a3-aa80-858bb23e27d8",
+      "score": 0.82048416,
+      "title": "Taste Receptor Genes - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2721271/"
+    },
+    {
+      "id": "20cb83ff-fabf-4752-a29c-6a31bf46922f",
+      "score": 0.78749067,
+      "title": "Biophysical and functional characterization of the N-terminal domain of the cat T1R1 umami taste receptor expressed in Escherichia coli.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29084235/"
+    },
+    {
+      "id": "50a21942-a1c9-4134-92f6-c5eac1699b8f",
+      "score": 0.7746691,
+      "title": "Major taste loss in carnivorous mammals | PNAS",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1118360109"
+    },
+    {
+      "id": "b7eb1e20-4f9c-4b1e-b130-a027ae72506e",
+      "score": 0.7701369,
+      "title": "Impact of sweet, umami, and bitter taste receptor (TAS1R and TAS2R) genomic and expression alterations in solid tumors on survival | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-022-12788-z"
+    },
+    {
+      "id": "248cfc9e-7ee7-4a38-897b-607502075387",
+      "score": 0.76554126,
+      "title": "Perceptual variation in umami taste and polymorphisms in TAS1R taste receptor genes - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19587085/"
+    },
+    {
+      "id": "d1b93abb-8355-4e19-aa94-f7ad33969dda",
+      "score": 0.735737,
+      "title": "Open questions in sweet, umami and bitter taste genetics - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2468867321000055"
+    },
+    {
+      "id": "2e92372a-c731-46cd-bf3d-fd705976e3d7",
+      "score": 0.73299384,
+      "title": "A new way to test new umami flavours that might appeal to ...",
+      "url": "http://www.waltham.com/news-events/nutrition/testing-umami-flavours-for-cats"
+    },
+    {
+      "id": "4b4a0aa1-9bfa-46ff-9cae-794583fa025e",
+      "score": 0.71948266,
+      "title": "Perceptual variation in umami taste and polymorphisms in TAS1R taste receptor genes - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0002916523264990"
+    },
+    {
+      "id": "f6970848-8cbc-4527-890a-443f69368cd1",
+      "score": 0.69498676,
+      "title": "TAS1R1 - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/neuroscience/tas1r1"
+    },
+    {
+      "id": "d2d17484-510b-4689-8708-e2e093160738",
+      "score": 0.666736,
+      "title": "My cat just ate some leftover takeout with MSG and now ...",
+      "url": "https://www.dialavet.com/vet-answers/post/cat-ate-msg-scratching-call-vet-176673"
+    },
+    {
+      "id": "870754af-2fbe-4762-a00e-0496fd1004ac",
+      "score": 0.66569364,
+      "title": "Effect of trans-fat, fructose and monosodium glutamate feeding on feline weight gain, adiposity, insulin sensitivity, adipokine and lipid profile | British Journal of Nutrition | Cambridge Core",
+      "url": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/effect-of-transfat-fructose-and-monosodium-glutamate-feeding-on-feline-weight-gain-adiposity-insulin-sensitivity-adipokine-and-lipid-profile/D60DAB0E01C9BC0FC9C600E4249E34CE"
+    },
+    {
+      "id": "7c121581-d585-4509-9cd9-c6a19c5507d5",
+      "score": 0.65887916,
+      "title": "Evolutionary insights into umami, sweet, and bitter taste ...",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8398"
+    },
+    {
+      "id": "15b9cdbc-0ac1-4696-b686-96a37ebb02e2",
+      "score": 0.65861565,
+      "title": "(PDF) Effect of trans-fat, fructose and monosodium glutamate feeding on feline weight gain, adiposity, insulin sensitivity, adipokine and lipid profile",
+      "url": "https://www.researchgate.net/publication/50830668_Effect_of_trans-fat_fructose_and_monosodium_glutamate_feeding_on_feline_weight_gain_adiposity_insulin_sensitivity_adipokine_and_lipid_profile"
+    },
+    {
+      "id": "98d35bc2-c9f7-46c9-ad86-cb7316d4d3f8",
+      "score": 0.6058229,
+      "title": "Why can't cats taste sweet food? | Surprising Science",
+      "url": "https://www.youtube.com/watch?v=1k2nrY90gZo"
+    },
+    {
+      "id": "4c89a9d9-1748-4c1f-b468-e67d892721a7",
+      "score": 0.5874941,
+      "title": "A review of the alleged health hazards of monosodium glutamate - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6952072/"
+    },
+    {
+      "id": "7e94a28a-6891-4460-b5cb-f6fe7cc53aad",
+      "score": 0.47533798,
+      "title": "Monosodium glutamate disruption of behavioral and endocrine function in the female rat - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7413022/"
+    },
+    {
+      "id": "7e044a75-43f7-4154-910b-2e289e796c0c",
+      "score": 0.46526662,
+      "title": "Why does the giant panda eat bamboo? A comparative analysis of appetite-reward-related genes among mammals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21818345/"
+    },
+    {
+      "id": "72741766-f2e3-448c-ae9b-ebd5754d1e42",
+      "score": 0.41449648,
+      "title": "Behavioral deficits in adult rats treated neonatally with glutamate - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0892036205000462"
+    },
+    {
+      "id": "44b5305a-12a0-496e-9846-9ee514926c1f",
+      "score": 0.40924495,
+      "title": "Nutrigenomics of hepatic steatosis in a feline model: effect of monosodium glutamate, fructose, and Trans-fat feeding - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22144172/"
+    },
+    {
+      "id": "6111c13d-797d-457c-b71f-1cfbebd24e61",
+      "score": 0.39159262,
+      "title": "What Food Tastes Like to a Cat",
+      "url": "https://www.youtube.com/watch?v=21m0ja-lSCg"
+    },
+    {
+      "id": "f7cfd9a6-e687-4e55-85b8-1fab32281950",
+      "score": 0.38172707,
+      "title": "Effect of monosodium glutamate on performance of mice in the forced... | Download Table",
+      "url": "https://www.researchgate.net/figure/Effect-of-monosodium-glutamate-on-performance-of-mice-in-the-forced-swim-test_tbl2_283517119"
+    },
+    {
+      "id": "9faa7850-6755-4d0c-8812-fd7d292a62a3",
+      "score": 0.32328448,
+      "title": "A new way to test new umami flavours that might appeal to cats | WALTHAM",
+      "url": "https://www.waltham.com/news-events/nutrition/testing-umami-flavours-for-cats"
+    },
+    {
+      "id": "e28ebd52-1eae-4133-b167-19639c78ffa0",
+      "score": 0.20683034,
+      "title": "The flavor-enhancing action of glutamate and its ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9883458/"
+    },
+    {
+      "id": "dae186c9-fb69-49a9-92fa-ecf898938c64",
+      "score": 0.19475074,
+      "title": "Wheat Gluten Monosodium Glutamate Combination | VCA Animal Hospitals",
+      "url": "https://vcahospitals.com/know-your-pet/wheat-gluten--monosodium-glutamate-combination"
+    },
+    {
+      "id": "2c0f574c-d8a1-4b70-9993-0035bc64dd3b",
+      "score": 0.13125141,
+      "title": "Warning: MSG in Cat Supplements",
+      "url": "https://www.youtube.com/watch?v=6inx8dlQUPg"
+    },
+    {
+      "id": "e928b5e1-e124-4c69-9861-b758558699ea",
+      "score": 0.122744106,
+      "title": "The flavor-enhancing action of glutamate and its ...",
+      "url": "https://www.nature.com/articles/s41538-023-00178-2"
+    }
+  ]
+}

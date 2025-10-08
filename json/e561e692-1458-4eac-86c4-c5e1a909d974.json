@@ -1,0 +1,1070 @@
+{
+  "id": "e561e692-1458-4eac-86c4-c5e1a909d974",
+  "status": "completed",
+  "content": "TRUE. Extensive biological evidence confirms that the sensory and neurological systems required for detecting capsaicin, the compound responsible for the \"spicy\" sensation in chili peppers, are developed and present in humans at birth. While direct behavioral studies on human newborns' reactions to capsaicin are not available in the provided research, the underlying anatomical and cellular components are in place.\n\n## Fetal and Neonatal Chemosensory Development\n\nEvidence indicates that a fetus's chemical senses are functional well before birth, allowing for the detection of flavors from the maternal diet that are transferred to the amniotic fluid[1][2].\n\n*   **Anatomical Timeline**: In human fetuses, taste buds develop at 8 weeks of gestation and can detect tastants by 14 weeks[3][4]. Olfactory sensory neurons can sense odor-active molecules from 24 weeks' gestation[3]. By the third trimester, fetal chemosensors are sufficiently mature to detect flavors in the amniotic fluid[3].\n*   **Flavor Transfer**: Limited but consistent evidence shows that flavors from a mother's diet, including garlic, anise, carrot, and alcohol, transfer to and flavor amniotic fluid[5][6][7]. For example, 45 minutes after pregnant women ingested garlic capsules, an adult sensory panel could detect a stronger garlic odor in their amniotic fluid compared to a placebo group[6][8].\n*   **Fetal and Newborn Reactions**: Fetuses demonstrate discernible facial reactions to flavors *in utero*. In one study, fetuses at 32 to 36 weeks' gestation showed more \"laughter-face\" gestalts when exposed to carrot flavor from maternal ingestion and more \"cry-face\" gestalts in response to kale flavor[3]. Postnatally, newborns exhibit preferences for flavors experienced prenatally. Newborns whose mothers consumed garlic during the last month of pregnancy spent a significantly greater percentage of time oriented toward a garlic odor (60% \u00b1 5.7) compared to unexposed newborns (35.6% \u00b1 7.2)[6].\n\n## The Trigeminal System's Neonatal Functionality\n\nThe sensation of spiciness from capsaicin is not a taste but a form of chemosensory irritation mediated by the trigeminal nerve (cranial nerve V)[9]. This system is functional at birth.\n\n*   **Early Development**: Sensory nerve endings, including the C-fibers involved in pain and irritation perception, begin to grow in the dermis at 6 weeks gestation and appear in the epidermis between 10 and 12 weeks gestation[10].\n*   **Newborn Response to Irritants**: Studies on both preterm and full-term newborns demonstrate trigeminal sensitivity to chemical irritants[11]. When exposed to irritating odors from standard hospital products, newborns as young as 31 weeks postmenstrual age show activation in nociceptive (pain-processing) cortical areas and exhibit corresponding behavioral pain responses[11].\n*   **Trigeminal Reflexes**: The trigeminocardiac reflex, a powerful autonomic response to nasal stimulation by water or irritants, is highly pronounced in infants, further confirming the functionality of this neural pathway from birth[12][13].\n\n## Fetal Expression of the Capsaicin Receptor (TRPV1)\n\nThe specific biological sensor for capsaicin is the Transient Receptor Potential Vanilloid 1 (TRPV1) channel[14][15]. Direct evidence confirms the presence of these receptors in the human trigeminal system during fetal development.\n\n### Definitive Presence in the Trigeminal Ganglion\n\nThe trigeminal ganglion houses the cell bodies of the primary sensory neurons that innervate the face, oral cavity, and nasal cavity[16]. Immunohistochemical analysis of human tissue from different life stages has provided clear quantitative data on TRPV1 expression.\n\n*   **Early Fetal Presence**: TRPV1-immunoreactive neurons are present in the human trigeminal ganglion at all ages studied, from early prenatal life to old age[16][17].\n*   **Quantitative Expression**: The proportion of trigeminal ganglion neurons expressing TRPV1 changes during development. A study found that at 23 weeks of gestation, **51.77%** of these neurons expressed TRPV1[16][17]. This proportion then declines toward birth, measuring **21.23%** at 35 weeks and **17.31%** at 40 weeks of gestation[16][17]. The presence of these receptors in the neurons that project to the oral and nasal mucosa is the most critical evidence that the detection machinery is in place before birth.\n\n### Presence in Oral and Nasal Tissues\n\nWhile direct studies on fetal oral tissue are limited in the provided materials, data from adult tissue and animal models supports the presence of TRPV1 at the periphery.\n\n*   **Adult Tissues**: In adults, TRPV1 protein and mRNA are expressed in the human nasal mucosa (on epithelial cells, glands, and nerves) and in the oral mucosa[18][19]. Weak expression is found in the basal layers of healthy adult tongue epithelium, with more widespread presence in intraepithelial nerve fibers[20][21].\n*   **Animal Models**: In mouse embryos, TRPV1-immunoreactive neurons are observed in sensory ganglia from embryonic day 13[22]. Furthermore, studies in neonatal rats and infant pigs have utilized oropharyngeal capsaicin, demonstrating the receptor's functionality in animal models at birth[23][24].\n\n## Unanswered Questions\n\nTwo areas lack direct evidence in the provided human research:\n\n1.  **Transplacental Transport of Capsaicin**: While many flavor compounds cross the placenta, there are no specific studies provided that confirm whether capsaicin or its metabolites are transferred to the amniotic fluid in humans[5][25]. Capsaicin is well-absorbed orally but undergoes significant metabolism in the gut and liver, which may limit the amount of the unchanged compound that reaches the fetal environment[26][27].\n2.  **Direct Observation in Human Newborns**: The provided research contains no studies that document a direct test of a human newborn's behavioral or physiological reaction to a capsaicin stimulus[28]. Research involving capsaicin and neonates has been confined to animal models, often using the compound to study nerve function rather than sensory perception[29][30].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "4d7683ce-8505-44db-8c01-05c201c256fb",
+      "score": 0.85186684,
+      "title": "Does Maternal Diet Influence Future Infant Taste and Odor Preferences? A Critical Analysis | Annual Reviews",
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-121222-101404",
+      "citation_index": 1
+    },
+    {
+      "id": "aa7d6872-0064-483d-94e0-de4ca84fbca7",
+      "score": 0.8800674,
+      "title": "Prenatal and postnatal flavor learning by human infants - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11389286/",
+      "citation_index": 2
+    },
+    {
+      "id": "1ef9c080-b96f-4084-93cb-446c5c4d5517",
+      "score": 0.9051298,
+      "title": "Flavor Sensing in Utero and Emerging Discriminative Behaviors in the Human Fetus - Beyza Ustun, Nadja Reissland, Judith Covey, Benoist Schaal, Jacqueline Blissett, 2022",
+      "url": "https://journals.sagepub.com/doi/10.1177/09567976221105460",
+      "citation_index": 3
+    },
+    {
+      "id": "639cf27a-2375-41ce-902f-da1f86e471d9",
+      "score": 0.8184036,
+      "title": "Babies Can Taste Their Mothers' Food in the Womb | Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/the-sensory-revolution/202209/babies-can-taste-their-mothers-food-in-the-womb",
+      "citation_index": 4
+    },
+    {
+      "id": "faafece2-4425-4632-af82-4ccd64c3ba2f",
+      "score": 0.9222657,
+      "title": "What is the relationship between maternal diet during ...",
+      "url": "https://nesr.usda.gov/what-relationship-between-maternal-diet-during-pregnancy-flavor-transfer-amniotic-fluid-childrens",
+      "citation_index": 5
+    },
+    {
+      "id": "c0b8147d-048d-4512-84bb-23d5e568a7f5",
+      "score": 0.9158166,
+      "title": "WHAT IS THE RELATIONSHIP BETWEEN MATERNAL DIET DURING PREGNANCY ON FLAVOR TRANSFER TO AMNIOTIC FLUID, CHILDREN\u2019S BEHAVIORAL RESPONSE, AND DIETARY INTAKE?",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK582183/",
+      "citation_index": 6
+    },
+    {
+      "id": "99d374b4-5622-4734-8339-c295ff1a72cf",
+      "score": 0.91435975,
+      "title": "Influence of maternal diet on flavor transfer to amniotic fluid and breast milk and children's responses: a systematic review - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30982867/",
+      "citation_index": 7
+    },
+    {
+      "id": "695941a7-8c0c-410d-8a87-d37bc7d52c85",
+      "score": 0.84918517,
+      "title": "Prenatal and Postnatal Flavor Learning by Human Infants - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1351272/",
+      "citation_index": 8
+    },
+    {
+      "id": "7fc13db3-9dd9-440c-82f9-e47493f0c452",
+      "score": 0.5513086,
+      "title": "Trigeminal Chemoreception - Neuroscience - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK11036/",
+      "citation_index": 9
+    },
+    {
+      "id": "778a0192-d84a-4a85-a271-e910841c0837",
+      "score": 0.40740472,
+      "title": "What Do We Know about Pruritus in Very Young Infants? A ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8534742/",
+      "citation_index": 10
+    },
+    {
+      "id": "ec0fa19c-2749-4d5d-8c4d-f0b30ec70ecf",
+      "score": 0.76554126,
+      "title": "Cortical Responses to Alien Odors in Newborns: An fNIRS Study",
+      "url": "https://academic.oup.com/cercor/article/28/9/3229/4057635",
+      "citation_index": 11
+    },
+    {
+      "id": "528e2fce-f66d-40f7-a67a-1192c75063ad",
+      "score": 0.6651719,
+      "title": "Endogenous Inhibition of the Trigeminally Evoked Neurotransmission to Cardiac Vagal Neurons by Muscarinic Acetylcholine Receptors - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957459/",
+      "citation_index": 12
+    },
+    {
+      "id": "888746ed-acfe-438c-87a4-aae0100b02ce",
+      "score": 0.62000114,
+      "title": "Serotonergic Modulation of the Trigeminocardiac Reflex ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2746775/",
+      "citation_index": 13
+    },
+    {
+      "id": "ab515814-e965-4509-abd1-b3c1240e9446",
+      "score": 0.62824833,
+      "title": "Capsaicin Receptor TRPV1 as a Novel Modulator of Neural Precursor Cell Proliferation | Stem Cells | Oxford Academic",
+      "url": "https://academic.oup.com/stmcls/article/32/12/3183/6422943",
+      "citation_index": 14
+    },
+    {
+      "id": "2f45a16d-9213-4fa0-891f-babe5dde981f",
+      "score": 0.560566,
+      "title": "TRPV1 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TRPV1",
+      "citation_index": 15
+    },
+    {
+      "id": "47e43f42-9f86-466a-99f8-bd64bb04c2ee",
+      "score": 0.8877607,
+      "title": "TRPV1 receptor in the human trigeminal ganglion and spinal nucleus: immunohistochemical localization and comparison with the neuropeptides CGRP and SP - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5108161/",
+      "citation_index": 16
+    },
+    {
+      "id": "370f2874-635e-4394-a5db-fbf887134f47",
+      "score": 0.86331123,
+      "title": "TRPV1 receptor in the human trigeminal ganglion and spinal nucleus: immunohistochemical localization and comparison with the neuropeptides CGRP and SP - Quartu - 2016 - Journal of Anatomy - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/joa.12529",
+      "citation_index": 17
+    },
+    {
+      "id": "230ddbf4-9e20-479d-9797-f9fe9e4924af",
+      "score": 0.57322514,
+      "title": "Expression and localization of TRPV1 in human nasal mucosa - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16792172/",
+      "citation_index": 18
+    },
+    {
+      "id": "34126ace-0801-4350-9856-d932267ac7f5",
+      "score": 0.8539252,
+      "title": "Functional Transient Receptor Potential Ankyrin 1 and ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8836603/",
+      "citation_index": 19
+    },
+    {
+      "id": "73757f56-442c-449c-af90-abf156f510fb",
+      "score": 0.7279179,
+      "title": "Increased expression of TRPV1 in squamous cell carcinoma of the human tongue - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19320840/",
+      "citation_index": 20
+    },
+    {
+      "id": "766e1d45-8a29-4059-984d-7ca4477a3de6",
+      "score": 0.44941738,
+      "title": "Localization of TRP Channels in Healthy Oral Mucosa from Human Donors | eNeuro",
+      "url": "https://www.eneuro.org/content/9/6/eneuro.0328-21.2022",
+      "citation_index": 21
+    },
+    {
+      "id": "85c8c2a9-552d-473a-9276-4781ba75d329",
+      "score": 0.38498205,
+      "title": "Differential development of TRPV1-expressing sensory nerves in peripheral organs | Cell and Tissue Research",
+      "url": "https://link.springer.com/article/10.1007/s00441-005-0013-3",
+      "citation_index": 22
+    },
+    {
+      "id": "48a022c2-2adb-41a4-92d0-8ab7b5c3a978",
+      "score": 0.44811285,
+      "title": "Inflammatory Mediators at Acidic pH Activate Capsaicin ...",
+      "url": "https://journals.physiology.org/doi/10.1152/jn.1998.79.2.670",
+      "citation_index": 23
+    },
+    {
+      "id": "86494f80-20fe-4f46-aad9-73ef560aeee3",
+      "score": 0.25278085,
+      "title": "Oropharyngeal capsaicin exposure improves infant feeding ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9359634/",
+      "citation_index": 24
+    },
+    {
+      "id": "db934a2a-0d03-470c-b14c-746b33fdbbe4",
+      "score": 0.5928793,
+      "title": "Transplacental Transport of Artificial Sweeteners.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37432196/",
+      "citation_index": 25
+    },
+    {
+      "id": "784fdca6-b6f0-42a3-833e-c388219cb00d",
+      "score": 0.34713915,
+      "title": "Chemical and Pharmacological Aspects of Capsaicin - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6259610/",
+      "citation_index": 26
+    },
+    {
+      "id": "b0f29d62-f7b4-433b-b80c-99caf2621cf3",
+      "score": 0.2843628,
+      "title": "Absorption and metabolism of capsaicinoids following intragastric administration in rats | Naunyn-Schmiedeberg's Archives of Pharmacology",
+      "url": "https://link.springer.com/article/10.1007/BF00169449",
+      "citation_index": 27
+    },
+    {
+      "id": "f86d285c-a07d-42c7-b21d-221f421b60b2",
+      "score": 0.3446204,
+      "title": "Capsaicin - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/neuroscience/capsaicin",
+      "citation_index": 28
+    },
+    {
+      "id": "7ac69af8-724d-40b5-a7c9-450b45798af5",
+      "score": 0.17626037,
+      "title": "Changes in TRPV1-Mediated Physiological Function in Rats Systemically Treated With Capsaicin on the Neonate",
+      "url": "https://www.mdpi.com/1422-0067/21/9/3143",
+      "citation_index": 29
+    },
+    {
+      "id": "3039e78c-48ed-4caf-82fc-d970622f14df",
+      "score": 0.09532438,
+      "title": "Acute and neonatal capsaicin treatment inhibit jejunal amino acid absorption through a Na+-dependent mechanism - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9142913/",
+      "citation_index": 30
+    },
+    {
+      "id": "99d751d8-a892-47b3-a2d0-be31e3fbef3f",
+      "score": 0.9073207,
+      "title": "The Flavoring of Amniotic Fluid and Breastmilk by Maternal Diet - IABLE",
+      "url": "https://lacted.org/questions/the-flavoring-of-amniotic-fluid-and-breastmilk-by-maternal-diet/"
+    },
+    {
+      "id": "51db0d27-13b2-4358-96b9-b148beea774a",
+      "score": 0.9067276,
+      "title": "Influence of maternal diet on flavor transfer to amniotic fluid ...",
+      "url": "https://www.rti.org/publication/influence-maternal-diet-flavor-transfer-amniotic-fluid-breast-milk-children-responses-systematic-rev-0"
+    },
+    {
+      "id": "a34bb67f-08ae-429a-b79b-937daa91fc22",
+      "score": 0.88799405,
+      "title": "Amniotic Fluid is Flavored by the Foods the Pregnant Woman Eats \u2013 Lacto Bacto",
+      "url": "https://lactobacto.com/2021/12/02/amniotic-fluid-is-flavored-by-the-foods-the-pregnant-woman-eats/"
+    },
+    {
+      "id": "d5dfa5d4-a908-4811-ad48-7d9997b77b7c",
+      "score": 0.8858788,
+      "title": "Chemosensory continuity from prenatal to postnatal life in humans: A systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36996008/"
+    },
+    {
+      "id": "f0aaabe8-a304-4865-9426-ba916ec54303",
+      "score": 0.8752871,
+      "title": "TRPV1 receptor in the human trigeminal ganglion and spinal nucleus: Immunohistochemical localization and comparison with the neuropeptides CGRP and SP | Request PDF",
+      "url": "https://www.researchgate.net/publication/305648555_TRPV1_receptor_in_the_human_trigeminal_ganglion_and_spinal_nucleus_Immunohistochemical_localization_and_comparison_with_the_neuropeptides_CGRP_and_SP"
+    },
+    {
+      "id": "fd02b8ba-1769-46de-902a-5c5aed2925db",
+      "score": 0.8737439,
+      "title": "Influence of maternal diet on flavor transfer to amniotic fluid and breast milk and children's responses: a systematic review - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0002916522032361"
+    },
+    {
+      "id": "d003953f-27ee-4c8c-b9d2-40f2e7d3b4f7",
+      "score": 0.86767644,
+      "title": "Transient receptor potential vanilloid type-1 (TRPV1) in the ...",
+      "url": "https://iris.unica.it/handle/11584/103853"
+    },
+    {
+      "id": "97474107-9cf6-4ae0-b158-41eecc99ae51",
+      "score": 0.86413884,
+      "title": "Functional Transient Receptor Potential Ankyrin 1 and ...",
+      "url": "https://www.mdpi.com/1422-0067/23/3/1921"
+    },
+    {
+      "id": "6b3ae2ae-332d-4dd6-a3a2-fc04219bb9be",
+      "score": 0.85967577,
+      "title": "Artificial milk preference of newborn lambs is prenatally influenced by transfer of the flavor from the maternal diet to the amniotic fluid.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32891606/"
+    },
+    {
+      "id": "bc0eb69b-9b3f-447c-b05b-376e4ab08ac4",
+      "score": 0.85797083,
+      "title": "TRPV1 receptor in the human trigeminal ganglion and spinal nucleus: immunohistochemical localization and comparison with the neuropeptides CGRP and SP - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5108161/"
+    },
+    {
+      "id": "eb5266e6-30da-4566-aa59-1ec1120cbffb",
+      "score": 0.8497846,
+      "title": "TRPV1 receptor in the human trigeminal ganglion and spinal nucleus: immunohistochemical localization and comparison with the neuropeptides CGRP and SP.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27456865/"
+    },
+    {
+      "id": "8acb1d4c-69b9-4383-a56c-e7ae2dba50d0",
+      "score": 0.84858394,
+      "title": "Does Maternal Diet Influence Future Infant Taste and Odor Preferences? A Critical Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38724030/"
+    },
+    {
+      "id": "380c06d9-dda8-4399-89ec-ff495eb1a5fa",
+      "score": 0.8380581,
+      "title": "Anethol, cinnamaldehyde, and eugenol inclusion in feed affects postweaning performance and feeding behavior of piglets.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28046155/"
+    },
+    {
+      "id": "869e98aa-eb90-45d1-a8cd-9ae8964e8ce3",
+      "score": 0.81347597,
+      "title": "(PDF) Expression and localization of TRPV1 in human nasal mucosa",
+      "url": "https://www.researchgate.net/publication/6992618_Expression_and_localization_of_TRPV1_in_human_nasal_mucosa"
+    },
+    {
+      "id": "cac8c5ca-9549-4b91-8866-826c2f335d01",
+      "score": 0.7992077,
+      "title": "How a child's food preferences begin in the womb | Food | The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/wordofmouth/2014/apr/08/child-food-preferences-womb-pregnancy-foetus-taste-flavours"
+    },
+    {
+      "id": "37cce010-28a1-446c-88bc-39adc85afd3d",
+      "score": 0.78014404,
+      "title": "Fetal Taste and Maternal Diet - Lozier Institute",
+      "url": "https://lozierinstitute.org/dive-deeper/fetal-taste-and-maternal-diet/"
+    },
+    {
+      "id": "3e4b4791-588b-4588-a0d4-2a81c39c0c9c",
+      "score": 0.76992935,
+      "title": "Upregulation of transient receptor potential vanilloid type-1 receptor expression in oral lichen planus - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19923855/"
+    },
+    {
+      "id": "86667829-1376-42cb-8760-d50c201633b4",
+      "score": 0.769098,
+      "title": "Babies react to taste and smell in the womb | ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2022/09/220922103255.htm"
+    },
+    {
+      "id": "054c1b68-4ac2-4489-8fee-590dd0b0dff9",
+      "score": 0.756376,
+      "title": "Baby's First Taste of Flavours Inside the womb!",
+      "url": "https://www.youtube.com/watch?v=minGsyppuL0"
+    },
+    {
+      "id": "0b0340f9-f645-4d8e-bf42-6777f17c0580",
+      "score": 0.7515939,
+      "title": "(PDF) Upregulation of extraneuronal TRPV1 expression in chronic rhinosinusitis with nasal polyps",
+      "url": "https://www.researchgate.net/publication/323389667_Upregulation_of_extraneuronal_TRPV1_expression_in_chronic_rhinosinusitis_with_nasal_polyps"
+    },
+    {
+      "id": "1f64e110-8647-4e2b-9ef5-2f63e201c03a",
+      "score": 0.750937,
+      "title": "Polymodal Activation and Desensitization of TRPV1 Receptor in Human Odontoblasts-Like Cells with Eugenol - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7785394/"
+    },
+    {
+      "id": "23754b33-b8ec-4220-a302-30f151c8db13",
+      "score": 0.7440808,
+      "title": "Pharmacodynamics of TRPV1 Agonists in a Bioassay Using Human PC-3 Cells - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3929291/"
+    },
+    {
+      "id": "0f1e68f2-20ea-49dd-9b9b-982fb555488e",
+      "score": 0.73846215,
+      "title": "RNA-Seq Analysis of Human Trigeminal and Dorsal Root Ganglia with a Focus on Chemoreceptors | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128951"
+    },
+    {
+      "id": "63101b0a-fc4f-45c3-8943-2cc1b85bf525",
+      "score": 0.73596483,
+      "title": "Baby's Palate, Food Memories Shaped Before Birth : NPR",
+      "url": "https://www.npr.org/2011/08/08/139033757/babys-palate-and-food-memories-shaped-before-birth"
+    },
+    {
+      "id": "72d2ca1f-61ad-4056-9851-8d9edaf047a6",
+      "score": 0.73322314,
+      "title": "Influence of Maternal Diet on Flavor Transfer to Amniotic ...",
+      "url": "https://nesr.usda.gov/sites/default/files/2022-11/Maternal-diet-AF-and-BM-flavor-NESR-Systematic-Review.pdf"
+    },
+    {
+      "id": "58500e4d-188f-48d1-a103-416e0361e713",
+      "score": 0.7265231,
+      "title": "TRPV1 receptors and nasal trigeminal chemesthesis - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16908491/"
+    },
+    {
+      "id": "23022057-b8bb-4eb7-adb9-88e321eb8821",
+      "score": 0.7045877,
+      "title": "TRPV1 - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/neuroscience/trpv1"
+    },
+    {
+      "id": "0da3dd10-3015-445c-ab0a-c696fd9ab740",
+      "score": 0.7043437,
+      "title": "Role of TRPV-1 in CGRP-mediated trigeminal sensitization - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3620372/"
+    },
+    {
+      "id": "a23d5639-b981-4f8c-92b6-4320ed0d8d35",
+      "score": 0.68874115,
+      "title": "Transient Receptor Potential Ankyrin 1 Ion Channel Is ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11011947/"
+    },
+    {
+      "id": "0ebab9c6-f64c-4d64-940d-8d2b8ab9b53f",
+      "score": 0.6747586,
+      "title": "Taste Bud Magic: How Your Pregnancy Diet Shapes Your Baby's Future | Dr. Chandralekha",
+      "url": "https://www.youtube.com/watch?v=0QKf21_SbD4"
+    },
+    {
+      "id": "bc8ebba5-4234-4a0c-bbb2-dc907cdbb737",
+      "score": 0.6659544,
+      "title": "Serotonergic modulation of the trigeminocardiac reflex neurotransmission to cardiac vagal neurons in the nucleus ambiguus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19553488/"
+    },
+    {
+      "id": "324278d1-b0d5-48fd-ab66-432ea28a8c4e",
+      "score": 0.66464967,
+      "title": "TRPA1 antagonists as potential analgesic drugs",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S016372581100204X"
+    },
+    {
+      "id": "1e0b697f-befc-4a6e-9289-728c6585e76a",
+      "score": 0.65252984,
+      "title": "You Are What Your Parents Eat: Parental Influences on Early Flavor Preference Development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33166966/"
+    },
+    {
+      "id": "b2830410-999d-4d42-979e-f7fcaafce63c",
+      "score": 0.6506676,
+      "title": "Role of TRPV1 in Health and Disease",
+      "url": "https://www.xiahepublishing.com/m/2572-5505/JERP-2023-00013"
+    },
+    {
+      "id": "a240d0a2-31e1-404c-a3d4-93e9e03957d9",
+      "score": 0.6485337,
+      "title": "Your Diet Is Reaching Your Baby \u2013 See How It Tastes to Them!",
+      "url": "https://www.youtube.com/watch?v=p_a5EeibVfM"
+    },
+    {
+      "id": "4aff8a31-edce-4c5e-b1b9-2deb7ddc55b6",
+      "score": 0.64773196,
+      "title": "TRPV1-Like Immunoreactivity in the Human Locus K, a ...",
+      "url": "https://www.mdpi.com/2073-4409/7/7/72"
+    },
+    {
+      "id": "d840a402-4e0d-42d8-abe4-4ddf0f5c15be",
+      "score": 0.6469293,
+      "title": "Modulation of human TRPV1 receptor activity by extracellular protons and host cell expression system - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16630609/"
+    },
+    {
+      "id": "e6ead4d3-5f1e-4505-8ebc-52ac81681d33",
+      "score": 0.638588,
+      "title": "Tissue expression of TRPV1 - Summary - The Human Protein Atlas",
+      "url": "https://www.proteinatlas.org/ENSG00000196689-TRPV1/tissue"
+    },
+    {
+      "id": "43c9dfea-efcf-4f49-a883-ed8b369cead6",
+      "score": 0.62633044,
+      "title": "Capsaicin induces the production of IL-6 in human upper ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0024320507001014"
+    },
+    {
+      "id": "8c4f8d73-d99d-43fd-a429-a7741487cace",
+      "score": 0.614464,
+      "title": "Influence of Maternal Diet on Flavor Transfer to Amniotic Fluid and Breast Milk and Children\u2019s Responses: A Systematic Review (P11-029-19) - Current Developments in Nutrition",
+      "url": "https://cdn.nutrition.org/article/S2475-2991(23)15604-6/fulltext"
+    },
+    {
+      "id": "d6553eb6-55a3-4831-b4d8-ce895f5db35d",
+      "score": 0.6141863,
+      "title": "Optimized flow cytometric detection of transient receptor potential vanilloid-1 (TRPV1) in human hematological malignancies | Medical Oncology",
+      "url": "https://link.springer.com/article/10.1007/s12032-022-01678-z"
+    },
+    {
+      "id": "6379ff26-476e-4cd8-9740-f96d1d6adfbf",
+      "score": 0.60133666,
+      "title": "Frontiers | Beyond Neuronal Heat Sensing: Diversity of TRPV1 Heat-Capsaicin Receptor-Channel Functions",
+      "url": "https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2020.612480/full"
+    },
+    {
+      "id": "f149644c-d466-4caf-bacb-b2e7290a8c0e",
+      "score": 0.5914643,
+      "title": "TRPV1 corneal neuralgia mutation: Enhanced pH ...",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2406186121"
+    },
+    {
+      "id": "55deabec-2494-40e6-b497-6b3f655054af",
+      "score": 0.5900477,
+      "title": "Expression and localization of TRPV1 in human nasal ...",
+      "url": "https://www.rhinologyjournal.com/Rhinology_issues/565.pdf"
+    },
+    {
+      "id": "0bc3714c-3dc2-48a3-8470-4037724033b3",
+      "score": 0.58919704,
+      "title": "Optimized flow cytometric detection of transient receptor ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9046313/"
+    },
+    {
+      "id": "3bd0d3e0-3b99-4e59-aa62-0ae0b0aa1609",
+      "score": 0.5874941,
+      "title": "Increased TRPV1 gene expression in esophageal mucosa of patients with non-erosive and erosive reflux disease - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20456759/"
+    },
+    {
+      "id": "bcdfc403-742c-4403-a649-ce2d029dd55d",
+      "score": 0.5674818,
+      "title": "Metabolic shifts during fruit development in pungent and ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0308814621028569"
+    },
+    {
+      "id": "eebb15fe-ab49-4208-af37-5559167416d2",
+      "score": 0.56661874,
+      "title": "Entry - *602076 - TRANSIENT RECEPTOR POTENTIAL ...",
+      "url": "https://www.omim.org/entry/602076"
+    },
+    {
+      "id": "20bc7a43-347a-4b87-b8a0-bd0a603d9915",
+      "score": 0.5654673,
+      "title": "Estrogen-dependent regulation of transient receptor potential vanilloid 1 (TRPV1) and P2X purinoceptor 3 (P2X3): Implication in burning mouth syndrome - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35028015/"
+    },
+    {
+      "id": "5e24b1c0-2922-4ea0-bf92-ec4fa3f13261",
+      "score": 0.5617203,
+      "title": "Trigeminal Response to Odors | SpringerLink",
+      "url": "https://link.springer.com/chapter/10.1007/978-1-4684-6760-4_62"
+    },
+    {
+      "id": "a782e1a2-e889-4cdc-aba5-7bbc27c328ac",
+      "score": 0.5524679,
+      "title": "Activation of TRPV1 Mediates Calcitonin Gene-Related ...",
+      "url": "https://www.jneurosci.org/content/29/15/4981"
+    },
+    {
+      "id": "e0c11262-4737-4d41-9ee5-f3e50514fc9b",
+      "score": 0.5521781,
+      "title": "Accumulation of Capsaicin in Seed, Pericarp and Placenta ...",
+      "url": "https://www.researchgate.net/publication/257287470_Accumulation_of_Capsaicin_in_Seed_Pericarp_and_Placenta_of_Capsicum_annuum_L_Fruit"
+    },
+    {
+      "id": "46155c32-6b40-47bd-a8f6-6ec61a074444",
+      "score": 0.5510187,
+      "title": "Investigating Mechanically Activated Currents from ...",
+      "url": "https://www.eneuro.org/content/12/5/ENEURO.0054-25.2025"
+    },
+    {
+      "id": "1b5e3358-4ac2-40b2-a190-5329dfee76b9",
+      "score": 0.52627033,
+      "title": "TRPV1 Gene - GeneCards | TRPV1 Protein | TRPV1 Antibody",
+      "url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TRPV1"
+    },
+    {
+      "id": "e74861d7-dd31-4398-89eb-6d07840c0ce7",
+      "score": 0.522617,
+      "title": "Epithelial TRPV1 channels: Expression, function, and pathogenicity in the oral cavity - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32544616/"
+    },
+    {
+      "id": "591af5ad-176c-4bdf-b8b8-c8bed636d6f0",
+      "score": 0.52203226,
+      "title": "Cranial Nerve Testing - StatPearls - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+    },
+    {
+      "id": "13b88a4d-cca7-469f-b6d8-e5016b414180",
+      "score": 0.5142789,
+      "title": "Expression, Distribution and Function of the Transient ...",
+      "url": "https://www.mdpi.com/1422-0067/26/7/3104"
+    },
+    {
+      "id": "f140f60a-c49d-48eb-8aa5-10b516d2156a",
+      "score": 0.5054935,
+      "title": "Substance P/Neurokinin 1 and Trigeminal System",
+      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2017.00082/full"
+    },
+    {
+      "id": "87aca55f-96dc-4953-bd7b-a0ce2203c85c",
+      "score": 0.49465415,
+      "title": "The Influence of Different Factors on the Metabolism of Capsaicinoids in Pepper (Capsicum annuum L.) - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11511365/"
+    },
+    {
+      "id": "b956e5eb-d7fd-46dc-976e-d8e9b4d1494f",
+      "score": 0.49113917,
+      "title": "Unusual Pungency from Extra-Virgin Olive Oil Is ...",
+      "url": "https://www.jneurosci.org/content/31/3/999"
+    },
+    {
+      "id": "13210206-e29c-465f-b2a0-6ca9b9edfadd",
+      "score": 0.4889428,
+      "title": "The triple function of the capsaicin-sensitive sensory neurons: In memoriam J\u00e1nos Szolcs\u00e1nyi.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38059854/"
+    },
+    {
+      "id": "17c34531-2813-44bc-81fc-6fc5d4eea790",
+      "score": 0.48718598,
+      "title": "Upregulation of extraneuronal TRPV1 expression in chronic rhinosinusitis with nasal polyps - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29476616/"
+    },
+    {
+      "id": "e46430f3-bef2-4471-b4ae-a1e7bc8932fc",
+      "score": 0.48572227,
+      "title": "Frontiers | The Mysteries of Capsaicin-Sensitive Afferents",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.554195/full"
+    },
+    {
+      "id": "4ae7824f-2912-4581-a91e-b83f17c2dd16",
+      "score": 0.4767995,
+      "title": "The CaABCG14 transporter gene regulates the capsaicin ...",
+      "url": "https://www.researchgate.net/publication/384405507_The_CaABCG14_transporter_gene_regulates_the_capsaicin_accumulation_in_Pepper_septum"
+    },
+    {
+      "id": "4d1739f0-c75e-4e03-b098-42bc26f8f6a8",
+      "score": 0.4703723,
+      "title": "Research trends and frontier hotspots of TRPV1 based on ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2405844024001841"
+    },
+    {
+      "id": "d29e6afe-9ef8-4cf7-9520-0562d26d70b1",
+      "score": 0.46614134,
+      "title": "[Breastfeeding and potential sensory imprinting].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29947853/"
+    },
+    {
+      "id": "31125144-dea5-4961-bad1-48fab15d15d7",
+      "score": 0.44695392,
+      "title": "Capsaicinoid Content in the Pericarp and Placenta of ...",
+      "url": "https://www.mdpi.com/2073-4395/13/2/435"
+    },
+    {
+      "id": "663b07a6-3077-4f0d-8901-51e7319f45de",
+      "score": 0.44434834,
+      "title": "TRPV1 Channels in the Central Nervous System as Drug Targets",
+      "url": "https://www.mdpi.com/1424-8247/17/6/756"
+    },
+    {
+      "id": "6e422596-b1f2-4d3d-820f-ce087140f629",
+      "score": 0.4423239,
+      "title": "Role of transient receptor potential vanilloid type 1 in the trigeminal ganglion and brain stem following dental pulp inflammation - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31411737/"
+    },
+    {
+      "id": "f0af803a-62b6-41e5-9956-89d33478b687",
+      "score": 0.43799233,
+      "title": "Effects of GABA receptor antagonist on trigeminal caudalis nociceptive neurons in normal and neonatally capsaicin-treated rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10561395/"
+    },
+    {
+      "id": "19c2df58-e486-4ed6-94d2-5cd5f3aa27c7",
+      "score": 0.40952834,
+      "title": "Trpv1 transient receptor potential cation channel, subfamily V, member 1 [Mus musculus (house mouse)] - Gene - NCBI",
+      "url": "https://www.ncbi.nlm.nih.gov/gene/193034"
+    },
+    {
+      "id": "a8203774-9279-4f9c-a05c-50e21d3bc9e7",
+      "score": 0.4059909,
+      "title": "The effects of neonatal capsaicin administration on ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/000689939191597T"
+    },
+    {
+      "id": "8b03b0a4-9d3e-4e7e-9300-3e3000f4522c",
+      "score": 0.40570828,
+      "title": "Tissue expression of TRPV2 - Summary - The Human Protein Atlas",
+      "url": "https://www.proteinatlas.org/ENSG00000187688-TRPV2/tissue"
+    },
+    {
+      "id": "049b170c-86d9-4a0e-b3c6-320690763c05",
+      "score": 0.40161797,
+      "title": "TRPV1 Receptors in the CNS Play a Key Role in Broad-Spectrum Analgesia of TRPV1 Antagonists - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6674601/"
+    },
+    {
+      "id": "167815d2-f404-44d3-be9a-9555ec70943f",
+      "score": 0.39480802,
+      "title": "TRP Channels at the Periphery of the Taste and Trigeminal Systems - Neurobiology of TRP Channels - NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK476105/"
+    },
+    {
+      "id": "da8c6025-b51d-4c22-baf6-97cc8300fef6",
+      "score": 0.39389837,
+      "title": "Thermal stimulation of TRPV1 up-regulates TNF\u03b1 ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0003996913000150"
+    },
+    {
+      "id": "ee34ef84-3f5f-4dab-80aa-cfd86ad11e47",
+      "score": 0.39117387,
+      "title": "The human nasal response to capsaicin - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7798536/"
+    },
+    {
+      "id": "bc211efb-3088-4386-892d-5c429fad7578",
+      "score": 0.37710527,
+      "title": "Gastrointestinal absorption and metabolism of capsaicin and dihydrocapsaicin in rats - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6710495/"
+    },
+    {
+      "id": "c8e9fe28-b704-4da6-a93a-4e0c15698fea",
+      "score": 0.36956587,
+      "title": "Sudden Infant Death Syndrome \u2013 Role of Trigeminocardiac ...",
+      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2016.00221/full"
+    },
+    {
+      "id": "c8c1316b-99a5-49ba-949f-691c8a987977",
+      "score": 0.36854258,
+      "title": "Influence of Capsaicin Supplementation on the ...",
+      "url": "https://www.mdpi.com/2076-2615/15/12/1676"
+    },
+    {
+      "id": "a3583af6-0bd1-49d1-adc7-53633e280ea7",
+      "score": 0.36786106,
+      "title": "How Babies Experience Flavors in the Womb? Fetal Development and Taste",
+      "url": "https://www.youtube.com/watch?v=6v6D8j_2zt8"
+    },
+    {
+      "id": "6870dd4d-0526-470a-9e55-243738f7ad79",
+      "score": 0.35925227,
+      "title": "Increased expression of TRPV1 in the trigeminal ganglion is involved in orofacial pain during experimental tooth movement in rats - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25407056/"
+    },
+    {
+      "id": "011fd2d4-35fe-43f5-a12f-30e13084579f",
+      "score": 0.35541737,
+      "title": "Overexpression of artemin in the tongue increases ...",
+      "url": "https://www.researchgate.net/publication/51426242_Overexpression_of_artemin_in_the_tongue_increases_expression_of_TRPV1_and_TRPA1_in_trigeminal_afferents_and_causes_oral_sensitivity_to_capsaicin_and_mustard_oil"
+    },
+    {
+      "id": "62e1f7f2-f24a-42d0-81ee-e4b7effc0bd8",
+      "score": 0.3542772,
+      "title": "Endogenous inhibition of the trigeminally evoked neurotransmission to cardiac vagal neurons by muscarinic acetylcholine receptors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20719927/"
+    },
+    {
+      "id": "29e32655-8f65-4220-a18b-3c11d7476e18",
+      "score": 0.35106683,
+      "title": "Congenital trigeminal anaesthesia: a rare preventable cause of visual loss in children - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3391402/"
+    },
+    {
+      "id": "e363fb39-c062-44d7-b207-fc273c18e66f",
+      "score": 0.35059974,
+      "title": "Effect of capsaicin on learning, retention and extinction of spatial and active avoidance tasks in adult rats neonatally treated - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8580735/"
+    },
+    {
+      "id": "0094ec2b-e965-42a5-8a07-d24432a10b6e",
+      "score": 0.34800282,
+      "title": "Effect of capsaicin and resiniferatoxin on peptidergic neurons in cultured dorsal root ganglion - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0167011592905342"
+    },
+    {
+      "id": "3daf3c53-061f-4fe4-81c8-b9a4f24231c6",
+      "score": 0.34720555,
+      "title": "TRPV1 - transient receptor potential cation channel subfamily V member 1 (human)",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/gene/TRPV1/human"
+    },
+    {
+      "id": "8ccb2031-5e22-41bd-b84c-58f50a5dc2cd",
+      "score": 0.33855858,
+      "title": "Nitrate Promotes Capsaicin Accumulation in Capsicum ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4331322/"
+    },
+    {
+      "id": "2f21c362-c3ac-43d4-bb2e-21c4ac91d6ef",
+      "score": 0.3373132,
+      "title": "Effect of neonatal capsaicin treatment on neurogenic pulmonary edema from fluid-percussion brain injury in the adult rat - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7680709/"
+    },
+    {
+      "id": "1936b335-fa8c-49e0-8765-c16ee3668f34",
+      "score": 0.33718222,
+      "title": "Expression heatmaps of the pepper capsaicin metabolic ...",
+      "url": "https://www.researchgate.net/figure/Expression-heatmaps-of-the-pepper-capsaicin-metabolic-genes-in-placenta-tissue-and_fig5_360990173"
+    },
+    {
+      "id": "82934818-2f76-46b5-9cbf-e854e0233809",
+      "score": 0.328433,
+      "title": "Neurological Exam for Children",
+      "url": "https://www.nationwidechildrens.org/conditions/health-library/neurological-exam-for-children"
+    },
+    {
+      "id": "773a7039-7217-46aa-bba3-521d47431775",
+      "score": 0.32730317,
+      "title": "Trigeminal Nerve Injury - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/trigeminal-nerve-injury"
+    },
+    {
+      "id": "e86ac777-c80b-4858-a636-cb204853890a",
+      "score": 0.32588568,
+      "title": "Capsicum - Cargo Handbook - the world's largest cargo transport guidelines website",
+      "url": "https://www.cargohandbook.com/Capsicum"
+    },
+    {
+      "id": "9d892b29-76c6-462b-8fd9-2b8764976a38",
+      "score": 0.31116566,
+      "title": "Immediate sensory nerve-mediated respiratory responses to ...",
+      "url": "https://journals.physiology.org/doi/10.1152/japplphysiol.00572.2002"
+    },
+    {
+      "id": "a710a377-230b-4c92-9c54-867cf3847cd8",
+      "score": 0.31097728,
+      "title": "Developmental Toxicity Study of Pure trans-Capsaicin in Rats ...",
+      "url": "https://journals.sagepub.com/doi/pdf/10.1080/10915810600683317"
+    },
+    {
+      "id": "aafd3ebc-9b86-4937-85ff-2c02007e007f",
+      "score": 0.30250487,
+      "title": "A quantitative study of the effects of neonatal capsaicin treatment and of subsequent peripheral nerve transection in the adult rat - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3801858/"
+    },
+    {
+      "id": "98e36d16-37b5-455c-88cc-1be9ad45d746",
+      "score": 0.29431686,
+      "title": "Trigeminal activation using chemical, electrical, and mechanical stimuli - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S030439590800242X"
+    },
+    {
+      "id": "ad5e6d52-d3ea-45c6-93e0-0841358256c1",
+      "score": 0.28463116,
+      "title": "The role of transient receptor potential vanilloid 1 (TRPV1) ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1991790225000042"
+    },
+    {
+      "id": "4ae6cd76-c3a3-4fe1-98ac-62fa383dfb37",
+      "score": 0.27416962,
+      "title": "Capsaicin Mitigates Reverb\u03b1-Involved Lipid Metabolism Disorder in HepG2 Cells and Obese Mice through a Trpv1-Dependent Mechanism | Journal of Agricultural and Food Chemistry",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.jafc.5c01231"
+    },
+    {
+      "id": "a4b9c891-3066-4d47-a3bb-4d132ef10cd9",
+      "score": 0.26983953,
+      "title": "TRPV1 Recapitulates Native Capsaicin Receptor in ...",
+      "url": "https://www.jneurosci.org/content/26/9/2403"
+    },
+    {
+      "id": "6be5f5bc-373a-432d-98c1-016b181238ae",
+      "score": 0.26934853,
+      "title": "Epithelial TRPV1 channels: Expression, function, and pathogenicity in the oral cavity - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1349007920300554"
+    },
+    {
+      "id": "dde4daff-4814-4328-9014-3608bef248be",
+      "score": 0.2657082,
+      "title": "Maternal sucrose consumption alters steroid levels in the mother, placenta and fetus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39873388/"
+    },
+    {
+      "id": "49d2f8cb-965f-42f4-ab6f-ef5fac23dfac",
+      "score": 0.2630907,
+      "title": "TRPV1 regulates inflammatory process in the tongue of surgically induced xerostomia mouse - Yoo - 2020 - Head & Neck - Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/hed.25980"
+    },
+    {
+      "id": "525d9116-bc2e-4913-a36a-cfa530ccc38d",
+      "score": 0.26305166,
+      "title": "Understand spiciness: mechanism of TRPV1 channel activation by capsaicin | Protein & Cell | Oxford Academic",
+      "url": "https://academic.oup.com/proteincell/article/8/3/169/6769765"
+    },
+    {
+      "id": "0db83ae6-b76c-44f9-bebe-741a5eb5c0dc",
+      "score": 0.2515654,
+      "title": "The effects of capsaicin on intestinal sodium and fluid transport - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7277177/"
+    },
+    {
+      "id": "918d998f-4f7b-46ba-9534-8d900c23a182",
+      "score": 0.25056008,
+      "title": "Maternal Nutrition on Fetal Health",
+      "url": "https://www.youtube.com/watch?v=g80Oe2XX0Tk"
+    },
+    {
+      "id": "fc719595-a0c6-4c81-8d19-efafd49c7b77",
+      "score": 0.24811992,
+      "title": "Botulinum Neurotoxin Chimeras Suppress Stimulation by Capsaicin of Rat Trigeminal Sensory Neurons In Vivo and In Vitro.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35202143/"
+    },
+    {
+      "id": "655143b7-1056-4db4-bfc6-51860f60f08c",
+      "score": 0.24670158,
+      "title": "Nordihydrocapsaicin - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/nordihydrocapsaicin"
+    },
+    {
+      "id": "ba01eb07-dd1c-4beb-afd3-cbb1eecd0503",
+      "score": 0.24659275,
+      "title": "Human and mouse trigeminal ganglia cell atlas implicates ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0896627322002288"
+    },
+    {
+      "id": "98188fce-3b6e-45bd-9e15-b6f5f6493375",
+      "score": 0.2417672,
+      "title": "Capsaicin-induced inhibition of mitogen and interleukin-2-stimulated T cell proliferation: its reversal by in vivo substance P administration - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0165572896000811"
+    },
+    {
+      "id": "a13ad247-bc25-42f2-857b-6564ff61ba66",
+      "score": 0.22939746,
+      "title": "Effects of prenatal capsaicin treatment on fetal spontaneous activity, opiate receptor binding, and acid phosphatase in the spinal cord - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0014488682902102"
+    },
+    {
+      "id": "1d4e5c84-bde2-44e4-ac1e-55ca8bd76f1a",
+      "score": 0.22661284,
+      "title": "Dissection of Metabolome and Transcriptome\u2014Insights ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11276673/"
+    },
+    {
+      "id": "4ab5a18f-ac41-4c63-b349-93938436704e",
+      "score": 0.22581796,
+      "title": "Capsaicin protects cardiomyocytes against lipopolysaccharide-induced damage via 14-3-3\u03b3-mediated autophagy augmentation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33986684/"
+    },
+    {
+      "id": "14902ad8-28c8-4520-876e-751ee74591a0",
+      "score": 0.21840292,
+      "title": "Peripheral neuroplasticity of respiratory chemoreflexes, induced by prenatal nicotinic exposure: Implication for SIDS.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37019251/"
+    },
+    {
+      "id": "5cb4aceb-3410-4b1a-9754-a5030904fe2f",
+      "score": 0.20740767,
+      "title": "In vitro simulation of placental transport: part II. Glucose transfer across the placental barrier model - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23764138/"
+    },
+    {
+      "id": "118be8f5-5b0e-4783-bab3-da3747f6c733",
+      "score": 0.200793,
+      "title": "Bipartite Activation of Sensory Neurons by a TRPA1 Agonist Allyl Isothiocyanate Is Reflected by Complex Ca Influx and CGRP Release Patterns: Enhancement by NGF and Inhibition with VAMP and SNAP-25 Cleaving Botulinum Neurotoxins.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36674850/"
+    },
+    {
+      "id": "8611a3a9-7be1-4765-bae6-2105a3b1b203",
+      "score": 0.19821969,
+      "title": "Have we neglected the role of fetal endothelium in transplacental transport? - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24127903/"
+    },
+    {
+      "id": "a81bf9c6-662b-4770-ab01-143af12dfd74",
+      "score": 0.19282834,
+      "title": "Metabolism and transport of maternal serine by the ovine placenta: glycine production and absence of serine transport into the fetus - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8378117/?dopt=Abstract"
+    },
+    {
+      "id": "ac8a51a7-d453-411a-b336-f0e8359232b1",
+      "score": 0.18665813,
+      "title": "Effect of drug efflux transporters on placental transport of antiretroviral agent abacavir - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26169552/"
+    },
+    {
+      "id": "13575993-5bda-42a3-95b5-7fc9e2334c32",
+      "score": 0.18172778,
+      "title": "Ultrastructural evidence of transplacental transport of immunoglobulin G in bitches - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10864795/"
+    },
+    {
+      "id": "b88b6312-c89f-4fa5-82d2-5ce57e369b26",
+      "score": 0.17372264,
+      "title": "Early exposure to farm dust in an allergic airway inflammation rabbit model: Does it affect bronchial and cough hyperresponsiveness?",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279498"
+    },
+    {
+      "id": "6f7cf31d-444e-48ef-9d6b-61288dc66748",
+      "score": 0.16963993,
+      "title": "The effects of neonatal capsaicin treatment on growth and subsequent reproductive function in the rat - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6493363/"
+    },
+    {
+      "id": "b27f1713-86da-4f49-a138-2a93ecb1563c",
+      "score": 0.16297895,
+      "title": "Transplacental transport of IgG antibodies specific for pertussis, diphtheria, tetanus, haemophilus influenzae type b, and Neisseria meningitidis serogroup C is lower in preterm compared with term infants - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20803841/"
+    },
+    {
+      "id": "2880196a-40e7-4988-a3ce-01634b7163fb",
+      "score": 0.1621812,
+      "title": "TRPV1 transient receptor potential cation channel subfamily V member 1 [Homo sapiens (human)] - Gene - NCBI",
+      "url": "https://www.ncbi.nlm.nih.gov/gene/7442"
+    },
+    {
+      "id": "aa1393fd-f665-498a-82a9-02d43642e722",
+      "score": 0.14872622,
+      "title": "Expression of Calcium Channels along the Differentiation of ...",
+      "url": "https://bioone.org/journalArticle/Download?fullDOI=10.1095%2Fbiolreprod.102.005397"
+    },
+    {
+      "id": "95d25121-4c9b-4bb9-a3f6-85f1cb656b97",
+      "score": 0.14636794,
+      "title": "[Transcript] \u2013 The Ultimate Guide To Quelling Inflammation: Why Your Curcumin May Not Work, Surprising Effects Of Ginger Oil, Vegan Fish Oil Options & Much More!",
+      "url": "https://bengreenfieldfitness.com/transcripts/transcript-recovery-podcasts-the-thomas-delauer-podcast/"
+    },
+    {
+      "id": "231a4a83-1068-4304-96ec-f381a230730f",
+      "score": 0.14476466,
+      "title": "Aging interventions from older publications that deserve a new look",
+      "url": "https://srconstantin.posthaven.com/aging-interventions-from-older-publications-that-deserve-a-new-look"
+    },
+    {
+      "id": "4a4c91a8-5bea-4579-8caa-3f6eff6b8f02",
+      "score": 0.13976023,
+      "title": "The Molecular Biology of Placental Transport of Calcium to ...",
+      "url": "https://www.mdpi.com/1422-0067/26/1/383"
+    },
+    {
+      "id": "ca5d3be9-dd0e-4ed7-b39f-af921bb94930",
+      "score": 0.11993307,
+      "title": "Nerves in cancer",
+      "url": "https://www.nature.com/articles/s41568-019-0237-2?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nrc%2Frss%2Fcurrent+%28Nature+Reviews+Cancer+-+Issue%29"
+    },
+    {
+      "id": "999d4f8a-0a54-448d-adb0-c7168f242ef8",
+      "score": 0.10782225,
+      "title": "Pediatric Neurologic Examination Videos & Descriptions: Newborn &gt; Normal",
+      "url": "https://neurologicexam.med.utah.edu/pediatric/html/newborn_n.html"
+    },
+    {
+      "id": "5c62179c-03cc-401f-b7c1-4026d5396a97",
+      "score": 0.10481607,
+      "title": "Capsaicin: Emerging Pharmacological and Therapeutic Insights",
+      "url": "https://www.mdpi.com/1467-3045/46/8/468"
+    },
+    {
+      "id": "86eb7c96-86f0-4f1e-99bb-e78652d87fd0",
+      "score": 0.10071066,
+      "title": "Transplacental nutrient transfer in the human in vivo determined by 4 vessel sampling - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28411942/"
+    },
+    {
+      "id": "472f214a-dcff-461e-b140-287c201e23e1",
+      "score": 0.09912977,
+      "title": "Effects of Capsaicin and Capsaicin Desensitization on Alanine Accumulation in Rat Hemidiaphragms - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306362397003911"
+    },
+    {
+      "id": "e9ddbed4-7b1c-4f64-be87-3697b46ccb3d",
+      "score": 0.09736483,
+      "title": "The Role of Capsaicin in Spontaneous Pacemaking Activity in Gastrointestinal Tract - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2912112/"
+    },
+    {
+      "id": "b5c9234b-434c-4f93-b5e5-a90f855176d8",
+      "score": 0.09381922,
+      "title": "Nasal receptors responding to noxious chemical irritants - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/003456879490104X"
+    },
+    {
+      "id": "8a56c53b-ff64-441f-a7fd-2fa0bc118f2c",
+      "score": 0.085870296,
+      "title": "TRPV1 protein expression summary - The Human Protein Atlas",
+      "url": "https://www.proteinatlas.org/ENSG00000196689-TRPV1"
+    },
+    {
+      "id": "99478a46-d489-42e8-8583-11974231734a",
+      "score": 0.07578307,
+      "title": "Neonatal sensory nerve injury-induced synaptic plasticity in the trigeminal principal sensory nucleus - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0014488615001454"
+    },
+    {
+      "id": "20c49213-1256-4590-b3b7-b4e130b3af6f",
+      "score": 0.07456104,
+      "title": "Effect of Advillin Knockout on Diabetic Neuropathy Induced by Multiple Low Doses of Streptozotocin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39670415/"
+    },
+    {
+      "id": "3715c5d7-09d9-405e-94cd-43c15e83f22f",
+      "score": 0.07407731,
+      "title": "The CaABCG14 transporter gene regulates the capsaicin ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0141813024069319"
+    },
+    {
+      "id": "f64a539b-0d22-42be-8321-9d8114b80a09",
+      "score": 0.056262378,
+      "title": "Estimation of Dietary Capsaicinoid Exposure in Korea and Assessment of Its Health Effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34371974/"
+    },
+    {
+      "id": "be60196b-678b-422f-a7b7-5d569915bb49",
+      "score": 0.043793272,
+      "title": "PAR2-dependent phosphorylation of TRPV4 at the trigeminal nerve terminals contributes to tongue cancer pain - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1349007923001317"
+    }
+  ]
+}

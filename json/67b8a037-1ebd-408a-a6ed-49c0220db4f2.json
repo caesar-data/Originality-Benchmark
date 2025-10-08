@@ -1,0 +1,291 @@
+{
+  "id": "67b8a037-1ebd-408a-a6ed-49c0220db4f2",
+  "status": "completed",
+  "content": "TRUE.\n\nThe claim that more than 1300 varieties of potato are grown in the Andes Mountains is factually correct. The provided research indicates the number is substantially higher, with a strong consensus among multiple sources, including the International Potato Center (CIP), placing the figure at 4,000 or more native varieties.\n\n## Quantitative Evidence for Andean Potato Diversity\n\nEstimates for the total number of potato varieties originating and cultivated in the Andean region consistently exceed 1,300, with most figures ranging from 3,000 to over 5,000.\n\n*   **General Estimates**: Numerous sources state there are over 4,000 edible and native potato varieties, with the majority found in the Andes[1][2][3]. These varieties were developed over centuries in the Andean highlands of Peru, Bolivia, and Ecuador at altitudes between 3,500 and 4,200 meters[1][4][5]. Some estimates place the number of native potato landraces cultivated in the Andes at approximately 4,000[6][7][8][9]. The lowest figure cited is still well above the claim, stating there are at least 2,000 varieties of Andean potatoes[10].\n\n*   **Higher-Range Estimates**: Several sources suggest even greater diversity. The International Potato Center (CIP) has noted that the Andean region is home to more than 4,500 potato landraces[11][12]. Other sources cite more than 4,800 edible varieties worldwide, with the highest concentration in the Andes[13]. Globally, there are around 5,000 potato varieties, with 3,000 of them located in the Andes alone[14][15].\n\n*   **Country-Specific Data (Peru)**: Peru, as a center of origin for the potato, exemplifies this diversity. Sources report that Peru alone is home to more than 3,000[16], over 3,500[17], over 4,000[18][19][20][21], and even more than 5,000 varieties[22]. The National Institute of Agricultural Innovation (INIA) in Peru has registered 6,408 varieties of native potatoes[17].\n\n### Data from the International Potato Center (CIP) Genebank\n\nThe International Potato Center (CIP), headquartered in Peru, is the primary repository for potato genetic resources and provides specific figures on its collection, which consists mainly of Andean varieties.\n\n*   **Total Accessions**: As of February 2021, the CIP genebank held 7,466 cultivated and wild potato accessions[6][7]. Of these, 4,870 are cultivated[6][7]. Another report specifies the active cultivated potato collection totals 5,205 accessions, which includes 4,797 traditional landrace cultivars from 18 countries, primarily in the Andean region[23].\n\n*   **Landrace Holdings**: The number of active landraces in the CIP collection is 4,467[6][7]. The CIP's cryobank holds 4,086 accessions, of which 3,757 (92%) are landraces collected from Andean countries[24][25]. Peru is the origin for 61% of these cryopreserved landraces, followed by Bolivia (11%), Ecuador (8%), and Colombia (6%)[24][25].",
+  "transformed_content": "TRUE",
+  "results": [
+    {
+      "id": "3d678ea2-9244-4788-91e0-251ba8c2c1a5",
+      "score": 0.9057319,
+      "title": "Native Potato Varieties",
+      "url": "https://cipotato.org/potato/",
+      "citation_index": 1
+    },
+    {
+      "id": "68196b9e-b5b1-4784-876d-4bca62b3b1db",
+      "score": 0.8997663,
+      "title": "Peruvian potatoes come in unique shapes and colors",
+      "url": "https://www.facebook.com/groups/325453851845939/posts/1102875650770418/",
+      "citation_index": 2
+    },
+    {
+      "id": "2c8c5718-3808-4ec6-9387-8f6419745986",
+      "score": 0.8976328,
+      "title": "Potato Facts and Figures - International Potato Center",
+      "url": "https://cipotato.org/potato/potato-facts-and-figures/",
+      "citation_index": 3
+    },
+    {
+      "id": "b33e4490-b9aa-44e8-bf8a-826db7efa9fa",
+      "score": 0.8706085,
+      "title": "native and wild | The Potato Museum",
+      "url": "https://potatomuseum.com/native-and-wild",
+      "citation_index": 4
+    },
+    {
+      "id": "8c6e8969-8a7f-4835-bce3-efc0641c1a82",
+      "score": 0.8690161,
+      "title": "Native Potato Varieties - International Potato Center",
+      "url": "https://cipotato.org/potato/native-potato-varieties/",
+      "citation_index": 5
+    },
+    {
+      "id": "afce969b-2c3a-473b-8eb0-00009a07ef9e",
+      "score": 0.8763069,
+      "title": "Dynamic guardianship of potato landraces by Andean ...",
+      "url": "https://cabiagbio.biomedcentral.com/articles/10.1186/s43170-021-00065-4",
+      "citation_index": 6
+    },
+    {
+      "id": "0d4ba888-a11a-4457-8123-1423b7c17c66",
+      "score": 0.8877607,
+      "title": "Dynamic guardianship of potato landraces by Andean ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8626715/",
+      "citation_index": 7
+    },
+    {
+      "id": "bf3500ec-9888-44c2-9fe4-216d04917981",
+      "score": 0.8405867,
+      "title": "Potatoes \u2013 the real treasure of the Incas . . . | A balanced diet . . .",
+      "url": "https://mikejackson1948.blog/2012/02/18/potatoes-the-real-treasure-of-the-incas/",
+      "citation_index": 8
+    },
+    {
+      "id": "e44eb735-d0a6-4b5c-a0ee-c33eb817cb1e",
+      "score": 0.7931224,
+      "title": "The Power of Andean Potatoes \u2013 Dr. Roseanne Chambers",
+      "url": "https://roseannechambers.com/the-power-of-andean-potatoes/",
+      "citation_index": 9
+    },
+    {
+      "id": "5812ba65-dbc9-4a78-af2d-19342cb8d74f",
+      "score": 0.8593928,
+      "title": "Andean Potatoes (Solanum tuberosum group andigenum) \u2013 Cultivariable",
+      "url": "https://www.cultivariable.com/instructions/potatoes/how-to-grow-andean-potatoes/",
+      "citation_index": 10
+    },
+    {
+      "id": "dca63d29-da3a-4418-be60-a7f84e0af3d5",
+      "score": 0.6301622,
+      "title": "Putting the world\u2019s largest potato collection in the deep freeze - International Potato Center",
+      "url": "https://cipotato.org/cip-50/potato-collection/",
+      "citation_index": 11
+    },
+    {
+      "id": "61491682-440c-41cd-8518-9cec81349ef1",
+      "score": 0.6301622,
+      "title": "Putting the world's largest potato collection in the deep freeze",
+      "url": "https://cipotato.org/cip-50/features/potato-collection/",
+      "citation_index": 12
+    },
+    {
+      "id": "ce8f63c9-ba92-4746-8732-52a6284ef15c",
+      "score": 0.843393,
+      "title": "About Potato Varieties",
+      "url": "https://www.potatopro.com/about/potato-varieties",
+      "citation_index": 13
+    },
+    {
+      "id": "ffd591bd-e805-4aac-a11a-56e6f44aedcd",
+      "score": 0.8624794,
+      "title": "Potato - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Potato",
+      "citation_index": 14
+    },
+    {
+      "id": "70c85368-e5f1-4502-be65-eca794cb534c",
+      "score": 0.8399576,
+      "title": "History of the Potato \u2013 PA Co-Operative Potato Growers",
+      "url": "https://pacooppotatoes.com/about-potatoes/history-of-the-potato/",
+      "citation_index": 15
+    },
+    {
+      "id": "4fb6a506-644b-4f8a-9918-981ef282e10f",
+      "score": 0.69498676,
+      "title": "Standards and heritage of native potatoes in Peru",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/07409710.2022.2089826",
+      "citation_index": 16
+    },
+    {
+      "id": "19d4b33d-bccc-4a50-be3f-20583b154058",
+      "score": 0.8232293,
+      "title": "National Potato Day: Peru has over 3,500 varieties of this Andean tuber | News | ANDINA - Peru News Agency",
+      "url": "https://andina.pe/ingles/noticia-national-potato-day-peru-has-over-3500-varieties-of-this-andean-tuber-753949.aspx",
+      "citation_index": 17
+    },
+    {
+      "id": "73b22b03-d483-4469-baec-4a89dd1b41e1",
+      "score": 0.8080827,
+      "title": "The fascinating history behind Peru's humble potato",
+      "url": "https://www.trafalgar.com/real-word/peruvian-potatoes/",
+      "citation_index": 18
+    },
+    {
+      "id": "993164a9-05c4-4a45-81ed-8f650717865d",
+      "score": 0.7771143,
+      "title": "Varieties of Peruvian potatoes: Discover a World of Colors, Shapes, and Flavors | TreXperience",
+      "url": "https://trexperienceperu.com/blog/peruvian-potatoes-variety",
+      "citation_index": 19
+    },
+    {
+      "id": "fbe774a5-9be9-4df7-8abd-3a378d96f405",
+      "score": 0.7140107,
+      "title": "A Guide to Peruvian Potato Varieties and Their Origins in the Andes - K'anchay Peru Travel",
+      "url": "https://kanchayperutravel.com/peru-potatoes/",
+      "citation_index": 20
+    },
+    {
+      "id": "0b744ba2-e354-4d68-837e-41990a251971",
+      "score": 0.6954834,
+      "title": "A Guide To Peruvian Potatoes - Aracari Travel",
+      "url": "https://www.aracari.com/blog/stories/a-guide-to-peruvian-potatoes/",
+      "citation_index": 21
+    },
+    {
+      "id": "ec4a32b1-8f37-4263-8445-80b9fa9c6e3f",
+      "score": 0.21255913,
+      "title": "Biodiversity - International Potato Center",
+      "url": "https://cipotato.org/science-goals/biodiversity/",
+      "citation_index": 22
+    },
+    {
+      "id": "d53592d4-9044-4e11-ab25-0546fcf334ff",
+      "score": 0.82186085,
+      "title": "Cultivated Potato \u2013 CIP Genebank",
+      "url": "https://cipotato.org/genebankcip/potato-cultivated/",
+      "citation_index": 23
+    },
+    {
+      "id": "40805b82-9685-4a74-9d49-7afa109ab6f7",
+      "score": 0.8091708,
+      "title": "The world\u2019s largest potato cryobank at the International Potato Center (CIP) \u2013 Status quo, protocol improvement through large-scale experiments and long-term viability monitoring - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9746984/",
+      "citation_index": 24
+    },
+    {
+      "id": "d7638fb0-62b8-4be2-b363-b2cd1a074a16",
+      "score": 0.74563974,
+      "title": "Frontiers | The world\u2019s largest potato cryobank at the International Potato Center (CIP) \u2013 Status quo, protocol improvement through large-scale experiments and long-term viability monitoring",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.1059817/full",
+      "citation_index": 25
+    },
+    {
+      "id": "16ec9a8a-5bad-4130-81ec-2c84790fcb14",
+      "score": 0.88444936,
+      "title": "Ex-post analysis of landraces sympatric to a commercial variety in the center of origin of the potato failed to detect gene flow - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4436675/"
+    },
+    {
+      "id": "49fa93dd-834b-442e-a0ed-c2657c3ec09b",
+      "score": 0.8805613,
+      "title": "Diversity of potato genetic resources - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4374561/"
+    },
+    {
+      "id": "9b8620cb-222b-428c-8e44-ea5b0d1fa2f4",
+      "score": 0.8706085,
+      "title": "The curative use of Potato in Andean history and heritage",
+      "url": "https://earthstoriez.com/the-curative-use-of-the-potato-in-andean-history-and-heritage"
+    },
+    {
+      "id": "c7454193-43bc-4713-af16-49559441f720",
+      "score": 0.86713725,
+      "title": "Potatoes: America\u2019s Leading Vegetable Crop \u2013 Grub Americana",
+      "url": "https://grubamericana.com/2023/05/19/potatoes-americas-leading-vegetable-crop/"
+    },
+    {
+      "id": "33f54194-5c70-4eb1-a072-861a8331d12a",
+      "score": 0.86108357,
+      "title": "#peru Today you can find over 4000 varieties of native ...",
+      "url": "https://www.facebook.com/SliceofLifemd/posts/peru-today-you-can-find-over-4000-varieties-of-native-potatoes-grown-in-the-ande/1270780081072804/"
+    },
+    {
+      "id": "88db7221-c379-4ae5-95d0-534b2ea046bc",
+      "score": 0.8380581,
+      "title": "The Innovation Chain - International Potato Center",
+      "url": "https://cipotato.org/imagineaworldwithoutpotatoes/"
+    },
+    {
+      "id": "232dcb4b-29c8-49bd-b22a-5446f4e37574",
+      "score": 0.8319231,
+      "title": "Dynamic guardianship of potato landraces by Andean communities and the genebank of the International Potato Center - CGIAR Research Program on Roots, Tubers and Bananas",
+      "url": "https://www.rtb.cgiar.org/publications/dynamic-guardianship-of-potato-landraces-by-andean-communities-and-the-genebank-of-the-international-potato-center/"
+    },
+    {
+      "id": "574850ea-9948-425f-abb2-69dc45a9ab12",
+      "score": 0.8116913,
+      "title": "The Guardians of the Potato: The future of potato biodiversity is in their hands \u2013 International Potato Center",
+      "url": "https://cipotato.org/media/guardians-potato-future-potato-biodiversity-hands/"
+    },
+    {
+      "id": "8bb2dbf1-5375-40f9-adee-a34902367cb2",
+      "score": 0.80698997,
+      "title": "Andean potato diversity conserved in the International Potato Center genebank helps develop agriculture in Uganda: the example of the variety \u2018Victoria\u2019 | Food Security",
+      "url": "https://link.springer.com/article/10.1007/s12571-020-01037-8"
+    },
+    {
+      "id": "c632a41a-8cef-493d-bb84-656dadee2226",
+      "score": 0.7769112,
+      "title": "Collection and Evaluation of Genetic Diversity and Population Structure of Potato Landraces and Varieties in China - PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393402/"
+    },
+    {
+      "id": "6ce7c9d0-49b3-4df8-bf8b-802333fb5d0c",
+      "score": 0.75442725,
+      "title": "A Study on the Biodiversity of Pigmented Andean Potatoes: Nutritional Profile and Phenolic Composition - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7397087/"
+    },
+    {
+      "id": "4ed4e5e9-39d8-4343-bc5a-0816b81f2f08",
+      "score": 0.7482976,
+      "title": "Partnership for biodiversity",
+      "url": "https://cipotato.org/outcomes/partnership-for-biodiversity/"
+    },
+    {
+      "id": "2f72545b-14bd-4024-bd8f-98941ff92947",
+      "score": 0.64585793,
+      "title": "Dave Ellis Talks Crop Conservation at the International Potato Center",
+      "url": "https://www.youtube.com/watch?v=Js6L8XIeOKg"
+    },
+    {
+      "id": "9a262279-b77a-4570-8262-cbe04ce1572e",
+      "score": 0.5081298,
+      "title": "Revival and Survival of Repatriated Potato Landraces in ...",
+      "url": "https://www.croptrust.org/news-events/news/revival-and-survival-of-repatriated-potato-landraces-in-the-andes/"
+    },
+    {
+      "id": "224e204d-c076-41bc-ba92-bc86d2bb62ca",
+      "score": 0.474023,
+      "title": "POTATO: A FRAGILE GIFT FROM THE ANDES",
+      "url": "https://grain.org/es/article/220-potato-a-fragile-gift-from-the-andes"
+    },
+    {
+      "id": "1e0edc42-130c-4902-9916-aff8f6180933",
+      "score": 0.38110495,
+      "title": "Science Bulletins: Potato Biodiversity\u2014Ensuring the Future",
+      "url": "https://www.youtube.com/watch?v=iUSd2ju5pzE"
+    },
+    {
+      "id": "3fb9640c-0808-4605-b7fa-755e47814069",
+      "score": 0.34099028,
+      "title": "Webinar #24 - Potato Landraces of the Canary Islands: History, Diversity, Origin of Potato in Europe",
+      "url": "https://www.youtube.com/watch?v=zzUoQ2QVJZs"
+    },
+    {
+      "id": "ef5be8c3-dbf3-490a-94a3-a0c8a375803a",
+      "score": 0.33056894,
+      "title": "The Peruvian Potato: Over 4,000 Varieties and Their Uses",
+      "url": "https://chifadukang.com/blog/peruvian-potato-varieties-and-their-uses/"
+    }
+  ]
+}
